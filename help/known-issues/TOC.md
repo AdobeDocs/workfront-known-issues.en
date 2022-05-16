@@ -8,14 +8,21 @@ user-guide-description: This is a description for the user guide that will be di
 
 + [Overview](overview.md)
 + [New file](newfile.md)
-+ [New Workfront experience][newexperience.md]
-+ [Workfront Fusion][workfrontfusion.md]
-+ [Workfront Goals][workfrontgoals.md]
-+ [Workfront Library][workfrontlibrary.md]
-+ [Workfront Mobile App][workfrontmobile.md]
-+ [Workfront Proof][workfrontproof.md]
-+ [Workfront Scenario Planner][workfrontscenarioplanner.md]
-
++ New Workfront experience {#new-workfront-experience}
+  + [New Workfront experience overview](newexperience.md)
+  + [Proofs show as "Generating proof" for excessive amounts of time](generating-proof-for-excessive-amounts-of-time.md)
++ Workfront Fusion {#fusion}
+  + [Workfront Fusion overview](workfrontfusion.md)
++ Workfront Goals {#goals}
+  + [Workfront Goals overview](workfrontgoals.md)
++ Workfront Library {#library}
+  + [Workfront Library overview](workfrontlibrary.md)
++ Workfront Mobile App {#mobile}
+  + [Workfront Mobile App overview](workfrontmobile.md)
++ Workfront Proof {#proof}
+  + [Workfront Proof overview](workfrontproof.md)
++ Workfront Scenario Planner {#scenarioplanner}
+  + [Workfront Scenario Planner overview](workfrontscenarioplanner.md)
 
 <!--
 
