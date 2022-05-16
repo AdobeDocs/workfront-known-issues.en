@@ -8,6 +8,13 @@ user-guide-description: This is a description for the user guide that will be di
 
 + [Overview](overview.md)
 + [New file](newfile.md)
++  [New Workfront experience][newexperience.md]
++  Workfront Fusion
++  Workfront Goals
++  Workfront Library
++  Workfront Mobile App
++  Workfront Proof
++  Workfront Scenario Planner
 
 
 <!--
