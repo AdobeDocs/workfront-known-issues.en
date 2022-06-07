@@ -14,9 +14,9 @@ This page contains issues currently identified in new Adobe Workfront Experience
 
 ## New or Under Investigation
 
-| **Issue**                                                                                               | **Last Modified** |
-|---------------------------------------------------------------------------------------------------------|-------------------|
-| Proofs: Proofs show as "Generating proof" for excessive amounts of time                                 | May 16, 2022      |
+| **Issue** | **Last Modified** |
+|---|---|
+| [Proofs: Proofs show as "Generating proof" for excessive amounts of time](generating-proof-for-excessive-amounts-of-time.md) | May 16, 2022 |
 | Workfront Integrations: Files sent to Adobe Experience Manager Asset Essentials do not include metadata | May 13, 2022      |
 | Search: Error when using Advanced Search                                                                | May 13, 2022      |
 | Reports: Report does not load, eventually times out                                                     | May 12, 2022      |
