@@ -20,7 +20,8 @@ This page contains issues currently identified in Adobe Workfront Fusion.
 
 |Issue  |Last Modified   | 
 |---|---|
-|Workfront Fusion: Data from custom forms not available in Workfront Fusion Workfront modules   | 2022/04/25  | 
+|[Workfront Fusion: Cannot scroll to view all scenario executions](cannot-scroll-to-view-all-scenario-executions.md)   | 2022/05/18  | 
+|[Workfront Fusion: Data from custom forms not available in Workfront Fusion Workfront modules](data-from-custom-forms-not-available.md)   | 2022/04/25  | 
 
 
 <!--
