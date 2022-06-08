@@ -1,11 +1,11 @@
 ---
-title: Overview
-description: This is the article overview.
+title: Workfront Maintenance Updates
+description: Maintenance Updates for Adobe Workfront
 ---
 
 # Overview
 
-Welcome to the something something user guide.
+<https://one.workfront.com/s/article/Workfront-Maintenance-Updates-in-2020?r=1343&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1>
 
 MORE...
 
