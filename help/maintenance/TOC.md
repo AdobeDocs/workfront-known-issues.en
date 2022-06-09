@@ -5,8 +5,8 @@ user-guide-description: Maintenance Releases for Adobe Workfront
 
 # Maintenance Release {#releases}
 
-+ [Overview](overview.md)
-+ [New file](newfile.md)
++ [Current updates](current-updates.md)
++ [2021 updates](2021-updates.md)
 
 <!--
 
