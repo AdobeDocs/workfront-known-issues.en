@@ -35,4 +35,3 @@ This page contains issues currently identified in Adobe Workfront Proof.
 | [Proof: Proof Approval report can't accurately determine deadlines](proof-approval-report-cant-accurately-determine-deadlines.md) | April 21, 2021 |
 | [Home: Completed proofs stuck in the Work List](completed-proofs-stuck-in-the-work-list.md) | June 14, 2021 |
 | [Documents: Proof workflow icon is not displaying](proof-workflow-icon-is-not-displaying.md) | March 5, 2021 |
-
