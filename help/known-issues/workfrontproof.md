@@ -10,12 +10,13 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 >[!IMPORTANT]
 >
->For information regarding server uptime or outages, see [status.workfront.com](https://status.workfront.com). For information about issues that were recently fixed, see Workfront Maintenance Updates.
+>For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see Workfront Maintenance Updates.
 
 ## New or Under Investigation
 
 |Issue  |Last Modified   | 
 |---|---|
+|[Workfront Proof: User options cannot be modified after initial configuration in Workflow Templates](user-options-cannot-be-modified-after-initial-configuration.md) | June 10, 2022 | 
 |[Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports](zero-proofs-to-manage.md) | May 27, 2022 | 
 
 ## Current Issues
@@ -34,4 +35,3 @@ This page contains issues currently identified in Adobe Workfront Proof.
 | [Proof: Proof Approval report can't accurately determine deadlines](proof-approval-report-cant-accurately-determine-deadlines.md) | April 21, 2021 |
 | [Home: Completed proofs stuck in the Work List](completed-proofs-stuck-in-the-work-list.md) | June 14, 2021 |
 | [Documents: Proof workflow icon is not displaying](proof-workflow-icon-is-not-displaying.md) | March 5, 2021 |
-
