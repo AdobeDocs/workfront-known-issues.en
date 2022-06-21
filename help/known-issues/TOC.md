@@ -21,6 +21,7 @@ user-guide-description: Known Issues for Adobe Workfront
   + [Workfront Mobile App overview](workfrontmobile.md)
 + Workfront Proof {#proof}
   + [Workfront Proof overview](workfrontproof.md)
+  + [User options cannot be modified after initial configuration in Workflow Templates](user-options-cannot-be-modified-after-initial-configuration.md)
   + [Dashboard shows 0 proofs in Proofs to manage](zero-proofs-to-manage.md)
   + [User cannot move self to another stage of a proof](user-cannot-move-self-to-another-stage-of-a-proof.md)
   + [Users do not receive notifications when tagged in a proof](users-do-not-receive-notifications-when-tagged-in-a-proof.md)
