@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 |Issue  |Last Modified   | 
 |---|---|
+|[Workfront Proof: User options cannot be modified after initial configuration in Workflow Templates](user-options-cannot-be-modified-after-initial-configuration.md) | June 10, 2022 | 
 |[Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports](zero-proofs-to-manage.md) | May 27, 2022 | 
 
 ## Current Issues
