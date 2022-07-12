@@ -335,21 +335,217 @@ For more information on why the system generates alias emails, see User synchron
 
 +++**Maintenance Update on April 28, 2022**
 
+**Cannot scroll to Save button when editing a timesheet**
+
+*Timesheets*
+
+When a user is editing a timesheet, they cannot scroll the edit window far enough to see the Save button, and therefore cannot edit the timesheet.
+
+**Electronic signature now checks Federation ID**
+
+*Proofs*
+
+When signing a proof electronically, the system now checks the Federation ID, if you have SSO set up in Workfront Proof, in addition to your email in Workfront.
+
+Previously, the system checked only your email in Workfront.
+
 +++
 
 +++**Maintenance Update (Hot Fix) on April 25, 2022**
+
+**Workload Balancer does not load**
+
+*Workload Balancer*
+
+When a user attempts to open the Workload Balancer, the header and left navigation load, but the content of the Workload Balancer does not load. The user sees flashing gray squares instead of data. Occasionally, part of the content loads, but the user still sees flashing gray squares where the missing data would be.
 
 +++
 
 +++**Maintenance Update on April 21, 2022**
 
+**Adding a task causes page to jump down**
+
+*Tasks*
+
+When a user adds a task below an existing task in a list, the page jumps to lower in the list. Although the new task is in the correct place, the user must scroll back up to locate it.
+
+**Users added to a proof cannot access the proof's work item in Workfront**
+
+*Proofs*
+
+If a user is added to a stage in a proof's workflow, the user is not added to the Document sharing and does not get permissions to the proof's work item in Workfront. When the user is in Workfront and attempts to open the work item the proof is attached to, they see the following message:
+
+"You do not have sufficient access to view this <object>"
+ 
+This issue is specific to proofs already created and users being added after the fact. Adding users to the Workflow before proof creation works as expected.
+
+**Cannot send password reset email from Workfront**
+
+*Users*
+
+When a user attempts to send a password reset email from a user list in Workfront, the option to send the email is not available.
+
+**Button displays "Start Issue" rather than "Start Request"**
+
+*Requests*
+
+When a user views a request assigned to their team, they see a "Start Issue" button in the header rather than a "Start Request" button. 
+
+**"Undo comment" option removes tagged users**
+
+*Updates*
+
+When a user tags another user in a comment, posts the comment, and then selects the "Undo comment" option, the comment appears in an update box as usual, but the tagged user is not in the Tagged users box.
+
+**Cannot scroll when using Milestone view in a report**
+
+*Reports*
+
+When a user is viewing a report and selects the Milestone view, the page displays the Milestone view but no longer scrolls, and the user cannot view any Milestones that would be further down the page.
+
+**Incorrect currency when report is displayed in dashboard**
+
+*Reports*
+
+When a user views a report in a dashboard, the currency used in the report is incorrect. When the user views the report outside of the dashboard, the currency is correct.
+
+**Completed filter is not displaying Completed work item**s
+
+*Home*
+
+When a user views their Home Work List with the Completed filter selected, Completed work items do not display in the list. When the All filter is selected, Completed items are included in the list, showing that the Completed items exist.
+
+**Workfront does not load**
+
+*Workfront*
+
+When a user attempts to log into Workfront, the page appears to be stuck in a loop of redirects or refreshes, and does not load.
+
 +++
 
 +++**Maintenance Update on April 14, 2022**
 
+**Cannot add a task from a report on a custom section on a task**
+
+*Tasks*
+
+When a user is viewing a custom section on a task, and the section contains a task report, the user cannot add a task from that report. The Add Task button highlights the report, but does not open a window for the user to add a task.
+
+**Done button in wrong location when editing a view**
+
+*Views*
+
+When a user is editing a view, the Done button appears higher on the screen, and may overlap text.
+
+The user can edit the view as usual. Functionality is not affected.
+
+**Cannot scroll when using Milestone view in a report**
+
+*Reports*
+
+When a user is viewing a report and selects the Milestone view, the page displays the Milestone view but no longer scrolls, and the user cannot view any Milestones that would be further down the page.
+
+**Blank screen when viewing updates**
+
+*Updates*
+
+When a user is viewing updates and scrolls the screen to view updates further down, the screen becomes blank and the user can not see any updates.
+
+**Error when bulk assigning user to task that is not assigned to User's role**
+
+*Workload Balancer*
+
+When a user in the Workload Balancer attempts to assign tasks to a user whose Job Role does not match the Job role assigned to the tasks, the user sees a message that the task will be assigned using the primary Job Role of the assigned user. However, when the user clicks "Assign," the tasks are not assigned and the user sees the following error:
+
+"Error
+The server encountered an unknown error."
+
 +++
 
 +++**Maintenance Update on April 7, 2022**
+
+**Users added to proofs have incorrect roles**
+ 
+*Proofs*
+
+When a user adds another user to a proof, that user's role on the proof is set as "Read-only" despite the user's actual proof role.
+
+**Cannot send password reset email to user**
+
+*Users*
+
+When a user attempts to send a password reset to another user, they see that the Send Forgot Password Email option is not available in the More menu.
+
+**Update All sends updates to user profiles instead of project**
+
+*Updates*
+
+When a user is viewing the People area of a Project and selects the Update All option, then enters an update, the update is not posted to the project itself. Instead, it is posted to the individual user profiles of each user on the project.
+
+**Excessive number of pages when printing updates**
+
+*Updates*
+
+When a user is viewing an update stream that would be more than one printed page, and attempts to print the page, the print screen shows that the number of pages is far above the actual number of pages needed to print the updates. If the user then attempts to print to PDF, the PDF creation fails.
+
+**Users are unable to see the entire list of entities shared with a report when the "Visible System-Wide" setting is enabled**
+
+*Reports*
+
+When sharing reports with multiple entities displaying in the Report Access box, users are unable to scroll to the bottom of the list to see the entire list when the “Visible System-Wide” setting enabled. 
+
+**Incorrect currency used in reports**
+
+*Reports*
+
+If a user sets the currency of a project to be different than the default currency, then views a report on that project, the currency appears as the default currency instead of the project's currency.
+
+**Last Viewed information not updating in Report Usage reports**
+
+*Reports*
+
+When a user is viewing a report that displays information regarding the last time the report was viewed, that information may be blank or may be old data. This issue affects fields including the following:
+
+* Last Viewed By
+* Last Viewed Data
+* Last X Viewers
+* Views This Month / Quarter / Year
+
+**Completed tasks displaying in Home Work List**
+
+*Home*
+
+When a user is viewing their Home Work List, they see Complete tasks in the list, even when the option to display Completed tasks is not selected.
+
+**Schedule button not visible to schedule Sandbox refresh**
+
+*Sandbox Environment*
+
+The Schedule button used to schedule a sandbox refresh is not visible in the top banner of the sandbox environment.
+
+**Changes to a calculated field affect all calculated fields on a form**
+
+*Custom Forms*
+
+When a user is in the Custom Form Builder and changes the value of a calculated form, all calculated fields on the form show the new value. This can affect new or existing calculated fields.
+
+**Colors flickering on custom form builder**
+
+*Custom Forms*
+
+When a user is working with calculated fields on the custom form builder, the colors of the fields and expressions flicker.
+
+**Cannot reject an approval**
+
+*Approvals*
+
+When a user attempts to reject an approval, the Reject button is unresponsive, and the approval is not rejected.
+
+**Projects tab defaults to All Project section despite previous selection**
+
+*Projects*
+
+When a user goes to a Projects page via a tab that has been pinned as part of the layout template, the page defaults to the All Projects area of the left navigation. This occurs even when the user chooses another area of the left navigation, then navigates away from the Projects page and back.
 
 +++
 
