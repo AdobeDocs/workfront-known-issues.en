@@ -554,25 +554,300 @@ When a user goes to a Projects page via a tab that has been pinned as part of th
 
 +++**Maintenance Update on March 31, 2022**
 
+**Timezones not consistent between Workfront and Workfront Proof**
+
+*Proof*
+
+When a user's profile is set to a specific timezone in Workfront, the user's timezone in Workfront Proof is set to a different timezone. 
+
+**Link to submit a requested document leads to blank page**
+ 
+*Documents*
+
+When a user receives a request to submit a document, and clicks on the link to the object where the document was requested, the link leads to a blank page. This may occur when clicking a link in an email or in an in-app notification.
+
+**Group is assigned incorrectly when converting issue to project**
+
+Groups
+
+When a user converts an issue to a project using a template, the functionality is:
+* If the template has a group assigned, that group displays in the issue conversion window as the group for the new project.
+* If the template has no group assigned, the default group of the user who is converting the issue displays in the issue conversion window as the group for the new project.
+* If the template has no group, the new project should inherit the group from the issue's project.
+
+**Cannot attach cross-object custom form to request queue**
+
+Requests
+
+When a user attempts to add a cross-object custom form to a queue's details page, the cross-object form does not appear in the dropdown list of available forms, and the user cannot select it to add to the queue details.
+
+**Users cannot be assigned with secondary job role on Workload Balancer**
+
+*Workload Balancer*
+
+When a user attempts to assign another user to a task on the Workload Balancer, and the task is assigned to a job role other than the assigned user's primary job role, the user is assigned to the task by their primary job role, and the following message displays:
+
+"\<Name\> does not match the role of \<Task role assignment\>. 1 work item currently assigned to the role of <\Task role assignment\> will be assigned to \<Name\> in the role of \<Primary job role\>."
+
+This occurs even if the user does have the Task role assignment's job role as a secondary job role.
+
+**Issue with Scrum Board "Show more work items" b**ar
+
+*Agile*
+
+When a user clicks the Show more work items bar on a Scrum Board, then scrolls to see the new items, the Show more work items bar sticks to the Scrum Board and moves with it when scrolled. This can make the cards hard to read.
+
+**Red dots appear on required fields in custom forms**
+
+Custom Forms
+
+When a user views a required field on a custom form, they see two red dots below the asterisk that indicates that the field is required.
+
+**Time dropdown cut off in prompts**
+
+*Reports*
+
+When a user is filling out the prompts for a report and encounters a date picker, the time selector at the bottom of the date picker does not display hours beyond 2, and the user cannot select any hour value besides 1 or 2.
+
 +++
 
 +++**Maintenance Update (Hot Fix) on March 29, 2022**
+
+**Unable to modify or save calculations in the Custom Form builder**
+
+*Custom forms*
+
+If a user manually enters a calculation into a calculation field on the Custom Form builder and saves the form, the calculation is not saved. If the user reopens the custom form, that field is blank.
+
+If a user enters a calculation into a calculation field on the Custom Form builder by using the dropdowns and saves the form, that value is saved. However, if the user reopens the custom form, they cannot edit this field or remove the value, either manually or with the dropdown.
+
+NOTE: This issue fix included additional functionality. Now, when you begin typing in a calculated field, possible expressions or calculations display in a dropdown below, the same way they do in the Calculation Editor. Click an item in the dropdown to add it to the calculated field.
 
 +++
 
 +++**Maintenance Update on March 24, 2022**
 
+**Timezones not consistent between Workfront and Workfront Proof**
+
+*Proof*
+
+When a user's profile is set to a specific timezone in Workfront, the user's timezone in Workfront Proof is set to a different timezone. 
+
+**Required field error for filled-in custom fields when attaching a template**
+
+*Projects*
+
+When attaching a template with required custom fields to a project where the field already exists and is filled out, users see the following error: "There are incomplete fields. Enter values for required fields before you can continue."
+Clicking "Take me there" allows them to see that the fields are filled out and they can attach the template successfully. 
+
+**The Workload Balancer flashes when you toggle between dates**
+
+*Workload Balancer*
+
+The hours of the user listed first in the Workload Balancer do not display when you update the timeline. The user and their hours display with all grey boxes that just blink. This happens if you move forward and backwards on the timeline. 
+
+Updating the filter does seem to reset the display. However, moving backwards and forwards on the timeline causes the display flash again and the user hours to not display. 
+
+**Custom terminology is inconsistent**
+
+*Layout Templates*
+
+Users are reporting that when the Workfront administrator customizes the terminology for some objects using a Layout Template, the new object name displays inconsistently in the interface. 
+
+For example, on the Projects page, you can still see the page title displayed as "Projects", even though the Workfront administrator changed the name for "Projects" to something else.
+
+This causes confusion for end users.
+
 +++
 
 +++**Maintenance Update on March 17, 2022**
+
+**Thumbnail and main images are blank when viewing multipage files using Safari browser**
+
+*Proof*
+
+When a user attempts to view a file with multiple pages in the Safari browser, the thumbnail page images are blank. Occasionally, the main image may also be blank.
+
+**Incorrect user list when making bulk assignments in the Workload Balancer**
+
+*Workload Balancer*
+
+When a user is making a bulk assignment in the Workload Balancer and selects a Project and Job Role, the list of users available is incorrect. It may show users without the Job Role or Project permissions, and users with the Job Role and Project permissions do not appear in the list.
+
+**Sorting is not working in reports**
+
+*Reports*
+
+When a user clicks on a column to sort by it, the sort appears to work but instantly the results revert to the original sorting as it displayed before clicking the column. The sorting on any column is not retained. 
+
+**Selecting "Nothing" reverts to the Report Default grouping**
+
+*Reports*
+
+When a report has a built-in grouping and the user attempts to select "Nothing" in the Grouping drop-down menu, the report displays shortly with no grouping and then revert to the Report Default grouping.
+
+**Removed "Blueprints access" tab from Blueprints preferences**
+
+*Blueprints*
+
+NOTE: This issue exists only in the Preview environment.
+
+The Blueprints access tab has been removed from the Blueprints preferences modal. No functionality has been removed from the Blueprints preferences.
 
 +++
 
 +++**Maintenance Update (Hot Fix) on March 14, 2022**
 
+**Cannot scroll down user list when making assignment on Kanban board**
+
+*Agile*
+
+When a user is viewing a Kanban board and attempts to make an assignment, the user list that appears when they type keeps jumping back to the top as they scroll down. The user is unable to select a user that is not near the top of the list, and cannot save the assignment change.
+
+**Milestone View in project report causes error**
+
+*Reports*
+
+When displaying a project report using the Milestone View, users get a "APIModel INTERNAL does not support namedQuery TILE:milestone-view (UIVW)" error. 
+
+**Custom terminology is inconsistent**
+
+*Layout Templates*
+
+Users are reporting that when the Workfront administrator customizes the terminology for some objects using a Layout Template, the new object name displays inconsistently in the interface. 
+
+For example, on the Projects page, you can still see the page title displayed as "Projects", even though the Workfront administrator changed the name for "Projects" to something else.
+
+This causes confusion for end users.
+
+**Unable to update calculations for existing calculated fields**
+
+*Custom Forms*
+
+Users are unable to update/ change the calculations in calculated fields. If the field was created and saved with without a calculation, every time you try to add an expression and save/apply, the builder reverts back to being blank. 
+
+If you create a calculated field with a certain expression and save it, every time you try to change the calculation, it reverts back to its previous value. 
+
+**Invalid Parameter error when resetting passwords**
+
+*Login*
+
+Users are unable to reset their passwords in any environment. When they enter their email and try to proceed they see an error. 
+
+Error: Invalid Parameter: Search Parameter value "domain".
+
 +++
 
 +++**Maintenance Update on March 10, 2022**
+
+**Issues logging in to Preview environment**
+
+*Login*
+
+The following issues with logging in to the Preview environment have been reported.
+
+When a user attempts to log in to the Preview environment, a message appears indicating that they put in the wrong ID or password.
+
+When a user attempts to reset their password, they see the error "?Multiple users were found with the email address <example@example.com>?"
+
+**Custom forms load slowly in Project Details area**
+
+*Projects*
+
+When a user attempts to view a project's Project Details area, any custom forms that are attached to the project load only after a delay of 15 seconds or more. The Add custom forms option is also affected by this delay.
+
+**Custom form field values not saved in document summary panel**
+
+*Documents*
+
+When a user updates custom form fields in the document summary panel, and one or more of them is a typeahead field, then saves the changes and navigates away from the summary panel, the updates are not saved. This occurs only when a typeahead field is edited, although all fields are affected.
+
+**Data not preserved when converting templates due to template sharing access levels**
+
+*Projects*
+
+When a user who has View access on a shared template attempts to convert an issue to a project, any data in custom form sections that require Contribute or higher access to view is not transferred to the created project.
+
+**Error when uploading new document version**
+
+*Documents*
+
+When a user attempts to upload a new version of a document from the document list, the document does not upload and the user sees the following error: 
+
+Error
+Cannot invoke "com.attask.boz.Document.getCurrentVersion()" because "document" is null
+
+**Unable to edit billing rates**
+
+*Projects*
+
+When a user attempts to edit a billing rate on the Billing Rates tab of a project, clicking the Edit button opens the Edit window briefly, but it closes before the user can edit the billing rate. Clicking the button again does not open the edit window.
+
+**Public link for document leads to blank page**
+
+*Documents*
+
+When a user attempts to open a document using a public link, the link leads to a blank page. This occurs when the link is opened in a window where an active Workfront session is open.
+
+**Whoops error when adding task or issue to list**
+
+*Tasks and Issues*
+
+When a user who is not an admin attempts to add a task or issue to a list, and fills in custom fields, the task or issue is not created and the user sees the following error:
+
+Error
+Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.
+
+**Leaving an update after a status change reverts the object to a previous state**
+
+Projects, tasks, and issues
+
+Changing the status of a project, task, or issue and then immediately starting typing an update without refreshing the page causes the update box to show the previous status. If the update is posted, the object is reverted to the previous status.
+
+**Users added to proofs have incorrect roles**
+
+*Proofs*
+
+When a user adds another user to a proof, that user's role on the proof is set as "Read-only" despite the user's actual proof role.
+
+Workaround:
+Set the user's proof role in their profile to something else, then reset to the correct role.
+
+**Custom form does not load when converting issue to project using template**
+
+*Custom forms*
+
+When a user attempts to convert an issue to a project using a template, one or more of the custom forms attached to the template may not load. When the user configures the template for the new project, instead of the custom forms they see the following message:
+
+"Something went wrong, could not load form."
+
+**User unable to add issue inline with custom drop-down field displaying in the view**
+
+*Lists*
+
+When a user is adding an issue from inline and there is a custom view with custom drop-down fields applied to the list, there is an error when they fill out the drop-down field only. The user has access to edit custom form and is the project owner with manage rights to the project. 
+
+Error: Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it!
+
+**Permissions to add tasks to a project are not required to move or copy a task to the project**
+
+*Tasks* 
+
+You now can move or copy a task to another task in a project without having  permissions to add tasks to the destination project. You must have permissions to add tasks to at least one of the destination project’s tasks. Prior to this update, you were required to have permissions to add tasks to the project to move or copy a task to the project or to any of its tasks.  This update is now available in the Production environment. It has been available in the Preview environment starting with the March 24, 2022 maintenance update. 
+
+NOTE: This update will be available in the Production environment when copying or moving issues after the 22.2 Production release. For more information about the current release, see workfront.com/release. 
+
+**Prompt drop-down menu is cut off**
+
+*Reports*
+
+When using a prompt  in a report, the drop-down menus that allow you to select the filtering criteria for the report are cut off. As a result, the criteria at the bottom of the selection drop-down menu does not display.
+
+**Work item reverts to previous status when an update is made**
+
+*Updates*
+
+When a user changes the status of a work item in the header, the status does not update in the Update area. If the user then makes a update, the dropdown still shows the previous status. When the update is saved, this previous, incorrect status overwrites the status that was set in the header.
 
 +++
 
