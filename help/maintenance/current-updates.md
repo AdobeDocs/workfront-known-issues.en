@@ -375,7 +375,7 @@ When a user adds a task below an existing task in a list, the page jumps to lowe
 
 If a user is added to a stage in a proof's workflow, the user is not added to the Document sharing and does not get permissions to the proof's work item in Workfront. When the user is in Workfront and attempts to open the work item the proof is attached to, they see the following message:
 
-"You do not have sufficient access to view this <object>"
+"You do not have sufficient access to view this \<object\>"
  
 This issue is specific to proofs already created and users being added after the fact. Adding users to the Workflow before proof creation works as expected.
 
