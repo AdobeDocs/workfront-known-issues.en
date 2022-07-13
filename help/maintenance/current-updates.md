@@ -853,6 +853,64 @@ When a user changes the status of a work item in the header, the status does not
 
 +++**Maintenance Update on March 3, 2022**
 
+**Cannot add document from Google Drive**
+
+*Documents*
+
+When a user attempts to add a document from Google Drive, the selection is unresponsive, and the user is unable to select documents to add.
+
+**Tagged users are not added to update thread**
+
+*Updates*
+
+When a user is tagged in an update, they are not shown in the "to" area of the update or its replies.
+
+**Proof user has two separate proofing accounts**
+
+*Proof*
+
+A user's email address in Workfront Proof may be in two separate accounts with separate IDs, giving the user two accounts. This may make it difficult to locate the correct account.
+
+**Whoops error displaying in report headers**
+
+*Reports*
+
+When a user views a report, the following error displays in the report header:
+
+"Let's try that again. Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it."
+
+If the user is viewing a dashboard, the error may appear in the header for all the reports on the dashboard.
+
+**Data in Admin-edit-only fields of custom form is not preserved when converting issues to projects **
+
+*Projects*
+
+When a non-admin user attempts to convert an issue to a project using a template, and the issue contains data in fields that can only be edited by an admin, the data in those fields does not carry over to the new project.
+
+When an admin converts the issue, the data is carried to the new project as expected.
+
+**XLS and XLSX file size limit temporarily decreased to 100 MB for proofs**
+
+*Proofing*
+
+In order to address a security issue, we’ve temporarily limited the maximum file size for XLS and XLSX files to 100 MB when creating a proof.
+
+NOTE: This update was in the Preview environment on February 24, and will be in the Production environment on March 3.
+
+**Update to Workfront Search**
+
+Search
+
+A phased rollout began this week to update the infrastructure for the Workfront Search functionality. The update will make future improvements to Search easier and more reliable. With these changes, items added to Workfront will be indexed more quickly and therefore will return in search results sooner.
+
+The phased rollout will continue for 2 weeks.
+
+**Updated toolbars for reports within dashboards**
+
+Reports
+
+Reports within dashboards now show a new toolbar. This toolbar is part of the updates to lists and reports that are happening throughout Workfront.
+
 +++
 
 
@@ -860,17 +918,146 @@ When a user changes the status of a work item in the header, the status does not
 
 +++**Maintenance Update (Hot Fix) on February 24, 2022**
 
+**Data not preserved when converting issues to projects if field is hidden on template**
+
+*Projects*
+
+When a user converts an issue to a template, and the template includes a custom form that displays or hides fields based on the values in other fields, any data in fields that are hidden on the (dataless) template at the time of conversion is not carried into the new project.
+
+**Cannot export resource planner by Role**
+
+*Resource Planner*
+
+When a user attempts to export the Resource Planner when using the View by Role option, the export does not succeed and the user receives an email with the following message:
+
+An error occurred while exporting your Resource Planner data.
+
+**Copy request button not working**
+
+*Requests*
+
+When a user attempts to copy a request, the copy request button does not work if the user does not have View access to the queue topic. 
+
 +++
 
 +++**Maintenance Update on February 24, 2022**
+
+**Custom form data disappears when other form fields are filled out**
+
+*Custom forms*
+
+When a user is filling out a custom form as part of converting an issue to a project, filling out one custom field may cause data in another custom field to disappear. If the user enters the missing data again, when they try to create the project, they see the following error message:
+
+"You must be a system admin to change this custom data parameter value"
+
+**"This approval process can be used by..." field missing**
+
+*Approvals*
+
+When a user is creating or editing an approval process in the Setup area, the "This approval process can be used by..." field is missing. This can occur when creating an approval process or when editing an existing one.
+
+**System admin cannot reassign users when deleting a group**
+
+*Groups*
+
+When a system administrator deletes a group, they will only have the option to reassign that group's users to groups that the system administrator is a group administrator for. Other groups do not appear in the dropdown, and the admin cannot select them.
+
+**Whoops error when converting issue to project**
+
+*Projects*
+
+When a user attempts to convert an issue to a project using a template, and adds or removes custom forms from the template, the issue does not convert and the user sees the following message:
+
+Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.
+
+**Cannot open proof; page refreshes**
+
+*Proofs*
+
+When a user attempts to open a proof, the proof is unable to open. Eventually, the page refreshes.
+
+**XLS and XLSX file size limit temporarily decreased to 100 MB for proofs**
+
+*Proofing*
+
+In order to address a security issue, we’ve temporarily limited the maximum file size for XLS and XLSX files to 100 MB when creating a proof.
+
+NOTE: This update will be in the Preview environment on February 24, and in the Production environment on March 3.
+
+**Permissions to add tasks or issues to a project are not required to move or copy a task or an issue to the project**
+
+*Projects*
+
+You now can move or copy a task or an issue to another task in a project without having permissions to add tasks or issues to the destination project. You must have permissions to add tasks or issues to at least one of the destination project’s tasks. Prior to this update, you were required to have permissions to add tasks or issues to the project to move or copy a task or an issue to the project or to any of its tasks. This update is available only in the Preview environment.
+
+NOTE: This update will be available in the Production environment when coping or moving tasks on March 10th. This update will be available in the Production environment when copying or moving issues with the 22.2 Production release. For more information about the current release see workfront.com/release.
+
+**Update to Workfront Search**
+
+*Search*
+
+A phased rollout began this week to update the infrastructure for the Workfront Search functionality. The update will make future improvements to Search easier and more reliable. With these changes, items added to Workfront will be indexed more quickly and therefore will return in search results sooner.
+
+The phased rollout will continue for 2 weeks.
 
 +++
 
 +++**Workfront Fusion Maintenance Update on February 18, 2022**
 
+**Field value type validation added to Anaplan list items properties**
+
+*Adobe Workfront Fusion*
+
+An issue has been fixed that allowed users to put the incorrect data type into fields for List Item properties. Validation of the property type allows Fusion to ensure that the correct data type is sent to Anaplan, eliminating errors caused by incorrect data types.
+
 +++
 
 +++**Maintenance Update on February 17, 2022**
+
+**Error when deleting predecessor from Predecessors tab**
+
+*Tasks*
+
+When a user attempts to delete a predecessor from the Predecessors tab on a task, the task does not delete, and the user sees the following error: 
+
+Task with primary key value(s) "" not found
+
+
+Whoops error when opening users page
+
+When a user attempts to open the Users page, the page does not open and the user sees the following error: 
+
+Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.
+
+Users
+Overlapping elements in the header of a report on a dashboard
+
+
+When a user views a report on a dashboard, they see that the groupings icon and label overlaps the links to Details and Summary. 
+
+Dashboards
+Issues with "More" menu for documents and proofs
+
+
+When a user selects a document or proof on a Workfront Classic document list, then clicks "More," they may see one of the following issues:
+The button is unresponsive
+All options under the button are labeled "object Object" and cannot be used.
+First reported on January 31, 2022.
+Documents
+"You must be a system admin" error when creating a project
+
+
+When a user who is not an administrator attempts to create a project, and attaches a custom form that has a section available only to administrators, they cannot create the project and they see the following error:
+
+"You must be a system admin to change this custom data parameter value"
+
+Projects
+Data in admin-only section of custom form is not preserved when converting issues to projects 
+
+
+When a user converts an issue to a project using a template that has a custom form with an admin-only section, any data in the admin-only section is not carried over to the new project. This occurs even if an admin is converting the issue.	Projects
+Related Articles
+
 
 +++
 
