@@ -881,7 +881,7 @@ When a user views a report, the following error displays in the report header:
 
 If the user is viewing a dashboard, the error may appear in the header for all the reports on the dashboard.
 
-**Data in Admin-edit-only fields of custom form is not preserved when converting issues to projects **
+**Data in Admin-edit-only fields of custom form is not preserved when converting issues to projects**
 
 *Projects*
 
@@ -1022,50 +1022,139 @@ When a user attempts to delete a predecessor from the Predecessors tab on a task
 
 Task with primary key value(s) "" not found
 
+**Whoops error when opening users page**
 
-Whoops error when opening users page
+*Users*
 
 When a user attempts to open the Users page, the page does not open and the user sees the following error: 
 
 Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.
 
-Users
-Overlapping elements in the header of a report on a dashboard
+**Overlapping elements in the header of a report on a dashboard**
 
+*Dashboards*
 
 When a user views a report on a dashboard, they see that the groupings icon and label overlaps the links to Details and Summary. 
 
-Dashboards
-Issues with "More" menu for documents and proofs
+**Issues with "More" menu for documents and proofs**
 
+*Documents*
 
 When a user selects a document or proof on a Workfront Classic document list, then clicks "More," they may see one of the following issues:
 The button is unresponsive
 All options under the button are labeled "object Object" and cannot be used.
-First reported on January 31, 2022.
-Documents
-"You must be a system admin" error when creating a project
 
+**"You must be a system admin" error when creating a project**
+
+*Projects*
 
 When a user who is not an administrator attempts to create a project, and attaches a custom form that has a section available only to administrators, they cannot create the project and they see the following error:
 
 "You must be a system admin to change this custom data parameter value"
 
-Projects
-Data in admin-only section of custom form is not preserved when converting issues to projects 
+**Data in admin-only section of custom form is not preserved when converting issues to projects**
 
+*Projects*
 
-When a user converts an issue to a project using a template that has a custom form with an admin-only section, any data in the admin-only section is not carried over to the new project. This occurs even if an admin is converting the issue.	Projects
-Related Articles
-
+When a user converts an issue to a project using a template that has a custom form with an admin-only section, any data in the admin-only section is not carried over to the new project. This occurs even if an admin is converting the issue.
 
 +++
 
 +++**Maintenance Update on February 10, 2022**
 
+**"You must be a system admin" error when creating a project**
+
+*Projects*
+
+When a user who is not an administrator attempts to create a project, and attaches a custom form that has a section available only to administrators, they cannot create the project and they see the following error:
+
+"You must be a system admin to change this custom data parameter value"
+
+**Users who have been deactivated and reactivated do not appear in Proof contacts**
+
+*Proof*
+
+When a user views their contacts list in Proof, users who have been deactivated and reactivated do not appear in the list.
+
+**"Something went wrong" message when converting an issue to a project using a template**
+
+*Projects*
+
+When a user who is not an admin attempts to convert an issue to a project using a template, custom form fields that are visible only to admins show the following message:
+
+"Something went wrong, could not load form"
+
+**"Cannot load page content" error when viewing project preferences**
+
+*Setup*
+
+When an admin user attempts to view projects, tasks, or issues under Project Preferences in the Setup area, the page does not load and the user sees the following error:
+
+"Cannot load page content. Please try refreshing the page."
+
 +++
 
 +++**Maintenance Update on February 3, 2022**
+
+**BizContext error when logging in**
+
+*Login*
+
+When a user is attempting to log in to Workfront, the login is unsuccessful, and the following message displays:
+
+"Let's try that again.
+Database error: BizContext commit failed!"
+
+This has been reported in the Preview environment.
+
+**Issue update stream disappears if issue is pending approval**
+
+*Updates*
+
+When a user clicks into the New update box in the update stream of an issue that is pending approval, the entire update stream disappears.
+
+**Error when uploading new version of a document**
+
+*Documents*
+
+When a user attempts to upload a new version of a document, the new version does not upload and the user sees one of the following errors: 
+
+* documentID cannot be null
+* Error: Invalid Parameter: documentID value "undefined"
+
+**Public link for document leads to blank page**
+
+*Documents*
+
+When a user attempts to open a document using a public link, the link leads to a blank page. This occurs when the link is opened in a window where an active Workfront session is open.
+
+**List controls do not work on reports in dashboards**
+
+Das*hboards
+
+When a user is viewing a report in a dashboard and attempts to change the filter, grouping, or view of the report, the filter, grouping, or view does not change.
+
+**"You must be a system admin" error when creating a project**
+
+*Projects*
+
+When a user who is not an administrator attempts to create a project, and attaches a custom form that has a section available only to administrators, they cannot create the project and they see the following error:
+
+"You must be a system admin to change this custom data parameter value"
+
+**Custom data not preserved when converting issue to project**
+
+*Projects*
+
+When a user converts an issue to a project using a template, data from a custom form on the issue is not transferred to the comparable custom form on the project. This happens to data that is in custom fields that may be hidden based on the values of other custom fields.
+
+**Error when converting issue to project**
+
+*Projects*
+
+When a user attempts to convert an issue to a project, the issue does not convert and they see the following error:
+
+"An unexpected error occurred"
 
 +++
 
