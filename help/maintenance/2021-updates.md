@@ -1241,25 +1241,104 @@ When a user clicks on an object in the Home Work List, the object's header appea
 
 +++**Maintenance Update on April 29, 2021**
 
+**SharePoint integration authenticates using credentials from a separate integration**
+ 
+_Workfront Integrations_
+
+When a user has more than one SharePoint integration, one SharePoint authentication attempts to authenticate using the credentials of another SharePoint integration.
+
+**Cannot upload or export files from Adobe products**
+ 
+_Workfront Integrations_
+
+When a user attempts to upload or export files using the Workfront for Adobe Creative Cloud integration, they see the error message "Cannot read property 'stages' of undefined" and are unable to upload or export the files.
+
+**Files are not visible in Internet Explorer**
+
+_Documents_
+
+When a user with an Internet Explorer browser navigates to the Documents area of an object, the Documents screen is blank and does not load the files. For some users, the screen does load some files, but the number of files that appear do not match the number displayed next to the Documents section.
+
 +++
 
 +++**Maintenance Update on April 22, 2021**
 
+**Tasks added in the wrong order**
+ 
+_Templates_
+
+When a user adds a task to a template, the task does not receive the task number they expect and the task is added in the wrong place.
+
+**Proofs are now combined into a single email**
+
+_Proofs_
+
+Workfront now sends one email for combined proofs rather than sending an email for each file included.
 +++
 
 +++**Workfront Fusion Maintenance Update on April 15, 2021**
+
+**"Scenario rejected" error when running a scenario**
+
+_Workfront Fusion_
+
+When a user attempts to run a scenario, the scenario does not execute and the user receives the message "Scenario rejected."
 
 +++
 
 +++**Maintenance Update on April 15, 2021**
 
+**Workload Balancer displays incorrect planned hours**
+
+_Workload Balancer_
+
+When a user views a task's planned hours in the Workload Balancer the value of the planned hours does not match the planned hours assigned to the task. 
+
+**Top navigation bar is not visible in Workfront Proof**
+
+_Workfront Proof_
+
+When a user navigates to any Workfront Proof page other than the Dashboard page, the top navigation bar disappears. The user is unable to access the functionality in the navigation bar, such as their account settings or profile.
+
+**Custom forms enhancement**
+
+_Custom forms_
+
+For a better experience when you fill out a custom form, we have improved the way the long custom field labels display. When there is enough horizontal space to show them in their entirety, these labels are no longer truncated.
+
 +++
 
 +++**Maintenance Update on April 8, 2021**
 
+**Cannot create proofs in Adobe Creative Cloud integration**
+
+_Workfront Integrations_
+
+When a user attempts to create a proof directly from the Adobe Creative Cloud, the proof is not generated.
+
 +++
 
 +++**Maintenance Update on April 1, 2021**
+
+**Issues viewing summary panel in Chrome**
+
+_Summary_
+
+When a user opens the summary panel while using the Chrome browser, the summary panel UI does not behave as expected. The user is unable to scroll, the icons may disappear, and the content may overlap other content.
+
+**Teams area in Setup not displaying all teams**
+
+_Setup_
+
+When an admin goes to the Teams area of Setup, they can view only teams that they created. Teams created by other admins are not visible.
+
+**Cannot add updates to project in Pending Approval status**
+
+_Projects_
+
+If a user attempts to add an update to a project in Pending Approval status, and they are not the user that is assigned to approve the project, the update is not added and they see the following notice:
+
+A project with a 'Pending Approval' status cannot be edited. You can modify the project by changing the status.
 
 +++
 
@@ -1268,33 +1347,199 @@ When a user clicks on an object in the Home Work List, the object's header appea
 
 +++**Maintenance Update on March 26, 2021**
 
+**Buttons in a business case display incorrectly**
+ 
+_Projects_
+
+When a user is viewing a business case, and the window is in full screen mode, the Save and Cancel buttons appear near the middle of the screen, overlapping business case elements.
+
+**Cannot change sorting of a report**
+ 
+_Reports_
+
+When a user attempts to change the sorting of a report in the new Workfront experience, the sorting does not change from the sorting selected when the report was created.
+
+**Sharing disabled on new proofs**
+ 
+_Proof_
+
+When a user who has Public Sharing enabled in their default proof settings creates a proof, the proof is created with sharing disabled. Other users cannot see the Share button or share the proof.
+
+**"Proof failed to generate" error when creating proof**
+
+_Proof_
+
+When a user attempts to create a proof, the proof is not created, and the user sees the following error message:
+
+"Proof failed to generate -- internal error"
+
 +++
 
 +++**Workfront Fusion Maintenance Update on March 25, 2021**
+
+**Removed redundant collection or reference field from mapping panel**
+ 
+_Workfront Fusion 2.0_
+
+When a user uses a term from the Workfront API to select a collection or reference field to include in the output of a Workfront module, the output for that module shows that field with a colon (such as owner:name), and also in the attributes (name is a field under owner). The field labeled with a colon does not contain data, and provides incorrect data if mapped to a module later in the scenario.
 
 +++
 
 +++**Workfront Fusion Maintenance Update on March 18, 2021**
 
+**Project template settings now apply to projects created through Workfront Fusion 2.0**
+ 
+_Workfront Fusion 2.0_
+
+When creating a project from a template using the Workfront Fusion 2.0, the template settings are applied to the new project. This behavior is the same when creating a project from a template in the Workfront application. 
+
 +++
 
 +++**Maintenance Update on March 18, 2021**
+
+**Project template settings now apply to projects created through the API**
+ 
+_Workfront API_
+
+When creating a project from a template using the Workfront API, the template settings are applied to the new project. This behavior is the same when creating a project from a template in the Workfront application. 
 
 +++
 
 +++**Maintenance Update (Hot Fix) on March 15, 2021**
 
+**Shared component not functioning as expected**
+ 
+_Proof_
+
+If standalone Proof accounts are moved to a shared component, the following functionality may occur when a user adds a new version of a proof or document:
+
+* The user is unable to delete the user Studio Proof.
+* The default message does not appear on the new version.
+
+**Public link sharing not enabled on new version of a proof**
+ 
+_Documents_
+
+When a user enables public link sharing on a proof and then uploads a new version of the proof, public link sharing is not automatically enabled on the new version of the proof.
+
+**Approve, Changes, Reject buttons missing from proof**
+
+_Proof_
+
+When a user views a proof in the Proof Viewer, the Approve, Changes, and Reject buttons are missing from the top of the screen.
+
+**Cannot change sorting of a report**
+
+_Reports_
+
+When a user attempts to change the sorting of a report in the new Workfront experience, the sorting does not change from the sorting selected when the report was created.
+
+**Custom message on proof not carrying over to new version**
+ 
+_Proof_
+
+When a user attaches a custom message to a proof, and then uploads a new version of that proof, the custom message does not appear on the new proof.
+
+**User list does not display**
+
+_Lists_
+
+When a user attempts to view a User list, and the view includes the "Status Icons" column, the list does not display.
+
+**"Notify recipients about this proof" option disabled regardless of workflow settings**
+ 
+_Proof_
+
+When a user creates a new proof, and does not manually turn on the "Notify recipients about this proof" option, the intended recipient is not notified. This is true even if the option is enabled in workflow settings.
+
+**Unable to change time frame**
+ 
+_Enhanced Analytics_
+
+When a user views Enhanced analytics and clicks on the calendar to adjust the date range, the dates do not change.
+
+**Cannot download publicly shared document**
+ 
+_Documents_
+
+When a user clicks on a shared link to download a document, the document does not download, and the user sees an error from the browser saying that the page does not exist.
+
 +++
 
 +++**Maintenance Update on March 11, 2021**
+
+**Section of custom form not exporting for non-admins**
+ 
+_Custom Forms_
+
+If a custom form attached to an object has a section break requiring anything above "View" access needed to view the contents of the section, the section's contents cannot be exported by anyone other than an Admin.
+
+**Downloaded document has incorrect name**
+
+_Proof_
+
+When a users downloads a document from the Proof viewer, the document's has the name of a previous version of the document, not the version that was downloaded.
 
 +++
 
 +++**Maintenance Update on March 4, 2021**
 
+**Error when accessing Layout Template**
+
+_Layout Templates_
+
+When a user enrolled in the new Workfront experience switches to the Classic experience and attempts to access a Classic layout template, they see the error "That Page does not exist."
+
+**Cannot edit filters in the Workload Balancer**
+
+_Workload Balancer_
+
+When a user attempts to edit a filter in the Workload Balancer, the filter builder does not open.
+
+**"See All Notifications" link in email notification redirects to incorrect page**
+
+_Email Notifications_
+
+When a user clicks on the "See All Notifications" link in an email notification, they are redirected to a page with the following message:
+
+"The User no longer exists. You may have mistyped the web address. Double check it and try entering the address again."
+
+**User is not directed to the proof comment they are tagged in**
+
+_Email Notifications_
+
+When a user is tagged in a proof comment and they click the Go To Proof link in an email notification, they are directed to the proof but not to the specific comment. If the user is in Workfront Classic, they are directed to the document Details page instead of the comment in the proof.
+
+**Users added to Workfront stage receiving email notifications**
+
+_Proof_
+
+When a user who is not on the workflow opens a proof from Workfront, the system automatically creates a stage, adds this user to the proof, and sends a New Proof email notification.
+
+**Document summary panel darkens, making actions unavailable**
+
+_Documents_
+
+When a user is on a document page and hovers over the document summary panel, the panel darkens and may show other buttons. The user cannot click on the actions in the summary panel.
+
+**Update stream performance changes**
+
+_Update Stream_
+
+We’ve reduced the number of user updates displayed in the Updates tab from 50 to 25 at a time to improve performance.Update Stream
+
 +++
 
 +++**Maintenance Update (Hot Fix) on March 1, 2021**
+
+**New proof emails are not being sent**
+
+_Proof_
+
+NOTE: This issue was fixed in the new Workfront experience on February 26, 2021.
+It was fixed in the Classic experience on March 1, 2021.
+
+When a user creates a new proof and enables the option Notify recipients about this proof, there is no email sent to notify the recipient. 
 
 +++
 
@@ -1303,21 +1548,100 @@ When a user clicks on an object in the Home Work List, the object's header appea
 
 +++**Maintenance Update on February 25, 2021**
 
+**Scheduling tool won't load in any area**
+ 
+_Resource Management_
+
+When a user with an apostrophe in their username tries to access the Scheduling tool in Workfront Classic, the page is blank and the tool never loads.
+
+**Name doesn't change on new proof versions**
+
+_Documents_
+
+When a user in the new Workfront experience uploads a new version of a document with a different name, the name doesn't update to match the newest version's name.
+
+**Document Share error when deleting projects**
+ 
+_Projects_
+
+When a System administrator user has a access to a project that has been copied and they try to delete it or delete a document in the project, they are unable to delete the object and they see the error "Document Share with primary key value(s) not found."
+
+**User report is not applying all filters**
+ 
+_Reports_
+
+When a user in the new Workfront experience creates a User report with a filter rule that includes the Top Parent ID field, any other filter rules in the report are not being applied.
+
+**Calculated fields not recalculating after edits**
+ 
+_Custom Forms_
+
+When a user in the new Workfront experience edits and saves a Custom Form that contains calculated fields, these fields do not update.
+
+**Documents deleting when custom form is deleted**
+ 
+_Custom Forms_
+
+When a user in the new Workfront experience deletes a Documents custom form that is attached to documents, those documents are deleted as well.
+Custom Forms
+
 +++
 
 +++**Maintenance Update on February 18, 2021**
+
+**Unnecessary checkbox removed from Requests area**
+
+_Requests_
+
+We have removed the checkbox to the left of the request names in the Submitted list of the Requests area. This checkbox was not connected with any functionality, so we removed it to eliminate a confusing experience.
+
+**Unable to access documents from links**
+
+_Documents_
+
+When a user in the new Workfront experience clicks some document links, they are unable to access the document and they see the error message "The Document no longer exists: You may have mistyped the web address. Double check it and try entering the address again." This same error occurs with the View Details link in proof email notifications.
 
 +++
 
 +++**Workfront Fusion Maintenance Update on February 16, 2021**
 
+**Workfront Fusion 2.0 shows inaccurate time zones**
+
+_Scenarios_
+
+This update fixed an issue where Fusion 2.0 was displaying user time zones inaccurately. Users can now see their time zone displayed under input fields for dates.
+
 +++
 
 +++**Maintenance Update on February 11, 2021**
 
+**Proofs aren't uploading to selected folder**
+ 
+_Proof_
+
+When a user opens a folder and adds a new proof, the proof uploads to the general Documents area of the object instead of within the folder.
+
+**Too many pinned pages causes Top Navigation to disappear**
+ 
+_Navigation_
+
+When a user has more than 60 pinned pages, the Top Navigation stops displaying, preventing the user from accessing Search, the Main Menu, Notifications, and more.
+
+**User cannot type text into rich text field**
+
+_Lists_
+
+When a user attempts to inline-edit a rich text field, they can only type a single character.
+
 +++
 
 +++**Maintenance Update on February 4, 2021**
+
+**Exported report shows Workfront Classic branding**
+
+_Reports_
+
+When a user in the new Workfront experience exports a report, the logo that displays in the exported report matches the Workfront Classic settings found under Setup > System > Branding.
 
 +++
 
@@ -1326,17 +1650,114 @@ When a user clicks on an object in the Home Work List, the object's header appea
 
 +++**Maintenance Update on January 28, 2021**
 
+**Comments not displaying "on behalf of"**
+
+_Updates_
+
+When a Workfront administrator logs in as another user and they reply to a comment in the Updates area of an object, the text "on behalf of" does not display before the username.
+
+**Unable to attach a document**
+
+_Requests_
+
+When a user in the new Workfront experience tries to add a document to a new request from an external document provider, the Documents list does not load, which prevents the user from selecting the document and completing the request.
+
+**Screen width expanding to the right, causing navigation issues**
+
+_Home Calendar_
+
+When a user in the new Workfront experience opens the Home Calendar and they have items due on some weeks, the screen expands to the right, preventing them from viewing the full week at once. If the user selects an item to open the Details panel in this state and they want to view details for another item, they need to scroll to the left, which closes the Details panel.
+
+**Single-use approval process label corrected**
+
+_Projects_
+
+When using a single-use approval process for a project in the new Workfront experience, it now displays as “Single-use approval process” instead of “\<Custom\>” in the Edit Project box. This is not yet available for tasks and issues.
+
+**Improved look and feel for custom forms**
+
+_Projects_
+
+We have improved the look and feel of working with custom forms in the new Workfront experience for projects.
+
+**API functionality for project currency now matches in-app functionality**
+
+_Projects_
+
+You cannot change the currency of a project when there is financial information already on the project. With the latest maintenance update, the API functionality for this case now matches the experience in the Workfront interface.
+
+**Not automatically generating the following week**
+ 
+_Timesheets_
+
+When a user navigates to the Timesheets area, they only see the timesheet for the current week. The timesheet for upcoming weeks are not automatically generating.
+
 +++
 
 +++**Maintenance Update on January 21, 2021**
+
+**Manually sorting by a column displays all results**
+
+_Reports_
+
+When a user in the new Workfront experience clicks a bar in the chart of a report, then clicks a column header to manually sort results for that grouping, all report results display, not just results for the originally selected grouping.
+
+**"Allow sharing proof via URL or embed code" setting changes**
+
+_Proof_
+
+When a user creates a proof and unchecks the setting Allow sharing proof via URL or embed code, the setting is checked again after the proof is generated. If the user leaves the setting checked, it is unchecked after generating the proof.
+
+**Mac users are unable to paste into text fields in proof viewer**
+
+_Proof_
+
+When a user attempts to paste text into certain fields in the proof viewer, the text does not appear in the field.
 
 +++
 
 +++**Maintenance Update on January 14, 2021**
 
+**Unable to update Email Notifications settings**
+
+_Setup_
+
+When a user tries to update settings for email notifications, they are unable to access the Email Notifications area and see the error message "Let's try that again.
+Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.."
+
+**Gantt chart causes some fields to truncate**
+
+_Lists_
+
+When a user opens the Gantt chart in some list areas, certain fields—such as Description—truncate the text. The user has to double-click the field to see the full text.
+
+**Unable to send files from Document Details**
+
+_Documents_
+
+When a user in the new Workfront experience tries to send a document from the Document Details page, they see the error message "An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page."
+
 +++
 
 +++**Maintenance Update on January 7, 2021**
+
+**Delegate Approvals dialog closes**
+ 
+_Home_
+
+When a user tries to delegate approvals in Home and they click any date, the dialog closes without selecting the date or allowing the user to complete the user delegation.
+
+**Issue with moving a document to a task**
+ 
+_Documents_
+
+When a user tries to move a document or proof in the new Workfront experience, some tasks outside the project do not list the parent project as expected.
+
+**Downloaded PDF has incorrect name**
+ 
+_Proof_
+
+When a user receives a download link via email (Proof > Print Comments > PDF) and they export the file, the downloaded file is titled with random numbers instead of the Proof ID.
 
 +++
 
