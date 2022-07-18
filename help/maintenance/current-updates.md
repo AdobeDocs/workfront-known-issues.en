@@ -73,7 +73,7 @@ When a user attempts to undo a comment, the comment does not undo and the user s
 Error
 403: You do not have sufficient access to delete this Note /attask/api-internal/NOTE
 
-**New limitation to the number of characters in an update in Preview **
+**New limitation to the number of characters in an update in Preview**
 
 *Updates*
 
@@ -109,6 +109,7 @@ As a result, we recommend you take the following actions if you haven't already:
 *Workfront Proof*
 
 When a user is adding a user to a Workflow Template, they can configure options. However, after the initial configuration is complete, the user can no longer modify the following:
+
 * "Resolve comments and apply actions" ability
 * "Share proof by tagging" ability
 * Proof role (Reviewer, Approver, etc.)
@@ -179,6 +180,7 @@ When a user is using the Home Calendar and clicks on a task, one of the followin
 When a user is editing a custom form and attempts to change a date, the date picker does not close when the date is selected. The user cannot close the date picker by saving, canceling, or clicking away from the date picker.
 
 This has been reported in the following areas:
+
 * Updates area
 * Home        
                                               
