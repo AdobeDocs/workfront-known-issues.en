@@ -22,17 +22,220 @@ The following maintenance updates have been made in 2022.
 
 For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in July 2022
+
+These issues were fixed only in the new Workfront experience.
+
+All Workfront Classic functionality was removed on July 14, 2022.
+
+* [Maintenance Update on July 14, 2022](#maintenance-update-on-july-14-2022)
+
+### **Maintenance Update on July 14, 2022**
+
+**Error when resetting password**
+
+*Login*
+
+When a user attempts to reset their password, they cannot reset it, and they see a message telling them they don't have access. The user cannot log in to Workfront.
+
+**Cannot request more access to a report**
+
+*Reports*
+
+When a user with limited access to a report attempts to request more access to a report, the option to request more access is not available under the report actions menu.
+
+**Updated confirmation message when deleting a request draft**
+
+*Requests*
+
+When discarding a drafted request, the confirmation message that displays after clicking "Discard draft" displays the following:
+
+* Draft was discarded (this is a notification to let you know that your draft was discarded)
+* Undo (this is a link you can click to revert the action of deleting the draft. This will keep the draft instead of deleting it.)
+
+Prior to this change, the options were:
+
+* Draft will be discarded
+* Cancel
+
+**Date values for Journal Entry fields incorrect when accessed through the API**
+
+*Updates*
+
+When a user changes a date value on an object, and then the Journal Entry that represents that date change is accessed through the API, the date values for oldDateVal and newDateVal returned by the API are incorrect.
+
+**Error when attempting to undo comment**
+
+*Updates*
+
+When a user attempts to undo a comment, the comment does not undo and the user sees the following error:
+
+Error
+403: You do not have sufficient access to delete this Note /attask/api-internal/NOTE
+
+**New limitation to the number of characters in an update in Preview **
+
+*Updates*
+
+To improve the performance of the Updates area, we have introduced a  new limit to the number of characters that you can enter in an update or a reply to an existing update. The new limit is 15,000 characters. This update did not change the number of characters allowed when using the API. The API character limit for updates is 4,000. 
+
+**Error when uploading attachment from Workfront for Outlook integration**
+
+*Workfront Integrations*
+
+When a user attempts to upload an attachment using the Workfront for Outlook integration, the attachment does not upload, and the user sees the following message: 
+
+Some attachments have not been uploaded. Reason: Something went wrong with uploading attachments.
+
+**Proof email notification update**
+
+*Workfront Proof*
+
+Earlier this month, as part of a patch to the Workfront Production environment, we made some bug fixed to the proof email notification system. This change was not communicated in the maintenance update when it was released. We've added the following information to the [Maintenance Update on June 2, 2022](#maintenance-update-on-june-2-2022) :
+
+As a result of those bug fixes, the email address that is used to send proof notifications has changed.
+
+Previously, proof email addresses contained your organization's subdomain. For example, notifications@[company domain].my.workfront.com
+
+Now, proofiing email addresses no longer contain an organization subdomain. All proof email notifications will come from the following address: notification@my.workfront.com
+
+As a result, we recommend you take the following actions if you haven't already:
+
+* Update your spam filters to accept emails from notification@my.workfront.com
+* Update your allowlists to accept emails from notification@my.workfront.com
+
+**User options cannot be modified after initial configuration in Workflow Templates**
+
+*Workfront Proof*
+
+When a user is adding a user to a Workflow Template, they can configure options. However, after the initial configuration is complete, the user can no longer modify the following:
+* "Resolve comments and apply actions" ability
+* "Share proof by tagging" ability
+* Proof role (Reviewer, Approver, etc.)
+
+**"This project's work items" filter has been restored in the project Workload Balancer**
+
+*Workload Balancer*
+
+We have restored the "This project's work items" filter in the Assigned area when you access the Workload Balancer from a project.
+
+This filter is now listed under the "Suggested" section of the filters for the Assigned Work area of a project's Workload Balancer.
+
 ## Updates in June 2022
 
 These issues were fixed only in the new Workfront experience. Adobe Workfront Classic is no longer supported. 
 
 All Workfront Classic functionality will be removed in July 2022. Please transition to the new experience as soon as possible.
 
+* [Maintenance Update on June 30, 2022](#maintenance-update-on-june-30-2022)
+* [Maintenance Update (Hot Fix) on June 27, 2022](#maintenance-update-hot-fix-on-june-27-2022)
+* [Maintenance Update (Hot Fix) on June 24, 2022](#maintenance-update-hot-fix-on-june-24-2022)
+* [Maintenance Update on June 23, 2022](#maintenance-update-on-june-23-2022)
+* [Workfront Scenario Planner Maintenance Update on June 23, 2022](#workfront-scenario-planner-maintenance-update-on-june-23-2022)
 * [Maintenance Update on June 16, 2022](#maintenance-update-on-june-16-2022)
 * [Maintenance Update on June 9, 2022](#maintenance-update-on-june-9-2022)
 * [Workfront Scenario Planner Maintenance Update on June 9, 2022](#workfront-scenario-planner-maintenance-update-on-june-9-2022)
 * [Workfront Fusion Maintenance Update on June 9, 2022](#workfront-fusion-maintenance-update-on-june-9-2022)
 * [Maintenance Update on June 2, 2022](#maintenance-update-on-june-2-2022)
+
+### **Maintenance Update on June 30, 2022**
+
+**Display the Workload Balancer for one week**
+
+*Workload Balancer*
+
+Based on the feedback we have received from many customers, we have now added an option to display the Workload Balancer for one week. Prior to this update, you could display the Workload Balancer for 4, 6, and 12 weeks. With this update, we have also changed the 12 week option to 3 months.
+
+**Delegate panel is now available from the Workload Balancer**
+
+*Workload Balancer*
+
+NOTE: This update exists only in the Preview environment. The functionality associated with this update will be available in Production with the 22.3 release.
+
+You can now view the delegates of a task or issue from the Workload Balancer. When assigning a task or an issue from the Workload Balancer, you can view a list of assignments as well as a list of delegates for the task or issue, if they are currently delegated.
+
+**Cannot open endpoint information in API Explorer**
+
+*API*
+
+When a user is viewing the API Explorer and clicks on an endpoint, the endpoint information does not display.
+
+**Issues with Details button when using the Home Calendar**
+
+*Home*
+
+When a user is using the Home Calendar and clicks on a task, one of the following may occur:
+
+* The Details button appears briefly, then disappears. The user cannot access the details.
+* The Details button does not appear. The user cannot access the details.
+* The Details button appears, but is not in the correct location. The user can click the button to access the details.
+
+### **Maintenance Update (Hot Fix) on June 24, 2022**
+
+**Date picker does not close when editing Custom Form**
+
+*Custom Forms*
+
+When a user is editing a custom form and attempts to change a date, the date picker does not close when the date is selected. The user cannot close the date picker by saving, canceling, or clicking away from the date picker.
+
+This has been reported in the following areas:
+* Updates area
+* Home        
+                                              
+**User cannot move self to another stage of a proof**
+
+*Proofs*
+
+When a user is viewing the Proof Workflow of a proof and attempts to drag themself to a different stage of the proof, the user's name snaps back to the original stage, and they are not added to the desired stage.
+
+### **Maintenance Update on June 23, 2022**
+
+**Cannot add new request through dashboard**
+
+*Dashboards*
+
+When a user is viewing a dashboard on a project and attempts to add a new request by clicking the +New Request button, the button is unresponsive and the user cannot add a new request.
+
+**Error when viewing items in Home Worklist**
+
+*Home*
+
+When a user is viewing their Home Worklist and clicks on an item in the Approvals I've Submitted section, the page displays the following error:
+
+"An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page."
+
+If the user refreshes the page, then clicks on any item in the Worklist, the error appears. The issue no longer affects only items in the Approvals I've Submitted section. 
+
+**Custom section on an object includes results not in that object**
+
+*Objects*
+
+When a user is viewing a custom section on an object, the custom section displays items that are not part of that object. This has been reported when the custom section is added directly to the object, and when a custom section is added through a layout template.
+
+**Tasks are moved to incorrect project**
+
+*Tasks*
+
+When a user moves tasks from Project A to Project B, then moves more tasks from Project A to Project C, the tasks originally moved to Project B appear on Project C.
+
+**Some buttons/icons do not work when accessing Workload Balancer from a shared link or dashboard**
+
+*Workload Balancer*
+
+When a user goes to the Workload Balancer via a shared link or a link in a dashboard and attempts to use the element at the top of the screen, the elements do not function. This has been reported for the following elements:
+
+* Today
+* Back and Forward arrows
+* Weeks
+* Calendar icon (date picker)
+
+
+
+### **Workfront Scenario Planner Maintenance Update on June 23, 2022**
+
+**Users with Manage permissions to a plan can share it with others**
+
+As a user with Manage permissions to a plan in the Scenario Planner, you can now share it with other users. Prior to this update, only the creator of the plan could share the plan with other users.
 
 ### **Maintenance Update on June 16, 2022**
 
