@@ -28,10 +28,55 @@ These issues were fixed only in the new Workfront experience. Adobe Workfront Cl
 
 All Workfront Classic functionality will be removed in July 2022. Please transition to the new experience as soon as possible.
 
+* [Maintenance Update on June 16, 2022](#maintenance-update-on-june-16-2022)
 * [Maintenance Update on June 9, 2022](#maintenance-update-on-june-9-2022)
 * [Workfront Scenario Planner Maintenance Update on June 9, 2022](#workfront-scenario-planner-maintenance-update-on-june-9-2022)
 * [Workfront Fusion Maintenance Update on June 9, 2022](#workfront-fusion-maintenance-update-on-june-9-2022)
 * [Maintenance Update on June 2, 2022](#maintenance-update-on-june-2-2022)
+
+### **Maintenance Update on June 16, 2022**
+
+**Group administrator cannot add members to group**
+
+*Groups*
+
+When a group administrator attempts to add a user to a group, the dropdown to select the user does not populate. The group administrator cannot select any users, and therefore cannot add any users to the group.
+
+**Custom quarters not appearing when setting a filter**
+
+*Filters*
+
+When a user is creating a filter and filters by a date field, the dropdown of available operators for the date field does not include any recently added custom quarters.
+
+**"Whoops" error when converting an issue to a project via a template**
+
+*Projects*
+
+When a user attempts to convert an issue to a project via a template, and the issue has a custom form that contains an admin-only section, the issue does not convert and the user sees the following error:
+
+"Let's try that again. Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it."
+
+**Requests are submitted without required fields filled out**
+
+*Requests*
+
+When a user creates a request and does not fill in required fields, then submits the request, the request is submitted without data in the required fields. Expected behavior is that the request would not be submitted and that the user would be notified that they need to fill in the required fields before submitting the request.
+
+**New custom quarters do not appear to save**
+
+*Setup*
+
+When a user is adding a new custom quarter from the Projects area of Setup and clicks Save, there is no visual indication of the save. The user does not see a success message, and the Save button in still present and active. However, if the user refreshes the page, they can see that the new quarters appear in the list of custom quarters.
+
+If the user adds a new quarter, clicks Save, receives no indication of the save, adds another quarter without refreshing the page, and clicks Save again, the second added quarter may not be saved.
+
+**Team Work Requests page is blank**
+
+*Teams* 
+
+NOTE: This issue exists only in the Preview environment.
+
+When a user attempts to open the Work Requests area on a team page, the page is blank. The user can see the top navigation bar, but no page content.
 
 ### **Maintenance Update on June 9, 2022**
 
@@ -571,6 +616,7 @@ When a user receives a request to submit a document, and clicks on the link to t
 Groups
 
 When a user converts an issue to a project using a template, the functionality is:
+
 * If the template has a group assigned, that group displays in the issue conversion window as the group for the new project.
 * If the template has no group assigned, the default group of the user who is converting the issue displays in the issue conversion window as the group for the new project.
 * If the template has no group, the new project should inherit the group from the issue's project.
@@ -1163,21 +1209,117 @@ When a user attempts to convert an issue to a project, the issue does not conver
 
 +++**Maintenance Update on January 27, 2022**
 
+**Custom data not preserved when converting issue to project**
+
+*Projects*
+
+When a user converts an issue to a project using a template, data from a custom form on the issue is not transferred to the comparable custom form on the project. This happens to data that is in custom fields that may be hidden based on the values of other custom fields.
+
+**User list on agile board is not alphabetical**
+
+*Agile*
+
+When a user views the user list on an agile board, the users are not displayed in alphabetical order. Instead, the users with the most assignments are listed first.
+
+**Updated links for copying and moving issues**
+
+*Issues*
+
+In the Preview environment, the links for copying and moving issues have been updated to "Copy to" and "Move to" both on the issue page as well as in an issue list.
+
+**Add up to 45 IP addresses to your Workfront allowlist**
+
+*Setup*
+
+The limit for IP addresses added to your Workfront allowlist has increased from 30 to 45.
+
 +++
 
 +++**Maintenance Update on January 20, 2022**
+
+**"Invalid Parameter" error when creating project from template**
+
+*Projects*
+
+When a user attempts to create a project from a template, and removes a custom form from the template when creating the project, the project is not created and the user sees an "Invalid Parameter" error message that mentions a required field on the removed custom form.
+
+**User list does not load in Safari browser**
+
+*Users*
+
+When a user goes to the Users area, the header appears but the list of users does not load.
+
+**Lag when dragging tasks in a list causes task to move to wrong location**
+
+*Lists*
+
+When a user attempts to move a task in a list by dragging it, the blue line that indicates where the task will be moved to moves much more slowly than the cursor. When the user releases the task, it will move to where the blue line is, even if the cursor is pointing to a different location in the list.
 
 +++
 
 +++**Workfront Fusion Maintenance Update on January 14, 2022**
 
+**Some mapped fields reset when selecting new field to map**
+
+*Workfront Fusion*
+
+When at least one field in the Workfront Create or Update modules has map enabled and a user selects a new field to map, the previously mapped fields that are map enabled lose mapping values.
+
 +++
 
 +++**Maintenance Update on January 13, 2022**
 
+**Unable to add a hyperlink to a comment in the Summary panel**
+
+*Tasks*
+
+When a user is making a comment in the summary panel of a task and attempts to add a hyperlink to the comment, the hyperlink window opens, but as soon as the user clicks into the window it closes and the user cannot add a hyperlink. If a user tabs into the window, they can type or paste a link into the field, but the hyperlink does not save. In both cases, the task becomes deselected.
+
+**Edit Team page does not close**
+
+*Teams*
+
+When a user attempts to edit a team, the edit team page does not close. The user cannot close the page by clicking either button, clicking the X, or navigating away from the page.
+
+**Email and in-app notifications are not being sent**
+
+*Notifications*
+
+When an event that should trigger a notification occurs, the notification is not sent. This may occur for email or in-app notifications, and may occur even though other notifications are being sent.
+
+**My Work list appears empty**
+
+*My Work*
+
+When a user views their My Work list, and the layout template for their My Work list includes a numerical value such as Percent Complete, the My Work list does not display.
+
+**Percent Complete and Hours Complete cannot be modified on Agile Board**
+
+*Agile*
+
+When a user selects "Show more work items" on the Agile Board, then attempts to change the Percent Complete or Hours Complete on one of the newly loaded work items, they cannot change the Percent Complete or Hours Complete. The Percent Complete button is also gray, indicating that it is inactive.
+
 +++
 
 +++**Maintenance Update on January 6, 2022**
+
+**"Invalid Parameter" error when attaching templates or custom forms to projects**
+
+*Projects*
+
+When a user attempts to attach a custom form or a template to an existing project, then fills out the required fields on the custom form or template and saves the changes to the project, the changes do not save and the user sees an "Invalid Parameter" error at the top of the project details page.
+
+**Proof comments do not display in Document updates**
+
+*Proofs*
+
+When a user views a proof in the Documents area, any comments made on the proof itself do not display in the updates area of the document.
+
+**Workload Balancer: "?[object Object]?" displays in overallocation information**
+
+*Workload Balancer*
+
+If a user shows as overallocated in the Workload Balancer due to a task overlapping the user's time off, and another user views their overallocation, the "Capacity" area of the overallocation information displays "?[object Object]?" instead of the actual capacity of the user.
 
 +++
 
