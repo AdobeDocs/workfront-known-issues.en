@@ -6,6 +6,10 @@ description: Various Workfront  modules are returning a 401 InvalidAccessTokenEr
 # Workfront Fusion: 401 error on Workfront modules
 
 
+>[!NOTE]
+>
+>This issue was fixed on June 30, 2022.
+
 Various Workfront modules are returning a 401 InvalidAccessTokenError in scenarios. This error is intermittent and may occur after successful operations in the same module. 
 
 **Workaround:**
