@@ -16,22 +16,6 @@ This page contains issues currently identified in Adobe Workfront Fusion.
 
 **No issues reported**
 
-<!--
-
-|Issue  |Last Modified   | 
-|---|---|
-|[Workfront Fusion: 401 errors on Workfront modules](401-error-on-workfront-modules.md)   | 2022/05/18  | 
-
--->
-
 ## Current Issues
 
 **No issues reported**
-
-<!--
-
-Mark these two as fixed, or delete entirely
-  + [Cannot scroll to view all scenario executions](cannot-scroll-to-view-all-scenario-executions.md)
-  + [Data from custom forms not available in Workfront Fusion Workfront modules](data-from-custom-forms-not-available.md)
-
--->
