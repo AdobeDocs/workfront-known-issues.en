@@ -8,12 +8,13 @@ user-guide-description: Known Issues for Adobe Workfront
 + [Overview](overview.md)
 + New Workfront experience {#new-workfront-experience}
   + [New Workfront experience overview](newworkfrontexperience.md)
-  + [Proofs show as "Generating proof" for excessive amounts of time](generating-proof-for-excessive-amounts-of-time.md)
 + Workfront Fusion {#fusion}
   + [Workfront Fusion overview](workfrontfusion.md)
-  + [401 error on Workfront modules](401-error-on-workfront-modules.md)
-  + [Cannot scroll to view all scenario executions](cannot-scroll-to-view-all-scenario-executions.md)
-  + [Data from custom forms not available in Workfront Fusion Workfront modules](data-from-custom-forms-not-available.md)
+  + Current Issues in Workfront Fusion {#fusion-current}
+  + Resolved Issues in Workfront Fusion {#fusion-resolved}
+    + [401 error on Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
+    + [Cannot scroll to view all scenario executions](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
+    + [Data from custom forms not available in Workfront Fusion Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 + Workfront Goals {#goals}
   + [Workfront Goals overview](workfrontgoals.md)
 + Workfront Library {#library}
@@ -40,10 +41,11 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Home: Completed proofs stuck in the Work List](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
     + [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
   + Resolved Issues in Workfront Proof {#proof-resolved}
-    + [User cannot move self to another stage of a proof](known-issues-workfront-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
+    + [Proofs: Proofs show as "Generating proof" for excessive amounts of time](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
+    + [User cannot move self to another stage of a proof](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 + Workfront Scenario Planner {#scenarioplanner}
-  + [Workfront Scenario Planner overview](known-issues-workfront-proof/workfrontscenarioplanner.md)
+  + [Workfront Scenario Planner overview](workfrontscenarioplanner.md)
 
 <!--
 

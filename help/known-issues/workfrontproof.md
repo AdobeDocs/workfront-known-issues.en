@@ -16,14 +16,14 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 |Issue  |Last Modified   | 
 |---|---|
-|[Workfront Proof: Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/proof-hyperlinks-are-not-active) | May 27, 2022 | 
+|[Workfront Proof: Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/proof-admin-has-limited-permissions.md) | May 27, 2022 | 
 |[Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports](known-issues-workfront-proof/zero-proofs-to-manage.md) | May 27, 2022 | 
 
 ## Current Issues
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [Workfront Proof: Hyperlinks in an interactive proof are not active](known-issues-workfront-proof/proof-hyperlinks-are-not-active)| July 19, 2022 |
+| [Workfront Proof: Hyperlinks in an interactive proof are not active](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)| July 19, 2022 |
 |[Workfront Proof: Areas of Workfront Proof do not update when a proof is created, moved, or archived](known-issues-workfront-proof/proof-areas-not-update-when-proof-moved.md) | July 19, 2022 | 
 |[Workfront Proof: User options cannot be modified after initial configuration in Workflow Templates](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md) | June 24, 2022 | 
 | [Proof: Users do not receive notifications when tagged in a proof](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md) | May 13, 2022 |
