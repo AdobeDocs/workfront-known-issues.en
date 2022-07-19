@@ -11,9 +11,11 @@ user-guide-description: Known Issues for Adobe Workfront
   + [Proofs show as "Generating proof" for excessive amounts of time](generating-proof-for-excessive-amounts-of-time.md)
 + Workfront Fusion {#fusion}
   + [Workfront Fusion overview](workfrontfusion.md)
-  + [401 error on Workfront modules](401-error-on-workfront-modules.md)
-  + [Cannot scroll to view all scenario executions](cannot-scroll-to-view-all-scenario-executions.md)
-  + [Data from custom forms not available in Workfront Fusion Workfront modules](data-from-custom-forms-not-available.md)
+  + Current Issues in Workfront Fusion {#fusion-current}
+  + Resolved Issues in Workfront Proof {#proof-resolved}
+    + [401 error on Workfront modules](401-error-on-workfront-modules.md)
+    + [Cannot scroll to view all scenario executions](cannot-scroll-to-view-all-scenario-executions.md)
+    + [Data from custom forms not available in Workfront Fusion Workfront modules](data-from-custom-forms-not-available.md)
 + Workfront Goals {#goals}
   + [Workfront Goals overview](workfrontgoals.md)
 + Workfront Library {#library}
