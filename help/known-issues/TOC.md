@@ -40,10 +40,11 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Home: Completed proofs stuck in the Work List](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
     + [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
   + Resolved Issues in Workfront Proof {#proof-resolved}
-    + [User cannot move self to another stage of a proof](known-issues-workfront-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
+    + [Proofs: Proofs show as "Generating proof" for excessive amounts of time](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
+    + [User cannot move self to another stage of a proof](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 + Workfront Scenario Planner {#scenarioplanner}
-  + [Workfront Scenario Planner overview](known-issues-workfront-proof/workfrontscenarioplanner.md)
+  + [Workfront Scenario Planner overview](workfrontscenarioplanner.md)
 
 <!--
 
