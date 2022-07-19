@@ -14,9 +14,15 @@ This page contains issues currently identified in Adobe Workfront Fusion.
 
 ## New or Under Investigation
 
+**No issues reported**
+
+<!--
+
 |Issue  |Last Modified   | 
 |---|---|
 |[Workfront Fusion: 401 errors on Workfront modules](401-error-on-workfront-modules.md)   | 2022/05/18  | 
+
+-->
 
 ## Current Issues
 

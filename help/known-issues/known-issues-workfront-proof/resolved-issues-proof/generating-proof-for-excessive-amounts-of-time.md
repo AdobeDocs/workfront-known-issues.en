@@ -8,7 +8,9 @@ keywords: new file, add file
 
 >[!NOTE]
 >
->This issue exists only in the Preview Sandbox Environment.
+>* This issue has been closed because it is not an issue.
+>
+>* This issue exists only in the Preview Sandbox Environment.
 
 When a user generates a proof, the proof displays as "Generating proof." This may continue for several hours. If the user attempts to open the proof while "Generating proof" is still displayed, the user cannot open the proof. The proof has been generated, but cannot be accessed.
 
