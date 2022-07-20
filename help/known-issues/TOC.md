@@ -6,21 +6,16 @@ user-guide-description: Known Issues for Adobe Workfront
 # Known Issues {#issues}
 
 + [Overview](overview.md)
-+ New Workfront experience {#new-workfront-experience}
-  + [New Workfront experience overview](newworkfrontexperience.md)
-+ Workfront Fusion {#fusion}
-  + [Workfront Fusion overview](workfrontfusion.md)
-  + Current Issues in Workfront Fusion {#fusion-current}
-  + Resolved Issues in Workfront Fusion {#fusion-resolved}
-    + [401 error on Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-    + [Cannot scroll to view all scenario executions](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
-    + [Data from custom forms not available in Workfront Fusion Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
-+ Workfront Goals {#goals}
-  + [Workfront Goals overview](workfrontgoals.md)
-+ Workfront Library {#library}
-  + [Workfront Library overview](workfrontlibrary.md)
-+ Workfront Mobile App {#mobile}
-  + [Workfront Mobile App overview](workfrontmobile.md)
+
++ Adobe Workfront {#new-workfront-experience}
+  + [Adobe Workfront](newworkfrontexperience.md)
+  + [Current Issues in Adobe Workfront] {#wf-current}
+    + [Home: Unable to view the document image in the Work List](known-issues-workfront/wf-home-unable-to-view-document-image.md)
+    + [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
+    + [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+    + [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
+  + [Resolved issues in Adobe Workfront] {#wf-resolved}
+
 + Workfront Proof {#proof}
   + [Workfront Proof overview](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
@@ -44,6 +39,20 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Proofs: Proofs show as "Generating proof" for excessive amounts of time](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
     + [User cannot move self to another stage of a proof](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
++ Adobe Workfront Fusion {#fusion}
+  + [Workfront Fusion overview](workfrontfusion.md)
+  + Current Issues in Workfront Fusion {#fusion-current}
+  + Resolved Issues in Workfront Fusion {#fusion-resolved}
+    + [401 error on Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
+    + [Cannot scroll to view all scenario executions](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
+    + [Data from custom forms not available in Workfront Fusion Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
+
++ Adobe Workfront Goals {#goals}
+  + [Workfront Goals overview](workfrontgoals.md)
++ Workfront Library {#library}
+  + [Workfront Library overview](workfrontlibrary.md)
++ Workfront Mobile App {#mobile}
+  + [Workfront Mobile App overview](workfrontmobile.md)
 + Workfront Scenario Planner {#scenarioplanner}
   + [Workfront Scenario Planner overview](workfrontscenarioplanner.md)
 
