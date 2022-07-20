@@ -56,7 +56,7 @@ This page contains issues currently identified in Adobe Workfront.
 | [Email Notifications: "I'm assigned to an issue" setting is displaying](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)                              | June 2, 2021      |
 | [Email Notifications: User isn't directed to comment thread](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)                                       | April 23, 2021    |
 | [Calendars: OR filter statement excluding filter rule](known-issues-workfront/wf-calendars-or-filter-statement.md)                                               | April 23, 2021    |
-| [Proof: Proof Approval report can't accurately determine deadlines](Known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)                                  | April 21, 2021    |
+| [Proof: Proof Approval report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)                                  | April 21, 2021    |
 | [Home: Completed proofs stuck in the Work List](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)                                                      | June 14, 2021     |
 | [Reports: Cannot scroll report horizontally when viewing on dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)                              | March 30, 2021    |
 | [Home: Project Name shows as a GUID in the Work List](known-issues-workfront/wf-home-project-name-shows-as-guid.md)                                                | February 11, 2021 |
