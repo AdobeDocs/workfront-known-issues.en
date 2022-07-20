@@ -10,6 +10,8 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Adobe Workfront](newworkfrontexperience.md)
   + [Current Issues in Adobe Workfront] {#wf-current}
+    + [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/wf-timesheets-hours-not-autosaving-correctly.md)
+    + [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
     + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md)
     + [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/wf-requests-converted-shows-group-from-queue.md)
     + [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md)

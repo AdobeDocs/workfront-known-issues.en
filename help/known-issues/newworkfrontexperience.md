@@ -16,6 +16,8 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/wf-timesheets-hours-not-autosaving-correctly.md) | July 20, 2022 | 
+| [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 20, 2022 | 
 | [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md) | July 20, 2022 | 
 | [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/wf-requests-converted-shows-group-from-queue.md) | July 20, 2022 | 
 | [Reports: New Reporting Canvas does not load](known-issues-workfront/wf-reports-new-canvas-does-not-load.md) | July 12, 2022 | 
