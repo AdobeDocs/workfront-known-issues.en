@@ -71,12 +71,11 @@ This page contains issues currently identified in Adobe Workfront.
 | Calendars: OR filter statement excluding filter rule                                               | April 23, 2021    |
 | Proof: Proof Approval report can't accurately determine deadlines                                  | April 21, 2021    |
 | Home: Completed proofs stuck in the Work List                                                      | June 14, 2021     |
-| Reports: Cannot scroll report horizontally when viewing on dashboard                               | March 30, 2021    |
-| Home: Project Name shows as a GUID in the Work List                                                | February 11, 2021 |
-| Documents: Proof workflow icon is not displaying                                                   | January 25, 2021  |
-| Reports: Calendar defaults to old dates                                                            | February 5, 2021  |
-| Resource Management: Project allocated time is showing up on the weekends in the Workload Balancer | April 23, 2021    |
-| Email Notifications: Emails are not formatting correctly in Outlook                                | March 30, 2021    |
+| [Reports: Cannot scroll report horizontally when viewing on dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)                              | March 30, 2021    |
+| [Home: Project Name shows as a GUID in the Work List](known-issues-workfront/wf-home-project-name-shows-as-guid.md)                                                | February 11, 2021 |
+| [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)                                                   | January 25, 2021  |
+| [Reports: Calendar defaults to old dates](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)                                                            | February 5, 2021  |
+| [Email Notifications: Emails are not formatting correctly in Outlook](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)                                | March 30, 2021    |
 | [Home: Unable to view the document image in the Work List](known-issues-workfront/wf-home-unable-to-view-document-image.md)                                           | November 9, 2020  |
 | [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)                                | November 9, 2020  |
 | [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)                | November 9, 2020  |

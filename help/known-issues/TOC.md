@@ -10,6 +10,10 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Adobe Workfront](newworkfrontexperience.md)
   + [Current Issues in Adobe Workfront] {#wf-current}
+    + [Reports: Cannot scroll report horizontally when viewing on dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
+    + [Home: Project Name shows as a GUID in the Work List](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
+    + [Reports: Calendar defaults to old dates](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
+    + [Email Notifications: Emails are not formatting correctly in Outlook](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) 
     + [Home: Unable to view the document image in the Work List](known-issues-workfront/wf-home-unable-to-view-document-image.md)
     + [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
     + [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
