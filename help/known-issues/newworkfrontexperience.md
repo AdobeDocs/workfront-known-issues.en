@@ -33,13 +33,13 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/wf-tasks-cannot-select-elapsed-time.md) | July 19, 2022
+| [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/wf-tasks-cannot-select-elapsed-time.md) | July 19, 2022 |
 | [Updates: My Updates page is blank](known-issues-workfront/wf-updates-my-updates-blank.md) | July 19, 2022 |
 | [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
 | [Updates: Tagging users and then navigating away removes the tagged users](known-issues-workfront/wf-updates-tag-users-navigate-away-untags.md) | July 14, 2022 |
 | [Calendar: Button displays incorrectly when adding items to the Calendar](known-issues-workfront/wf-calendar-button-displays-incorrectly.md) | July 1, 2022 |
 | [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md) | June 28, 2022 |
-| [Timesheets: Issues when creating timesheets](known-issues-workfront/wf-timesheets-issues-creating-timesheets.md) | June 24, 2022
+| [Timesheets: Issues when creating timesheets](known-issues-workfront/wf-timesheets-issues-creating-timesheets.md) | June 24, 2022 |
 | [Users: "Only Allow SAML 2.0 Authentication" setting is missing when copying a user](known-issues-workfront/wf-users-only-allow-saml-setting-missing.md) | June 21, 2022 |
 | [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |
 | [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/wf-reports-scheduled-not-sent-to-all.md) | June 3, 2022 |
