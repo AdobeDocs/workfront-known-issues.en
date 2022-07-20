@@ -33,17 +33,18 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| Proofs: Cannot close proof                                                                         | May 13, 2022      |
-| Lists: Horizontal scroll bar blocks item at end of list                                            | May 13, 2022      |
-| Groups: Cannot add or remove group administrator                                                   | May 11, 2022      |
-| Custom forms: Cannot edit custom forms with section breaks                                         | May 11, 2022      |
-| Agile: Cannot edit fields from custom forms on cards                                               | May 11, 2022      |
-| Proofs: Comments made in Proof Viewer are not visible in real time                                 | May 11, 2022      |
-| Users: Some access levels not available when creating a new user                                   | May 9, 2022       |
-| Projects: "Unexpected error" when converting an issue to a project using a template                | May 9, 2022       |
-| Workload Balancer: Users show Allocated Hours on weekends                                          | May 6, 2022       |
-| Updates: Navigating away from new update removes tagged users                                      | May 6, 2022       |
-| Setup: Issues with the order of statuses in Setup                                                  | May 5, 2022       |
+| [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/wf-tasks-cannot-select-elapsed-time.md) | July 19, 2022 |
+| [Updates: My Updates page is blank](known-issues-workfront/wf-updates-my-updates-blank.md) | July 19, 2022 |
+| [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
+| [Updates: Tagging users and then navigating away removes the tagged users](known-issues-workfront/wf-updates-tag-users-navigate-away-untags.md) | July 14, 2022 |
+| [Calendar: Button displays incorrectly when adding items to the Calendar](known-issues-workfront/wf-calendar-button-displays-incorrectly.md) | July 1, 2022 |
+| [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md) | June 28, 2022 |
+| [Timesheets: Issues when creating timesheets](known-issues-workfront/wf-timesheets-issues-creating-timesheets.md) | June 24, 2022 |
+| [Users: "Only Allow SAML 2.0 Authentication" setting is missing when copying a user](known-issues-workfront/wf-users-only-allow-saml-setting-missing.md) | June 21, 2022 |
+| [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |
+| [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/wf-reports-scheduled-not-sent-to-all.md) | June 3, 2022 |
+| [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)                                               | May 11, 2022      |
+| [Proofs: Comments made in Proof Viewer are not visible in real time](known-issues-workfront-proof/comments-not-visible-in-real-time.md)                                 | May 11, 2022      |
 | [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md)                              | May 4, 2022       |
 | [Proofs: Inaccurate proof approval deadline displayed in Home Work List](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)                             | April 25, 2022    |
 | [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)                             | April 20, 2022    |
