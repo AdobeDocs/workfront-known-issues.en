@@ -1,6 +1,6 @@
 ---
 title: "Search: Cannot search projects by reference number"
-description:When a user attempts to search for an existing project using its reference number, the search does not return the project. 
+description: When a user attempts to search for an existing project using its reference number, the search does not return the project. 
 ---
 
 # Search: Cannot search projects by reference number
