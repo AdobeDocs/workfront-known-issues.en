@@ -24,7 +24,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Workfront Proof {#proof}
   + [Workfront Proof overview](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
-    + [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
+    + [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/resolved-issues-proof/proof-admin-has-limited-permissions.md)
     + [Dashboard shows 0 proofs in Proofs to manage](known-issues-workfront-proof/zero-proofs-to-manage.md)
     + [Workfront Proof: Hyperlinks in an interactive proof are not active](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
     + [Workfront Proof: Areas of Workfront Proof do not update when a proof is created, moved, or archived](known-issues-workfront-proof/proof-areas-not-update-when-proof-moved.md)

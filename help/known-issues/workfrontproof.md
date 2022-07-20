@@ -16,7 +16,7 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 |Issue  |Last Modified   | 
 |---|---|
-|[Workfront Proof: Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/proof-admin-has-limited-permissions.md) | May 27, 2022 | 
+|[Workfront Proof: Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/resolved-issues-proof/proof-admin-has-limited-permissions.md) | May 27, 2022 | 
 |[Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports](known-issues-workfront-proof/zero-proofs-to-manage.md) | May 27, 2022 | 
 
 ## Current Issues
