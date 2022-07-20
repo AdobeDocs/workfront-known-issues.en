@@ -44,33 +44,20 @@ This page contains issues currently identified in Adobe Workfront.
 | Workload Balancer: Users show Allocated Hours on weekends                                          | May 6, 2022       |
 | Updates: Navigating away from new update removes tagged users                                      | May 6, 2022       |
 | Setup: Issues with the order of statuses in Setup                                                  | May 5, 2022       |
-| Layout Templates: Cannot select group when creating a Layout Template                              | May 4, 2022       |
-| Reports: Long load times for reports                                                               | April 29, 2022    |
-| Proofs: Inaccurate proof approval deadline displayed in Home Work List                             | April 25, 2022    |
-| Dashboards: Issues when printing Dashboards to PDF                                                 | April 25, 2022    |
-| Updates: Error when attempting to undo comment                                                     | April 21, 2022    |
-| Templates: Some custom forms do not display when editing a template                                | April 20, 2022    |
-| Approvals: Approval delegation is set for the incorrect number of days                             | April 20, 2022    |
-| Projects: Calculated field values incorrect when creating project from template                    | April 19, 2022    |
-| Reports: Reports loading slowly when the view contains collections**                               | April 8, 2022     |
-| Approvals: Approvals display profile picture instead of name of requestor                          | March 30, 2022    |
-| Users: Users cannot be deleted                                                                     | March 8, 2022     |
-| Users: Cannot edit access level of users                                                           | March 4, 2022     |
-| Proofs: Cannot create a new version of a proof                                                     | March 2, 2022     |
-| Home: Home summary issues when using browsers other than Chrome                                    | February 24, 2022 |
-| Projects: "You must be a system admin" error when creating a project                               | February 10, 2022 |
-| Notifications: Emails are being sent for events that have disabled notifications                   | December 23, 2021 |
-| Home: New Task option showing deactivated users in Assign To field                                 | October 1, 2021   |
-| Updates: Team name not appearing in @mention                                                       | October 1, 2021   |
-| Agile: Horizontal scroll bar appears at bottom of the page                                         | July 19, 2021     |
-| Calendars: Issues with Time Off calendar                                                           | June 25, 2021     |
-| Agile: Discrepancy in Completed Points for an iteration                                            | June 22, 2021     |
-| Home: Reply in Proof button behavior is inconsistent                                               | June 21, 2021     |
-| Email Notifications: "I'm assigned to an issue" setting is displaying                              | June 2, 2021      |
-| Email Notifications: User isn't directed to comment thread                                         | April 23, 2021    |
-| Calendars: OR filter statement excluding filter rule                                               | April 23, 2021    |
-| Proof: Proof Approval report can't accurately determine deadlines                                  | April 21, 2021    |
-| Home: Completed proofs stuck in the Work List                                                      | June 14, 2021     |
+| [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md)                              | May 4, 2022       |
+| [Proofs: Inaccurate proof approval deadline displayed in Home Work List](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)                             | April 25, 2022    |
+| [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)                             | April 20, 2022    |
+| [Home: Home summary issues when using browsers other than Chrome](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)                                    | February 24, 2022 |
+| [Home: New Task option showing deactivated users in Assign To field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)                                 | October 1, 2021   |
+| [Updates: Team name not appearing in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md)                                                       | October 1, 2021   |
+| [Calendars: Issues with Time Off calendar](known-issues-workfront/wf-calendars-issue-time-off.md)                                                           | June 25, 2021     |
+| [Agile: Discrepancy in Completed Points for an iteration](known-issues-workfront/agile-discrepancy-in-completed-points.md)                                            | June 22, 2021     |
+| [Home: Reply in Proof button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)                                               | June 21, 2021     |
+| [Email Notifications: "I'm assigned to an issue" setting is displaying](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)                              | June 2, 2021      |
+| [Email Notifications: User isn't directed to comment thread](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)                                       | April 23, 2021    |
+| [Calendars: OR filter statement excluding filter rule](known-issues-workfront/wf-calendars-or-filter-statement.md)                                               | April 23, 2021    |
+| [Proof: Proof Approval report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)                                  | April 21, 2021    |
+| [Home: Completed proofs stuck in the Work List](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)                                                      | June 14, 2021     |
 | [Reports: Cannot scroll report horizontally when viewing on dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)                              | March 30, 2021    |
 | [Home: Project Name shows as a GUID in the Work List](known-issues-workfront/wf-home-project-name-shows-as-guid.md)                                                | February 11, 2021 |
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)                                                   | January 25, 2021  |
