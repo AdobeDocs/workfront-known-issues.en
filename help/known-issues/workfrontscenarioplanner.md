@@ -10,7 +10,7 @@ This page contains issues currently identified in Adobe Workfront Scenario Plann
 
 >[!IMPORTANT]
 >
->For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see Workfront Maintenance Updates.
+>For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [Workfront Maintenance Updates](../maintenance/current-updates.md).
 
 ## New or Under Investigation
 
