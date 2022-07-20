@@ -12,7 +12,7 @@ user-guide-description: Known Issues for Adobe Workfront
   + [Current Issues in Adobe Workfront] {#wf-current}
     + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md)
     + [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/wf-requests-converted-shows-group-from-queue.md)
-    + [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md) | July 20, 2022
+    + [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md)
     + [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/wf-templ-cannot-deselect-tasks.md)
     + [Reports: New Reporting Canvas does not load](known-issues-workfront/wf-reports-new-canvas-does-not-load.md)
     + [Search: Error when using Search in Workfront](known-issues-workfront/wf-search-error-using-search.md) 
