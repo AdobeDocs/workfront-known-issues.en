@@ -1,5 +1,5 @@
 ---
-title: "Email Notifications: "I'm assigned to an issue" setting is displaying"
+title: "Email Notifications: I'm assigned to an issue setting is displaying"
 description: In the Setup area, the Email Notifications setting "I'm assigned to an issue" is displaying for users with Review and Request licenses. This setting is not available for these license types and enabling the setting does not trigger email notifications for this event.
 ---
 
