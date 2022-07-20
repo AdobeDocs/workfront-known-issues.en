@@ -4,9 +4,9 @@ description: Rported known issues for new Adobe Workfront Experience
 keywords: new file, add file
 ---
 
-# Known Issues in new Adobe Workfront Experience
+# Known Issues in Adobe Workfront
 
-This page contains issues currently identified in new Adobe Workfront Experience.
+This page contains issues currently identified in Adobe Workfront.
 
 >[!IMPORTANT]
 >
@@ -77,12 +77,10 @@ This page contains issues currently identified in new Adobe Workfront Experience
 | Reports: Calendar defaults to old dates                                                            | February 5, 2021  |
 | Resource Management: Project allocated time is showing up on the weekends in the Workload Balancer | April 23, 2021    |
 | Email Notifications: Emails are not formatting correctly in Outlook                                | March 30, 2021    |
-| Home: Unable to view the document image in the Work List                                           | November 9, 2020  |
-| Lists: Display name is not being applied to custom field grouping                                  | November 9, 2020  |
-| Home: Approval delegation dates changing after the refresh and sending out 2 emails                | November 9, 2020  |
-| Calendar: Tasks not displaying                                                                     | November 9, 2020  |
-| Dashboards: All direct calendar links navigate to the Reports area                                 | November 9, 2020  |
-| Left navigation panel missing scroll bar                                                           | November 9, 2020  |
+| [Home: Unable to view the document image in the Work List](known-issues-workfront/wf-home-unable-to-view-document-image.md)                                           | November 9, 2020  |
+| [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)                                | November 9, 2020  |
+| [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)                | November 9, 2020  |
+| [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)                                                                     | November 9, 2020  |
 
 
 
