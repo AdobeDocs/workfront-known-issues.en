@@ -16,23 +16,21 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
-| [Proofs: Proofs show as "Generating proof" for excessive amounts of time](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md) | May 16, 2022 |
-| Workfront Integrations: Files sent to Adobe Experience Manager Asset Essentials do not include metadata | May 13, 2022      |
-| Search: Error when using Advanced Search                                                                | May 13, 2022      |
-| Reports: Report does not load, eventually times out                                                     | May 12, 2022      |
-| Workfront: Some words display in an alternate language throughout Workfront                             | May 10, 2022      |
-| Proofs: "You do not have sufficient access" error when accessing a proof.                               | May 6, 2022       |
-| Agile: Issues when moving cards on the Agile board                                                      | April 27, 2022    |
-| Home: Custom terminology is not applied to Home area                                                    | April 26, 2022    |
-| Users: Users are unable to access or edit their own profiles                                            | April 8, 2022     |
-| Hours: Logged hours are doubling on Timesheets and Project Hours                                        | March 22, 2022    |
-| Reports: Scheduled reports are not sent to all recipients                                               | March 1, 2022     |
-
+| [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md) | July 20, 2022 | 
+| [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/wf-requests-converted-shows-group-from-queue.md) | July 20, 2022 | 
+| [Reports: New Reporting Canvas does not load](known-issues-workfront/wf-reports-new-canvas-does-not-load.md) | July 12, 2022 | 
+| [Search: Error when using Search in Workfront](known-issues-workfront/wf-search-error-using-search.md) | July 12, 2022 |
+| [Issues: Cannot approve or reject hours on an issue](known-issues-workfront/wf-issues-cannot-approve-hours.md) | June 24, 2022 |
+| [Reports: Reports not sent as scheduled](known-issues-workfront/wf-reports-not-sent-as-scheduled.md) |June 22, 2022 |
+| [Reports: Matrix reports display incorrectly when scrolling](known-issues-workfront/wf-reports-matrix-display-incorrectly.md) | June 10, 2022 |
+| [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 
 ## Current Issues
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md) | July 20, 2022 |
+| [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/wf-templ-cannot-deselect-tasks.md) | July 20, 2022 |
 | [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/wf-tasks-cannot-select-elapsed-time.md) | July 19, 2022 |
 | [Updates: My Updates page is blank](known-issues-workfront/wf-updates-my-updates-blank.md) | July 19, 2022 |
 | [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
