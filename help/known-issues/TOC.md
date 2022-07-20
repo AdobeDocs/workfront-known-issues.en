@@ -10,6 +10,16 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Adobe Workfront](newworkfrontexperience.md)
   + [Current Issues in Adobe Workfront] {#wf-current}
+    + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md)
+    + [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/wf-requests-converted-shows-group-from-queue.md)
+    + [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md)
+    + [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/wf-templ-cannot-deselect-tasks.md)
+    + [Reports: New Reporting Canvas does not load](known-issues-workfront/wf-reports-new-canvas-does-not-load.md)
+    + [Search: Error when using Search in Workfront](known-issues-workfront/wf-search-error-using-search.md) 
+    + [Issues: Cannot approve or reject hours on an issue](known-issues-workfront/wf-issues-cannot-approve-hours.md)
+    + [Reports: Reports not sent as scheduled](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
+    + [Reports: Matrix reports display incorrectly when scrolling](known-issues-workfront/wf-reports-matrix-display-incorrectly.md)
+    + [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md)
     + [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/wf-tasks-cannot-select-elapsed-time.md)
     + [Updates: My Updates page is blank](known-issues-workfront/wf-updates-my-updates-blank.md)
     + [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md)
