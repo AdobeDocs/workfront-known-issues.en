@@ -10,6 +10,16 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Adobe Workfront](newworkfrontexperience.md)
   + [Current Issues in Adobe Workfront] {#wf-current}
+    + [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
+    + [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)
+    + [Home: Home summary issues when using browsers other than Chrome](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
+    + [Home: New Task option showing deactivated users in Assign To field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
+    + [Updates: Team name not appearing in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
+    + [Calendars: Issues with Time Off calendar](known-issues-workfront/wf-calendars-issue-time-off.md)
+    + [Agile: Discrepancy in Completed Points for an iteration](known-issues-workfront/agile-discrepancy-in-completed-points.md)
+    + [Email Notifications: "I'm assigned to an issue" setting is displaying](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
+    + [Email Notifications: User isn't directed to comment thread](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
+    + [Calendars: OR filter statement excluding filter rule](known-issues-workfront/wf-calendars-or-filter-statement.md)
     + [Reports: Cannot scroll report horizontally when viewing on dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
     + [Home: Project Name shows as a GUID in the Work List](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
     + [Reports: Calendar defaults to old dates](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
