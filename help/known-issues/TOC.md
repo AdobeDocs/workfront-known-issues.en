@@ -9,7 +9,7 @@ user-guide-description: Known Issues for Adobe Workfront
 
 + Adobe Workfront {#new-workfront-experience}
   + [Adobe Workfront](newworkfrontexperience.md)
-  + [Current Issues in Adobe Workfront] {#wf-current}
+  + Current Issues in Adobe Workfront {#wf-current}
     + [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/wf-timesheets-hours-not-autosaving-correctly.md)
     + [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
     + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md)
@@ -22,14 +22,11 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Reports: Reports not sent as scheduled](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
     + [Reports: Matrix reports display incorrectly when scrolling](known-issues-workfront/wf-reports-matrix-display-incorrectly.md)
     + [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md)
-    + [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
-    + [Updates: My Updates page is blank](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
     + [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md)
     + [Updates: Tagging users and then navigating away removes the tagged users](known-issues-workfront/wf-updates-tag-users-navigate-away-untags.md)
     + [Calendar: Button displays incorrectly when adding items to the Calendar](known-issues-workfront/wf-calendar-button-displays-incorrectly.md)
     + [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
     + [Timesheets: Issues when creating timesheets](known-issues-workfront/wf-timesheets-issues-creating-timesheets.md)
-    + [Users: "Only Allow SAML 2.0 Authentication" setting is missing when copying a user](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
     + [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
     + [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/wf-reports-scheduled-not-sent-to-all.md)
     + [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
@@ -52,6 +49,10 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
     + [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
   + [Resolved issues in Adobe Workfront] {#wf-resolved}
+    + [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
+    + [Updates: My Updates page is blank](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
+    + [Users: "Only Allow SAML 2.0 Authentication" setting is missing when copying a user](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
+
 
 + Workfront Proof {#proof}
   + [Workfront Proof overview](workfrontproof.md)

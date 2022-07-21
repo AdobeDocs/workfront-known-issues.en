@@ -13,6 +13,7 @@ The following maintenance updates have been made in 2022.
 >
 >These updates also include other minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
 
+<!--
 * [July 2022](#updates-in-july-2022)
 * [June 2022](#updates-in-june-2022)
 * [May 2022](#updates-in-may-2022)
@@ -20,6 +21,7 @@ The following maintenance updates have been made in 2022.
 * [March 2022](#updates-in-march-2022)
 * [February 2022](#updates-in-february-2022)
 * [January 2022](#updates-in-january-2022)
+-->
 
 For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
@@ -29,10 +31,12 @@ These issues were fixed only in the new Workfront experience.
 
 All Workfront Classic functionality was removed on July 14, 2022.
 
+<!--
 * [Maintenance Update on July 21, 2022](#maintenance-update-on-july-21-2022)
 * [Maintenance Update on July 14, 2022](#maintenance-update-on-july-14-2022)
+-->
 
-### **Maintenance Update on July 21, 2022**
++++**Maintenance Update on July 21, 2022**
 
 **Rejection status associated with an approval honors the approval workflow**
 
@@ -75,7 +79,9 @@ When a user attempts to view their My Updates page, the page does not load. The 
 
 When a group administrator copies a user and deselects the "Send an invite email to this person" option, the "Only Allow SAML 2.0 Authentication" checkbox does not appear as expected. This can occur even when all access and permission requirements for this action are met.
 
-### **Maintenance Update on July 14, 2022**
++++
+
++++**Maintenance Update on July 14, 2022**
 
 **Error when resetting password**
 
@@ -167,8 +173,11 @@ We have restored the "This project's work items" filter in the Assigned area whe
 
 This filter is now listed under the "Suggested" section of the filters for the Assigned Work area of a project's Workload Balancer.
 
++++
+
 ## Updates in June 2022
 
+<!--
 These issues were fixed only in the new Workfront experience. Adobe Workfront Classic is no longer supported. 
 
 All Workfront Classic functionality will be removed in July 2022. Please transition to the new experience as soon as possible.
@@ -183,8 +192,9 @@ All Workfront Classic functionality will be removed in July 2022. Please transit
 * [Workfront Scenario Planner Maintenance Update on June 9, 2022](#workfront-scenario-planner-maintenance-update-on-june-9-2022)
 * [Workfront Fusion Maintenance Update on June 9, 2022](#workfront-fusion-maintenance-update-on-june-9-2022)
 * [Maintenance Update on June 2, 2022](#maintenance-update-on-june-2-2022)
+-->
 
-### **Maintenance Update on June 30, 2022**
++++**Maintenance Update on June 30, 2022**
 
 **Display the Workload Balancer for one week**
 
@@ -216,7 +226,9 @@ When a user is using the Home Calendar and clicks on a task, one of the followin
 * The Details button does not appear. The user cannot access the details.
 * The Details button appears, but is not in the correct location. The user can click the button to access the details.
 
-### **Maintenance Update (Hot Fix) on June 24, 2022**
++++
+
++++**Maintenance Update (Hot Fix) on June 24, 2022**
 
 **Date picker does not close when editing Custom Form**
 
@@ -235,7 +247,9 @@ This has been reported in the following areas:
 
 When a user is viewing the Proof Workflow of a proof and attempts to drag themself to a different stage of the proof, the user's name snaps back to the original stage, and they are not added to the desired stage.
 
-### **Maintenance Update on June 23, 2022**
++++
+
++++**Maintenance Update on June 23, 2022**
 
 **Cannot add new request through dashboard**
 
@@ -276,15 +290,17 @@ When a user goes to the Workload Balancer via a shared link or a link in a dashb
 * Weeks
 * Calendar icon (date picker)
 
++++
 
-
-### **Workfront Scenario Planner Maintenance Update on June 23, 2022**
++++**Workfront Scenario Planner Maintenance Update on June 23, 2022**
 
 **Users with Manage permissions to a plan can share it with others**
 
 As a user with Manage permissions to a plan in the Scenario Planner, you can now share it with other users. Prior to this update, only the creator of the plan could share the plan with other users.
 
-### **Maintenance Update on June 16, 2022**
++++
+
++++**Maintenance Update on June 16, 2022**
 
 **Group administrator cannot add members to group**
 
@@ -328,7 +344,9 @@ NOTE: This issue exists only in the Preview environment.
 
 When a user attempts to open the Work Requests area on a team page, the page is blank. The user can see the top navigation bar, but no page content.
 
-### **Maintenance Update on June 9, 2022**
++++
+
++++**Maintenance Update on June 9, 2022**
 
 The following customer-reported issues were fixed on June 9, 2022.
 
@@ -350,7 +368,9 @@ When a user attempts to edit the Planned Start Date or Planned Completion Date o
 
 When a user who has Planner access that includes User Admin (Group Users) access attempts to edit users in the group they are an admin for, the Access level field is disables, and the user is unable to edit the access level.
 
-### **Workfront Scenario Planner Maintenance Update on June 9, 2022**
++++
+
++++**Workfront Scenario Planner Maintenance Update on June 9, 2022**
 
 **Resizable left panel in the Scenario Planner**
 
@@ -358,7 +378,9 @@ When a user who has Planner access that includes User Admin (Group Users) access
 
 You can now resize the left panel on a Plan, in the Scenario Planner. This allows longer initiative names to display fully. Prior to this update, longer initiative names were truncated. 
 
-### **Workfront Fusion Maintenance Update on June 9, 2022**
++++
+
++++**Workfront Fusion Maintenance Update on June 9, 2022**
 
 **Data from custom forms not available in Workfront Fusion Workfront modules**
 
@@ -372,7 +394,9 @@ When a user is configuring a Workfront module in Workfront Fusion, and attempts 
 
 When a user is viewing a scenario's execution history and attempts to scroll down to view more executions, the executions stop loading and the user is unable to view them. Additionally, the user cannot scroll back up to the most recent executions.
 
-### **Maintenance Update on June 2, 2022**
++++
+
++++**Maintenance Update on June 2, 2022**
 
 **Portfolio Optimizer shows a score of 0 when using language other than English**
 
