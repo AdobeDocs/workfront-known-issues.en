@@ -1578,3 +1578,4 @@ If a user shows as overallocated in the Workload Balancer due to a task overlapp
 Information regarding previous maintenance updates is available here:
 
 * [Workfront Maintenance Updates Archive - 2021](2021-updates.md)
+ 
