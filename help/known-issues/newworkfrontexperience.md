@@ -33,14 +33,11 @@ This page contains issues currently identified in Adobe Workfront.
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md) | July 20, 2022 |
 | [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/wf-templ-cannot-deselect-tasks.md) | July 20, 2022 |
-| [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/wf-tasks-cannot-select-elapsed-time.md) | July 19, 2022 |
-| [Updates: My Updates page is blank](known-issues-workfront/wf-updates-my-updates-blank.md) | July 19, 2022 |
 | [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
 | [Updates: Tagging users and then navigating away removes the tagged users](known-issues-workfront/wf-updates-tag-users-navigate-away-untags.md) | July 14, 2022 |
 | [Calendar: Button displays incorrectly when adding items to the Calendar](known-issues-workfront/wf-calendar-button-displays-incorrectly.md) | July 1, 2022 |
 | [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md) | June 28, 2022 |
 | [Timesheets: Issues when creating timesheets](known-issues-workfront/wf-timesheets-issues-creating-timesheets.md) | June 24, 2022 |
-| [Users: "Only Allow SAML 2.0 Authentication" setting is missing when copying a user](known-issues-workfront/wf-users-only-allow-saml-setting-missing.md) | June 21, 2022 |
 | [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |
 | [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/wf-reports-scheduled-not-sent-to-all.md) | June 3, 2022 |
 | [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)                                               | May 11, 2022      |
@@ -52,7 +49,7 @@ This page contains issues currently identified in Adobe Workfront.
 | [Home: New Task option showing deactivated users in Assign To field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)                                 | October 1, 2021   |
 | [Updates: Team name not appearing in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md)                                                       | October 1, 2021   |
 | [Calendars: Issues with Time Off calendar](known-issues-workfront/wf-calendars-issue-time-off.md)                                                           | June 25, 2021     |
-| [Agile: Discrepancy in Completed Points for an iteration](known-issues-workfront/agile-discrepancy-in-completed-points.md)                                            | June 22, 2021     |
+| [Agile: Discrepancy in Completed Points for an iteration](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)                                            | June 22, 2021     |
 | [Home: Reply in Proof button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)                                               | June 21, 2021     |
 | [Email Notifications: "I'm assigned to an issue" setting is displaying](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)                              | June 2, 2021      |
 | [Email Notifications: User isn't directed to comment thread](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)                                       | April 23, 2021    |
