@@ -5,6 +5,10 @@ description: When a user is viewing a task list and attempts to edit the Task Du
 
 # Tasks: Cannot select Elapsed time when inline editing Task Duration
 
+>[!NOTE]
+>
+>This issue was fixed on July 21, 2022.
+
 When a user is viewing a task list and attempts to edit the Task Duration, the following duration units are not available:
 
 * Elapsed Minutes

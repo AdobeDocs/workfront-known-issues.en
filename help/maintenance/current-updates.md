@@ -13,6 +13,7 @@ The following maintenance updates have been made in 2022.
 >
 >These updates also include other minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
 
+* [July 2022](#updates-in-july-2022)
 * [June 2022](#updates-in-june-2022)
 * [May 2022](#updates-in-may-2022)
 * [April 2022](#updates-in-april-2022)
@@ -28,7 +29,51 @@ These issues were fixed only in the new Workfront experience.
 
 All Workfront Classic functionality was removed on July 14, 2022.
 
+* [Maintenance Update on July 21, 2022](#maintenance-update-on-july-21-2022)
 * [Maintenance Update on July 14, 2022](#maintenance-update-on-july-14-2022)
+
+### **Maintenance Update on July 21, 2022**
+
+**Rejection status associated with an approval honors the approval workflow**
+
+**NOTE: This functionality is scheduled to release on July 22, 2022.**
+
+*Approvals*
+
+If you select a status associated with an approval process as the rejection status for an approval path, the rejected object moves to the selected status, and it will be marked as “Pending approval”. For example, if you select On Hold for the rejection status and the On Hold status is associated with an approval process, the rejected object is placed in the status of “On Hold- Pending approval”, requiring the approval. 
+
+Before this update, the object bypassed the approval process for the rejection status, and it was placed in the On Hold status.
+
+**Configure a custom help URL**
+
+*Main Menu*
+
+If your organization has a custom internal help site, you can configure the Main Menu Help icon to go to that site. This is useful if the help site contains information about how your organization uses Workfront.
+This custom URL does not affect the main Help link in the top area of Workfront, nor the context-sensitive help links throughout Workfront, which take users to the Workfront Help site.
+
+**Cannot select Elapsed time when inline editing Task Duration**
+
+*Tasks*
+
+When a user is viewing a task list and attempts to edit the Task Duration, the following duration units are not available:
+
+* Elapsed Minutes
+* Elapsed Hours
+* Elapsed Days
+* Elapsed Weeks
+* Elapsed Months
+
+**My Updates page is blank**
+
+*Updates*
+
+When a user attempts to view their My Updates page, the page does not load. The user can see only the Workfront navigation header.
+
+**"Only Allow SAML 2.0 Authentication" setting is missing when copying a user**
+
+*Users*
+
+When a group administrator copies a user and deselects the "Send an invite email to this person" option, the "Only Allow SAML 2.0 Authentication" checkbox does not appear as expected. This can occur even when all access and permission requirements for this action are met.
 
 ### **Maintenance Update on July 14, 2022**
 
