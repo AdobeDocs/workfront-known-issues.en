@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
     + [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/wf-timesheets-hours-not-autosaving-correctly.md)
     + [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
     + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md)

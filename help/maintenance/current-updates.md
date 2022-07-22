@@ -40,7 +40,7 @@ All Workfront Classic functionality was removed on July 14, 2022.
 
 **Rejection status associated with an approval honors the approval workflow**
 
-**NOTE: This functionality is scheduled to release on July 22, 2022.**
+**NOTE: This functionality releases on July 22, 2022.**
 
 *Approvals*
 
