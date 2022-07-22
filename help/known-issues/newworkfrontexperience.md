@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md) | July 20, 2022 | 
 | [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/wf-timesheets-hours-not-autosaving-correctly.md) | July 20, 2022 | 
 | [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 20, 2022 | 
 | [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md) | July 20, 2022 | 
