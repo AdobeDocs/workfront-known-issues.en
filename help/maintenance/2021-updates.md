@@ -1760,4 +1760,3 @@ _Proof_
 When a user receives a download link via email (Proof > Print Comments > PDF) and they export the file, the downloaded file is titled with random numbers instead of the Proof ID.
 
 +++
-
