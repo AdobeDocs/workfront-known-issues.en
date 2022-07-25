@@ -11,7 +11,6 @@ user-guide-description: Known Issues for Adobe Workfront
   + [Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
     + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
-    + [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/wf-timesheets-hours-not-autosaving-correctly.md)
     + [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
     + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md)
     + [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/wf-requests-converted-shows-group-from-queue.md)
@@ -50,6 +49,7 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
     + [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
   + [Resolved issues in Adobe Workfront] {#wf-resolved}
+    + [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
     + [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
     + [Updates: My Updates page is blank](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
     + [Users: "Only Allow SAML 2.0 Authentication" setting is missing when copying a user](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
@@ -58,6 +58,8 @@ user-guide-description: Known Issues for Adobe Workfront
 + Workfront Proof {#proof}
   + [Workfront Proof overview](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
+    + [Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) 
+    + [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/resolved-issues-proof/proof-admin-has-limited-permissions.md)
     + [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/resolved-issues-proof/proof-admin-has-limited-permissions.md)
     + [Dashboard shows 0 proofs in Proofs to manage](known-issues-workfront-proof/zero-proofs-to-manage.md)
     + [Workfront Proof: Hyperlinks in an interactive proof are not active](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
