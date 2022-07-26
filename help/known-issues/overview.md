@@ -1,8 +1,8 @@
 ---
 title: Workfront Known Issues
 description: List of Known Issues for Adobe Workfront
+exl-id: 3825d425-06dc-409e-892c-300b389ddc73
 ---
-
 # Workfront Known Issues
 
 For information on issues currently identified in the Workfront product, see:

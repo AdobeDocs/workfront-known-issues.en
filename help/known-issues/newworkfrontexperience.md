@@ -2,8 +2,8 @@
 title: Known Issues in new Adobe Workfront Experience
 description: Rported known issues for new Adobe Workfront Experience
 keywords: new file, add file
+exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 ---
-
 # Known Issues in Adobe Workfront
 
 This page contains issues currently identified in Adobe Workfront.

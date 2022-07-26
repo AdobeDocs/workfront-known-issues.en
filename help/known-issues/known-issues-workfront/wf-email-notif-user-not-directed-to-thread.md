@@ -1,8 +1,8 @@
 ---
 title: "Email Notifications: User isn't directed to comment thread"
 description: When a user clicks the Comment link in an email notification, they are directed to the top of the Updates area instead of to the comment thread they are trying to reply to.
+exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 ---
-
 # Email Notifications: User isn't directed to comment thread
 
 >[!NOTE]
@@ -12,4 +12,3 @@ description: When a user clicks the Comment link in an email notification, they 
 When a user clicks the Comment link in an email notification, they are directed to the top of the Updates area instead of to the comment thread they are trying to reply to.
 
 _First reported on March 24, 2021._
-

@@ -2,8 +2,8 @@
 title: Known Issues in Adobe Workfront Mobile App
 description: Rported known issues for Adobe Workfront Mobile App
 keywords: new file, add file
+exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 ---
-
 # Known Issues in Adobe Workfront Mobile App
 
 This page contains issues currently identified in Adobe Workfront Mobile App.

@@ -1,8 +1,8 @@
 ---
 title: Workfront Maintenance Updates for 2021
 description: History of 2021 Maintenance Updates for Adobe Workfront
+exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 ---
-
 # 2021 Workfront Maintenance Updates
 
 <https://one.workfront.com/s/article/Workfront-Maintenance-Updates-1882317350>
