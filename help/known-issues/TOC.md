@@ -10,6 +10,8 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Custom Forms: Data in fields hidden by section break is not preserved when converting an issue to a project](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md)
+    + [Boards: Issues with Status changes for linked items in Boards cards](known-issues-workfront/wf-boards-issues-status-change.md)
     + [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
     + [Custom forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md)
     + [Setup: Cannot create new status](known-issues-workfront/wf-cannot-create-new-status.md)
@@ -61,6 +63,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Workfront Proof {#proof}
   + [Workfront Proof overview](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
+    + [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
     + [Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) 
     + [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/resolved-issues-proof/proof-admin-has-limited-permissions.md)
     + [Dashboard shows 0 proofs in Proofs to manage](known-issues-workfront-proof/zero-proofs-to-manage.md)

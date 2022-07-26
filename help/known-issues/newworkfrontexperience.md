@@ -16,7 +16,9 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
-| [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | July 20, 2022 | 
+| [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | July 26, 2022 | 
+| [Boards: Issues with Status changes for linked items in Boards cards](known-issues-workfront/wf-boards-issues-status-change.md) | July 26, 2022 | 
+| [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | July 26, 2022 | 
 |[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | May 27, 2022 | 
 |[Setup: Cannot create new status](known-issues-workfront/wf-cannot-create-new-status.md) | July 25 | 
 |[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | July 25 | 
@@ -34,7 +36,8 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Custom forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md) | July 22, 2022 | 
+| [Custom Forms: Data in fields hidden by section break is not preserved when converting an issue to a project](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md) | July 26, 2022 | 
+| [Custom Forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md) | July 26, 2022 | 
 | [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md) | July 22, 2022 | 
 | [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md) | July 20, 2022 |
 | [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/wf-templ-cannot-deselect-tasks.md) | July 20, 2022 |
