@@ -36,6 +36,61 @@ All Workfront Classic functionality was removed on July 14, 2022.
 * [Maintenance Update on July 14, 2022](#maintenance-update-on-july-14-2022)
 -->
 
++++**Maintenance Update on July 28, 2022**
+
+**Error when opening an item from the Home Work List**
+
+*Home*
+
+When a user attempts to open an item on their Home Work List, the item does not open, and the user sees the following message:
+
+"An error has occurred and we are working to resolve the issue. To continue with your work try refreshing this browser page."
+
+**Tasks and issues delegated to a user do not appear in the user's Home Work List**
+
+*Home*
+
+When user views their Home Work List, any tasks or issues delegated to the user do not appear in the list, and the user may not be aware of the delegations.
+
+**Scheduled reports are not sent to all recipients**
+
+*Reports*
+
+When a scheduled report is sent, it is not sent to all of the users in the "Send to" section. The omitted users are random, and may vary each time the report is sent.
+
+**Request converted to project with template shows group from request queue, not group from template**
+
+*Requests*
+
+When a user converts a request to a project using a template, the newly created project is associated with the group that owns the request queue, not the group that is assigned on the template. This occurs even though when the project is being created, the group associated with the template is populated in the Group field.
+
+**Cannot deselect tasks when attaching template**
+
+*Templates*
+
+When a user is attaching and customizing a template, they are asked to deselect tasks that they do not want to include. However, none of the tasks display as selected, and the user cannot deselect them.
+
+**Issues when creating timesheets**
+
+*Timesheets*
+
+The following issues have been reported regarding the creation of timesheets:
+
+* When a user attempts to create a timesheet for a Role, the timesheet is not created and the user sees the error "User with primary key values 'XXXXXXXXXXX' not found."
+* When a user attempts to create a timesheet for a Team, The typeahead field does not populate with teams and the Create timesheet button is disabled.
+
+
+**Areas of Workfront Proof do not update when a proof is created, moved, or archived**
+
+*Workfront Proof*
+
+Proof is currently experiencing indexing delays. This may affect the user experience in ways including the following:
+Dashboards do not show the correct number of proofs
+Folders are not updated when a proof is created or moved
+Archived proofs remain on active proof lists.
+
++++
+
 +++**Maintenance Update on July 21, 2022**
 
 **Rejection status associated with an approval honors the approval workflow**
