@@ -2,8 +2,8 @@
 title: Known Issues in Adobe Workfront Proof
 description: Rported known issues for Adobe Workfront Proof
 keywords: new file, add file
+exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 ---
-
 # Known Issues in Adobe Workfront Proof
 
 This page contains issues currently identified in Adobe Workfront Proof.
@@ -16,7 +16,7 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 |Issue  |Last Modified   | 
 |---|---|
-|[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | May 27, 2022 | 
+|[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | July 25, 2022 | 
 |[Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports](known-issues-workfront-proof/zero-proofs-to-manage.md) | May 27, 2022 | 
 
 ## Current Issues

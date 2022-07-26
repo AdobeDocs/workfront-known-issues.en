@@ -1,8 +1,8 @@
 ---
-title: "Agile: Discrepancy in Completed Points for an iteration"
+title: 'Agile: Discrepancy in Completed Points for an iteration'
 description: The number that displays for Completed Points on the Story Board sometimes doesn't match the actual number of points completed for the stories in an iteration
+exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 ---
-
 # Agile: Discrepancy in Completed Points for an iteration
 
 >[!NOTE]
@@ -12,4 +12,3 @@ description: The number that displays for Completed Points on the Story Board so
 The number that displays for Completed Points on the Story Board sometimes doesn't match the actual number of points completed for the stories in an iteration
 
 _First reported on April 13, 2021._
-

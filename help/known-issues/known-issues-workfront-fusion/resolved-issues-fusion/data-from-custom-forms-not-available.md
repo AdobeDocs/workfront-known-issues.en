@@ -1,8 +1,8 @@
 ---
-title: "Workfront Fusion: Data from custom forms not available in Workfront Fusion Workfront modules"
+title: 'Workfront Fusion: Data from custom forms not available in Workfront Fusion Workfront modules'
 description: When a user is configuring a Workfront module in Workfront Fusion, and attempts to select outputs for the module, fields from custom forms are not visible.
+exl-id: f77bf9ef-e842-42b2-95b0-08664d23ac70
 ---
-
 # Workfront Fusion: Data from custom forms not available in Workfront Fusion Workfront modules
 
 >[!NOTE]

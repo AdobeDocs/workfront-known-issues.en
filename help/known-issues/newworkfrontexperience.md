@@ -2,8 +2,8 @@
 title: Known Issues in new Adobe Workfront Experience
 description: Rported known issues for new Adobe Workfront Experience
 keywords: new file, add file
+exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 ---
-
 # Known Issues in Adobe Workfront
 
 This page contains issues currently identified in Adobe Workfront.
@@ -18,6 +18,8 @@ This page contains issues currently identified in Adobe Workfront.
 |---|---|
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | July 20, 2022 | 
 |[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | May 27, 2022 | 
+|[Setup: Cannot create new status](known-issues-workfront/wf-cannot-create-new-status.md) | July 25 | 
+|[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | July 25 | 
 | [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md) | July 20, 2022 | 
 | [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 20, 2022 | 
 | [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/wf-requests-converted-shows-group-from-queue.md) | July 20, 2022 | 

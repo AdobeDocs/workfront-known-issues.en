@@ -1,8 +1,8 @@
 ---
-title: "Home: Custom terminology is not applied to Home area"
+title: 'Home: Custom terminology is not applied to Home area'
 description: The Home area displays default names for objects, instead of the terminology set by the organization. This has been reported in various areas.
+exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 ---
-
 # Home: Custom terminology is not applied to Home area
 
 >[!NOTE]
@@ -15,4 +15,3 @@ The Home area displays default names for objects, instead of the terminology set
 * The "Start \<object\>" button in the Work List
 
 _First reported on April 8, 2022._
-

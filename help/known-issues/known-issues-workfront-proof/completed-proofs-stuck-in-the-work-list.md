@@ -1,8 +1,8 @@
 ---
-title: "Home: Completed proofs stuck in the Work List"
+title: 'Home: Completed proofs stuck in the Work List'
 description: After a user completes a proof, it still appears in the Work List.
+exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 ---
-
 # Home: Completed proofs stuck in the Work List
 
 >[!NOTE]

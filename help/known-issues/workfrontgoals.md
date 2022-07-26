@@ -2,8 +2,8 @@
 title: Known Issues in Adobe Workfront Goals
 description: Rported known issues for Adobe Workfront Goals
 keywords: new file, add file
+exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 ---
-
 # Known Issues in Adobe Workfront Goals
 
 This page contains issues currently identified in Adobe Workfront Goals.

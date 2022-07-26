@@ -2,8 +2,8 @@
 title: Known Issues in Adobe Workfront Scenario Planner
 description: Rported known issues for Adobe Workfront Scenario Planner
 keywords: new file, add file
+exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
 ---
-
 # Known Issues in Adobe Workfront Scenario Planner
 
 This page contains issues currently identified in Adobe Workfront Scenario Planner.

@@ -1,8 +1,8 @@
 ---
-title: "Proofs: Comments made in Proof Viewer are not visible in real time"
+title: 'Proofs: Comments made in Proof Viewer are not visible in real time'
 description: When a user is viewing a proof in Proof Viewer, and another user makes a comment, the comment does not display immediately for the viewing user.
+exl-id: 3ad46ebb-cc2f-490e-b30c-611cb205b7d4
 ---
-
 # Proofs: Comments made in Proof Viewer are not visible in real time
 
 >[!NOTE]
