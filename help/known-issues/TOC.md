@@ -17,8 +17,6 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Setup: Cannot create new status](known-issues-workfront/wf-cannot-create-new-status.md)
     + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
     + [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
-    + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/wf-timesheets-hours-different-in-list.md)
-    + [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/wf-requests-converted-shows-group-from-queue.md)
     + [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md)
     + [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/wf-templ-cannot-deselect-tasks.md)
     + [Reports: New Reporting Canvas does not load](known-issues-workfront/wf-reports-new-canvas-does-not-load.md)
@@ -54,15 +52,19 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
     + [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
   + [Resolved issues in Adobe Workfront] {#wf-resolved}
+    + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
+    + [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
     + [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
     + [Tasks: Cannot select Elapsed time when inline editing Task Duration](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
     + [Updates: My Updates page is blank](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
     + [Users: "Only Allow SAML 2.0 Authentication" setting is missing when copying a user](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
 
 
+
 + Workfront Proof {#proof}
   + [Workfront Proof overview](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
+    + [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
     + [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
     + [Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) 
     + [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/resolved-issues-proof/proof-admin-has-limited-permissions.md)

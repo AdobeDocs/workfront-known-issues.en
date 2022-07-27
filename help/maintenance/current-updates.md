@@ -58,12 +58,6 @@ When user views their Home Work List, any tasks or issues delegated to the user 
 
 When a scheduled report is sent, it is not sent to all of the users in the "Send to" section. The omitted users are random, and may vary each time the report is sent.
 
-**Request converted to project with template shows group from request queue, not group from template**
-
-*Requests*
-
-When a user converts a request to a project using a template, the newly created project is associated with the group that owns the request queue, not the group that is assigned on the template. This occurs even though when the project is being created, the group associated with the template is populated in the Group field.
-
 **Cannot deselect tasks when attaching template**
 
 *Templates*
@@ -91,11 +85,28 @@ Archived proofs remain on active proof lists.
 
 +++
 
++++**Maintenance update (Hot Fix) on July 26, 2022**
+
+**Hours shown on timesheet are different from Timesheets list**
+ 
+*Timesheets*
+
+When a user opens a timesheet to view it, the hours shown are different from when the user views the same timesheet in a timesheet list.
+
+
+**Request converted to project with template shows group from request queue, not group from template**
+
+*Requests*
+
+When a user converts a request to a project using a template, the newly created project is associated with the group that owns the request queue, not the group that is assigned on the template. This occurs even though when the project is being created, the group associated with the template is populated in the Group field.
+
++++
+
 +++**Maintenance Update on July 21, 2022**
 
 **Rejection status associated with an approval honors the approval workflow**
 
-**NOTE: This functionality releases on July 22, 2022.**
+**NOTE: This functionality released on July 22, 2022.**
 
 *Approvals*
 
