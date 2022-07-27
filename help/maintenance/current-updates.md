@@ -5,8 +5,6 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 ---
 # Workfront Maintenance Updates
 
-<https://one.workfront.com/s/article/Workfront-Maintenance-Updates-1882317350>
-
 The following maintenance updates have been made in 2022.
 
 >[!NOTE]
