@@ -106,7 +106,7 @@ When a user converts a request to a project using a template, the newly created 
 
 **Rejection status associated with an approval honors the approval workflow**
 
-**NOTE: This functionality releases on July 22, 2022.**
+**NOTE: This functionality released on July 22, 2022.**
 
 *Approvals*
 
