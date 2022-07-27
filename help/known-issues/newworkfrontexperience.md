@@ -31,10 +31,13 @@ This page contains issues currently identified in Adobe Workfront.
 | [Reports: Matrix reports display incorrectly when scrolling](known-issues-workfront/wf-reports-matrix-display-incorrectly.md) | June 10, 2022 |
 | [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 
+{style="table-layout:auto"}
+
 ## Current Issues
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Timesheets: Hours do not autosave](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md) | July 27, 2022 | 
 | [Custom Forms: Data in fields hidden by section break is not preserved when converting an issue to a project](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md) | July 26, 2022 | 
 | [Custom Forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md) | July 26, 2022 | 
 | [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md) | July 20, 2022 |
@@ -72,7 +75,7 @@ This page contains issues currently identified in Adobe Workfront.
 | [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)                | November 9, 2020  |
 | [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)                                                                     | November 9, 2020  |
 
-
+{style="table-layout:auto"}
 
 <!--
 

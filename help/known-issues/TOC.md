@@ -8,8 +8,9 @@ user-guide-description: Known Issues for Adobe Workfront
 + [Overview](overview.md)
 
 + Adobe Workfront {#new-workfront-experience}
-  + [Adobe Workfront](newworkfrontexperience.md)
+  + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Timesheets: Hours do not autosave](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md)
     + [Custom Forms: Data in fields hidden by section break is not preserved when converting an issue to a project](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md)
     + [Boards: Issues with Status changes for linked items in Boards cards](known-issues-workfront/wf-boards-issues-status-change.md)
     + [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
@@ -51,7 +52,7 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
     + [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
     + [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
-  + [Resolved issues in Adobe Workfront] {#wf-resolved}
+  + Resolved issues in Adobe Workfront {#wf-resolved}
     + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
     + [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
     + [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
@@ -62,7 +63,7 @@ user-guide-description: Known Issues for Adobe Workfront
 
 
 + Workfront Proof {#proof}
-  + [Workfront Proof overview](workfrontproof.md)
+  + [Known Issues in Workfront Proof](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
     + [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
     + [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
@@ -88,7 +89,7 @@ user-guide-description: Known Issues for Adobe Workfront
     + [User cannot move self to another stage of a proof](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 + Adobe Workfront Fusion {#fusion}
-  + [Workfront Fusion overview](workfrontfusion.md)
+  + [Known Issues in Workfront Fusion](workfrontfusion.md)
   + Current Issues in Workfront Fusion {#fusion-current}
   + Resolved Issues in Workfront Fusion {#fusion-resolved}
     + [401 error on Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
@@ -96,13 +97,13 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Data from custom forms not available in Workfront Fusion Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + Adobe Workfront Goals {#goals}
-  + [Workfront Goals overview](workfrontgoals.md)
+  + [Known Issues in Workfront Goals](workfrontgoals.md)
 + Workfront Library {#library}
-  + [Workfront Library overview](workfrontlibrary.md)
+  + [Known Issues in Workfront Library](workfrontlibrary.md)
 + Workfront Mobile App {#mobile}
-  + [Workfront Mobile App overview](workfrontmobile.md)
+  + [Known Issues in Workfront Mobile App](workfrontmobile.md)
 + Workfront Scenario Planner {#scenarioplanner}
-  + [Workfront Scenario Planner overview](workfrontscenarioplanner.md)
+  + [Known Issues in Workfront Scenario Planner](workfrontscenarioplanner.md)
 
 <!--
 

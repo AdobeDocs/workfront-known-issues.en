@@ -21,6 +21,8 @@ This page contains issues currently identified in Adobe Workfront Proof.
 |[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | July 25, 2022 | 
 |[Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports](known-issues-workfront-proof/zero-proofs-to-manage.md) | May 27, 2022 | 
 
+{style="table-layout:auto"}
+
 ## Current Issues
 
 | **Issue** | **Last Modified** |
@@ -39,3 +41,5 @@ This page contains issues currently identified in Adobe Workfront Proof.
 | [Proof: Proof Approval report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | April 21, 2021 |
 | [Home: Completed proofs stuck in the Work List](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | June 14, 2021 |
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | March 5, 2021 |
+
+{style="table-layout:auto"}
