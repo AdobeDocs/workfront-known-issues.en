@@ -10,7 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
-    + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/resolved-issues-wf/wf-timesheets-add-hours-to-complete-dead.md)
+    + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
     + [Layout templates: Layout templates not available to assign to users](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
     + [Reports: Cannot export utilization report](known-issues-workfront/wf-reports-cannot-export-utilization-report.md)
     + [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
