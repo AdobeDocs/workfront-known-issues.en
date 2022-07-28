@@ -1,6 +1,7 @@
 ---
 title: "Layout templates: Layout templates not available to assign to users"
 description: When an admin attempts to assign a layout template to another user on that user's page, the layout templates that appear in the dropdown are not the correct layout templates available to that user. 
+hidefromtoc: yes
 ---
 
 # Layout templates: Layout templates not available to assign to users

@@ -2,6 +2,7 @@
 title: 'Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports'
 description: When a user views the Workfront Proof dashboard, the Proofs to manage and Proofs awaiting decision reports show 0 reports in the various categories (total, on time, etc.).
 exl-id: e8ce98d8-9628-4835-b247-eec20f709132
+hidefromtoc: yes
 ---
 # Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports
 

@@ -2,6 +2,7 @@
 title: 'Home: Error when opening an item from the Home Work List'
 description: When a user attempts to open an item on their Home Work List, the item does not open, and the user sees an error message.
 exl-id: 704e7cb5-78f5-49ff-a44f-bc53adeac812
+hidefromtoc: yes
 ---
 # Home: Error when opening an item from the Home Work List
 

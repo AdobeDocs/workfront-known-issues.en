@@ -2,6 +2,7 @@
 title: 'Proof: Automatic access to proofs are delayed'
 description: When a user is assigned as a reviewer and approver on a proof with automated workflow, the access is delayed and they are unable to access the proof.
 exl-id: 5b6fffed-a9af-4f1f-83a6-d4b992067b3a
+hidefromtoc: yes
 ---
 # Proof: Automatic access to proofs are delayed
 

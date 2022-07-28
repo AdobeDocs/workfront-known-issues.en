@@ -2,6 +2,7 @@
 title: 'Approvals: Approval delegation is set for the incorrect number of days'
 description: When a user schedules Personal Time Off and delegates their approvals for that time, the approval delegation may include days before or after the scheduled time off.
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
+hidefromtoc: yes
 ---
 # Approvals: Approval delegation is set for the incorrect number of days
 

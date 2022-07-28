@@ -2,6 +2,7 @@
 title: User options cannot be modified after initial configuration in Workflow Templates
 description: Copy first paragraph from article.
 exl-id: f79a536a-ea16-48fb-8075-be9bac372242
+hidefromtoc: yes
 ---
 # Workfront Proof: User options cannot be modified after initial configuration in Workflow Templates
 

@@ -2,6 +2,7 @@
 title: 'Tasks: Cannot select Elapsed time when inline editing Task Duration'
 description: When a user is viewing a task list and attempts to edit the Task Duration, elapsed duration units are not available.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
+hidefromtoc: yes
 ---
 # Tasks: Cannot select Elapsed time when inline editing Task Duration
 
