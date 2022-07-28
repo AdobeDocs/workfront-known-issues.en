@@ -19,10 +19,7 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
     + [Custom forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md)
     + [Setup: Cannot create new status](known-issues-workfront/wf-cannot-create-new-status.md)
-    + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
     + [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
-    + [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md)
-    + [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/wf-templ-cannot-deselect-tasks.md)
     + [Reports: New Reporting Canvas does not load](known-issues-workfront/wf-reports-new-canvas-does-not-load.md)
     + [Search: Error when using Search in Workfront](known-issues-workfront/wf-search-error-using-search.md) 
     + [Issues: Cannot approve or reject hours on an issue](known-issues-workfront/wf-issues-cannot-approve-hours.md)
@@ -35,7 +32,6 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
     + [Timesheets: Issues when creating timesheets](known-issues-workfront/wf-timesheets-issues-creating-timesheets.md)
     + [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
-    + [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/wf-reports-scheduled-not-sent-to-all.md)
     + [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
     + [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
     + [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)
@@ -55,7 +51,12 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
     + [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
     + [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
+
   + Resolved issues in Adobe Workfront {#wf-resolved}
+    + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/resolved-issues-wf/wf-timesheets-add-hours-to-complete-dead.md)
+    + [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/resolved-issues-wf/wf-templ-cannot-deselect-tasks.md)
+    + [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/resolved-issues-wf/wf-reports-scheduled-not-sent-to-all.md)
+    + [Home: Error when opening an item from the Home Work List](known-issues-workfront/resolved-issues-wf/wf-home-error-opening-item-work-list.md)
     + [Timesheets: Hours shown on timesheet are different from Timesheets list](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
     + [Requests: Request converted to project with template shows group from request queue, not group from template](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
     + [Timesheet: Timesheets hours not saving correctly](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
@@ -74,7 +75,6 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/resolved-issues-proof/proof-admin-has-limited-permissions.md)
     + [Dashboard shows 0 proofs in Proofs to manage](known-issues-workfront-proof/zero-proofs-to-manage.md)
     + [Workfront Proof: Hyperlinks in an interactive proof are not active](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
-    + [Workfront Proof: Areas of Workfront Proof do not update when a proof is created, moved, or archived](known-issues-workfront-proof/proof-areas-not-update-when-proof-moved.md)
     + [User options cannot be modified after initial configuration in Workflow Templates](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md)
     + [Users do not receive notifications when tagged in a proof](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md)
     + [Comments made in Proof Viewer are not visible in real time](known-issues-workfront-proof/comments-not-visible-in-real-time.md)
@@ -87,7 +87,9 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Proof Approval report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
     + [Home: Completed proofs stuck in the Work List](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
     + [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
+
   + Resolved Issues in Workfront Proof {#proof-resolved}
+    + [Workfront Proof: Areas of Workfront Proof do not update when a proof is created, moved, or archived](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
     + [Proofs: Proofs show as "Generating proof" for excessive amounts of time](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
     + [User cannot move self to another stage of a proof](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 

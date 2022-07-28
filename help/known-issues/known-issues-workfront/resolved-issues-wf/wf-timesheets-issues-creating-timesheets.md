@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # Timesheets: Issues when creating timesheets
 
+>[!NOTE]
+>
+>This issue was fixed on July 28, 2022.
+
 The following issues have been reported regarding the creation of timesheets:
 
 * When a user attempts to create a timesheet for a Role, the timesheet is not created and the user sees the error "User with primary key values 'XXXXXXXXXXX' not found."
