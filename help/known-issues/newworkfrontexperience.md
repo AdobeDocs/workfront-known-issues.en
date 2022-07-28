@@ -37,6 +37,9 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Layout templates: Layout templates not available to assign to users](known-issues-workfront/wf-layout-templates-not-available-to-assign.md) | July 28, 2022 | 
+| [Reports: Cannot export utilization report](known-issues-workfront/wf-reports-cannot-export-utilization-report.md) | July 28, 2022 | 
+| [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | July 28, 2022 | 
 | [Timesheets: Hours do not autosave](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md) | July 27, 2022 | 
 | [Custom Forms: Data in fields hidden by section break is not preserved when converting an issue to a project](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md) | July 26, 2022 | 
 | [Custom Forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md) | July 26, 2022 | 
