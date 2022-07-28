@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/resolved-issues-wf/wf-timesheets-add-hours-to-complete-dead.md)
     + [Layout templates: Layout templates not available to assign to users](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
     + [Reports: Cannot export utilization report](known-issues-workfront/wf-reports-cannot-export-utilization-report.md)
     + [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
@@ -30,7 +31,6 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Updates: Tagging users and then navigating away removes the tagged users](known-issues-workfront/wf-updates-tag-users-navigate-away-untags.md)
     + [Calendar: Button displays incorrectly when adding items to the Calendar](known-issues-workfront/wf-calendar-button-displays-incorrectly.md)
     + [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
-    + [Timesheets: Issues when creating timesheets](known-issues-workfront/wf-timesheets-issues-creating-timesheets.md)
     + [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
     + [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
     + [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
@@ -53,7 +53,7 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
 
   + Resolved issues in Adobe Workfront {#wf-resolved}
-    + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/resolved-issues-wf/wf-timesheets-add-hours-to-complete-dead.md)
+    + [Timesheets: Issues when creating timesheets](known-issues-workfront/resolved-issues-wf/wf-timesheets-issues-creating-timesheets.md)
     + [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/resolved-issues-wf/wf-templ-cannot-deselect-tasks.md)
     + [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/resolved-issues-wf/wf-reports-scheduled-not-sent-to-all.md)
     + [Home: Error when opening an item from the Home Work List](known-issues-workfront/resolved-issues-wf/wf-home-error-opening-item-work-list.md)
