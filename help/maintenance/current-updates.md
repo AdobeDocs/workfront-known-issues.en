@@ -62,6 +62,17 @@ When a scheduled report is sent, it is not sent to all of the users in the "Send
 
 When a user is attaching and customizing a template, they are asked to deselect tasks that they do not want to include. However, none of the tasks display as selected, and the user cannot deselect them.
 
+**"Locale" fields now have more specific labels**
+
+*Terminology*
+
+To make the function of the "Locale" fields more clear, we've updated their labels.
+
+* The "Locale" field on the user profile is now labeled "Email Locale"
+* The "Locale" field found in the Setup > System > Customer Info area is now labeled "Default Email Locale"
+
+The functionality of these fields has not changed.
+
 **Issues when creating timesheets**
 
 *Timesheets*
