@@ -2,6 +2,7 @@
 title: 'Proofs: New stage created because deadline cannot match deadline of existing stage'
 description: When new proof is created, the deadline can be set in an increment of 15 minutes (10:00, 10:15, 10:30, 20:45, etc.). However, when a user is added to a proof after the proof is created, the deadline can only be set in increments of 30 minutes (10:00, 10:30, 11:00, etc.).
 exl-id: b86c1c83-c647-4762-bc13-9687a7dada78
+hidefromtoc: yes
 ---
 # Proofs: New stage created because deadline cannot match deadline of existing stage
 

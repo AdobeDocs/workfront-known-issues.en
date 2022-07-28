@@ -2,6 +2,7 @@
 title: 'Boards: Issues with Status changes for linked items in Boards cards'
 description: Various issues have been reported regarding the Status change functionality when moving a card between columns on Boards.
 exl-id: b01ff757-72df-4378-8576-a7490b05ef73
+hidefromtoc: yes
 ---
 # Boards: Issues with Status changes for linked items in Boards cards
 

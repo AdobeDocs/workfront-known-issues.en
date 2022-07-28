@@ -2,6 +2,7 @@
 title: "Proofs: Proof Approval report can't accurately determine deadlines"
 description: When a user creates a Proof Approval report that contains proof deadline dates, the dates that display in the report are incorrect, which leads to reporting miscalculations and inaccurate information in the results.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
+hidefromtoc: yes
 ---
 # Proofs: Proof Approval report can't accurately determine deadlines
 

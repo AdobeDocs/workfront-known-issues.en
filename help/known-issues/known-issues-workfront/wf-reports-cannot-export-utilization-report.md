@@ -1,6 +1,7 @@
 ---
 title: "Reports: Cannot export utilization report"
 description:  When a user attempts to export a utilization report, they are directed to a blank page and the report never exports this has been reported when attempting to export the report from the resources page and when exporting within projects.
+hidefromtoc: yes
 ---
 
 # Reports: Cannot export utilization report

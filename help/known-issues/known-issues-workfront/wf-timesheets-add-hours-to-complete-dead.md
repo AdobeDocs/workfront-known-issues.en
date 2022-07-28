@@ -2,6 +2,7 @@
 title: 'Timesheets: Issues related to adding hours to projects in Complete or Dead status'
 description: Various issues have been reported regarding adding hours to projects that are in Complete or Dead status.
 exl-id: 688012f3-d2cc-48bf-9ab8-4429104009a6
+hidefromtoc: yes
 ---
 # Timesheets: Issues related to adding hours to projects in Complete or Dead status
 

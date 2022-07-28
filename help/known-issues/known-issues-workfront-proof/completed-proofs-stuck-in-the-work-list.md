@@ -2,6 +2,7 @@
 title: 'Home: Completed proofs stuck in the Work List'
 description: After a user completes a proof, it still appears in the Work List.
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
+hidefromtoc: yes
 ---
 # Home: Completed proofs stuck in the Work List
 

@@ -2,6 +2,7 @@
 title: 'Timesheets: Issues when creating timesheets'
 description: Various issues have been reported regarding the creation of timesheets.
 exl-id: 0f395b5f-689e-4ffa-bb80-c8213cac5798
+hidefromtoc: yes
 ---
 # Timesheets: Issues when creating timesheets
 
