@@ -43,15 +43,11 @@ This page contains issues currently identified in Adobe Workfront.
 | [Timesheets: Hours do not autosave](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md) | July 27, 2022 | 
 | [Custom Forms: Data in fields hidden by section break is not preserved when converting an issue to a project](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md) | July 26, 2022 | 
 | [Custom Forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md) | July 26, 2022 | 
-| [Home: Error when opening an item from the Home Work List](known-issues-workfront/wf-home-error-opening-item-work-list.md) | July 20, 2022 |
-| [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/wf-templ-cannot-deselect-tasks.md) | July 20, 2022 |
 | [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
 | [Updates: Tagging users and then navigating away removes the tagged users](known-issues-workfront/wf-updates-tag-users-navigate-away-untags.md) | July 14, 2022 |
 | [Calendar: Button displays incorrectly when adding items to the Calendar](known-issues-workfront/wf-calendar-button-displays-incorrectly.md) | July 1, 2022 |
 | [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md) | June 28, 2022 |
-| [Timesheets: Issues when creating timesheets](known-issues-workfront/wf-timesheets-issues-creating-timesheets.md) | June 24, 2022 |
 | [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |
-| [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/wf-reports-scheduled-not-sent-to-all.md) | June 3, 2022 |
 | [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)                                               | May 11, 2022      |
 | [Proofs: Comments made in Proof Viewer are not visible in real time](known-issues-workfront-proof/comments-not-visible-in-real-time.md)                                 | May 11, 2022      |
 | [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md)                              | May 4, 2022       |

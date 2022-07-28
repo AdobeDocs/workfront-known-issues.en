@@ -7,6 +7,10 @@ hidefromtoc: yes
 ---
 # Workfront Proof: Areas of Workfront Proof do not update when a proof is created, moved, or archived
 
+>[!NOTE]
+>
+>This issue was fixed on July 28, 2022.
+
 Proof is currently experiencing indexing delays. This may affect the user experience in ways including the following:
 
 * Dashboards do not show the correct number of proofs
