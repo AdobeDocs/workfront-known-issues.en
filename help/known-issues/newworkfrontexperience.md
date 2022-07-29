@@ -35,6 +35,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Tasks and Issues: Error when changing the Planned Completion Date in the header of a task or issue](known-issues-workfront/wf-500-error-planned-completion.md) | July 20, 2022 | 
 | [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 20, 2022 | 
 | [Layout templates: Layout templates not available to assign to users](known-issues-workfront/wf-layout-templates-not-available-to-assign.md) | July 28, 2022 | 
 | [Reports: Cannot export utilization report](known-issues-workfront/wf-reports-cannot-export-utilization-report.md) | July 28, 2022 | 
