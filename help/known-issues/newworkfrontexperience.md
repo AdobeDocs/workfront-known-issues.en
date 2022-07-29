@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Timesheets: Comments are not saved](known-issues-workfront/wf-timesheets-comments-not-save.md) | July 29, 2022 | 
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | July 26, 2022 | 
 | [Boards: Issues with Status changes for linked items in Boards cards](known-issues-workfront/wf-boards-issues-status-change.md) | July 26, 2022 | 
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | July 26, 2022 | 
@@ -35,8 +36,9 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Tasks and Issues: Error when changing the Planned Completion Date in the header of a task or issue](known-issues-workfront/wf-500-error-planned-completion.md) | July 20, 2022 | 
-| [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 20, 2022 | 
+| [Timesheets: "Billed hours already exist" error when adding hours on a timesheet](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md) | July 29, 2022 | 
+| [Tasks and Issues: Error when changing the Planned Completion Date in the header of a task or issue](known-issues-workfront/wf-500-error-planned-completion.md) | July 29, 2022 | 
+| [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 29, 2022 | 
 | [Layout templates: Layout templates not available to assign to users](known-issues-workfront/wf-layout-templates-not-available-to-assign.md) | July 28, 2022 | 
 | [Reports: Cannot export utilization report](known-issues-workfront/wf-reports-cannot-export-utilization-report.md) | July 28, 2022 | 
 | [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | July 28, 2022 | 

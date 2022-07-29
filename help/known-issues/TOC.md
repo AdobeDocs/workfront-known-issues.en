@@ -10,6 +10,8 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Timesheets: Comments are not saved](known-issues-workfront/wf-timesheets-comments-not-save.md)
+    + [Timesheets: "Billed hours already exist" error when adding hours on a timesheet](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md)
     + [Tasks and Issues: Error when changing the Planned Completion Date in the header of a task or issue](known-issues-workfront/wf-500-error-planned-completion.md)
     + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
     + [Layout templates: Layout templates not available to assign to users](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
