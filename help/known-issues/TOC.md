@@ -21,7 +21,6 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Custom forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md)
     + [Setup: Cannot create new status](known-issues-workfront/wf-cannot-create-new-status.md)
     + [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
-    + [Reports: New Reporting Canvas does not load](known-issues-workfront/wf-reports-new-canvas-does-not-load.md)
     + [Search: Error when using Search in Workfront](known-issues-workfront/wf-search-error-using-search.md) 
     + [Issues: Cannot approve or reject hours on an issue](known-issues-workfront/wf-issues-cannot-approve-hours.md)
     + [Reports: Reports not sent as scheduled](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
@@ -29,7 +28,6 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md)
     + [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md)
     + [Updates: Tagging users and then navigating away removes the tagged users](known-issues-workfront/wf-updates-tag-users-navigate-away-untags.md)
-    + [Calendar: Button displays incorrectly when adding items to the Calendar](known-issues-workfront/wf-calendar-button-displays-incorrectly.md)
     + [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
     + [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
     + [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
@@ -53,6 +51,8 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
 
   + Resolved issues in Adobe Workfront {#wf-resolved}
+    + [Reports: New Reporting Canvas does not load](known-issues-workfront/resolved-issues-wf/wf-reports-new-canvas-does-not-load.md)
+    + [Calendar: Button displays incorrectly when adding items to the Calendar](known-issues-workfront/resolved-issues-wf/wf-calendar-button-displays-incorrectly.md)
     + [Timesheets: Issues when creating timesheets](known-issues-workfront/resolved-issues-wf/wf-timesheets-issues-creating-timesheets.md)
     + [Templates: Cannot deselect tasks when attaching template](known-issues-workfront/resolved-issues-wf/wf-templ-cannot-deselect-tasks.md)
     + [Reports: Scheduled reports are not sent to all recipients](known-issues-workfront/resolved-issues-wf/wf-reports-scheduled-not-sent-to-all.md)
