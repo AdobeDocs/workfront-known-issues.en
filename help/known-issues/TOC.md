@@ -10,6 +10,8 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Custom form: Cannot remove instructions from a custom field in the custom form builder](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md)
+    + [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
     + [Timesheets: Comments are not saved](known-issues-workfront/wf-timesheets-comments-not-save.md)
     + [Timesheets: "Billed hours already exist" error when adding hours on a timesheet](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md)
     + [Tasks and Issues: Error when changing the Planned Completion Date in the header of a task or issue](known-issues-workfront/wf-500-error-planned-completion.md)

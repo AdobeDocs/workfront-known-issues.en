@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md) | August 1 2022 | 
 | [Timesheets: Comments are not saved](known-issues-workfront/wf-timesheets-comments-not-save.md) | July 29, 2022 | 
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | July 26, 2022 | 
 | [Boards: Issues with Status changes for linked items in Boards cards](known-issues-workfront/wf-boards-issues-status-change.md) | July 26, 2022 | 
@@ -36,6 +37,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Custom form: Cannot remove instructions from a custom field in the custom form builder](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md) | July 29, 2022 | 
 | [Timesheets: "Billed hours already exist" error when adding hours on a timesheet](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md) | July 29, 2022 | 
 | [Tasks and Issues: Error when changing the Planned Completion Date in the header of a task or issue](known-issues-workfront/wf-500-error-planned-completion.md) | July 29, 2022 | 
 | [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 29, 2022 | 
