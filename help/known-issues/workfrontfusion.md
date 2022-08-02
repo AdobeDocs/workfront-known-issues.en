@@ -18,4 +18,6 @@ This page contains issues currently identified in Adobe Workfront Fusion.
 
 ## Current Issues
 
-**No issues reported**
+| **Issue** | **Last Modified** |
+|-----------------------------------------------------------------------------------|-------------------|
+| [Fusion in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)| August 2, 2022 |
