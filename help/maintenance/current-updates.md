@@ -25,11 +25,11 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2022
 
-These issues were fixed only in the new Workfront experience.
++++**(Planned) Maintenance Update on August 4, 2022**
+
+These issues will be fixed only in the new Workfront experience.
 
 All Workfront Classic functionality was removed on July 14, 2022.
-
-+++**(Planned) Maintenance Update on August 4, 2022**
 
 **Error when changing the Planned Completion Date in the header of a task or issue**
 
@@ -51,6 +51,10 @@ When a user attempts to change the Planned Completion Date in the header of a ta
 +++**Maintenance Update on July 28, 2022**
 
 **Error when opening an item from the Home Work List**
+
+These issues were fixed only in the new Workfront experience.
+
+All Workfront Classic functionality was removed on July 14, 2022.
 
 *Home*
 
@@ -110,6 +114,10 @@ Archived proofs remain on active proof lists.
 
 +++**Maintenance update (Hot Fix) on July 26, 2022**
 
+These issues were fixed only in the new Workfront experience.
+
+All Workfront Classic functionality was removed on July 14, 2022.
+
 **Hours shown on timesheet are different from Timesheets list**
  
 *Timesheets*
@@ -126,6 +134,10 @@ When a user converts a request to a project using a template, the newly created 
 +++
 
 +++**Maintenance Update on July 21, 2022**
+
+These issues were fixed only in the new Workfront experience.
+
+All Workfront Classic functionality was removed on July 14, 2022.
 
 **Rejection status associated with an approval honors the approval workflow**
 
@@ -171,6 +183,10 @@ When a group administrator copies a user and deselects the "Send an invite email
 +++
 
 +++**Maintenance Update on July 14, 2022**
+
+These issues were fixed only in the new Workfront experience.
+
+All Workfront Classic functionality was removed on July 14, 2022.
 
 **Error when resetting password**
 
