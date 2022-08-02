@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 | 
 | [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md) | August 1 2022 | 
 | [Timesheets: Comments are not saved](known-issues-workfront/wf-timesheets-comments-not-save.md) | July 29, 2022 | 
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | July 26, 2022 | 

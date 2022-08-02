@@ -33,7 +33,7 @@ All Workfront Classic functionality was removed on July 14, 2022.
 
 **Error when changing the Planned Completion Date in the header of a task or issue**
 
-_Tasks and Issues_
+*Tasks and Issues*
 
 When a user attempts to change the Planned Completion Date in the header of a task or issue, the date does not change and the user sees an error similar to the following:
 

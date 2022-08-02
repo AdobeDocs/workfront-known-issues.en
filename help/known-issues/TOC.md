@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
     + [Custom form: Cannot remove instructions from a custom field in the custom form builder](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md)
     + [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
     + [Timesheets: Comments are not saved](known-issues-workfront/wf-timesheets-comments-not-save.md)
@@ -101,6 +102,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront Fusion {#fusion}
   + [Known Issues in Workfront Fusion](workfrontfusion.md)
   + Current Issues in Workfront Fusion {#fusion-current}
+    + [Fusion in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
   + Resolved Issues in Workfront Fusion {#fusion-resolved}
     + [401 error on Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
     + [Cannot scroll to view all scenario executions](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
