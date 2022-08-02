@@ -23,11 +23,25 @@ The following maintenance updates have been made in 2022.
 
 For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
-## Updates in July 2022
+## Updates in August 2022
 
 These issues were fixed only in the new Workfront experience.
 
 All Workfront Classic functionality was removed on July 14, 2022.
+
++++**(Planned) Maintenance Update on August 4, 2022**
+
+**Error when changing the Planned Completion Date in the header of a task or issue**
+
+_Tasks and Issues_
+
+When a user attempts to change the Planned Completion Date in the header of a task or issue, the date does not change and the user sees an error similar to the following:
+
+`500: (Date that user is attempting to change to)/attask/api-internal/(object type)/(object ID)`
+
++++
+
+## Updates in July 2022
 
 <!--
 * [Maintenance Update on July 21, 2022](#maintenance-update-on-july-21-2022)
