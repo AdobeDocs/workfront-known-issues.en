@@ -15,7 +15,7 @@ user-guide-description: Known Issues for Adobe Workfront
     + [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
     + [Timesheets: Comments are not saved](known-issues-workfront/wf-timesheets-comments-not-save.md)
     + [Timesheets: "Billed hours already exist" error when adding hours on a timesheet](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md)
-    + [Tasks and Issues: Error when changing the Planned Completion Date in the header of a task or issue](known-issues-workfront/wf-500-error-planned-completion.md)
+    + [Tasks and Issues: Error when changing the Planned Completion Date in the header of a task or issue](known-issues-workfront/resolved-issues-wf/wf-500-error-planned-completion.md)
     + [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
     + [Layout templates: Layout templates not available to assign to users](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
     + [Reports: Cannot export utilization report](known-issues-workfront/wf-reports-cannot-export-utilization-report.md)
