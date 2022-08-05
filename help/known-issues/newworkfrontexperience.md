@@ -38,6 +38,8 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Requests: Team assignment when creating request does not appear on new request](known-issues-workfront/wf-teams-assignment-lost-when-creating-requests.md) | August 5, 2022 |
+| [Projects: "Timeline Planning mode" error when changing a date on a project](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md) | August 5, 2022 | 
 | [Custom form: Cannot remove instructions from a custom field in the custom form builder](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md) | July 29, 2022 | 
 | [Timesheets: "Billed hours already exist" error when adding hours on a timesheet](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md) | July 29, 2022 | 
 | [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 29, 2022 | 

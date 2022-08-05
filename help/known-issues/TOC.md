@@ -10,6 +10,8 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Projects: "Timeline Planning mode" error when changing a date on a project](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md)
+    + [Requests: Team assignment when creating request does not appear on new request](known-issues-workfront/wf-teams-assignment-lost-when-creating-requests.md)
     + [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
     + [Custom form: Cannot remove instructions from a custom field in the custom form builder](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md)
     + [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
@@ -75,6 +77,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Workfront Proof {#proof}
   + [Known Issues in Workfront Proof](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
+    + [Workfront Proof: Email notifications are delayed](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
     + [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
     + [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
     + [Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) 
