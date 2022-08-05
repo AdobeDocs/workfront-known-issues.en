@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # Setup: Cannot create new status
 
+>[!NOTE]
+>
+>This issue was fixed on August 1, 2022.
+
 When a user attempts to create a new status, the status does not appear on any of the status lists in Setup. This occurs when the new status has the same key as a deleted status.
 
 _First reported on July 12, 2022._
