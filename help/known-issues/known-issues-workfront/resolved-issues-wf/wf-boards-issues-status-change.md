@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # Boards: Issues with Status changes for linked items in Boards cards
 
+>[!NOTE]
+>
+>This issue was fixed on August 1, 2022.
+
 The following issues have been reported regarding the Status change functionality when moving a card between columns on Boards:
 
 * When viewing a card on Boards, the Workfront work item linked to the card displays a status. When the work item is opened in Workfront, the displayed status is not the same as the status displayed on the card.
