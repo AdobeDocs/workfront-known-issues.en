@@ -33,6 +33,8 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md) | August 8, 2022 | 
+| [Custom Forms: Data in fields hidden by section break is not preserved when converting a request to a project](known-issues-workfront/wf-requests-cust-form-data-hidden-not-converted.md) | August 8, 2022 | 
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 | 
 | [Requests: Team assignment when creating request does not appear on new request](known-issues-workfront/wf-teams-assignment-lost-when-creating-requests.md) | August 5, 2022 |
