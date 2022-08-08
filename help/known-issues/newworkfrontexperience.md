@@ -18,7 +18,6 @@ This page contains issues currently identified in Adobe Workfront.
 |---|---|
 | [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 | 
 | [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md) | August 1 2022 | 
-|[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | May 27, 2022 | 
 |[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | July 25 | 
 | [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md) | July 20, 2022 | 
 | [Search: Error when using Search in Workfront](known-issues-workfront/wf-search-error-using-search.md) | July 12, 2022 |
@@ -33,6 +32,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md) | August 8, 2022 | 
 | [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md) | August 8, 2022 | 
 | [Custom Forms: Data in fields hidden by section break is not preserved when converting a request to a project](known-issues-workfront/wf-requests-cust-form-data-hidden-not-converted.md) | August 8, 2022 | 
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
