@@ -14,7 +14,9 @@ This page contains issues currently identified in Adobe Workfront Fusion.
 
 ## New or Under Investigation
 
-**No issues reported**
+| **Issue** | **Last Modified** |
+|-----------------------------------------------------------------------------------|-------------------|
+| [Workfront Fusion: 502 error when scenario includes a module that checks proof decisions in Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)| August 9, 2022 |
 
 ## Current Issues
 

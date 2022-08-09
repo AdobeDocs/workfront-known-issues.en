@@ -108,6 +108,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront Fusion {#fusion}
   + [Known Issues in Workfront Fusion](workfrontfusion.md)
   + Current Issues in Workfront Fusion {#fusion-current}
+    + [Workfront Fusion: 502 error when scenario includes a module that checks proof decisions in Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
     + [Fusion in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
   + Resolved Issues in Workfront Fusion {#fusion-resolved}
     + [401 error on Workfront modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
