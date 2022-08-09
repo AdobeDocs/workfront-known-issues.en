@@ -1,9 +1,9 @@
 ---
-title: "Reports: Add to Iteration and Add to Kanban Board options not available when inline editing tasks in a report"
-description: "When a user is viewing a list of tasks in a report and opens the More (three-dot) menu, the Add to Iteration and Add to Kanban Board options are not available in the dropdown. If the report is viewed in a dashboard, the Add to Iteration and Add to Kanban Board options are available in the dropdown."
+title: 'Reports: Add to Iteration and Add to Kanban Board options not available when inline editing tasks in a report'
+description: When a user is viewing a list of tasks in a report and opens the More (three-dot) menu, the Add to Iteration and Add to Kanban Board options are not available in the dropdown. If the report is viewed in a dashboard, the Add to Iteration and Add to Kanban Board options are available in the dropdown.
 hidefromtoc: yes
+exl-id: 10b22e67-fd8b-47c6-98a9-0b3a9d406c36
 ---
-
 # Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report
 
 When a user is viewing a list of tasks in a report and opens the More (three-dot) menu, the "Add to Iteration" and "Add to Kanban Board" options are not available in the dropdown. If the report is viewed in a dashboard, the "Add to Iteration" and "Add to Kanban Board" options are available in the dropdown.
@@ -13,4 +13,3 @@ When a user is viewing a list of tasks in a report and opens the More (three-dot
 You can move the task to an iteration from a dashboard or from the project task list.
 
 _First reported on July 18, 2022._
-
