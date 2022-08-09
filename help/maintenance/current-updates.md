@@ -25,9 +25,59 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2022
 
-+++**Maintenance Update on August 11, 2022**
++++**(Planned) Maintenance Update on August 11, 2022**
 
+**Cannot edit custom forms due to incorrect character limit on Descriptive text fields**
 
+*Custom forms*
+
+When a user attempts to edit a custom form, and that custom form has a Descriptive text field that currently contains more than 512 characters, the user cannot save the edits to the custom form, and sees the following error:
+
+"The following fields are invalid: (Field) is too long, max 512"
+
+This affects Descriptive text fields that have previously functioned well despite having more than 512 characters.
+
+**Data in fields hidden by section break is not preserved when converting an issue to a project**
+
+*Custom forms*
+
+When a user is converting an issue to a project, and the issue includes a custom form with data in a section break that can be hidden using display logic, the data in that section is not carried to the new project.
+
+**Data in fields hidden by section break is not preserved when converting a request to a project**
+
+*Custom forms*
+
+When a user is converting a request to a project, and the request includes a custom form with data in a section break that can be hidden using display logic, the data in that section is not carried to the new project.
+
+**Cannot edit custom forms due to Descriptive Text field**
+
+*Custom forms*
+
+When a user attempts to edit a custom form that includes a Descriptive Text field, the field's label does not populate. The user sees the error "This field is required" under the label field, and the user cannot edit the custom form due to this error.
+
+**Cannot remove instructions from a custom field in the custom form builder**
+
+*Custom forms*
+
+When a user is editing a custom field and attempts to remove existing text in the Instructions area, the text is not removed when the field is saved. The user can edit text, but cannot remove it entirely.
+
+**Team assignment when creating request does not appear on new request**
+
+*Requests*
+
+When a user creates a request and assigns a team to the request, then submits the request, the team is not assigned to the request that is created. This affects only team assignment. User assignments function as expected.
+
+**Hyperlinks in an interactive proof are not active**
+
+*Workfront Proof*
+
+When a user is viewing an interactive proof and clicks on a link or a button that contains a link, the user is not taken to the page that the link or button links to.
+
+**Users do not receive notifications when tagged in a proof**
+
+*Workfront Proof*
+
+When a user is tagged in a proof comment, they do not receive an email notification about the comment.
 
 +++
 
