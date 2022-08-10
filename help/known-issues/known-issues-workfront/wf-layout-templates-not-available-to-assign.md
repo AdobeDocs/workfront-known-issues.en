@@ -6,6 +6,10 @@ exl-id: 296d1a83-c969-47c6-b76a-28545bf67058
 ---
 # Layout templates: Layout templates not available to assign to users
 
+>[!NOTE]
+>
+>This issue was fixed on August 10, 2022.
+
 When an admin attempts to assign a layout template to another user on that user's page, the layout templates that appear in the dropdown are not the correct layout templates available to that user. 
 
 **Workaround**
