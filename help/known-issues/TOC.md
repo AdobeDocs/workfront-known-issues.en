@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md)
     + [Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md)
     + [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
     + [Custom Forms: Data in fields hidden by section break is not preserved when converting a request to a project](known-issues-workfront/wf-requests-cust-form-data-hidden-not-converted.md)
