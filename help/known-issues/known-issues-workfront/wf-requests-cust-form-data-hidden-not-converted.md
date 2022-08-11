@@ -5,6 +5,10 @@ hidefromtoc: yes
 ---
 # Custom Forms: Data in fields hidden by section break is not preserved when converting a request to a project
 
+>[!NOTE]
+>
+> This issue was fixed on August 11, 2022.
+
 When a user is converting a request to a project, and the request includes a custom form with data in a section break that can be hidden using display logic, the data in that section is not carried to the new project.
 
 _First reported on  July 27, 2022._

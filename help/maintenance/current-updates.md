@@ -67,20 +67,6 @@ When a user is editing a custom field and attempts to remove existing text in th
 
 When a user creates a request and assigns a team to the request, then submits the request, the team is not assigned to the request that is created. This affects only team assignment. User assignments function as expected.
 
-**Hyperlinks in an interactive proof are not active**
-
-*Workfront Proof*
-
-When a user is viewing an interactive proof and clicks on a link or a button that contains a link, the user is not taken to the page that the link or button links to.
-
-**Users do not receive notifications when tagged in a proof**
-
-*Workfront Proof*
-
-When a user is tagged in a proof comment, they do not receive an email notification about the comment.
-
-+++
-
 +++**Maintenance Update on August 4, 2022**
 
 These issues will be fixed only in the new Workfront experience.
