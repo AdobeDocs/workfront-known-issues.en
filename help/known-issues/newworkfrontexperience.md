@@ -34,18 +34,12 @@ This page contains issues currently identified in Adobe Workfront.
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md) | August 8, 2022 | 
 | [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md) | August 8, 2022 | 
-| [Custom Forms: Data in fields hidden by section break is not preserved when converting a request to a project](known-issues-workfront/wf-requests-cust-form-data-hidden-not-converted.md) | August 8, 2022 | 
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 | 
-| [Requests: Team assignment when creating request does not appear on new request](known-issues-workfront/wf-teams-assignment-lost-when-creating-requests.md) | August 5, 2022 |
 | [Projects: "Timeline Planning mode" error when changing a date on a project](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md) | August 5, 2022 | 
-| [Custom form: Cannot remove instructions from a custom field in the custom form builder](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md) | July 29, 2022 | 
 | [Timesheets: "Billed hours already exist" error when adding hours on a timesheet](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md) | July 29, 2022 | 
-| [Custom forms: Cannot edit custom forms due to Descriptive Text field](known-issues-workfront/wf-cust-form-descr-text-label-error.md) | July 29, 2022 | 
 | [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | July 28, 2022 | 
 | [Timesheets: Hours do not autosave](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md) | July 27, 2022 | 
-| [Custom Forms: Data in fields hidden by section break is not preserved when converting an issue to a project](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md) | July 26, 2022 | 
-| [Custom Forms: Cannot edit custom forms due to incorrect character limit on Descriptive text fields](known-issues-workfront/wf-custom-form-incorrect-character-limit.md) | July 26, 2022 | 
 | [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
 | [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md) | June 28, 2022 |
 | [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |
