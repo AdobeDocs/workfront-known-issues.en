@@ -25,7 +25,17 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2022
 
-+++**(Planned) Maintenance Update on August 11, 2022**
++++**Maintenance Update on August 12, 2022**
+
+**New customizable header field added to the beginning of the header**
+
+*Headers*
+
+When you add a new field to a customizable header, the field is now added as the first field on the left in the header, or immediately after the Search box inside the Layout Template. Prior to this change, the field was added as the last field in the header.
+
++++
+
++++**Maintenance Update on August 11, 2022**
 
 **Cannot edit custom forms due to incorrect character limit on Descriptive text fields**
 
