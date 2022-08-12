@@ -23,7 +23,6 @@ This page contains issues currently identified in Adobe Workfront.
 | [Search: Error when using Search in Workfront](known-issues-workfront/wf-search-error-using-search.md) | July 12, 2022 |
 | [Issues: Cannot approve or reject hours on an issue](known-issues-workfront/wf-issues-cannot-approve-hours.md) | June 24, 2022 |
 | [Reports: Reports not sent as scheduled](known-issues-workfront/wf-reports-not-sent-as-scheduled.md) |June 22, 2022 |
-| [Reports: Matrix reports display incorrectly when scrolling](known-issues-workfront/wf-reports-matrix-display-incorrectly.md) | June 10, 2022 |
 | [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 
 {style="table-layout:auto"}
@@ -32,6 +31,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Reports: Matrix reports display incorrectly when scrolling](known-issues-workfront/wf-reports-matrix-display-incorrectly.md) | August 12, 2022 |
 | [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md) | August 11, 2022 | 
 | [Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md) | August 8, 2022 | 
 | [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md) | August 8, 2022 | 
