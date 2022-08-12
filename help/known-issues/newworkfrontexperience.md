@@ -34,7 +34,6 @@ This page contains issues currently identified in Adobe Workfront.
 | [Reports: Matrix reports display incorrectly when scrolling](known-issues-workfront/wf-reports-matrix-display-incorrectly.md) | August 12, 2022 |
 | [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md) | August 11, 2022 | 
 | [Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md) | August 8, 2022 | 
-| [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md) | August 8, 2022 | 
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 | 
 | [Projects: "Timeline Planning mode" error when changing a date on a project](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md) | August 5, 2022 | 
