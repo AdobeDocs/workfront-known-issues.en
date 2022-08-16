@@ -10,6 +10,9 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues/known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues)
+    + [Issues: Converting an issue to a project using a template displays an incorrect error message](known-issues/known-issues-workfront/wf-converting-issue-to-project-missing-error-message)
+    + [Dashboards: Workload Balancer links display incorrectly in dashboards](known-issues/known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly)
     + [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md)
     + [Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md)
     + [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
@@ -81,6 +84,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Workfront Proof {#proof}
   + [Known Issues in Workfront Proof](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
+    + [Workfront Proof: New Proof Page Missing Text Fields](known-issues-workfront-proof/proof-new-page-missing-text-fields)
     + [Workfront Proof: Email notifications are delayed](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
     + [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
     + [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
@@ -109,6 +113,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront Fusion {#fusion}
   + [Known Issues in Workfront Fusion](workfrontfusion.md)
   + Current Issues in Workfront Fusion {#fusion-current}
+    + [Workfront Fusion: Unable to connect to MS Dynamics module in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module)
     + [Workfront Fusion: 502 error when scenario includes a module that checks proof decisions in Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
     + [Fusion in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
   + Resolved Issues in Workfront Fusion {#fusion-resolved}
