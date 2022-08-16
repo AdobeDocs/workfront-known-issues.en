@@ -25,6 +25,40 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2022
 
++++**(Planned) Maintenance Update on August 18, 2022**
+
+**“Add to Iteration” and “Add to Kanban Board” options not available when inline editing tasks in a report**
+
+*Reports*
+
+When a user is viewing a list of tasks in a report and opens the More (three-dot) menu, the “Add to Iteration” and “Add to Kanban Board” options are not available in the dropdown. If the report is viewed in a dashboard, the “Add to Iteration” and “Add to Kanban Board” options are available in the dropdown.
+
+**Matrix reports display incorrectly when scrolling**
+
+*Reports*
+
+When a user is viewing a Matrix report and scrolls, some visual elements of the report may overlap or duplicate.
+
+**Hyperlinks in an interactive proof are not active**
+
+*Workfront Proof*
+
+When a user is viewing an interactive proof and clicks on a link or a button that contains a link, the user is not taken to the page that the link or button links to.
+
+**New Proof Page Missing Text Fields**
+
+*Workfront Proof*
+
+On the New Proof page, many text fields are not displayed (including feld labels, dropdown options, and checkbox names).
+
+**Users do not receive notifications when tagged in a proof**
+
+*Workfront Proof*
+
+When a user is tagged in a proof comment, they do not receive an email notification about the comment.
+
++++
+
 +++**Maintenance Update on August 12, 2022**
 
 **New customizable header field added to the beginning of the header**
