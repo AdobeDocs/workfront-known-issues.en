@@ -10,9 +10,9 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
-    + [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues)
-    + [Issues: Converting an issue to a project using a template displays an incorrect error message](known-issues-workfront/wf-converting-issue-to-project-missing-error-message)
-    + [Dashboards: Workload Balancer links display incorrectly in dashboards](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly)
+    + [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
+    + [Issues: Converting an issue to a project using a template displays an incorrect error message](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md)
+    + [Dashboards: Workload Balancer links display incorrectly in dashboards](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md)
     + [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md)
     + [Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md)
     + [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
