@@ -84,7 +84,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Workfront Proof {#proof}
   + [Known Issues in Workfront Proof](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
-    + [Workfront Proof: New Proof Page Missing Text Fields](known-issues-workfront-proof/proof-new-page-missing-text-fields)
+    + [Workfront Proof: New Proof Page Missing Text Fields](known-issues-workfront-proof/proof-new-page-missing-text-fields.md)
     + [Workfront Proof: Email notifications are delayed](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
     + [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
     + [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
@@ -113,7 +113,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront Fusion {#fusion}
   + [Known Issues in Workfront Fusion](workfrontfusion.md)
   + Current Issues in Workfront Fusion {#fusion-current}
-    + [Workfront Fusion: Unable to connect to MS Dynamics module in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module)
+    + [Workfront Fusion: Unable to connect to MS Dynamics module in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
     + [Workfront Fusion: 502 error when scenario includes a module that checks proof decisions in Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
     + [Fusion in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
   + Resolved Issues in Workfront Fusion {#fusion-resolved}
