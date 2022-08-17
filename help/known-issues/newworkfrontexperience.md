@@ -31,6 +31,9 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | August 16, 2022 |
+| [Issues: Converting an issue to a project using a template displays an incorrect error message](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md) | August 16, 2022 |
+| [Dashboards: Workload Balancer links display incorrectly in dashboards](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md) | August 16, 2022 |
 | [Reports: Matrix reports display incorrectly when scrolling](known-issues-workfront/wf-reports-matrix-display-incorrectly.md) | August 12, 2022 |
 | [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md) | August 11, 2022 | 
 | [Reports: "Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md) | August 8, 2022 | 
