@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # Workfront Proof: User options cannot be modified after initial configuration in Workflow Templates
 
+>[!NOTE]
+>
+>This article was fixed on August 18, 2022.
+
 When a user is adding a user to a Workflow Template, they can configure options. However, after the initial configuration is complete, the user can no longer modify the following:
 
 * "Resolve comments and apply actions" ability
