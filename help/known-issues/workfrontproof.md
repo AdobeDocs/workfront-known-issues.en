@@ -26,13 +26,11 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [Workfront Proof: New Proof Page Missing Text Fields](known-issues-workfront-proof/proof-new-page-missing-text-fields.md) | August 16, 2022 |
+| [Workfront Proof: Folder views not displaying proofs](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md) | August 18, 2022 |
 | [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | August 12, 2022 | 
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
 | [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)| July 29, 2022 |
-| [Workfront Proof: Hyperlinks in an interactive proof are not active](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)| July 19, 2022 |
 |[Workfront Proof: User options cannot be modified after initial configuration in Workflow Templates](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md) | June 24, 2022 | 
-| [Proof: Users do not receive notifications when tagged in a proof](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md) | May 13, 2022 |
 | [Proofs: Comments made in Proof Viewer are not visible in real time](known-issues-workfront-proof/comments-not-visible-in-real-time.md) | May 11, 2022 |
 | [Proof: New stage created because deadline cannot match deadline of existing stage](known-issues-workfront-proof/new-stage-created.md) | May 9, 2022 |
 | [Proofs: Inaccurate proof approval deadline displayed in Home Work List](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | April 25, 2022 |

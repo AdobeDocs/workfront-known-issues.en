@@ -25,7 +25,7 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2022
 
-+++**(Planned) Maintenance Update on August 18, 2022**
++++**Maintenance Update on August 18, 2022**
 
 **“Add to Iteration” and “Add to Kanban Board” options not available when inline editing tasks in a report**
 
@@ -38,6 +38,12 @@ When a user is viewing a list of tasks in a report and opens the More (three-dot
 *Reports*
 
 When a user is viewing a Matrix report and scrolls, some visual elements of the report may overlap or duplicate.
+
+**Milestone view removed from the Timesheets project list**
+
+*Timesheets*
+
+The Milestone view has been removed from the timesheet project list when adding a project.
 
 **Hyperlinks in an interactive proof are not active**
 

@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # Workfront Proof: Hyperlinks in an interactive proof are not active
 
+>[!NOTE]
+>
+>This article was fixed on August 18, 2022.
+
 When a user is viewing an interactive proof and clicks on a link or a button that contains a link, the user is not taken to the page that the link or button links to.
 
 
