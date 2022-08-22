@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Projects: Error when removing the Project Owner from the header](known-issues-workfront/wf-projects-error-when-removing-project-owner.md)
     + [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
     + [Issues: Converting an issue to a project using a template displays an incorrect error message](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md)
     + [Dashboards: Workload Balancer links display incorrectly in dashboards](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md)

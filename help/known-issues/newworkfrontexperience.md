@@ -31,6 +31,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Projects: Error when removing the Project Owner from the header](known-issues-workfront/wf-projects-error-when-removing-project-owner.md) | August 22, 2022 |
 | [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | August 16, 2022 |
 | [Issues: Converting an issue to a project using a template displays an incorrect error message](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md) | August 16, 2022 |
 | [Dashboards: Workload Balancer links display incorrectly in dashboards](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md) | August 16, 2022 |
