@@ -1,9 +1,9 @@
 ---
-title: "Projects: Error when removing the Project Owner from the header"
-description: "When a user attempts to remove a Project Owner from the header of a project, the Project Owner is not removed, and the user sees an error message."
+title: 'Projects: Error when removing the Project Owner from the header'
+description: When a user attempts to remove a Project Owner from the header of a project, the Project Owner is not removed, and the user sees an error message.
 hidefromtoc: yes
+exl-id: 3a995df4-5d6a-44e4-a644-997931c044bf
 ---
-
 # Projects: Error when removing the Project Owner from the header
 
 When a user attempts to remove a Project Owner from the header of a project, the Project Owner is not removed, and the user sees the following error message:
@@ -15,4 +15,3 @@ When a user attempts to remove a Project Owner from the header of a project, the
 Remove the Project Owner from the project's Details area.
 
 _First reported on August 9, 2022._
-
