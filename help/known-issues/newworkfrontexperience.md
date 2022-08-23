@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Projects, Tasks, and Issues: Resized Description box goes back to original size](known-issues-workfront/wf-projects-description-field-size-snaps-back.md) | August 23 2022 | 
 | [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 | 
 | [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md) | August 1 2022 | 
 |[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | July 25 | 
