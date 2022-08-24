@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 |Issue  |Last Modified   | 
 |---|---|
+|[Workfront Proof: Error when uploading a file to a comment](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)| August 24, 2022 |
 |[Workfront Proof: Cannot create proof for files over 1.5GB](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)| August 17, 2022 |
 |[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | July 25, 2022 | 
 |[Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports](known-issues-workfront-proof/zero-proofs-to-manage.md) | May 27, 2022 | 

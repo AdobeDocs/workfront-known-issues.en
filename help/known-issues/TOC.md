@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Dashboards: Cannot access dashboard from left navigation on an object](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
     + [Projects, Tasks, and Issues: Resized Description box goes back to original size](known-issues-workfront/wf-projects-description-field-size-snaps-back.md)
     + [Projects: Error when removing the Project Owner from the header](known-issues-workfront/wf-projects-error-when-removing-project-owner.md)
     + [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
@@ -86,6 +87,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Workfront Proof {#proof}
   + [Known Issues in Workfront Proof](workfrontproof.md)
   + Current Issues in Workfront Proof {#proof-current}
+    + [Workfront Proof: Error when uploading a file to a comment](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
     + [Workfront Proof: Folder views not displaying proofs](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
     + [Workfront Proof: Cannot create proof for files over 1.5GB](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)
     + [Workfront Proof: New Proof Page Missing Text Fields](known-issues-workfront-proof/proof-new-page-missing-text-fields.md)
