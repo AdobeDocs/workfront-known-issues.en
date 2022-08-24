@@ -25,6 +25,30 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2022
 
++++**Maintenance Update on August 25, 2022**
+
+**Workload Balancer links display incorrectly in dashboards**
+
+*Dashboards*
+
+Shareable Workload Balancer links display incorrectly when added to a dashboard as an external page. Instead of using the unique view/filters associated with the link, the dashboard uses the most recently applied view/filters to the Workload Balancer.
+
+**Custom data is not preserved when converting an issue to a blank project**
+
+*Projects*
+
+When a user converts an issue to a blank project (without a template), data in calculated fields is not transferred to the new project.
+
+**"Timeline Planning mode" error when changing a date on a project**
+
+*Projects*
+
+When a user attempts to change a date on a project that has the Plan Mode set to Manual save &gt; Timeline Planning, the date does not change and the user sees the an error.
+
+“Timeline Planning mode is available only when timelineDate is loaded. Please contact Workfront so we can figure out what went wrong and fix it.”
+
++++
+
 +++**Maintenance Update on August 18, 2022**
 
 **“Add to Iteration” and “Add to Kanban Board” options not available when inline editing tasks in a report**
