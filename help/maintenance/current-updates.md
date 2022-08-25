@@ -33,6 +33,16 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 Shareable Workload Balancer links display incorrectly when added to a dashboard as an external page. Instead of using the unique view/filters associated with the link, the dashboard uses the most recently applied view/filters to the Workload Balancer.
 
+**Add the Integrations field to the project custom header**
+
+*Projects*
+
+You can now add the Integrations field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in Salesforce or Anaplan, depending on your integration.
+
+>[!NOTE]
+>
+>This maintenance update is currently only in the Preview environment. It will be released to Production a week after the Preview release.
+
 **Custom data is not preserved when converting an issue to a blank project**
 
 *Projects*
@@ -45,17 +55,17 @@ When a user converts an issue to a blank project (without a template), data in c
 
 When a user attempts to change a date on a project that has the Plan Mode set to Manual save &gt; Timeline Planning, the date does not change and the user sees the an error.
 
-“Timeline Planning mode is available only when timelineDate is loaded. Please contact Workfront so we can figure out what went wrong and fix it.”
+"Timeline Planning mode is available only when timelineDate is loaded. Please contact Workfront so we can figure out what went wrong and fix it."
 
 +++
 
 +++**Maintenance Update on August 18, 2022**
 
-**“Add to Iteration” and “Add to Kanban Board” options not available when inline editing tasks in a report**
+**"Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report**
 
 *Reports*
 
-When a user is viewing a list of tasks in a report and opens the More (three-dot) menu, the “Add to Iteration” and “Add to Kanban Board” options are not available in the dropdown. If the report is viewed in a dashboard, the “Add to Iteration” and “Add to Kanban Board” options are available in the dropdown.
+When a user is viewing a list of tasks in a report and opens the More (three-dot) menu, the "Add to Iteration" and "Add to Kanban Board" options are not available in the dropdown. If the report is viewed in a dashboard, the "Add to Iteration" and "Add to Kanban Board" options are available in the dropdown.
 
 **Matrix reports display incorrectly when scrolling**
 
@@ -140,6 +150,8 @@ When a user is editing a custom field and attempts to remove existing text in th
 *Requests*
 
 When a user creates a request and assigns a team to the request, then submits the request, the team is not assigned to the request that is created. This affects only team assignment. User assignments function as expected.
+
++++
 
 +++**Maintenance Update on August 4, 2022**
 
@@ -261,7 +273,7 @@ All Workfront Classic functionality was removed on July 14, 2022.
 
 *Approvals*
 
-If you select a status associated with an approval process as the rejection status for an approval path, the rejected object moves to the selected status, and it will be marked as “Pending approval”. For example, if you select On Hold for the rejection status and the On Hold status is associated with an approval process, the rejected object is placed in the status of “On Hold- Pending approval”, requiring the approval. 
+If you select a status associated with an approval process as the rejection status for an approval path, the rejected object moves to the selected status, and it will be marked as "Pending approval". For example, if you select On Hold for the rejection status and the On Hold status is associated with an approval process, the rejected object is placed in the status of "On Hold- Pending approval", requiring the approval. 
 
 Before this update, the object bypassed the approval process for the rejection status, and it was placed in the On Hold status.
 
@@ -1032,7 +1044,7 @@ When a user is viewing an update stream that would be more than one printed page
 
 *Reports*
 
-When sharing reports with multiple entities displaying in the Report Access box, users are unable to scroll to the bottom of the list to see the entire list when the “Visible System-Wide” setting enabled. 
+When sharing reports with multiple entities displaying in the Report Access box, users are unable to scroll to the bottom of the list to see the entire list when the "Visible System-Wide" setting enabled. 
 
 **Incorrect currency used in reports**
 
@@ -1374,7 +1386,7 @@ Error: Whoops! Something went wrong. Please contact Workfront so we can figure o
 
 *Tasks* 
 
-You now can move or copy a task to another task in a project without having  permissions to add tasks to the destination project. You must have permissions to add tasks to at least one of the destination project’s tasks. Prior to this update, you were required to have permissions to add tasks to the project to move or copy a task to the project or to any of its tasks.  This update is now available in the Production environment. It has been available in the Preview environment starting with the March 24, 2022 maintenance update. 
+You now can move or copy a task to another task in a project without having  permissions to add tasks to the destination project. You must have permissions to add tasks to at least one of the destination project's tasks. Prior to this update, you were required to have permissions to add tasks to the project to move or copy a task to the project or to any of its tasks.  This update is now available in the Production environment. It has been available in the Preview environment starting with the March 24, 2022 maintenance update. 
 
 NOTE: This update will be available in the Production environment when copying or moving issues after the 22.2 Production release. For more information about the current release, see workfront.com/release. 
 
@@ -1434,7 +1446,7 @@ When an admin converts the issue, the data is carried to the new project as expe
 
 *Proofing*
 
-In order to address a security issue, we’ve temporarily limited the maximum file size for XLS and XLSX files to 100 MB when creating a proof.
+In order to address a security issue, we've temporarily limited the maximum file size for XLS and XLSX files to 100 MB when creating a proof.
 
 NOTE: This update was in the Preview environment on February 24, and will be in the Production environment on March 3.
 
@@ -1521,7 +1533,7 @@ When a user attempts to open a proof, the proof is unable to open. Eventually, t
 
 *Proofing*
 
-In order to address a security issue, we’ve temporarily limited the maximum file size for XLS and XLSX files to 100 MB when creating a proof.
+In order to address a security issue, we've temporarily limited the maximum file size for XLS and XLSX files to 100 MB when creating a proof.
 
 NOTE: This update will be in the Preview environment on February 24, and in the Production environment on March 3.
 
@@ -1529,7 +1541,7 @@ NOTE: This update will be in the Preview environment on February 24, and in the 
 
 *Projects*
 
-You now can move or copy a task or an issue to another task in a project without having permissions to add tasks or issues to the destination project. You must have permissions to add tasks or issues to at least one of the destination project’s tasks. Prior to this update, you were required to have permissions to add tasks or issues to the project to move or copy a task or an issue to the project or to any of its tasks. This update is available only in the Preview environment.
+You now can move or copy a task or an issue to another task in a project without having permissions to add tasks or issues to the destination project. You must have permissions to add tasks or issues to at least one of the destination project's tasks. Prior to this update, you were required to have permissions to add tasks or issues to the project to move or copy a task or an issue to the project or to any of its tasks. This update is available only in the Preview environment.
 
 NOTE: This update will be available in the Production environment when coping or moving tasks on March 10th. This update will be available in the Production environment when copying or moving issues with the 22.2 Production release. For more information about the current release see workfront.com/release.
 
