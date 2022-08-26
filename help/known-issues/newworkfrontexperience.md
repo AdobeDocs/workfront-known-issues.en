@@ -36,12 +36,9 @@ This page contains issues currently identified in Adobe Workfront.
 | [Projects: Error when removing the Project Owner from the header](known-issues-workfront/wf-projects-error-when-removing-project-owner.md) | August 22, 2022 |
 | [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | August 16, 2022 |
 | [Issues: Converting an issue to a project using a template displays an incorrect error message](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md) | August 16, 2022 |
-| [Dashboards: Workload Balancer links display incorrectly in dashboards](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md) | August 16, 2022 |
 | [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md) | August 11, 2022 |
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 | 
-| [Projects: "Timeline Planning mode" error when changing a date on a project](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md) | August 5, 2022 | 
-| [Timesheets: "Billed hours already exist" error when adding hours on a timesheet](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md) | July 29, 2022 | 
 | [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | July 28, 2022 | 
 | [Timesheets: Hours do not autosave](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md) | July 27, 2022 | 
 | [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
