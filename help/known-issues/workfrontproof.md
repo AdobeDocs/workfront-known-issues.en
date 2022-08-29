@@ -26,6 +26,7 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [Proofs: Error when adding proof to Workfront from Workfront Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md) | August 29, 2022 |
 |[Workfront Proof: Cannot create proof for files over 1.5GB](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)| August 26, 2022 |
 | [Workfront Proof: Folder views not displaying proofs](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md) | August 18, 2022 |
 | [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | August 12, 2022 | 
