@@ -57,6 +57,13 @@ When a user attempts to change a date on a project that has the Plan Mode set to
 
 "Timeline Planning mode is available only when timelineDate is loaded. Please contact Workfront so we can figure out what went wrong and fix it."
 
+**Consistency when opening the Workload Balancer using the Month view**
+
+*Workload Balancer*
+
+Now, the Workload Balancer displays the users' assigned items expanded when displaying them in the Day, Week, or Month views. Prior to this update, the assigned items were displaying expanded for the Day and Week views, and collapsed for the Month view.
+
+
 +++
 
 +++**Maintenance Update on August 18, 2022**
