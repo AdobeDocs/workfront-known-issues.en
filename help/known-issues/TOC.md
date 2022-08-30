@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Integrations: 404 error when adding a document from SharePoint (Graph API)](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
     + [Integrations: SharePoint folder not appearing for folder owner](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
     + [Integrations: Error when submitting request from Outlook ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
     + [Timesheets: Whoops! error when opening a timesheet](known-issues-workfront/wf-timesheet-whoops-error-when-opening-timesheet.md)

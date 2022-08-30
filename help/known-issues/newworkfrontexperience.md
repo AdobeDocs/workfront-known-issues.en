@@ -16,7 +16,8 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
-| [Timesheets: "Someone else tried to save this project" error when entering hours](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md) | August 29 2022 | 
+| [Integrations: 404 error when adding a document from SharePoint (Graph API)](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md | August 29 2022 | 
+| [Timesheets: "Someone else tried to save this project" error when entering hours](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md) | August 30 2022 | 
 | [Integrations: Error when opening Workfront for Jira within Jira](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md) | August 29 2022 | 
 | [Dashboards: Cannot access dashboard from left navigation on an object](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | August 24 2022 | 
 | [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 | 
