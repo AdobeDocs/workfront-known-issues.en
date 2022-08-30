@@ -23,6 +23,38 @@ The following maintenance updates have been made in 2022.
 
 For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in September 2022
+
++++**Maintenance Update on September 1, 2022**
+
+**Metadata updates for the Adobe Workfront for Experience Manager Assets and Assets Essentials integrations**
+
+*Integrations*
+
+Metadata automatically pushes when you add an asset to a linked folder.
+
+Previously, metadata would push only when you added an asset using the Add new drop-down menu.
+
+**Cannot approve or reject hours on an issue**
+
+*Issues*
+
+When a user attempts to approve or reject hours on the Hours tab of an issue, the Approve and Reject buttons are missing.
+
+**Converting an issue to a project using a template displays an incorrect error message**
+
+*Issues*
+
+When converting an issue to a project using a template and an error is encountered, the user is shown a page with the message "The Project no longer exists" instead of the correct error message that explains the cause of the failed conversion.
+
+**Cannot create proof for files over 1.5GB**
+
+*Workfront Proof*
+
+When creating a new proof, if a user uploads a file larger than 1.5GB then filename will turn red and the proof is prevented from being created.
+
++++
+
 ## Updates in August 2022
 
 +++**Maintenance Update on August 25, 2022**
