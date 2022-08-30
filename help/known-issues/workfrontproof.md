@@ -17,7 +17,6 @@ This page contains issues currently identified in Adobe Workfront Proof.
 |Issue  |Last Modified   | 
 |---|---|
 |[Workfront Proof: Error when uploading a file to a comment](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)| August 24, 2022 |
-|[Workfront Proof: Dashboard shows 0 proofs in Proofs to manage and Proofs awaiting decision reports](known-issues-workfront-proof/zero-proofs-to-manage.md) | May 27, 2022 | 
 
 {style="table-layout:auto"}
 
@@ -27,13 +26,7 @@ This page contains issues currently identified in Adobe Workfront Proof.
 |-----------------------------------------------------------------------------------|-------------------|
 | [Proofs: Error when adding proof to Workfront from Workfront Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md) | August 29, 2022 |
 |[Workfront Proof: Cannot create proof for files over 1.5GB](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)| August 26, 2022 |
-| [Workfront Proof: Folder views not displaying proofs](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md) | August 18, 2022 |
 | [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | August 12, 2022 | 
-| [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
-| [Workfront Proof: Proof admin has limited permissions on a proof](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)| July 29, 2022 |
-|[Workfront Proof: User options cannot be modified after initial configuration in Workflow Templates](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md) | June 24, 2022 | 
-| [Proofs: Comments made in Proof Viewer are not visible in real time](known-issues-workfront-proof/comments-not-visible-in-real-time.md) | May 11, 2022 |
-| [Proof: New stage created because deadline cannot match deadline of existing stage](known-issues-workfront-proof/new-stage-created.md) | May 9, 2022 |
 | [Proofs: Inaccurate proof approval deadline displayed in Home Work List](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | April 25, 2022 |
 | [Proof: Cannot add user to proof by tagging the user in a comment](known-issues-workfront-proof/cannot-add-user-to-proof.md) | March 23, 2022 |
 | [Proofs: Cannot create a new version of a proof](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md) | March 2, 2022 |

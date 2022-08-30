@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue was resolved with the 22.3 release.
 
 When a user is viewing a proof in Proof Viewer, and another user makes a comment, the comment does not display immediately for the viewing user. The viewing user must refresh the Proof Viewer manually to see the comment.
 
