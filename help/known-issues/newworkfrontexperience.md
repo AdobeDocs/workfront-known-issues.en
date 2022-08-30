@@ -41,12 +41,9 @@ This page contains issues currently identified in Adobe Workfront.
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 | 
 | [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | July 28, 2022 | 
-| [Timesheets: Hours do not autosave](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md) | July 27, 2022 | 
 | [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
-| [Search: Cannot search projects by reference number](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md) | June 28, 2022 |
 | [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |
 | [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)                                               | May 11, 2022      |
-| [Proofs: Comments made in Proof Viewer are not visible in real time](known-issues-workfront-proof/comments-not-visible-in-real-time.md)                                 | May 11, 2022      |
 | [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md)                              | May 4, 2022       |
 | [Proofs: Inaccurate proof approval deadline displayed in Home Work List](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)                             | April 25, 2022    |
 | [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)                             | April 20, 2022    |
@@ -72,6 +69,7 @@ This page contains issues currently identified in Adobe Workfront.
 | [Calendar: Tasks not displaying](known-issues-workfront/wf-calendar-tasks-not-displaying.md)                                                                     | November 9, 2020  |
 
 {style="table-layout:auto"}
+
 
 <!--
 
