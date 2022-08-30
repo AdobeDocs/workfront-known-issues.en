@@ -10,7 +10,7 @@ When a user attempts to submit a request with attachments from an Outlook email,
 
 "The following error occurred: File with handle xxxx does not exist."
 
-This occurs only when an assigment is made for the new request, either through the request queue or manually when creating the request.
+This occurs only when an assignment is made for the new request, either through the request queue or manually when creating the request.
 
 _First reported on August 10, 2022._
 
