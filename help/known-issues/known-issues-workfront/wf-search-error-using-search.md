@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # Search: Error when using Search in Workfront
 
+>[!NOTE]
+>
+>This issue was fixed on July 21, 2022.
+
 When a user attempts to search Workfront using the basic Search functionality, the search is not successful and the user sees the following message:
 
 Let's try that again.

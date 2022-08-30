@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # Workfront Proof: Users added to a proof have only "View" access
 
+>[!NOTE]
+>
+>This issue was fixed on July 25, 2022.
+
 When a user is added to a proof, they receive only "View" access to that proof. This has been reported with the following roles:
 
 * Moderator

@@ -19,14 +19,8 @@ This page contains issues currently identified in Adobe Workfront.
 | [Timesheets: "Someone else tried to save this project" error when entering hours](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md) | August 29 2022 | 
 | [Integrations: Error when opening Workfront for Jira within Jira](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md) | August 29 2022 | 
 | [Dashboards: Cannot access dashboard from left navigation on an object](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | August 24 2022 | 
-| [Projects, Tasks, and Issues: Resized Description box goes back to original size](known-issues-workfront/wf-projects-description-field-size-snaps-back.md) | August 23 2022 | 
 | [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 | 
-| [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md) | August 1 2022 | 
-|[Workfront Proof: Users added to a proof have only "View" access](known-issues-workfront-proof/proof-added-users-have-only-view.md) | July 25 | 
-| [Timesheets: Issues related to adding hours to projects in Complete or Dead status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md) | July 20, 2022 | 
-| [Search: Error when using Search in Workfront](known-issues-workfront/wf-search-error-using-search.md) | July 12, 2022 |
 | [Issues: Cannot approve or reject hours on an issue](known-issues-workfront/wf-issues-cannot-approve-hours.md) | June 24, 2022 |
-| [Reports: Reports not sent as scheduled](known-issues-workfront/wf-reports-not-sent-as-scheduled.md) |June 22, 2022 |
 | [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 
 {style="table-layout:auto"}
@@ -35,6 +29,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Projects, Tasks, and Issues: Resized Description box goes back to original size](known-issues-workfront/wf-projects-description-field-size-snaps-back.md) | August 30 2022 | 
 | [Integrations: SharePoint folder not appearing for folder owner](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md) | August 30, 2022 |
 | [Integrations: Error when submitting request from Outlook ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
 | [Proofs: Error when adding proof to Workfront from Workfront Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md) | August 29, 2022 |

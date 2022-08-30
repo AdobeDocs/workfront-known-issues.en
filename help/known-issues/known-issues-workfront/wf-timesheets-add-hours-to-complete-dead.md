@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # Timesheets: Issues related to adding hours to projects in Complete or Dead status
 
+>[!NOTE]
+>
+>This issue was fixed on July 29, 2022.
+
 The following issues have been reported regarding adding hours to projects that are in Complete or Dead status:
 
 * Users are able to add hours to projects that are in a status that equates to Complete or Dead. This is possible even though those options are disabled in Timesheet Preferences.
