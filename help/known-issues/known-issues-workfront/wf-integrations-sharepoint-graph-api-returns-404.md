@@ -1,6 +1,6 @@
 ---
-title: ""
-description: ""
+title: "Integrations: 404 error when adding a document from SharePoint Graph API"
+description: "When a user attempts to add a document to Workfront from SharePoint (Graph API), the document is not added, and the user sees the following error message:"
 hidefromtoc: yes
 ---
 
