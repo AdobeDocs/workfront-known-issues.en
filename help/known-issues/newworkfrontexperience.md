@@ -42,7 +42,6 @@ This page contains issues currently identified in Adobe Workfront.
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 | 
 | [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | July 28, 2022 | 
-| [Terminology (German language): Terminology is wrong in some areas when the browser language is set to German](known-issues-workfront/wf-terminology-in-german.md) | July 14, 2022 |
 | [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |
 | [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)                                               | May 11, 2022      |
 | [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md)                              | May 4, 2022       |
