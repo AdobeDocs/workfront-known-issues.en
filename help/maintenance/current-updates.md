@@ -27,6 +27,12 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 +++**Maintenance Update on September 1, 2022**
 
+**Completed items removed from delegation**
+
+*Delegations*
+
+Now, only incomplete items whose dates match the dates of a delegation will be delegated to other users when the delegation of work items starts. If items were completed before the delegation started, they will not be delegated. Items that are completed during the delegation time frame will stay on the Work List of the Home area for both the delegate and the assignee for two weeks before they are automatically removed, if the delegation has not ended during these weeks.
+
 **Metadata updates for the Adobe Workfront for Experience Manager Assets and Assets Essentials integrations**
 
 *Integrations*
