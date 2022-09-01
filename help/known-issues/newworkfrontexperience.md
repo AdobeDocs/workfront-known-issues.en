@@ -21,7 +21,6 @@ This page contains issues currently identified in Adobe Workfront.
 | [Integrations: Error when opening Workfront for Jira within Jira](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md) | August 29 2022 | 
 | [Dashboards: Cannot access dashboard from left navigation on an object](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | August 24 2022 | 
 | [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 | 
-| [Issues: Cannot approve or reject hours on an issue](known-issues-workfront/wf-issues-cannot-approve-hours.md) | June 24, 2022 |
 | [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 
 {style="table-layout:auto"}
@@ -30,6 +29,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Custom forms: Descriptive text fields display tooltip](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md) | August 30 2022 | 
 | [Projects, Tasks, and Issues: Resized Description box goes back to original size](known-issues-workfront/wf-projects-description-field-size-snaps-back.md) | August 30 2022 | 
 | [Integrations: SharePoint folder not appearing for folder owner](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md) | August 30, 2022 |
 | [Integrations: Error when submitting request from Outlook ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
@@ -37,7 +37,6 @@ This page contains issues currently identified in Adobe Workfront.
 | [Timesheets: Whoops! error when opening a timesheet](known-issues-workfront/wf-timesheet-whoops-error-when-opening-timesheet.md) | August 29, 2022 |
 | [Projects: Error when removing the Project Owner from the header](known-issues-workfront/wf-projects-error-when-removing-project-owner.md) | August 22, 2022 |
 | [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | August 16, 2022 |
-| [Issues: Converting an issue to a project using a template displays an incorrect error message](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md) | August 16, 2022 |
 | [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md) | August 11, 2022 |
 | [Workfront Proof: Daily Summary emails do not include a "View Details" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 | 
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 | 

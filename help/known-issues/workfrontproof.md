@@ -25,11 +25,9 @@ This page contains issues currently identified in Adobe Workfront Proof.
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
 | [Proofs: Error when adding proof to Workfront from Workfront Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md) | August 29, 2022 |
-|[Workfront Proof: Cannot create proof for files over 1.5GB](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)| August 26, 2022 |
 | [Workfront Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | August 12, 2022 | 
 | [Proofs: Inaccurate proof approval deadline displayed in Home Work List](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | April 25, 2022 |
 | [Proof: Cannot add user to proof by tagging the user in a comment](known-issues-workfront-proof/cannot-add-user-to-proof.md) | March 23, 2022 |
-| [Proofs: Cannot create a new version of a proof](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md) | March 2, 2022 |
 | [Home: Reply in Proof button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | June 21, 2021 |
 | [Proof: Automatic access to proofs are delayed](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | June 14, 2021 |
 | [Proof: Proof Approval report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | April 21, 2021 |
