@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Custom forms: Descriptive text fields display tooltip](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
     + [Integrations: 404 error when adding a document from SharePoint (Graph API)](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
     + [Integrations: SharePoint folder not appearing for folder owner](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
     + [Integrations: Error when submitting request from Outlook ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
