@@ -13,4 +13,4 @@ On September 1, a temporary name change for two Workfront assignment fields was 
 
 Both fields will be reverted back to their original labels in Production next week.
 
-A temporary note has been added to the [Glossary of Adobe Workfront terminology](/help/quicksilver/workfront-basics/navigate-workfront/workfront-navigation/workfront-terminology-glossary.md).
+A temporary note has been added to the [Glossary of Adobe Workfront terminology](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html).
