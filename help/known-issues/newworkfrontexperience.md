@@ -29,6 +29,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 |                                             **Issue**                                              | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Assignments fields: Temporarily updated names for the user- and role- assignment fields](known-issues-workfront/wf-assignments-temp-updated-names.md) | September 1 2022 | 
 | [Custom forms: Descriptive text fields display tooltip](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md) | August 30 2022 | 
 | [Projects, Tasks, and Issues: Resized Description box goes back to original size](known-issues-workfront/wf-projects-description-field-size-snaps-back.md) | August 30 2022 | 
 | [Integrations: SharePoint folder not appearing for folder owner](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md) | August 30, 2022 |
