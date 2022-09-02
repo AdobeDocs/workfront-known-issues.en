@@ -25,6 +25,20 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2022
 
++++**Maintenance Update on September 2, 2022**
+
+Add the Integrations field to the project custom header
+
+*Integrations*
+
+You can now add the Integrations field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in Salesforce or Anaplan, depending on your integration.
+
+>[!NOTE]
+>
+>This maintenance update was previously released to the Preview environment on August 25, 2022 and it is now in Production.
+
++++
+
 +++**Maintenance Update on September 1, 2022**
 
 **Completed items removed from delegation**
