@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Documents: Document approvals not available from Document Details page](known-issues-workfront/wf-documents-approvals-not-in-document-details.md)
     + [Reports: Issues regarding issue reports in Workfront](known-issues-workfront/wf-reports-issues-with-issue-reports.md)
     + [Assignments fields: Temporarily updated names for the user- and role- assignment fields](known-issues-workfront/wf-assignments-temp-updated-names.md)
     + [Custom forms: Descriptive text fields display tooltip](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)

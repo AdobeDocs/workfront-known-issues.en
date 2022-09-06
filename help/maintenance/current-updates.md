@@ -25,7 +25,7 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2022
 
-+++**(Planned) Maintenance Update on September 6, 2022**
++++**(Planned) Maintenance Update on September 8, 2022**
 
 **Error when removing the Project Owner from the header**
 
@@ -47,6 +47,23 @@ When a user resizes the Description box in the details area of a work item to ma
 
 When a user is creating a task or issue in a project and clicks outside of the creation pop-up, the pop-up closes without warning and all previously entered information is lost. 
 
+**Removed ability to email a proof to a dropzone**
+
+*Workfront Proof*
+
+As of Thursday, September 8, 2022, we have removed the ability to email a proof to a dropzone in the standalone Workfront Proof product.
+
+You can still use dropzones in other ways to submit new proofs and new versions of proofs to your account without having to log in to your account. See [The Dropzone](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html) for more information.
+
++++
+
++++**Maintenance Update on September 6, 2022**
+
+**New limit with a confirmation message that displays the number of items added to a timesheet**
+
+*Timesheets*
+
+When you select more than 50 items to add to a timesheet, you now receive a confirmation message that displays the number of items to be added to the timesheet and gives you the opportunity to change course and not add all the items. All items added become automatically pinned to the timesheet and will need to be manually removed from the current and all future timesheets.
 
 +++
 
