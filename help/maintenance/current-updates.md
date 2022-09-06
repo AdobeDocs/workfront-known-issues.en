@@ -25,6 +25,31 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2022
 
++++**(Planned) Maintenance Update on September 6, 2022**
+
+**Error when removing the Project Owner from the header**
+
+*Projects*
+
+When a user attempts to remove a Project Owner from the header of a project, the Project Owner is not removed, and the user sees the following error message:
+
+`422: Invalid Parameter: ownerID value "null" /attask/api-internal/PROJ/<project ID>`
+
+**Resized Description box goes back to original size**
+
+*Projects, tasks, and issues*
+
+When a user resizes the Description box in the details area of a work item to make it bigger, then begins typing in the box, the box returns to its original size. The user can still type in the box, and the contents save as expected
+
+**Inadvertent exit when creating tasks or issues**
+
+*Tasks and issues*
+
+When a user is creating a task or issue in a project and clicks outside of the creation pop-up, the pop-up closes without warning and all previously entered information is lost. 
+
+
++++
+
 +++**Maintenance Update on September 2, 2022**
 
 Add the Integrations field to the project custom header
