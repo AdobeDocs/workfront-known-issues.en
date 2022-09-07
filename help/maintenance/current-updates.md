@@ -27,6 +27,15 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 +++**(Planned) Maintenance Update on September 8, 2022**
 
+**Updated names reverted for the user- and role-assignment fields**
+
+*Assignments*
+
+The assignment fields temporarily renamed last week have been reverted to their original names:
+
+* Assignment Users
+* Assignment Roles
+
 **Error when removing the Project Owner from the header**
 
 *Projects*
