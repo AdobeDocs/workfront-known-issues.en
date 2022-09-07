@@ -59,6 +59,12 @@ You can still use dropzones in other ways to submit new proofs and new versions 
 
 +++**Maintenance Update on September 6, 2022**
 
+**Projected dates added to the list of fields for customizable project headers**
+
+*Projects*
+
+We have added the Projected Start and Completion Dates to the list of fields for customizable project headers when using a layout template.
+
 **New limit with a confirmation message that displays the number of items added to a timesheet**
 
 *Timesheets*
