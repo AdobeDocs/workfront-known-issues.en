@@ -1,6 +1,6 @@
 ---
 title: Known Issues in Adobe Workfront Proof
-description: Rported known issues for Adobe Workfront Proof
+description: Reported known issues for Adobe Workfront Proof
 keywords: new file, add file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 ---

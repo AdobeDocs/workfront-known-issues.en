@@ -1,6 +1,6 @@
 ---
 title: Known Issues in Adobe Workfront Library
-description: Rported known issues for Adobe Workfront Library
+description: Reported known issues for Adobe Workfront Library
 keywords: new file, add file
 exl-id: 48f73098-903e-441e-a9ea-d5f3e6f996c1
 ---
