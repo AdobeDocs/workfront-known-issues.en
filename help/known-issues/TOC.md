@@ -10,6 +10,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront {#new-workfront-experience}
   + [Known Issues in Adobe Workfront](newworkfrontexperience.md)
   + Current Issues in Adobe Workfront {#wf-current}
+    + [Lists: New status not displayed when inline editing status](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md)
     + [Reports: Issues when creating and editing reports in Report builder](known-issues-workfront/wf-reports-builder-degraded-performance.md)
     + [Documents: Document approvals not available from Document Details page](known-issues-workfront/wf-documents-approvals-not-in-document-details.md)
     + [Reports: Issues regarding issue reports in Workfront](known-issues-workfront/wf-reports-issues-with-issue-reports.md)

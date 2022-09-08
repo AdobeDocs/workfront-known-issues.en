@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Lists: New status not displayed when inline editing status](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | September 8, 2022 | 
 | [Reports: Issues when creating and editing reports in Report builder](known-issues-workfront/wf-reports-builder-degraded-performance.md) | September 6, 2022 | 
 | [Documents: Document approvals not available from Document Details page](known-issues-workfront/wf-documents-approvals-not-in-document-details.md) | September 6, 2022 | 
 | [Reports: Issues regarding issue reports in Workfront](known-issues-workfront/wf-reports-issues-with-issue-reports.md) | September 2, 2022 | 
