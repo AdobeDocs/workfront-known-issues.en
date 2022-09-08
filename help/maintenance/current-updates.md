@@ -25,7 +25,7 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2022
 
-+++**(Planned) Maintenance Update on September 8, 2022**
++++**Maintenance Update on September 8, 2022**
 
 **Updated names reverted for the user- and role-assignment fields**
 
