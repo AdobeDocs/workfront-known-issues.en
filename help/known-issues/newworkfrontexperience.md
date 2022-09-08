@@ -1,6 +1,6 @@
 ---
 title: Known Issues in new Adobe Workfront Experience
-description: Rported known issues for new Adobe Workfront Experience
+description: Reported known issues for new Adobe Workfront Experience
 keywords: new file, add file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 ---

@@ -1,6 +1,6 @@
 ---
 title: Known Issues in Adobe Workfront Fusion
-description: Rported known issues for Adobe Workfront Fusion
+description: Reported known issues for Adobe Workfront Fusion
 keywords: new file, add file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 ---
