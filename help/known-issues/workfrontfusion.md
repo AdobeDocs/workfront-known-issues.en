@@ -22,5 +22,6 @@ This page contains issues currently identified in Adobe Workfront Fusion.
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [Workfront Fusion: Fusion module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | September 9, 2022 |
 | [Workfront Fusion: Unable to connect to MS Dynamics module in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md) | August 16, 2022 |
 | [Fusion in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)| August 2, 2022 |
