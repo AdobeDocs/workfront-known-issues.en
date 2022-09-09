@@ -16,8 +16,7 @@ This page contains issues currently identified in Adobe Workfront Proof.
 
 |Issue  |Last Modified   | 
 |---|---|
-| [Documents: Document approvals not available from Document Details page](known-issues-workfront/wf-documents-approvals-not-in-document-details.md) | September 6, 2022 | 
-|[Workfront Proof: Error when uploading a file to a comment](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)| August 24, 2022 |
+| None |  | 
 
 {style="table-layout:auto"}
 

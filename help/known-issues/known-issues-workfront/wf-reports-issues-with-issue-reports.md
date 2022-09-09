@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Reports: Issues regarding issue reports in Workfront
 
+>[!NOTE]
+>
+>This issue was fixed on September 7, 2022.
+
 The following issues have been reported regarding issue reports in Workfront:
 
 * List actions such as Edit or Export are missing.

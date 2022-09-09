@@ -4,7 +4,11 @@ description: "When a user attempts to view a folder in the new SharePoint (Graph
 hidefromtoc: yes
 ---
 
-# Integrations: SharePoint folder not appearing for folder owner
+# Integrations: SharePoint folder not appearing for folder owner (Graph API) 
+
+>[!NOTE]
+>
+>This issue has been closed because it is not a Workfront error.
 
 When a user attempts to view a folder in the new SharePoint (Graph API) integration, the folder does not display. This occurs even though the user is the owner of the folder.
 
