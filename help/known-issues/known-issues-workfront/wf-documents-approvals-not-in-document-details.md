@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This known issue is listed on both the Workfront page and Workfront Proof page-->
 
+>[!NOTE]
+>
+>This issue was fixed on September 7, 2022.
+
 When a user attempts to approve a document from the document's Details page, the Approve, Approve with changes, and Reject buttons are not available, and the user cannot make a decision on the document.
 
 **Workaround**

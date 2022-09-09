@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Assignments fields: Temporarily updated names for the user- and role- assignment fields
 
+>[!NOTE]
+>
+>This issue was resolved on September 8, 2022.
+
 On September 1, a temporary name change for two Workfront assignment fields was introduced into Production:
 
 * **Assignment Users** is temporarily **Assigned Users**.
