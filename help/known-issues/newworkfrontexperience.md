@@ -16,10 +16,10 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
-| [[Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | September 9, 2022 | 
+| [Custom forms: Elements overlapping in left panel](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | September 9, 2022 | 
+| [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | September 9, 2022 | 
 | [Reports: Issues when creating and editing reports in Report builder](known-issues-workfront/wf-reports-builder-degraded-performance.md) | September 6, 2022 | 
 | [Timesheets: "Someone else tried to save this project" error when entering hours](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md) | August 30 2022 | 
-| [Integrations: Error when opening Workfront for Jira within Jira](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md) | August 29 2022 | 
 | [Dashboards: Cannot access dashboard from left navigation on an object](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | August 24 2022 | 
 | [Workfront: Issues submitting a Workfront support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 | 
 | [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
