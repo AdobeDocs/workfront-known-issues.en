@@ -133,6 +133,7 @@ user-guide-description: Known Issues for Adobe Workfront
 + Adobe Workfront Fusion {#fusion}
   + [Known Issues in Workfront Fusion](workfrontfusion.md)
   + Current Issues in Workfront Fusion {#fusion-current}
+    + [Workfront Fusion: Fusion module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
     + [Workfront Fusion: Unable to connect to MS Dynamics module in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
     + [Workfront Fusion: 502 error when scenario includes a module that checks proof decisions in Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
     + [Fusion in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
