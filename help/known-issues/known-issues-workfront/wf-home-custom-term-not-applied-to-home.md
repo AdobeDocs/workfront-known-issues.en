@@ -13,6 +13,6 @@ hidefromtoc: yes
 The Home area displays default names for objects, instead of the terminology set by the organization. This has been reported in the following areas:
 
 * The Work List filter
-* The "Start \<object\>" button in the Work List
+* The "Start \<object\>" button in the [!UICONTROL Work List]
 
 _First reported on April 8, 2022._

@@ -16,6 +16,6 @@ When a user attempts to remove a Project Owner from the header of a project, the
 
 **Workaround**
 
-Remove the Project Owner from the project's Details area.
+Remove the Project Owner from the project's [!UICONTROL Details] area.
 
 _First reported on August 9, 2022._

@@ -4,13 +4,13 @@ description: "Multiple issues have been reported when creating and editing repor
 hidefromtoc: yes
 ---
 
-# Reports: Issues when creating and editing reports in Report builder
+# Reports: Issues when creating and editing reports in [!UICONTROL Report builder]
 
 The following issues have been reported when creating and editing reports in the Report builder:
 
 * The report builder does not load.
 * Chart groupings (axes) disappear.
-* The Save + Close button is unresponsive.
+* The [!UICONTROL Save + Close] button is unresponsive.
 
 **Workaround**
 

@@ -14,7 +14,7 @@ When a user navigates to a calendar, the calendar loads a random date range in t
 
 **Workaround**
 
-Clicking **Today** loads the correct week on the calendar.
+Clicking **[!UICONTROL Today]** loads the correct week on the calendar.
 
 
 _First reported on April 7, 2020._

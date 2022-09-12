@@ -1,6 +1,6 @@
 ---
 title: "Documents: Document approvals not available from Document Details page"
-description: "When a user attempts to approve a document from the document's Details page, the Approve, Approve with changes, and Reject buttons are not available, and the user cannot make a decision on the document."
+description: "When a user attempts to approve a document from the document's Details page, the [!UICONTROL Approve], [!UICONTROL Approve with changes], and [!UICONTROL Reject] buttons are not available, and the user cannot make a decision on the document."
 hidefromtoc: yes
 ---
 
@@ -12,11 +12,11 @@ hidefromtoc: yes
 >
 >This issue was fixed on September 7, 2022.
 
-When a user attempts to approve a document from the document's Details page, the Approve, Approve with changes, and Reject buttons are not available, and the user cannot make a decision on the document.
+When a user attempts to approve a document from the document's Details page, the [!UICONTROL Approve], [!UICONTROL Approve with changes], and [!UICONTROL Reject] buttons are not available, and the user cannot make a decision on the document.
 
 **Workaround**
 
-Click on the document in the Documents list of a work item. The Approve, Approve with changes, and Reject buttons are available in the Document Summary area.
+Click on the document in the Documents list of a work item. The [!UICONTROL Approve], [!UICONTROL Approve with changes], and [!UICONTROL Reject] buttons are available in the [!UICONTROL Document Summary] area.
 
 _First reported on September 2, 2022._
 
