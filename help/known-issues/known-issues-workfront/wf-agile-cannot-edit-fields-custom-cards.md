@@ -14,6 +14,6 @@ When a field on a card on the Kanban Board pulls from a custom form, users are n
 
 **Workaround**
 
-Open the task and edit the field from the Edit Task window.
+Open the task and edit the field from the [!UICONTROL Edit Task] window.
 
 _First reported on April 12, 2022._

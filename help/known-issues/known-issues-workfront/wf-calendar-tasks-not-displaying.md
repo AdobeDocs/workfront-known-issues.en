@@ -12,8 +12,4 @@ hidefromtoc: yes
 
 When a user has a list report and a calendar report that have the same filters, they see that some tasks display in the list report but don't display on the calendar report.
 
-**Workaround**
-
-Workaround goes here
-
 _First reported on October 31, 2019._
