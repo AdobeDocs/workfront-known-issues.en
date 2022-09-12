@@ -1,6 +1,6 @@
 ---
 user-guide-title: Maintenance Releases
-user-guide-description: Maintenance Releases for Adobe Workfront
+user-guide-description: Maintenance Releases for [!DNL Adobe Workfront]
 ---
 
 # Maintenance Release {#releases}

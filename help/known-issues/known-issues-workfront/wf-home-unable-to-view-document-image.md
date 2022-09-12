@@ -4,7 +4,7 @@ description: When a user clicks a .docx thumbnail to view a preview of the docum
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: yes
 ---
-# Home: Unable to view the document image in the Work List
+# Home: Unable to view the document image in the [!UICONTROL Work List]
 
 >[!NOTE]
 >

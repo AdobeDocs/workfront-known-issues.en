@@ -14,6 +14,6 @@ When converting an issue to a project using a template and an error is encounter
 
 **Workaround**
 
-Clicking back and selecting the template again casues the appropriate error message to display, allowing the user to correct the error and retry the conversion.
+Clicking [!UICONTROL back] and selecting the template again casues the appropriate error message to display, allowing the user to correct the error and retry the conversion.
 
 _First reported on August 12, 2022._
