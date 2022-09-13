@@ -16,7 +16,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront] Fusion.
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
-| None |  |
+| [Workfront Fusion: Module does not load when creating or editing a scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md) | September 13, 2022  |
 
 ## Current Issues
 
