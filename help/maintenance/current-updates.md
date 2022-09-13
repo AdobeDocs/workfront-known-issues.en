@@ -25,6 +25,24 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2022
 
++++**(Planned) Maintenance Update on September 15, 2022**
+
+**"Someone else tried to save this project" error when entering hours**
+
+*Timesheets*
+
+When a user attempts to log [!UICONTROL hours] to a task on their timesheet, the hours do not autosave, and the user sees the following error:
+
+"We're sorry, but your save failed because someone else tried to save this project at the same time. Please try to save again."
+
+**Cannot close user card in update stream**
+
+*Updates*
+
+When a user is viewing updates and hovers over a name, a card with details about the user whose name it is opens and does not close automatically. The page is unresponsive until the card is manually closed by clicking the X in the upper-right corner.
+
++++
+
 +++**Maintenance Update on September 8, 2022**
 
 **Updated names reverted for the user- and role-assignment fields**
