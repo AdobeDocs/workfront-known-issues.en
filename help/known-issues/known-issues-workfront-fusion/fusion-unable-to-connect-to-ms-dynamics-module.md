@@ -4,8 +4,8 @@ description: The MS Dynamics module within [!DNL Fusion] cannot connect, encount
 hidefromtoc: yes
 exl-id: 8fb72e2b-5be5-42eb-a098-98a3e74efa65
 ---
-# Workfront Fusion: Unable to connect to MS Dynamics module in Fusion
+# Workfront Fusion: Unable to connect to [!DNL MS Dynamics] module in Fusion
 
-The MS Dynamics module within [!DNL Fusion] cannot connect, encountering a "failed to verify connection" error for both new and existing connections.
+The [!DNL MS Dynamics] module within [!DNL Fusion] cannot connect, encountering a "failed to verify connection" error for both new and existing connections.
 
 _First reported on August 10, 2022._
