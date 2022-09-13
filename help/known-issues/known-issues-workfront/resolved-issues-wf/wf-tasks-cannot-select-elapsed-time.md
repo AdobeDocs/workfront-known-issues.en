@@ -10,12 +10,12 @@ hidefromtoc: yes
 >
 >This issue was fixed on July 21, 2022.
 
-When a user is viewing a task list and attempts to edit the Task Duration, the following duration units are not available:
+When a user is viewing a task list and attempts to edit the [!UICONTROL Task Duration], the following duration units are not available:
 
-* Elapsed Minutes
-* Elapsed Hours
-* Elapsed Days
-* Elapsed Weeks
-* Elapsed Months
+* [!UICONTROL Elapsed Minutes]
+* [!UICONTROL Elapsed Hours]
+* [!UICONTROL Elapsed Days]
+* [!UICONTROL Elapsed Weeks]
+* [!UICONTROL Elapsed Months]
 
 _First reported on July 1, 2022._

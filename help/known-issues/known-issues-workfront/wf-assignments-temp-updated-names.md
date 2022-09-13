@@ -12,8 +12,8 @@ hidefromtoc: yes
 
 On September 1, a temporary name change for two [!DNL Workfront] assignment fields was introduced into Production:
 
-* **Assignment Users** is temporarily **Assigned Users**.
-* **[!UICONTROL Assignment Roles]** is temporarily **Assigned Roles**.
+* **[!UICONTROL Assignment Users]** is temporarily **[!UICONTROL Assigned Users]**.
+* **[!UICONTROL Assignment Roles]** is temporarily **[!UICONTROL Assigned Roles]**.
 
 Both fields will be reverted back to their original labels in Production next week.
 
