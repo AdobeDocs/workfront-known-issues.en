@@ -16,6 +16,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Timesheets: Hours do not save when using Tab key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | September 13, 2022 |
 | [Custom forms: Elements overlapping in left panel](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | September 9, 2022 |
 | [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | September 9, 2022 |
 | [Reports: Issues when creating and editing reports in [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | September 6, 2022 |
