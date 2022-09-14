@@ -4,7 +4,7 @@ description: When a user sets up a calendar report to pull in tasks based on a c
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
 hidefromtoc: yes
 ---
-# Calendars: OR filter statement excluding filter rule
+# Calendars: [!DNL OR] filter statement excluding filter rule
 
 >[!NOTE]
 >

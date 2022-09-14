@@ -4,7 +4,7 @@ description: When a user is asked to approve a proof they do not have access to 
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: yes
 ---
-# Home: Project Name shows as a GUID in the [!UICONTROL Work List]
+# [!UICONTROL Home]: [!UICONTROL Project Name] shows as a GUID in the [!UICONTROL Work List]
 
 >[!NOTE]
 >

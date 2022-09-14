@@ -4,7 +4,7 @@ description: When a user views the [!DNL Workfront] Proof dashboard, the [!UICON
 exl-id: 0f378fef-4d0d-414d-a51f-a5c3beda2f46
 hidefromtoc: yes
 ---
-# Proof: Users do not receive notifications when tagged in a proof
+# [!DNL Workfront Proof]: Users do not receive notifications when tagged in a proof
 
 When a user is tagged in a proof comment, they do not receive an email notification about the comment.
 
