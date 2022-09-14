@@ -13,13 +13,13 @@ hidefromtoc: yes
 The following issues have been reported regarding issue reports in [!DNL Workfront]:
 
 * List actions such as [!UICONTROL Edit] or [!UICONTROL Export] are missing.
-* List controls (Filter, View, Grouping) are missing.
+* List controls ([!UICONTROL Filter], [!UICONTROL View], [!UICONTROL Grouping]) are missing.
 * Some issue objects that should be in the report are missing.
-* When a user refreshes the page, they may see the error "Cannot read properies of null (reading 'setLabelMessageKey')
+* When a user refreshes the page, they may see the error "[!UICONTROL Cannot read properies of null (reading 'setLabelMessageKey')]"
 
 **Workaround**
 
-Refresh the page using the Refresh button in your browser.
+Refresh the page using the [!UICONTROL Refresh] button in your browser.
 
 _First reported on September 2, 2022._
 

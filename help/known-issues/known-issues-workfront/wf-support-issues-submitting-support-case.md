@@ -4,7 +4,7 @@ description: '"If you are an [!DNL Workfront] Authorized Support Contact and are
 hidefromtoc: yes
 ---
 
-# Workfront: Issues submitting a Workfront support case on Experience League
+# Workfront: Issues submitting a [!DNL Workfront] support case on [!DNL Experience League]
 
 If you are a [!DNL Workfront] Authorized Support Contact and are having issues submitting a support case, please click [here](https://workfrontpartners.force.com/one/s/).
 
