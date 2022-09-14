@@ -4,16 +4,16 @@ description: When a user clicks a .docx thumbnail to view a preview of the docum
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: yes
 ---
-# Home: Unable to view the document image in the [!UICONTROL Work List]
+# [!UICONTROL Home]: Unable to view the document image in the [!UICONTROL Work List]
 
 >[!NOTE]
 >
 >The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
 
-When a user clicks a .docx thumbnail to view a preview of the document, a video player opens and they are unable to see the document.
+When a user clicks a [!UICONTROL .docx] thumbnail to view a preview of the document, a video player opens and they are unable to see the document.
 
 **Workaround**
 
-Click the document name link to go directly to the Document Details page where you can preview the document.
+Click the document name link to go directly to the [!UICONTROL Document Details] page where you can preview the document.
 
 _First reported on  October 26, 2020._
