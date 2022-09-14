@@ -890,7 +890,7 @@ When a user in the new [!DNL Adobe Workfront] experience is viewing a report on 
 
 +++
 
-+++**[!DNL Adobe Workfront] Fusion Maintenance Update on July 1, 2021**
++++**[!DNL Adobe Workfront Fusion] Maintenance Update on July 1, 2021**
 
 **Fusion: Copying modules does not work**
 
@@ -970,14 +970,14 @@ When a user in the new [!DNL Adobe Workfront] experience adds a custom-made [!UI
 
 +++
 
-+++**[!DNL Adobe Workfront] Fusion Maintenance Update on June 23, 2021**
++++**[!DNL Adobe Workfront Fusion] Maintenance Update on June 23, 2021**
 
 **Removed broken link in notification emails**
 
 _Adobe Workfront Fusion_
 
-We've removed the link to notification settings from [!DNL Adobe Workfront] Fusion notification emails.
-For information on changing notification settings, see [!DNL Adobe Workfront] Fusion organizations and teams.
+We've removed the link to notification settings from [!DNL Adobe Workfront Fusion] notification emails.
+For information on changing notification settings, see [!DNL Adobe Workfront Fusion] organizations and teams.
 
 +++
 

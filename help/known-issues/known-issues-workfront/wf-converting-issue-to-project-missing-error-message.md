@@ -10,7 +10,7 @@ exl-id: 0bb7ef1d-f314-4e36-863b-ddb6299b1c48
 >
 >This issue was fixed on September 1, 2022.
 
-When converting an issue to a project using a template and an error is encountered, the user is shown a page with the message "The Project no longer exists" instead of the correct error message that explains the cause of the failed conversion.
+When converting an issue to a project using a template and an error is encountered, the user is shown a page with the message "[!UICONTROL The Project no longer exists]" instead of the correct error message that explains the cause of the failed conversion.
 
 **Workaround**
 

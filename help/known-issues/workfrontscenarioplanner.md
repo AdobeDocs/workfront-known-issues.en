@@ -6,7 +6,7 @@ exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
 ---
 # Known Issues in [!DNL Adobe Workfront Scenario Planner]
 
-This page contains issues currently identified in [!DNL Adobe Workfront] Scenario Planner.
+This page contains issues currently identified in [!DNL Adobe Workfront Scenario Planner].
 
 >[!IMPORTANT]
 >

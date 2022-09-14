@@ -3,7 +3,7 @@ title: Workfront Maintenance Updates
 description: Maintenance Updates for [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 ---
-# Workfront Maintenance Updates
+# [!DNL Workfront] Maintenance Updates
 
 The following maintenance updates have been made in 2022.
 
@@ -31,7 +31,7 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 *Timesheets*
 
-When a user attempts to log [!UICONTROL hours] to a task on their timesheet, the hours do not autosave, and the user sees the following error:
+When a user attempts to log hours to a task on their timesheet, the hours do not autosave, and the user sees the following error:
 
 "We're sorry, but your save failed because someone else tried to save this project at the same time. Please try to save again."
 
@@ -51,22 +51,22 @@ When a user is viewing updates and hovers over a name, a card with details about
 
 The assignment fields temporarily renamed last week have been reverted to their original names:
 
-* Assignment Users
-* Assignment Roles
+* [!UICONTROL Assignment Users]
+* [!UICONTROL Assignment Roles]
 
 **Error when removing the Project Owner from the header**
 
 *Projects*
 
-When a user attempts to remove a Project Owner from the header of a project, the Project Owner is not removed, and the user sees the following error message:
+When a user attempts to remove a [!UICONTROL Project Owner] from the header of a project, the [!UICONTROL Project Owner] is not removed, and the user sees the following error message:
 
 `422: Invalid Parameter: ownerID value "null" /attask/api-internal/PROJ/<project ID>`
 
-**Resized Description box goes back to original size**
+**Resized [!UICONTROL Description] box goes back to original size**
 
 *Projects, tasks, and issues*
 
-When a user resizes the Description box in the details area of a work item to make it bigger, then begins typing in the box, the box returns to its original size. The user can still type in the box, and the contents save as expected
+When a user resizes the [!UICONTROL Description] box in the details area of a work item to make it bigger, then begins typing in the box, the box returns to its original size. The user can still type in the box, and the contents save as expected
 
 **Inadvertent exit when creating tasks or issues**
 
@@ -76,9 +76,9 @@ When a user is creating a task or issue in a project and clicks outside of the c
 
 **Removed ability to email a proof to a dropzone**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
-As of Thursday, September 8, 2022, we have removed the ability to email a proof to a dropzone in the standalone [!DNL Workfront] Proof product.
+As of Thursday, September 8, 2022, we have removed the ability to email a proof to a dropzone in the standalone [!DNL Workfront Proof] product.
 
 You can still use dropzones in other ways to submit new proofs and new versions of proofs to your account without having to log in to your account. See [The Dropzone](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html) for more information.
 
@@ -90,7 +90,7 @@ You can still use dropzones in other ways to submit new proofs and new versions 
 
 *Projects*
 
-We have added the Projected Start and Completion Dates to the list of fields for customizable project headers when using a layout template.
+We have added the [!UICONTROL Projected Start Date] and [!UICONTROL Projected Completion Date] to the list of fields for customizable project headers when using a layout template.
 
 **New limit with a confirmation message that displays the number of items added to a timesheet**
 
@@ -106,7 +106,7 @@ Add the [!UICONTROL Integrations] field to the project custom header
 
 *Integrations*
 
-You can now add the [!UICONTROL Integrations] field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in [!DNL Salesforce] or Anaplan, depending on your integration.
+You can now add the [!UICONTROL Integrations] field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in [!DNL Salesforce] or [!DNL Anaplan], depending on your integration.
 
 >[!NOTE]
 >
@@ -140,11 +140,11 @@ When a user attempts to approve or reject hours on the [!UICONTROL Hours] tab of
 
 *Issues*
 
-When converting an issue to a project using a template and an error is encountered, the user is shown a page with the message "The Project no longer exists" instead of the correct error message that explains the cause of the failed conversion.
+When converting an issue to a project using a template and an error is encountered, the user is shown a page with the message "[!UICONTROL The Project no longer exists]" instead of the correct error message that explains the cause of the failed conversion.
 
 **Cannot create proof for files over 1.5GB**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When creating a new proof, if a user uploads a file larger than 1.5GB then filename will turn red and the proof is prevented from being created.
 
@@ -154,7 +154,7 @@ When creating a new proof, if a user uploads a file larger than 1.5GB then filen
 
 +++**Maintenance Update on August 25, 2022**
 
-**[!DNL Workload Balancer] links display incorrectly in dashboards**
+**Workload Balancer links display incorrectly in dashboards**
 
 *Dashboards*
 
@@ -164,7 +164,7 @@ Shareable Workload Balancer links display incorrectly when added to a dashboard 
 
 *Projects*
 
-You can now add the [!UICONTROL Integrations] field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in [!DNL Salesforce] or Anaplan, depending on your integration.
+You can now add the [!UICONTROL Integrations] field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in [!DNL Salesforce] or [!DNL Anaplan], depending on your integration.
 
 >[!NOTE]
 >
@@ -180,15 +180,15 @@ When a user converts an issue to a blank project (without a template), data in c
 
 *Projects*
 
-When a user attempts to change a date on a project that has the Plan Mode set to Manual save &gt; Timeline Planning, the date does not change and the user sees the an error.
+When a user attempts to change a date on a project that has the [!UICONTROL Plan Mode] set to [!UICONTROL Manual save] &gt; [!UICONTROL Timeline Planning], the date does not change and the user sees the an error.
 
-"Timeline Planning mode is available only when timelineDate is loaded. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it."
+"[!UICONTROL Timeline Planning] mode is available only when timelineDate is loaded. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it."
 
 **Consistency when opening the Workload Balancer using the Month view**
 
-*[!DNL Workload Balancer]*
+*Workload Balancer*
 
-Now, the [!DNL Workload Balancer] displays the users' assigned items expanded when displaying them in the Day, Week, or Month views. Prior to this update, the assigned items were displaying expanded for the Day and Week views, and collapsed for the Month view.
+Now, the Workload Balancer displays the users' assigned items expanded when displaying them in the [!UICONTROL Day], [!UICONTROL Week], or [!UICONTROL Month] views. Prior to this update, the assigned items were displaying expanded for the [!UICONTROL Day] and [!UICONTROL Week] views, and collapsed for the [!UICONTROL Month] view.
 
 
 +++
@@ -199,7 +199,7 @@ Now, the [!DNL Workload Balancer] displays the users' assigned items expanded wh
 
 *Reports*
 
-When a user is viewing a list of tasks in a report and opens the [!UICONTROL More] (three-dot) menu, the "Add to Iteration" and "Add to Kanban Board" options are not available in the dropdown. If the report is viewed in a dashboard, the "Add to Iteration" and "Add to Kanban Board" options are available in the dropdown.
+When a user is viewing a list of tasks in a report and opens the [!UICONTROL More] (three-dot) menu, the "[!UICONTROL Add to Iteration]" and "[!UICONTROL Add to Kanban Board]" options are not available in the dropdown. If the report is viewed in a dashboard, the "[!UICONTROL Add to Iteration]" and "[!UICONTROL Add to Kanban Board]" options are available in the dropdown.
 
 **Matrix reports display incorrectly when scrolling**
 
@@ -207,27 +207,27 @@ When a user is viewing a list of tasks in a report and opens the [!UICONTROL Mor
 
 When a user is viewing a Matrix report and scrolls, some visual elements of the report may overlap or duplicate.
 
-**Milestone view removed from the Timesheets project list**
+**[!UICONTROL Milestone] view removed from the Timesheets project list**
 
 *Timesheets*
 
-The Milestone view has been removed from the timesheet project list when adding a project.
+The [!UICONTROL Milestone] view has been removed from the timesheet project list when adding a project.
 
 **Hyperlinks in an interactive proof are not active**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When a user is viewing an interactive proof and clicks on a link or a button that contains a link, the user is not taken to the page that the link or button links to.
 
 **New Proof Page Missing Text Fields**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 On the [!DNL New Proof] page, many text fields are not displayed (including feld labels, dropdown options, and checkbox names).
 
 **Users do not receive notifications when tagged in a proof**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When a user is tagged in a proof comment, they do not receive an email notification about the comment.
 
@@ -249,7 +249,7 @@ When you add a new field to a customizable header, the field is now added as the
 
 *Custom forms*
 
-When a user attempts to edit a custom form, and that custom form has a Descriptive text field that currently contains more than 512 characters, the user cannot save the edits to the custom form, and sees the following error:
+When a user attempts to edit a custom form, and that custom form has a [!UICONTROL Descriptive text] field that currently contains more than 512 characters, the user cannot save the edits to the custom form, and sees the following error:
 
 "The following fields are invalid: (Field) is too long, max 512"
 
@@ -271,7 +271,9 @@ When a user is converting a request to a project, and the request includes a cus
 
 *Custom forms*
 
-When a user attempts to edit a custom form that includes a Descriptive Text field, the field's [!UICONTROL label] does not populate. The user sees the error "This field is required" under the label field, and the user cannot edit the custom form due to this error.
+When a user attempts to edit a custom form that includes a Descriptive Text field, the field's label does not populate. The user sees the error "This field is required" under the label field, and the user cannot edit the custom form due to this error.
+
+<!--Becky edited to here but go back and check error messages-->
 
 **Cannot remove instructions from a custom field in the custom form builder**
 

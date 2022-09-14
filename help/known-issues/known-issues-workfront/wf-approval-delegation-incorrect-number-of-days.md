@@ -10,7 +10,7 @@ hidefromtoc: yes
 >
 >This issue has been closed because it is not an issue.
 
-When a user schedules Personal Time Off and delegates their approvals for that time, the approval delegation may include days before or after the scheduled time off.
+When a user schedules personal time off and delegates their approvals for that time, the approval delegation may include days before or after the scheduled time off.
 
 **Workaround**
 

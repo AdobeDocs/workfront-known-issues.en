@@ -10,6 +10,6 @@ When a user clicks on a link to a dashboard in the left navigation of a [!DNL Wo
 
 **Workaround**
 
-View the dashboard in the [!UICONTROL Dashboards] area of Workfront.
+View the dashboard in the [!UICONTROL Dashboards] area of [!DNL Workfront].
 
 _First reported on August 23, 2022._

@@ -6,7 +6,7 @@ exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 ---
 # Known Issues in [!DNL Adobe Workfront Goals]
 
-This page contains issues currently identified in [!DNL Adobe Workfront] Goals.
+This page contains issues currently identified in [!DNL Adobe Workfront Goals].
 
 >[!IMPORTANT]
 >
