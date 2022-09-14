@@ -31,6 +31,7 @@ This page contains issues currently identified in Adobe Workfront.
 
 | **Issue** | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [Lists: New status not displayed when inline editing status](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | September 9, 2022 |
 | [Custom forms: Descriptive text fields display tooltip](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md) | August 30 2022 |
 | [Integrations: Error when submitting request from Outlook ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
