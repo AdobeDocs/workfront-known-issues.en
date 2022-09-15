@@ -974,7 +974,7 @@ When a user in the new [!DNL Adobe Workfront] experience adds a custom-made [!UI
 
 **Removed broken link in notification emails**
 
-_Adobe Workfront Fusion_
+_[!DNL Adobe Workfront Fusion]_
 
 We've removed the link to notification settings from [!DNL Adobe Workfront Fusion] notification emails.
 For information on changing notification settings, see [!DNL Adobe Workfront Fusion] organizations and teams.
@@ -983,17 +983,17 @@ For information on changing notification settings, see [!DNL Adobe Workfront Fus
 
 +++**Maintenance Update on June 17, 2021**
 
-**[!UICONTROL Gantt] Chart view is not available for Task report**
+**[!UICONTROL Gantt Chart] view is not available for Task report**
 
 _Reports_
 
-When a user in the new [!DNL Adobe Workfront] experience opens a Task report, the option to select a [!UICONTROL Gantt] Chart view is missing from the report toolbar. If the [!UICONTROL Gantt] Chart view is selected to display by default in the report, a list format displays instead.
+When a user in the new [!DNL Adobe Workfront] experience opens a Task report, the option to select a [!UICONTROL Gantt Chart] view is missing from the report toolbar. If the [!UICONTROL Gantt Chart] view is selected to display by default in the report, a list format displays instead.
 
 **Character limit error not occurring on request submissions**
 
 _Requests_
 
-When a user in the new [!DNL Adobe Workfront] experience attempts to submit a request and they exceed the character limit for a field, they are unable to submit the request and no error message displays. In [!DNL Adobe Workfront Classic], the user sees the warning "[number] characters over" and when they attempt to submit the request, they see the error message "Please check the following: Please enter no more than 2000 characters (you entered [number] characters)."
+When a user in the new [!DNL Adobe Workfront] experience attempts to submit a request and they exceed the character limit for a field, they are unable to submit the request and no error message displays. In [!DNL Adobe Workfront Classic], the user sees the warning "[!UICONTROL [number] characters over" and when they attempt to submit the request, they see the error message "Please check the following: Please enter no more than 2000 characters (you entered [number] characters).]"
 
 +++
 
@@ -1021,30 +1021,30 @@ When a project has a milestone path added to it and a user in the new [!DNL Adob
 
 +++**Maintenance Update on June 3, 2021**
 
-**Prompt causes page to shak**&#x200B;e
+**Prompt causes page to shake**
 
 _Reports_
 
 When a user in the new [!DNL Adobe Workfront] experience runs a report with a prompt, the columns in the report rapidly move left to right.
 
-**Some phrases on the New proof page are not translating properly**
+**Some phrases on the [!UICONTROL New proof] page are not translating properly**
 
-_Proof_
+_[!DNL Workfront Proof]_
 
-When a user navigates to the [!UICONTROL New proof creation] page in [!DNL Workfront] Proof and the content is being translated to a language other than English, some phrases still display in English.
+When a user navigates to the [!UICONTROL New proof creation] page in [!DNL Workfront Proof] and the content is being translated to a language other than English, some phrases still display in English.
 
-**Deactivated and Deleted labels added to users Workfront Proof**
+**Deactivated and Deleted labels added to users [!DNL Workfront Proof]**
 
-_Proof_
+_[!DNL Workfront Proof]_
 
-Deactivated/Deleted user labels have been added to the following areas in [!DNL Workfront] Proof:
+[!UICONTROL Deactivated] and [!UICONTROL Deleted] user labels have been added to the following areas in [!DNL Workfront] Proof:
 
-* Proof details page
-* Proofing views
-* Proofing viewer
-* Proofing workflows
-* Print comments page
-* User page
+* [!UICONTROL Proof details] page
+* [!UICONTROL Proofing views]
+* [!UICONTROL Proofing viewer]
+* [!UICONTROL Proofing workflows]
+* [!UICONTROL Print comments] page
+* [!UICONTROL User] page
 
 +++
 
@@ -1053,35 +1053,35 @@ Deactivated/Deleted user labels have been added to the following areas in [!DNL 
 
 +++**Maintenance Update on May 27, 2021**
 
-**Commit Date calendar displays for updates**
+**[!UICONTROL Commit Date] calendar displays for updates**
 
 _Tasks_
 
 When a user in the new [!DNL Adobe Workfront] experience is entering an update on a task, the [!UICONTROL Commit Date] calendar displays without the user selecting the [!UICONTROL Commit Date] field.
 
-**More menu missing from filters, views, and groupings**
+**[!UICONTROL More] menu missing from filters, views, and groupings**
 
 _Lists_
 
 When a user in the new [!DNL Adobe Workfront] experience views the filters, views, or groupings for a list, the [!UICONTROL More] menu icon is missing, which prevents them from sharing or—if they have access—removing filters, views, or groupings.
 
-**Copying and Pasting a project Reference Number adds "This"**
+**Copying and Pasting a project [!UICONTROL Reference Number] adds "[!UICONTROL This]"**
 
 _Projects_
 
-When a user in the new [!DNL Workfront] experience navigates to a project, copies the Reference Number from the [!UICONTROL Overview] area, then pastes it, the word "This" is added to the end of the number.
+When a user in the new [!DNL Workfront] experience navigates to a project, copies the [!UICONTROL Reference Number] from the [!UICONTROL Overview] area, then pastes it, the word "[!UICONTROL This]" is added to the end of the number.
 
-**Daily Digest emails are sending when they are disabled**
+**[!UICONTROL Daily Digest] emails are sending when they are disabled**
 
 _Email Notifications_
 
-Some users are receiving Daily Digest email notifications when they have not been enabled in their user settings.
+Some users are receiving [!UICONTROL Daily Digest] email notifications when they have not been enabled in their user settings.
 
 **The object no longer exists error**
 
 _Objects_
 
-When a user in the new [!DNL Workfront] experience attempts to open certain objects, they see the error message "The \<object\> no longer exists: You may have mistyped the web address. Double check it and try entering the address again." The object link still appears in lists, recents, favorites, search results, etc., but they are unable to access it and it does not appear in the Recycle Bin with deleted objects.
+When a user in the new [!DNL Workfront] experience attempts to open certain objects, they see the error message "[!UICONTROL The (object) no longer exists: You may have mistyped the web address. Double check it and try entering the address again.]" The object link still appears in lists, recents, favorites, search results, etc., but they are unable to access it and it does not appear in the Recycle Bin with deleted objects.
 
 
 
@@ -1091,9 +1091,9 @@ When a user in the new [!DNL Workfront] experience attempts to open certain obje
 
 **Proof options are missing**
 
-_Proof_
+_Proofs_
 
-When a user uploads another version of a proof in [!DNL Workfront], the Open Proof and Proofing Workflow links are missing, making it seem like it is a document instead of a proof. When theses links are missing, the label [!UICONTROL Pending] also displays and other users are unable to generate the proof while it is in this [!UICONTROL Pending] status.
+When a user uploads another version of a proof in [!DNL Workfront], the [!UICONTROL Open Proof] and [!UICONTROL Proofing Workflow] links are missing, making it seem like it is a document instead of a proof. When theses links are missing, the label [!UICONTROL Pending] also displays and other users are unable to generate the proof while it is in this [!UICONTROL Pending] status.
 
 **Users not receiving scheduled report deliveries**
 
@@ -1105,39 +1105,39 @@ When some reports are scheduled for report delivery, the users sometimes don't r
 
 _Dashboards_
 
-When a user opens [!UICONTROL Sharing options] for a dashboard to remove access for a Layout Template, no Delete icon appears next to the Layout Template and they are unable to remove access.
+When a user opens [!UICONTROL Sharing] options for a dashboard to remove access for a Layout Template, no [!UICONTROL Delete] icon appears next to the Layout Template and they are unable to remove access.
 
 +++
 
-+++**Workfront Fusion Maintenance Update on May 17, 2021**
++++**[!DNL Workfront Fusion] Maintenance Update on May 17, 2021**
 
 **Organization Dashboard now correctly displays the number of active scenarios**
 
-_Workfront Fusion_
+_[!DNL Workfront Fusion]_
 
-The Organization Dashboard previously showed a blank field instead of the number of scenarios that are being utilized.
+The [!UICONTROL Organization] dashboard previously showed a blank field instead of the number of scenarios that are being utilized.
 
 **Data store browsing now shows column labels**
 
-_Workfront Fusion_
+_[!DNL Workfront Fusion]_
 
 Data structures that utilized column labels previously displayed the column name in the [!UICONTROL data store browsing] view.  Now, the column label displays.  If no label is identified for the column, the column name is displayed.
 
 **Scenario initialization error no longer affects webhook data**
 
-_Workfront Fusion_
+_[!DNL Workfront Fusion]_
 
 Previously, a webhook-initiated scenario (including those that are using a real time events to trigger) that encountered an error during scenario initialization would potentially result in losing access to that webhook data.  Now, if an error occurs during scenario initialization (such as not being able to verify a connection), the webhook data will be maintained in the webhook queue and the execution is automatically retried.  After three unsuccessful attempts, the scenario is deactivated and the information will still remain in the queue.
 
 **Records in webhook queues are now processed in smaller batches**
 
-_Workfront Fusion_
+_[!DNL Workfront Fusion]_
 
-Previously, if a user activated an inactive scenario that had an associated webhook queue of many records, Workfront Fusion would attempt to process the entire queue in a single execution (albeit multiple cycles).  Depending on the amount of records processed, this could sometimes cause the single execution to exceed the maximum amount of execution time (40 minutes).  Now, when you activate an inactive scenario that has an associated webhook queue of records, Workfront Fusion will process up to the maximum number of records identified in a single execution (usually 2 records per execution).
+Previously, if a user activated an inactive scenario that had an associated webhook queue of many records, [!DNL Workfront Fusion] would attempt to process the entire queue in a single execution (albeit multiple cycles).  Depending on the amount of records processed, this could sometimes cause the single execution to exceed the maximum amount of execution time (40 minutes).  Now, when you activate an inactive scenario that has an associated webhook queue of records, Workfront Fusion will process up to the maximum number of records identified in a single execution (usually 2 records per execution).
 
 **Data stores now display "0" values correctly**
 
-_Workfront Fusion_
+_[!DNL Workfront Fusion]_
 
 Previously, data store values of 0 were displayed as empty. <...>
 
@@ -1149,35 +1149,35 @@ Previously, data store values of 0 were displayed as empty. <...>
 
 _[!UICONTROL Workload Balancer]_
 
-When a user navigates to the [!UICONTROL Workload Balancer] in [!DNL Workfront Classic], the top of the datepicker is hidden behind the Unassigned Work header, which prevents the user from navigating to different months.
+When a user navigates to the [!UICONTROL Workload Balancer] in [!DNL Workfront Classic], the top of the datepicker is hidden behind the [!UICONTROL Unassigned Work] header, which prevents the user from navigating to different months.
 
 **Unable to paste text in custom message field**
 
-_[!DNL Workfront] Proof_
+_[!DNL Workfront Proof]_
 
-Note: This issue seems to be affecting only the Google Chrome web browser at this time.
+Note: This issue seems to be affecting only the [!DNL Google Chrome] web browser at this time.
 
-When a user is creating a new proof in [!DNL Workfront] Proof and they attempt to paste text from an email into the Message field in the [!UICONTROL Email notification] section, they are unable to paste the text.
+When a user is creating a new proof in [!DNL Workfront Proof] and they attempt to paste text from an email into the [!UICONTROL Message] field in the [!UICONTROL Email notification] section, they are unable to paste the text.
 
-**Unsupported fields are displaying in the [!UICONTROL builder]**
+**Unsupported fields are displaying in the builder**
 
 _Custom Forms_
 
-When a user is building a Custom Form and they attempt to create a calculated field using a dynamic field—such as Number of Open Risks—the calculation box highlights red and does not allow you to save your changes. Dynamic fields should not display in the picker for calculated fields.
+When a user is building a Custom Form and they attempt to create a calculated field using a dynamic field—such as [!UICONTROL Number of Open Risks]—the calculation box highlights red and does not allow you to save your changes. Dynamic fields should not display in the picker for calculated fields.
 
-**Preview for tasks in Work List won't load**
-
-_Home_
-
-When a user in the new [!DNL Workfront] experience is assigned to a Layout Template that includes custom fields on Home, the page is unresponsive and won't load tasks from the [!UICONTROL Work List] if the users selects them.
-
-**[!UICONTROL Objects in Work List not] loading in Home**
+**Preview for tasks in [!UICONTROL Work List] won't load**
 
 _Home_
 
-When a user clicks on an object in the Home Work List, the object's header appears in the right panel, but the details of the object do not appear. Eventually the user sees the message "Pages Unresponsive."
+When a user in the new [!DNL Workfront] experience is assigned to a Layout Template that includes custom fields on [!UICONTROL Home], the page is unresponsive and won't load tasks from the [!UICONTROL Work List] if the users selects them.
 
-**Rich text field issues in [!DNL Microsoft] Outlook**
+**Objects in [!UICONTROL Work List] not loading in [!UICONTROL Home]**
+
+_[!UICONTROL Home]_
+
+When a user clicks on an object in the [!UICONTROL Home Work List], the object's header appears in the right panel, but the details of the object do not appear. Eventually the user sees the message "[!UICONTROL Pages Unresponsive.]"
+
+**Rich text field issues in [!DNL Microsoft Outlook]**
 
 _Workfront Integrations_
 
@@ -1192,11 +1192,11 @@ When a user is updating a rich text field with the [!DNL Workfront for Outlook] 
 
 +++**Maintenance Update on May 6, 2021**
 
-**Currency field not working as expected**
+**[!UICONTROL Currency] field not working as expected**
 
 _Lists_
 
-When a user tries to inline edit the Currency field in a list, they are unable to save changes due to the following issues:
+When a user tries to inline edit the Curr[!UICONTROL ]ency field in a list, they are unable to save changes due to the following issues:
 
 * Task and Issue lists not allowing input of currency symbols
 * Lists not allowing input of currency abbreviations when using a locale other than English
@@ -1226,11 +1226,11 @@ _Projects_
 
 When a user creates a project from a template, the template's access settings do not carry over to the new created project.
 
-**[!UICONTROL Objects in Work List not] loading in Home**
+**Objects in [!UICONTROL Work List] not loading in [!UICONTROL Home]**
 
-_Home_
+_[!UICONTROL Home]_
 
-When a user clicks on an object in the Home Work List, the object's header appears in the right panel, but the details of the object do not appear. Eventually the user sees the message "Pages Unresponsive."
+When a user clicks on an object in the [!UICONTROL Home Work List], the object's header appears in the right panel, but the details of the object do not appear. Eventually the user sees the message "[!UICONTROL Pages Unresponsive.]"
 
 +++
 
@@ -1243,19 +1243,19 @@ When a user clicks on an object in the Home Work List, the object's header appea
 
 _Workfront Integrations_
 
-When a user has more than one [!DNL SharePoint] integration, one [!DNL SharePoint] authentication attempts to authenticate using the credentials of another SharePoint integration.
+When a user has more than one [!DNL SharePoint] integration, one [!DNL SharePoint] authentication attempts to authenticate using the credentials of another [!DNL SharePoint] integration.
 
-**Cannot upload or export files from Adobe products**
+**Cannot upload or export files from [!DNL Adobe] products**
 
 _Workfront Integrations_
 
-When a user attempts to upload or export files using the [!DNL Workfront for Adobe Creative Cloud] integration, they see the error message "Cannot read property 'stages' of undefined" and are unable to upload or export the files.
+When a user attempts to upload or export files using the [!DNL Workfront for Adobe Creative Cloud] integration, they see the error message "[!UICONTROL Cannot read property 'stages' of undefined]" and are unable to upload or export the files.
 
-**Files are not visible in Internet Explorer**
+**Files are not visible in [!DNL Internet Explorer]**
 
 _Documents_
 
-When a user with an Internet Explorer browser navigates to the [!UICONTROL Documents] area of an object, the [!UICONTROL Documents] screen is blank and does not load the files. For some users, the screen does load some files, but the number of files that appear do not match the number displayed next to the Documents section.
+When a user with an [!DNL Internet Explorer] browser navigates to the [!UICONTROL Documents] area of an object, the [!UICONTROL Documents] screen is blank and does not load the files. For some users, the screen does load some files, but the number of files that appear do not match the number displayed next to the [!UICONTROL Documents] section.
 
 +++
 
@@ -1271,16 +1271,16 @@ When a user adds a task to a template, the task does not receive the task number
 
 _Proofs_
 
-Workfront now sends one email for combined proofs rather than sending an email for each file included.
+[!DNL Workfront] now sends one email for combined proofs rather than sending an email for each file included.
 +++
 
-+++**Workfront Fusion Maintenance Update on April 15, 2021**
++++**[!DNL Workfront Fusion] Maintenance Update on April 15, 2021**
 
-**"Scenario rejected" error when running a scenario**
+**"[!UICONTROL Scenario rejected]" error when running a scenario**
 
-_Workfront Fusion_
+_[!DNL Workfront Fusion]_
 
-When a user attempts to run a scenario, the scenario does not execute and the user receives the message "Scenario rejected."
+When a user attempts to run a scenario, the scenario does not execute and the user receives the message "[!UICONTROL Scenario rejected.]"
 
 +++
 
@@ -1292,11 +1292,11 @@ _[!UICONTROL Workload Balancer]_
 
 When a user views a task's planned hours in the [!UICONTROL Workload Balancer] the value of the planned hours does not match the planned hours assigned to the task.
 
-**Top navigation bar is not visible in [!DNL Workfront] Proof**
+**Top navigation bar is not visible in [!DNL Workfront Proof]**
 
-_[!DNL Workfront] Proof_
+_[!DNL Workfront Proof]_
 
-When a user navigates to any [!DNL Workfront] Proof page other than the Dashboard page, the top navigation bar disappears. The user is unable to access the functionality in the navigation bar, such as their account settings or profile.
+When a user navigates to any [!DNL Workfront Proof] page other than the Dashboard page, the top navigation bar disappears. The user is unable to access the functionality in the navigation bar, such as their account settings or profile.
 
 **Custom forms enhancement**
 
@@ -1308,7 +1308,7 @@ For a better experience when you fill out a custom form, we have improved the wa
 
 +++**Maintenance Update on April 8, 2021**
 
-**Cannot create proofs in Adobe Creative Cloud integration**
+**Cannot create proofs in [!DNL Adobe Creative Cloud] integration**
 
 _Workfront Integrations_
 
@@ -1318,25 +1318,25 @@ When a user attempts to create a proof directly from the [!DNL Adobe Creative Cl
 
 +++**Maintenance Update on April 1, 2021**
 
-**Issues viewing summary panel in Chrome**
+**Issues viewing summary panel in [!DNL Chrome]**
 
-_Summary_
+_[!UICONTROL Summary]_
 
-When a user opens the summary panel while using the Chrome browser, the summary panel UI does not behave as expected. The user is unable to scroll, the icons may disappear, and the content may overlap other content.
+When a user opens the [!UICONTROL Summary] panel while using the [!DNL Chrome] browser, the summary panel UI does not behave as expected. The user is unable to scroll, the icons may disappear, and the content may overlap other content.
 
-**Teams area in Setup not displaying all teams**
+**[!UICONTROL Teams] area in [!UICONTROL Setup] not displaying all teams**
 
-_Setup_
+_[!UICONTROL Setup]_
 
-When an admin goes to the [!UICONTROL Teams] area of Setup, they can view only teams that they created. Teams created by other admins are not visible.
+When an admin goes to the [!UICONTROL Teams] area of [!UICONTROL Setup], they can view only teams that they created. Teams created by other admins are not visible.
 
-**Cannot add updates to project in Pending Approval status**
+**Cannot add updates to project in [!UICONTROL Pending Approval] status**
 
 _Projects_
 
 If a user attempts to add an update to a project in [!UICONTROL Pending Approval] status, and they are not the user that is assigned to approve the project, the update is not added and they see the following notice:
 
-A project with a 'Pending Approval' status cannot be edited. You can modify the project by changing the status.
+A project with a '[!DNL Pending Approval]' status cannot be edited. You can modify the project by changing the status.
 
 +++
 
