@@ -24,6 +24,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront] Proof.
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [Workfront Proof: Email notifications are delayed](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | September 15, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [Proofs: Error when adding proof to [!DNL Workfront] from [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md) | August 29, 2022 |
 | [[!DNL Workfront] Proof: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | August 12, 2022 |

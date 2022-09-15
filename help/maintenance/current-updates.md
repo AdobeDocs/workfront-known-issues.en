@@ -25,7 +25,7 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2022
 
-+++**(Planned) Maintenance Update on September 15, 2022**
++++**Maintenance Update on September 15, 2022**
 
 **"Someone else tried to save this project" error when entering hours**
 
@@ -41,7 +41,21 @@ When a user attempts to log [!UICONTROL hours] to a task on their timesheet, the
 
 When a user is viewing updates and hovers over a name, a card with details about the user whose name it is opens and does not close automatically. The page is unresponsive until the card is manually closed by clicking the X in the upper-right corner.
 
+**The "[!UICONTROL Task role assignment]" field has been renamed to "[!UICONTROL Role assignment]" when assigning work in bulk using the [!UICONTROL Workload Balancer]**
+
+*[!UICONTROL Workload Balancer]* 
+
+To reflect the new functionality of being able to assign both tasks and issues in bulk  from the [!UICONTROL Unassigned Work] area, we have renamed the "[!UICONTROL Task role assignment]" field to "[!UICONTROL Role assignment]" in the [!UICONTROL Workload Balancer]. The field refers to job roles that have been assigned to either tasks or issues and it displays when assigning users to items in the [!UICONTROL Bulk Assignments] box.
+
 +++
+
++++**[!DNL Workfront Scenario Planner] Maintenance Update on September 15, 2022**
+
+**Filter shared with a Group now displays in the [!DNL Scenario Planner]'s  [!UICONTROL Import Projects] list for  members of the all Subgroups**
+
+*[!DNL Workfront Scenario Planner]*
+
+Now, when you share a project filter with a group that has additional subgroups, the filter is visible to all group and subgroup members that view projects in the [!UICONTROL Import Projects] box of a plan in the [!DNL Scenario Planner].
 
 +++**Maintenance Update on September 8, 2022**
 
