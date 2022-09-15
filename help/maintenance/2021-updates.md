@@ -55,7 +55,7 @@ When a user who is logged into [!DNL Workfront Proof] views a folder, the folder
 
 _Notifications_
 
-When a user opens their list of !UICONTROL notifications from the [!UICONTROL Notifications] icon, then clicks on an announcement, they are taken to a blank page, and the announcement does not display.
+When a user opens their list of notifications from the [!UICONTROL Notifications] icon, then clicks on an announcement, they are taken to a blank page, and the announcement does not display.
 
 **Summary panel shows "[!UICONTROL No selection]" when task is selected**
 
@@ -683,7 +683,7 @@ In the [!DNL Safari] browser, there is a dark grey background on column headers,
 
 _Tasks_
 
-When a user attempts to set a task as a predecessor using inline edit] the predecessor is not set and the user sees the following message:
+When a user attempts to set a task as a predecessor using inline edit, the predecessor is not set and the user sees the following message:
 
 "[!UICONTROL An unexpected error happened]"
 
