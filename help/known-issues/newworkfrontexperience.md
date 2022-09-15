@@ -16,11 +16,11 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | September 15, 2022 |
 | [Timesheets: Hours do not save when using [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | September 13, 2022 |
 | [Custom forms: Elements overlapping in left panel](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | September 9, 2022 |
 | [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | September 9, 2022 |
 | [Reports: Issues when creating and editing reports in [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | September 6, 2022 |
-| [Timesheets: "Someone else tried to save this project" error when entering hours](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md) | August 30 2022 |
 | [Dashboards: Cannot access dashboard from left navigation on an object](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | August 24 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 | [Agile: Issues when moving cards on the [!UICONTROL Agile] board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
@@ -31,11 +31,11 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 
 | **Issue** | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [Lists: New status not displayed when inline editing status](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | September 9, 2022 |
 | [Custom forms: [!UICONTROL Descriptive text] fields display tooltip](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md) | August 30 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
 | [Proofs: Error when adding proof to [!DNL Workfront] from [!DNL Workfront Proof]](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md) | August 29, 2022 |
-| [Updates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md) | August 11, 2022 |
 | [[!DNL Workfront Proof]: Daily Summary emails do not include a "[!UICONTROL View Details]" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 |
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 |
 | [Timesheets: "[!UICONTROL Your recent changes were not saved]" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | July 28, 2022 |

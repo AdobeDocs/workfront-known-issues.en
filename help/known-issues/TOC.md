@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + Adobe Workfront {#new-workfront-experience}
    + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+      + [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
+      + [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Timesheets: Hours do not save when using Tab key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)
       + [Custom forms: Elements overlapping in left panel](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md)
       + [Lists: New status not displayed when inline editing status](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md)
