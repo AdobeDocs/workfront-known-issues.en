@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!-- This issue is on both WF and proof known issue pages -->
 
+>[!NOTE]
+>
+>This issue has been closed because it could not be reproduced.
+
 When a user attempts to add a proof to [!DNL Workfront] using the "[!UICONTROL From Workfront Proof]" option, the proof is not added and the user sees the following error message:
 
 "[!UICONTROL There was a problem importing the specified proof. Verify that the proof ID provided is valid and retry.]"
