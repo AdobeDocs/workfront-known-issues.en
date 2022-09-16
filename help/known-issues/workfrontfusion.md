@@ -16,12 +16,13 @@ This page contains issues currently identified in [!DNL Adobe Workfront Fusion].
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Fusion]: Module does not load when creating or editing a scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md) | September 13, 2022  |
+| None |   |
 
 ## Current Issues
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [[!DNL Workfront Fusion]: Module does not load when creating or editing a scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md) | September 16, 2022  |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | September 9, 2022 |
 | [[!DNL Workfront Fusion]: Unable to connect to [!DNL MS Dynamics] module in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md) | August 16, 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | August 2, 2022 |
