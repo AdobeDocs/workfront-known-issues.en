@@ -10,7 +10,7 @@ hidefromtoc: yes
 >
 >The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
 
-When a user who is a group administrator is attempting to create a layout template in the [!UICONTROL Interfaces] area of Setup, the user is prompted to select a group in the [!UICONTROL Administrative access] field. The user types in a group name, but the group does not appear in a dropdown and cannot be selected. Therefore, the user cannot save the layout template.
+When a user who is a group administrator is attempting to create a layout template in the [!UICONTROL Interfaces] area of [!UICONTROL Setup], the user is prompted to select a group in the [!UICONTROL Administrative access] field. The user types in a group name, but the group does not appear in a dropdown and cannot be selected. Therefore, the user cannot save the layout template.
 
 **Workaround**
 

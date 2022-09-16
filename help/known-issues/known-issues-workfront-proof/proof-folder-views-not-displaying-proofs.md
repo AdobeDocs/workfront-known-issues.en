@@ -4,7 +4,7 @@ description: "When a user moves a proof to a folder, there is an indeterminate d
 hidefromtoc: yes
 ---
 
-# Workfront Proof: Folder views not displaying proofs
+# [!DNL Workfront Proof]: Folder views not displaying proofs
 
 >[!NOTE]
 >

@@ -4,7 +4,7 @@ description: When a user is configuring a [!DNL Workfront] module in [!DNL Workf
 exl-id: f77bf9ef-e842-42b2-95b0-08664d23ac70
 hidefromtoc: yes
 ---
-# Workfront Fusion: Data from custom forms not available in [!UICONTROL Workfront Fusion Workfront] modules
+# [!DNL Workfront Fusion]: Data from custom forms not available in [!DNL Workfront Fusion] [!DNL Workfront] modules
 
 >[!NOTE]
 >

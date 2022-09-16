@@ -10,13 +10,12 @@ hidefromtoc: yes
 >
 >This issue was fixed on July 21, 2022.
 
-When a user attempts to search [!DNL Workfront] using the basic Search functionality, the search is not successful and the user sees the following message:
+When a user attempts to search [!DNL Workfront] using the basic [!UICONTROL Search] functionality, the search is not successful and the user sees the following message:
 
-Let's try that again.
-Error communicating with server.
+[!UICONTROL Let's try that again. Error communicating with server.]
 
 **Workaround**
 
-Use Advanced Search.
+Use [!UICONTROL Advanced Search].
 
 _First reported on July 11, 2022._

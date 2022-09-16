@@ -10,6 +10,6 @@ hidefromtoc: yes
 >
 >The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
 
-When a user clicks the Comment link in an email notification, they are directed to the top of the [!UICONTROL Updates] area instead of to the comment thread they are trying to reply to.
+When a user clicks the [!UICONTROL Comment] link in an email notification, they are directed to the top of the [!UICONTROL Updates] area instead of to the comment thread they are trying to reply to.
 
 _First reported on March 24, 2021._

@@ -4,7 +4,7 @@ description: When a user attempts to edit the workflow of a proof for which they
 exl-id: a33de399-89f8-4deb-ae35-4bd157ad8584
 hidefromtoc: yes
 ---
-# Workfront Proof: Proof admin has limited permissions on a proof
+# [!DNL Workfront Proof]: [!DNL Workfront Proof] admin has limited permissions on a proof
 
 >[!NOTE]
 >

@@ -12,7 +12,7 @@ hidefromtoc: yes
 
 When a user attempts to edit a custom form, and that custom form has a [!UICONTROL Descriptive text] field that currently contains more than 512 characters, the user cannot save the edits to the custom form, and sees the following error:
 
-"The following fields are invalid: (Field) is too long, max 512"
+"[!UICONTROL The following fields are invalid: (Field) is too long, max 512]"
 
 This affects [!UICONTROL Descriptive text] fields that have previously functioned well despite having more than 512 characters.
 

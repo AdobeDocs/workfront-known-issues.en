@@ -4,12 +4,12 @@ description: When a user is viewing a proof in [!DNL Proof Viewer], and another 
 exl-id: 3ad46ebb-cc2f-490e-b30c-611cb205b7d4
 hidefromtoc: yes
 ---
-# Proofs: Comments made in [!DNL Proof Viewer] are not visible in real time
+# Proofs: Comments made in [!UICONTROL Proof Viewer] are not visible in real time
 
 >[!NOTE]
 >
 >This issue was resolved with the 22.3 release.
 
-When a user is viewing a proof in [!DNL Proof Viewer], and another user makes a comment, the comment does not display immediately for the viewing user. The viewing user must refresh the Proof Viewer manually to see the comment.
+When a user is viewing a proof in [!UICONTROL Proof Viewer], and another user makes a comment, the comment does not display immediately for the viewing user. The viewing user must refresh the [!UICONTROL Proof Viewer] manually to see the comment.
 
 First reported on December 3, 2021.

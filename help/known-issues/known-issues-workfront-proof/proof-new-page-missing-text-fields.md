@@ -4,12 +4,12 @@ description: "On the [!DNL New Proof] page, many text fields are not displayed (
 hidefromtoc: yes
 ---
 
-# Workfront Proof: New Proof Page Missing Text Fields
+# [!DNL Workfront Proof]: [!UICONTROL New Proof] Page Missing Text Fields
 
 >[!NOTE]
 >
 >This article was fixed on August 18, 2022.
 
-On the [!DNL New Proof] page, many text fields are not displayed (including feld labels, dropdown options, and checkbox names).
+On the [!UICONTROL New Proof] page, many text fields are not displayed (including feld labels, dropdown options, and checkbox names).
 
 _First reported on August 11, 2022._

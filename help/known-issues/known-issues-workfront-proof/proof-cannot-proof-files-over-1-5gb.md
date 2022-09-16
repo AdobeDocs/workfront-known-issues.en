@@ -4,7 +4,7 @@ description: "When creating a new proof, if a user uploads a file larger than 1.
 hidefromtoc: yes
 ---
 
-# Workfront Proof: Cannot create proof for files over 1.5GB
+# [!DNL Workfront Proof]: Cannot create proof for files over 1.5GB
 
 >[!NOTE]
 >

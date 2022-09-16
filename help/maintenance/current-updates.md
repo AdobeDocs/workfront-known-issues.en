@@ -3,7 +3,7 @@ title: Workfront Maintenance Updates
 description: Maintenance Updates for [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 ---
-# Workfront Maintenance Updates
+# [!DNL Workfront] Maintenance Updates
 
 The following maintenance updates have been made in 2022.
 
@@ -27,13 +27,13 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 +++**Maintenance Update on September 15, 2022**
 
-**"Someone else tried to save this project" error when entering hours**
+**"[!UICONTROL Someone else tried to save this project]" error when entering hours**
 
 *Timesheets*
 
-When a user attempts to log [!UICONTROL hours] to a task on their timesheet, the hours do not autosave, and the user sees the following error:
+When a user attempts to log hours to a task on their timesheet, the hours do not autosave, and the user sees the following error:
 
-"We're sorry, but your save failed because someone else tried to save this project at the same time. Please try to save again."
+"[!UICONTROL We're sorry, but your save failed because someone else tried to save this project at the same time. Please try to save again.]"
 
 **Cannot close user card in update stream**
 
@@ -65,22 +65,22 @@ Now, when you share a project filter with a group that has additional subgroups,
 
 The assignment fields temporarily renamed last week have been reverted to their original names:
 
-* Assignment Users
-* Assignment Roles
+* [!UICONTROL Assignment Users]
+* [!UICONTROL Assignment Roles]
 
 **Error when removing the Project Owner from the header**
 
 *Projects*
 
-When a user attempts to remove a Project Owner from the header of a project, the Project Owner is not removed, and the user sees the following error message:
+When a user attempts to remove a [!UICONTROL Project Owner] from the header of a project, the [!UICONTROL Project Owner] is not removed, and the user sees the following error message:
 
 `422: Invalid Parameter: ownerID value "null" /attask/api-internal/PROJ/<project ID>`
 
-**Resized Description box goes back to original size**
+**Resized [!UICONTROL Description] box goes back to original size**
 
 *Projects, tasks, and issues*
 
-When a user resizes the Description box in the details area of a work item to make it bigger, then begins typing in the box, the box returns to its original size. The user can still type in the box, and the contents save as expected
+When a user resizes the [!UICONTROL Description] box in the details area of a work item to make it bigger, then begins typing in the box, the box returns to its original size. The user can still type in the box, and the contents save as expected
 
 **Inadvertent exit when creating tasks or issues**
 
@@ -90,9 +90,9 @@ When a user is creating a task or issue in a project and clicks outside of the c
 
 **Removed ability to email a proof to a dropzone**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
-As of Thursday, September 8, 2022, we have removed the ability to email a proof to a dropzone in the standalone [!DNL Workfront] Proof product.
+As of Thursday, September 8, 2022, we have removed the ability to email a proof to a dropzone in the standalone [!DNL Workfront Proof] product.
 
 You can still use dropzones in other ways to submit new proofs and new versions of proofs to your account without having to log in to your account. See [The Dropzone](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html) for more information.
 
@@ -104,7 +104,7 @@ You can still use dropzones in other ways to submit new proofs and new versions 
 
 *Projects*
 
-We have added the Projected Start and Completion Dates to the list of fields for customizable project headers when using a layout template.
+We have added the [!UICONTROL Projected Start Date] and [!UICONTROL Projected Completion Date] to the list of fields for customizable project headers when using a layout template.
 
 **New limit with a confirmation message that displays the number of items added to a timesheet**
 
@@ -120,7 +120,7 @@ Add the [!UICONTROL Integrations] field to the project custom header
 
 *Integrations*
 
-You can now add the [!UICONTROL Integrations] field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in [!DNL Salesforce] or Anaplan, depending on your integration.
+You can now add the [!UICONTROL Integrations] field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in [!DNL Salesforce] or [!DNL Anaplan], depending on your integration.
 
 >[!NOTE]
 >
@@ -154,11 +154,11 @@ When a user attempts to approve or reject hours on the [!UICONTROL Hours] tab of
 
 *Issues*
 
-When converting an issue to a project using a template and an error is encountered, the user is shown a page with the message "The Project no longer exists" instead of the correct error message that explains the cause of the failed conversion.
+When converting an issue to a project using a template and an error is encountered, the user is shown a page with the message "[!UICONTROL The Project no longer exists]" instead of the correct error message that explains the cause of the failed conversion.
 
 **Cannot create proof for files over 1.5GB**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When creating a new proof, if a user uploads a file larger than 1.5GB then filename will turn red and the proof is prevented from being created.
 
@@ -168,7 +168,7 @@ When creating a new proof, if a user uploads a file larger than 1.5GB then filen
 
 +++**Maintenance Update on August 25, 2022**
 
-**[!DNL Workload Balancer] links display incorrectly in dashboards**
+**Workload Balancer links display incorrectly in dashboards**
 
 *Dashboards*
 
@@ -178,7 +178,7 @@ Shareable Workload Balancer links display incorrectly when added to a dashboard 
 
 *Projects*
 
-You can now add the [!UICONTROL Integrations] field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in [!DNL Salesforce] or Anaplan, depending on your integration.
+You can now add the [!UICONTROL Integrations] field to the custom header of a project when you use a layout template. Once added, the field will display a link to an external item linked to the project which is located in [!DNL Salesforce] or [!DNL Anaplan], depending on your integration.
 
 >[!NOTE]
 >
@@ -194,26 +194,26 @@ When a user converts an issue to a blank project (without a template), data in c
 
 *Projects*
 
-When a user attempts to change a date on a project that has the Plan Mode set to Manual save &gt; Timeline Planning, the date does not change and the user sees the an error.
+When a user attempts to change a date on a project that has the [!UICONTROL Plan Mode] set to [!UICONTROL Manual save] &gt; [!UICONTROL Timeline Planning], the date does not change and the user sees the an error.
 
-"Timeline Planning mode is available only when timelineDate is loaded. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it."
+"[!UICONTROL Timeline Planning mode is available only when timelineDate is loaded. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"
 
 **Consistency when opening the Workload Balancer using the Month view**
 
-*[!DNL Workload Balancer]*
+*Workload Balancer*
 
-Now, the [!DNL Workload Balancer] displays the users' assigned items expanded when displaying them in the Day, Week, or Month views. Prior to this update, the assigned items were displaying expanded for the Day and Week views, and collapsed for the Month view.
+Now, the Workload Balancer displays the users' assigned items expanded when displaying them in the [!UICONTROL Day], [!UICONTROL Week], or [!UICONTROL Month] views. Prior to this update, the assigned items were displaying expanded for the [!UICONTROL Day] and [!UICONTROL Week] views, and collapsed for the [!UICONTROL Month] view.
 
 
 +++
 
 +++**Maintenance Update on August 18, 2022**
 
-**"Add to Iteration" and "Add to Kanban Board" options not available when inline editing tasks in a report**
+**"[!UICONTROL Add to Iteration]" and "[!UICONTROL Add to Kanban Board]" options not available when inline editing tasks in a report**
 
 *Reports*
 
-When a user is viewing a list of tasks in a report and opens the [!UICONTROL More] (three-dot) menu, the "Add to Iteration" and "Add to Kanban Board" options are not available in the dropdown. If the report is viewed in a dashboard, the "Add to Iteration" and "Add to Kanban Board" options are available in the dropdown.
+When a user is viewing a list of tasks in a report and opens the [!UICONTROL More] (three-dot) menu, the "[!UICONTROL Add to Iteration]" and "[!UICONTROL Add to Kanban Board]" options are not available in the dropdown. If the report is viewed in a dashboard, the "[!UICONTROL Add to Iteration]" and "[!UICONTROL Add to Kanban Board]" options are available in the dropdown.
 
 **Matrix reports display incorrectly when scrolling**
 
@@ -221,27 +221,27 @@ When a user is viewing a list of tasks in a report and opens the [!UICONTROL Mor
 
 When a user is viewing a Matrix report and scrolls, some visual elements of the report may overlap or duplicate.
 
-**Milestone view removed from the Timesheets project list**
+**[!UICONTROL Milestone] view removed from the Timesheets project list**
 
 *Timesheets*
 
-The Milestone view has been removed from the timesheet project list when adding a project.
+The [!UICONTROL Milestone] view has been removed from the timesheet project list when adding a project.
 
 **Hyperlinks in an interactive proof are not active**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When a user is viewing an interactive proof and clicks on a link or a button that contains a link, the user is not taken to the page that the link or button links to.
 
 **New Proof Page Missing Text Fields**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 On the [!DNL New Proof] page, many text fields are not displayed (including feld labels, dropdown options, and checkbox names).
 
 **Users do not receive notifications when tagged in a proof**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When a user is tagged in a proof comment, they do not receive an email notification about the comment.
 
@@ -263,11 +263,11 @@ When you add a new field to a customizable header, the field is now added as the
 
 *Custom forms*
 
-When a user attempts to edit a custom form, and that custom form has a Descriptive text field that currently contains more than 512 characters, the user cannot save the edits to the custom form, and sees the following error:
+When a user attempts to edit a custom form, and that custom form has a [!UICONTROL Descriptive text] field that currently contains more than 512 characters, the user cannot save the edits to the custom form, and sees the following error:
 
 "The following fields are invalid: (Field) is too long, max 512"
 
-This affects Descriptive text fields that have previously functioned well despite having more than 512 characters.
+This affects [!UICONTROL Descriptive text] fields that have previously functioned well despite having more than 512 characters.
 
 **Data in fields hidden by section break is not preserved when converting an issue to a project**
 
@@ -285,7 +285,7 @@ When a user is converting a request to a project, and the request includes a cus
 
 *Custom forms*
 
-When a user attempts to edit a custom form that includes a Descriptive Text field, the field's [!UICONTROL label] does not populate. The user sees the error "This field is required" under the label field, and the user cannot edit the custom form due to this error.
+When a user attempts to edit a custom form that includes a Descriptive Text field, the field's label does not populate. The user sees the error "[!UICONTROL This field is required]" under the label field, and the user cannot edit the custom form due to this error.
 
 **Cannot remove instructions from a custom field in the custom form builder**
 
@@ -303,7 +303,7 @@ When a user creates a request and assigns a team to the request, then submits th
 
 +++**Maintenance Update on August 4, 2022**
 
-These issues will be fixed only in the new [!DNL Workfront] experience.
+These issues were fixed only in the new [!DNL Workfront] experience.
 
 All [!DNL Workfront Classic] functionality was removed on July 14, 2022.
 
@@ -311,7 +311,7 @@ All [!DNL Workfront Classic] functionality was removed on July 14, 2022.
 
 *Tasks and Issues*
 
-When a user attempts to change the Planned Completion Date in the header of a task or issue, the date does not change and the user sees an error similar to the following:
+When a user attempts to change the [!UICONTROL Planned Completion Date] in the header of a task or issue, the date does not change and the user sees an error similar to the following:
 
 `500: (Date that user is attempting to change to)/attask/api-internal/(object type)/(object ID)`
 
@@ -319,36 +319,31 @@ When a user attempts to change the Planned Completion Date in the header of a ta
 
 ## Updates in July 2022
 
-<!--
-* [Maintenance Update on July 21, 2022](#maintenance-update-on-july-21-2022)
-* [Maintenance Update on July 14, 2022](#maintenance-update-on-july-14-2022)
--->
-
 +++**Maintenance Update on July 28, 2022**
-
-**Error when opening an item from the Home Work List**
 
 These issues were fixed only in the new [!DNL Workfront] experience.
 
 All [!DNL Workfront Classic] functionality was removed on July 14, 2022.
 
-*Home*
+**Error when opening an item from the [!UICONTROL Home Work List]**
 
-When a user attempts to open an item on their [!UICONTROL Home] Work List, the item does not open, and the user sees the following message:
+*[!UICONTROL Home]*
 
-"An error has occurred and we are working to resolve the issue. To continue with your work try refreshing this browser page."
+When a user attempts to open an item on their [!UICONTROL Home Work List], the item does not open, and the user sees the following message:
+
+"[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work try refreshing this browser page.]"
 
 **Tasks and issues delegated to a user do not appear in the user's Home Work List**
 
-*Home*
+*[!UICONTROL Home]*
 
-When user views their Home Work List, any tasks or issues delegated to the user do not appear in the list, and the user may not be aware of the delegations.
+When user views their [!UICONTROL Home Work List], any tasks or issues delegated to the user do not appear in the list, and the user may not be aware of the delegations.
 
 **Scheduled reports are not sent to all recipients**
 
 *Reports*
 
-When a scheduled report is sent, it is not sent to all of the users in the "Send to" section. The omitted users are random, and may vary each time the report is sent.
+When a scheduled report is sent, it is not sent to all of the users in the "[!UICONTROL Send to]" section. The omitted users are random, and may vary each time the report is sent.
 
 **[!UICONTROL Cannot deselect tasks when attaching template]**
 
@@ -360,10 +355,10 @@ When a user is attaching and customizing a template, they are asked to deselect 
 
 *Terminology*
 
-To make the function of the "Locale" fields more clear, we've updated their labels.
+To make the function of the "[!UICONTROL Locale]" fields more clear, we've updated their labels.
 
-* The "Locale" field on the user profile is now labeled "Email Locale"
-* The "Locale" field found in the [!UICONTROL Setup] >[!UICONTROL System] >[!UICONTROL Customer Info] area is now labeled "Default Email Locale"
+* The "[!UICONTROL Locale]" field on the user profile is now labeled "[!UICONTROL Email Locale]"
+* The "[!UICONTROL Locale]" field found in the [!UICONTROL Setup] >[!UICONTROL System] >[!UICONTROL Customer Info] area is now labeled "[!UICONTROL Default Email Locale]"
 
 The functionality of these fields has not changed.
 
@@ -373,7 +368,7 @@ The functionality of these fields has not changed.
 
 The following issues have been reported regarding the creation of timesheets:
 
-* When a user attempts to create a timesheet for a Role, the timesheet is not created and the user sees the error "User with primary key values 'XXXXXXXXXXX' not found."
+* When a user attempts to create a timesheet for a Role, the timesheet is not created and the user sees the error "[!UICONTROL User with primary key values 'XXXXXXXXXXX' not found.]"
 * When a user attempts to create a timesheet for a Team, The [!UICONTROL typeahead] field does not populate with teams and the [!UICONTROL Create timesheet] button is disabled.
 
 
@@ -382,9 +377,10 @@ The following issues have been reported regarding the creation of timesheets:
 *[!DNL Workfront] Proof*
 
 Proof is currently experiencing indexing delays. This may affect the user experience in ways including the following:
-Dashboards do not show the correct number of proofs
-Folders are not updated when a proof is created or moved
-Archived proofs remain on active proof lists.
+
+* Dashboards do not show the correct number of proofs
+* Folders are not updated when a proof is created or moved
+* Archived proofs remain on active proof lists.
 
 +++
 
@@ -421,40 +417,40 @@ All [!DNL Workfront Classic] functionality was removed on July 14, 2022.
 
 *Approvals*
 
-If you select a status associated with an approval process as the rejection status for an approval path, the rejected object moves to the selected status, and it will be marked as "Pending approval". For example, if you select [!UICONTROL On Hold] for the rejection status and the [!UICONTROL On Hold] status is associated with an approval process, the rejected object is placed in the status of "On Hold- Pending approval", requiring the approval.
+If you select a status associated with an approval process as the rejection status for an approval path, the rejected object moves to the selected status, and it will be marked as "[!UICONTROL Pending approval]". For example, if you select [!UICONTROL On Hold] for the rejection status and the [!UICONTROL On Hold] status is associated with an approval process, the rejected object is placed in the status of "[!UICONTROL On Hold- Pending approval]", requiring the approval.
 
 Before this update, the object bypassed the approval process for the rejection status, and it was placed in the [!UICONTROL On Hold] status.
 
 **Configure a custom help URL**
 
-*Main Menu*
+*[!UICONTROL Main Menu]*
 
-If your organization has a custom internal help site, you can configure the Main Menu Help icon to go to that site. This is useful if the help site contains information about how your organization uses [!DNL Workfront].
-This custom URL does not affect the main Help link in the top area of [!DNL Workfront], nor the context-sensitive help links throughout [!DNL Workfront], which take users to the Workfront Help site.
+If your organization has a custom internal help site, you can configure the [!UICONTROL Main Menu] [!UICONTROL Help] icon to go to that site. This is useful if the help site contains information about how your organization uses [!DNL Workfront].
+This custom URL does not affect the main Help link in the top area of [!DNL Workfront], nor the context-sensitive help links throughout [!DNL Workfront], which take users to the [!DNL Workfront] Help site.
 
-**Cannot select Elapsed time when inline editing Task Duration**
+**Cannot select Elapsed time when inline editing [!UICONTROL Task Duration]**
 
 *Tasks*
 
-When a user is viewing a task list and attempts to edit the Task Duration, the following duration units are not available:
+When a user is viewing a task list and attempts to edit the [!UICONTROL Task Duration], the following duration units are not available:
 
-* Elapsed Minutes
-* Elapsed Hours
-* Elapsed Days
-* Elapsed Weeks
-* Elapsed Months
+* [!UICONTROL Elapsed Minutes]
+* [!UICONTROL Elapsed Hours]
+* [!UICONTROL Elapsed Days]
+* [!UICONTROL Elapsed Weeks]
+* [!UICONTROL Elapsed Months]
 
-**My Updates page is blank**
+**[!UICONTROL My Updates] page is blank**
 
 *Updates*
 
-When a user attempts to view their My Updates page, the page does not load. The user can see only the [!DNL Workfront] navigation header.
+When a user attempts to view their [!UICONTROL My Updates] page, the page does not load. The user can see only the [!DNL Workfront] navigation header.
 
-**"Only Allow SAML 2.0 Authentication" setting is missing when copying a user**
+**"[!UICONTROL Only Allow SAML 2.0 Authentication]" setting is missing when copying a user**
 
 *Users*
 
-When a group administrator copies a user and deselects the "Send an invite email to this person" option, the "Only Allow SAML 2.0 Authentication" checkbox does not appear as expected. This can occur even when all access and permission requirements for this action are met.
+When a group administrator copies a user and deselects the "[!UICONTROL Send an invite email to this person]" option, the "O[!UICONTROL nly Allow SAML 2.0 Authentication]" checkbox does not appear as expected. This can occur even when all access and permission requirements for this action are met.
 
 +++
 
@@ -480,21 +476,21 @@ When a user with limited access to a report attempts to request more access to a
 
 *Requests*
 
-When discarding a drafted request, the confirmation message that displays after clicking "Discard draft" displays the following:
+When discarding a drafted request, the confirmation message that displays after clicking "[!UICONTROL Discard draft]" displays the following:
 
-* Draft was discarded (this is a notification to let you know that your draft was discarded)
-* Undo (this is a link you can click to revert the action of deleting the draft. This will keep the draft instead of deleting it.)
+* [!UICONTROL Draft was discarded] (this is a notification to let you know that your draft was discarded)
+* [!UICONTROL Undo] (this is a link you can click to revert the action of deleting the draft. This will keep the draft instead of deleting it.)
 
 Prior to this change, the options were:
 
-* Draft will be discarded
-* Cancel
+* [!UICONTROL Draft will be discarded]
+* [!UICONTROL Cancel]
 
 **Date values for Journal Entry fields incorrect when accessed through the API**
 
 *Updates*
 
-When a user changes a date value on an object, and then the Journal Entry that represents that date change is accessed through the API, the date values for oldDateVal and newDateVal returned by the API are incorrect.
+When a user changes a date value on an object, and then the Journal Entry that represents that date change is accessed through the API, the date values for [!UICONTROL oldDateVal] and [!UICONTROL newDateVal] returned by the API are incorrect.
 
 **Error when attempting to undo comment**
 
@@ -502,14 +498,13 @@ When a user changes a date value on an object, and then the Journal Entry that r
 
 When a user attempts to undo a comment, the comment does not undo and the user sees the following error:
 
-Error
-403: You do not have sufficient access to delete this Note /attask/api-internal/NOTE
+[!UICONTROL Error 403: You do not have sufficient access to delete this Note /attask/api-internal/NOTE]
 
 **New limitation to the number of characters in an update in Preview**
 
 *Updates*
 
-To improve the performance of the Updates area, we have introduced a  new limit to the number of characters that you can enter in an update or a reply to an existing update. The new limit is 15,000 characters. This update did not change the number of characters allowed when using the API. The API character limit for updates is 4,000.
+To improve the performance of the [!UICONTROL Updates] area, we have introduced a  new limit to the number of characters that you can enter in an update or a reply to an existing update. The new limit is 15,000 characters. This update did not change the number of characters allowed when using the API. The API character limit for updates is 4,000.
 
 **Error when uploading attachment from [!DNL Workfront] for Outlook integration**
 
@@ -517,7 +512,7 @@ To improve the performance of the Updates area, we have introduced a  new limit 
 
 When a user attempts to upload an attachment using the [!DNL Workfront for Outlook] integration, the attachment does not upload, and the user sees the following message:
 
-Some attachments have not been uploaded. Reason: Something went wrong with uploading attachments.
+[!UICONTROL Some attachments have not been uploaded. Reason: Something went wrong with uploading attachments.]
 
 **Proof email notification update**
 
@@ -529,7 +524,7 @@ As a result of those bug fixes, the email address that is used to send proof not
 
 Previously, proof email addresses contained your organization's subdomain. For example, notifications@[company domain].my.workfront.com
 
-Now, proofiing email addresses no longer contain an [!UICONTROL organization] subdomain. All proof email notifications will come from the following address: notification@my.workfront.com
+Now, proofiing email addresses no longer contain an organization subdomain. All proof email notifications will come from the following address: notification@my.workfront.com
 
 As a result, we recommend you take the following actions if you haven't already:
 
@@ -538,54 +533,37 @@ As a result, we recommend you take the following actions if you haven't already:
 
 **User options cannot be modified after initial configuration in Workflow Templates**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When a user is adding a user to a Workflow Template, they can configure options. However, after the initial configuration is complete, the user can no longer modify the following:
 
-* "Resolve comments and apply actions" ability
-* "Share proof by tagging" ability
-* Proof role (Reviewer, Approver, etc.)
+* "[!UICONTROL Resolve comments and apply actions]" ability
+* [!UICONTROL "Share proof by tagging]" ability
+* Proof role ([!UICONTROL Reviewer], [!UICONTROL Approver], etc.)
 
-**"This project's work items" filter has been restored in the [!DNL project Workload Balancer]**
+**"[!UICONTROL This project's work items]" filter has been restored in the project [!UICONTROL Workload Balancer]**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-We have restored the "This project's work items" filter in the Assigned area when you access the [!DNL Workload] Balancer from a project.
+We have restored the "This project's work items" filter in the [!UICONTROL Assigned] area when you access the [!UICONTROL Workload Balancer] from a project.
 
-This filter is now listed under the "Suggested" section of the filters for the Assigned Work area of a project's Workload Balancer.
+This filter is now listed under the "[!UICONTROL Suggested]" section of the filters for the [!UICONTROL Assigned Work] area of a project's [!UICONTROL Workload Balancer].
 
 +++
 
 ## Updates in June 2022
 
-<!--
-These issues were fixed only in the new Workfront experience. Adobe Workfront Classic is no longer supported. 
-
-All Workfront Classic functionality will be removed in July 2022. Please transition to the new experience as soon as possible.
-
-* [Maintenance Update on June 30, 2022](#maintenance-update-on-june-30-2022)
-* [Maintenance Update (Hot Fix) on June 27, 2022](#maintenance-update-hot-fix-on-june-27-2022)
-* [Maintenance Update (Hot Fix) on June 24, 2022](#maintenance-update-hot-fix-on-june-24-2022)
-* [Maintenance Update on June 23, 2022](#maintenance-update-on-june-23-2022)
-* [Workfront Scenario Planner Maintenance Update on June 23, 2022](#workfront-scenario-planner-maintenance-update-on-june-23-2022)
-* [Maintenance Update on June 16, 2022](#maintenance-update-on-june-16-2022)
-* [Maintenance Update on June 9, 2022](#maintenance-update-on-june-9-2022)
-* [Workfront Scenario Planner Maintenance Update on June 9, 2022](#workfront-scenario-planner-maintenance-update-on-june-9-2022)
-* [Workfront Fusion Maintenance Update on June 9, 2022](#workfront-fusion-maintenance-update-on-june-9-2022)
-* [Maintenance Update on June 2, 2022](#maintenance-update-on-june-2-2022)
--->
-
 +++**Maintenance Update on June 30, 2022**
 
-**Display the Workload Balancer for one week**
+**Display the [!UICONTROL Workload Balancer] for one week**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-Based on the feedback we have received from many customers, we have now added an option to display the [!DNL Workload Balancer] for one week. Prior to this update, you could display the [!DNL Workload Balancer] for 4, 6, and 12 weeks. With this update, we have also changed the 12 week option to 3 months.
+Based on the feedback we have received from many customers, we have now added an option to display the [!UICONTROL Workload Balancer] for one week. Prior to this update, you could display the [!UICONTROL Workload Balancer] for 4, 6, and 12 weeks. With this update, we have also changed the 12 week option to 3 months.
 
 **Delegate panel is now available from the Workload Balancer**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
 NOTE: This update exists only in the Preview environment. The functionality associated with this update will be available in Production with the 22.3 release.
 
@@ -597,11 +575,11 @@ You can now view the delegates of a task or issue from the Workload Balancer. Wh
 
 When a user is viewing the [!DNL API Explorer] and clicks on an endpoint, the endpoint information does not display.
 
-**Issues with Details button when using the Home Calendar**
+**Issues with [!UICONTROL Details] button when using the [!UICONTROL Home Calendar]**
 
 *Home*
 
-When a user is using the Home Calendar and clicks on a task, one of the following may occur:
+When a user is using the [!UICONTROL Home Calendar] and clicks on a task, one of the following may occur:
 
 * The [!UICONTROL Details] button appears briefly, then disappears. The user cannot access the details.
 * The [!UICONTROL Details] button does not appear. The user cannot access the details.
@@ -619,14 +597,14 @@ When a user is editing a custom form and attempts to change a date, the date pic
 
 This has been reported in the following areas:
 
-* Updates area
-* Home
+* [!UICONTROL Updates] area
+* [!UICONTROL Home]
 
 **User cannot move self to another stage of a proof**
 
 *Proofs*
 
-When a user is viewing the Proof Workflow of a proof and attempts to drag themself to a different stage of the proof, the user's name snaps back to the original stage, and they are not added to the desired stage.
+When a user is viewing the [!UICONTROL Proof Workflow] of a proof and attempts to drag themself to a different stage of the proof, the user's name snaps back to the original stage, and they are not added to the desired stage.
 
 +++
 
@@ -640,13 +618,13 @@ When a user is viewing a dashboard on a project and attempts to add a new reques
 
 **Error when viewing items in Home Worklist**
 
-*Home*
+*[!UICONTROL Home]*
 
-When a user is viewing their Home Worklist and clicks on an item in the Approvals I've Submitted section, the page displays the following error:
+When a user is viewing their [!UICONTROL Home Work List] and clicks on an item in the [!UICONTROL Approvals I've Submitted] section, the page displays the following error:
 
-"An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page."
+"[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]"
 
-If the user refreshes the page, then clicks on any item in the Worklist, the error appears. The issue no longer affects only items in the Approvals I've Submitted section.
+If the user refreshes the page, then clicks on any item in the [!UICONTROL Work List], the error appears. The issue no longer affects only items in the [!UICONTROL Approvals I've Submitted] section.
 
 **Custom section on an object includes results not in that object**
 
@@ -660,24 +638,24 @@ When a user is viewing a [!UICONTROL custom] section on an object, the custom se
 
 When a user moves tasks from Project A to Project B, then moves more tasks from Project A to Project C, the tasks originally moved to Project B appear on Project C.
 
-**Some buttons/icons do not work when accessing [!DNL Workload Balancer] from a shared link or dashboard**
+**Some buttons/icons do not work when accessing [!UICONTROL Workload Balancer] from a shared link or dashboard**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-When a user goes to the [!DNL Workload Balancer] via a shared link or a link in a dashboard and attempts to use the element at the top of the screen, the elements do not function. This has been reported for the following elements:
+When a user goes to the [!UICONTROL Workload Balancer] via a shared link or a link in a dashboard and attempts to use the element at the top of the screen, the elements do not function. This has been reported for the following elements:
 
-* Today
+* [!UICONTROL Today]
 * Back and Forward arrows
-* Weeks
+* [!UICONTROL Weeks]
 * Calendar icon (date picker)
 
 +++
 
 +++**[!DNL Workfront] Scenario Planner Maintenance Update on June 23, 2022**
 
-**Users with Manage permissions to a plan can share it with others**
+**Users with [!UICONTROL Manage] permissions to a plan can share it with others**
 
-As a user with [!DNL Manage] permissions to a plan in the [!DNL Scenario Planner], you can now share it with other users. Prior to this update, only the creator of the plan could share the plan with other users.
+As a user with [!UICONTROL Manage] permissions to a plan in the [!DNL Scenario Planner], you can now share it with other users. Prior to this update, only the creator of the plan could share the plan with other users.
 
 +++
 
@@ -701,7 +679,7 @@ When a user is creating a filter and filters by a date field, the dropdown of av
 
 When a user attempts to convert an issue to a project via a template, and the issue has a custom form that contains an admin-only section, the issue does not convert and the user sees the following error:
 
-"Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it."
+"[!UICONTROL Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"
 
 **Requests are submitted without required fields filled out**
 
@@ -729,49 +707,47 @@ When a user attempts to open the [!UICONTROL Work Requests] area on a team page,
 
 +++**Maintenance Update on June 9, 2022**
 
-The following customer-reported issues were fixed on June 9, 2022.
-
-**Cannot select objects to filter in Portfolio Optimizer preferences**
+**Cannot select objects to filter in [!UICONTROL Portfolio Optimizer] preferences**
 
 *Portfolios*
 
-When a user is in the Portfolio Optimizer and views the [!UICONTROL Project Filters] tab in the [!UICONTROL Preferences] area, the checkboxes next to the objects are absent. The user cannot check or uncheck boxes, and therefore cannot select objects to filter.
+When a user is in the [!UICONTROL Portfolio Optimizer] and views the [!UICONTROL Project Filters] tab in the [!UICONTROL Preferences] area, the checkboxes next to the objects are absent. The user cannot check or uncheck boxes, and therefore cannot select objects to filter.
 
-**Cannot change Planned Start or Completion Dates when "Schedule From" is not checked**
+**Cannot change [!UICONTROL Planned Start Date] or [!UICONTROL Planned Completion Date] when "[!UICONTROL Schedule From]" is not checked**
 
 *Projects*
 
-When a user attempts to edit the Planned Start Date or Planned Completion Date of a project, and the "Schedule From" option for that project is not checked, the Planned Start Date and Planned Completion Date areas are disabled, and the user cannot edit those dates.
+When a user attempts to edit the [!UICONTROL Planned Start Date] or [!UICONTROL Planned Completion Date] of a project, and the "[!UICONTROL Schedule From]" option for that project is not checked, the [!UICONTROL Planned Start Date] and [!UICONTROL Planned Completion Date] areas are disabled, and the user cannot edit those dates.
 
 **Cannot edit access level of users**
 
 *Users*
 
-When a user who has Planner access that includes User Admin (Group Users) access attempts to edit users in the group they are an admin for, the [!UICONTROL Access] level field is disables, and the user is unable to edit the access level.
+When a user who has Planner access that includes User Admin (Group Users) access attempts to edit users in the group they are an admin for, the [!UICONTROL Access] level field is disabled, and the user is unable to edit the access level.
 
 +++
 
-+++**[!DNL Workfront] Scenario Planner Maintenance Update on June 9, 2022**
++++**[!DNL Workfront Scenario Planner] Maintenance Update on June 9, 2022**
 
 **Resizable left panel in the [!DNL Scenario Planner]**
 
-*[!DNL Workfront] Scenario Planner*
+*[!DNL Workfront Scenario Planner]*
 
-You can now resize the left panel on a Plan, in the Scenario Planner. This allows longer initiative names to display fully. Prior to this update, longer initiative names were truncated.
+You can now resize the left panel on a Plan, in the [!DNL Scenario Planner]. This allows longer initiative names to display fully. Prior to this update, longer initiative names were truncated.
 
 +++
 
-+++**Workfront Fusion Maintenance Update on June 9, 2022**
++++**[!DNL Workfront Fusion] Maintenance Update on June 9, 2022**
 
-**Data from custom forms not available in [!UICONTROL Workfront Fusion Workfront] modules**
+**Data from custom forms not available in [!DNL Workfront Fusion] [!DNL Workfront] modules**
 
-*Workfront Fusion*
+*[!DNL Workfront Fusion]*
 
 When a user is configuring a [!DNL Workfront] module in [!DNL Workfront Fusion], and attempts to select outputs for the module, fields from custom forms are not visible. This occurs when the custom form was created for one type of [!DNL Workfront] object and then another type was added to it. [!DNL Workfront Fusion] displays only fields from custom forms originally created for the selected object type.
 
 **Cannot scroll to view all scenario executions**
 
-*Workfront Fusion*
+*[!DNL Workfront Fusion]*
 
 When a user is viewing a scenario's execution history and attempts to scroll down to view more executions, the executions stop loading and the user is unable to view them. Additionally, the user cannot scroll back up to the most recent executions.
 
@@ -779,11 +755,11 @@ When a user is viewing a scenario's execution history and attempts to scroll dow
 
 +++**Maintenance Update on June 2, 2022**
 
-**[!DNL Portfolio Optimizer] shows a score of 0 when using language other than English**
+**[!UICONTROL Portfolio Optimizer] shows a score of 0 when using language other than English**
 
 *Portfolios*
 
-When a user is using [!DNL Workfront] in a language other than English and views the [!UICONTROL Portfolio] Optimizer, the score displays as 0. This may occur even when the business case is not complete.
+When a user is using [!DNL Workfront] in a language other than English and views the [!UICONTROL Portfolio Optimizer], the score displays as 0. This may occur even when the business case is not complete.
 
 **Calculated field values incorrect when creating project from template**
 
@@ -791,15 +767,15 @@ When a user is using [!DNL Workfront] in a language other than English and views
 
 When a user is creating a project from a template that includes calculated fields, the field values that appear on the new project are incorrect.
 
-**[!UICONTROL Cannot edit Conditions in Project Preferences are of Setup]**
+**Cannot edit [!UICONTROL Conditions] in [!UICONTROL Project Preferences] area of [!UICONTROL Setup]**
 
-*Setup*
+*[!UICONTROL Setup]*
 
-When a user attempts to edit Conditions in the [!UICONTROL Project Preferences] area of Setup, the page is blank.
+When a user attempts to edit [!UICONTROL Conditions] in the [!UICONTROL Project Preferences] area of [!UICONTROL Setup], the page is blank.
 
 **New limitation to the number of characters in an update in Preview**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
 >[!NOTE]
 >
@@ -812,9 +788,9 @@ We are now supporting filters based on the [!UICONTROL Typeahead] type custom fi
 
 **Cannot edit permissions on a user's role**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
-When a user attempts to edit the "Resolve comments and apply actions" or "Share a proof by tagging" permissions on a user's role in [!DNL Workfront] Proof, the changes are not saved. The user gets a notification that the template has been updated, but if the user opens the role permissions again they can see that the changes were not saved.
+When a user attempts to edit the "[!UICONTROL Resolve comments and apply actions]" or "[!UICONTROL Share a proof by tagging]" permissions on a user's role in [!DNL Workfront Proof], the changes are not saved. The user gets a notification that the template has been updated, but if the user opens the role permissions again they can see that the changes were not saved.
 
 +++
 
@@ -841,7 +817,7 @@ We have updated the breadcrumb separators in all areas where breadcrumbs are ava
 
 When a user attempts to edit a custom form that has a section break, they cannot edit the form, and they see the following message:
 
-Specified section break security cannot be applied on all object types
+[!UICONTROL Specified section break security cannot be applied on all object types]
 
 **Issues when printing Dashboards to PDF**
 
@@ -855,45 +831,45 @@ The PDF includes blank spaces between the column headers and the first row of th
 
 *Portfolios*
 
-When a user is using [!DNL Workfront] in a language other than English and views the [!UICONTROL Portfolio] Optimizer, the score displays as 0. This may occur even when the business case is not complete.
+When a user is using [!DNL Workfront] in a language other than English and views the [!UICONTROL Portfolio Optimizer], the score displays as 0. This may occur even when the business case is not complete.
 
 **Some custom forms do not display when editing a template**
 
 *Templates*
 
-When a user attempts to edit the custom forms on a template by clicking [!UICONTROL Edit] in the template's header, the [!UICONTROL Edit] Template window only displays one of the custom forms attached to the template.
+When a user attempts to edit the custom forms on a template by clicking [!UICONTROL Edit] in the template's header, the [!UICONTROL Edit Template] window only displays one of the custom forms attached to the template.
 
 **Shared link to Workload Balancer displays assigned work incorrectly**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-When a user views the [!DNL Workload Balancer] using a shared link, the [!DNL Workload] Balancer includes Assigned Work in the Unassigned Work section. Assigned Work does not have a separate section. When the user views the [!DNL Workload Balancer] without using the shared link, Assigned Work displays as expected.
+When a user views the [!UICONTROL Workload Balancer] using a shared link, the [!DNL Workload Balancer] includes [!UICONTROL Assigned Work] in the [!UICONTROL Unassigned Work] section. [!UICONTROL Assigned Work] does not have a separate section. When the user views the [!UICONTROL Workload Balancer] without using the shared link, [!UICONTROL Assigned Work] displays as expected.
 
 +++
 
 +++**Maintenance Update on May 19, 2022**
 
-**Cannot create a proof from a PowerPoint**
+**Cannot create a proof from a [!DNL PowerPoint]**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
-When a user attempts to create a proof from a PowerPoint that includes a chart, the proof creation fails.
+When a user attempts to create a proof from a [!DNL PowerPoint] that includes a chart, the proof creation fails.
 
-**Cannot create a proof from a Word document**
+**Cannot create a proof from a [!UICONTROL Word] document**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When a user attempts to create a proof from a [!DNL Word] document that includes a chart, the proof creation fails.
 
 **Cannot add custom message when sharing a proof**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When a user is viewing a proof, opens the [!UICONTROL Share proof] area, and selects the [!UICONTROL Add custom message] button, the user cannot type into the text box that opens. When the user attempts to type in this box, the box immediately disappears.
 
 **Cannot close proof**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 When a user is viewing a proof and attempts to close it, the X to close the proof is missing from the upper-right corner of the proof.
 
@@ -901,12 +877,9 @@ When a user is viewing a proof and attempts to close it, the X to close the proo
 
 *Groups*
 
-If a user is viewing a Group page and attempts to add or remove a group administrator by using the [!UICONTROL Group Administrators] area in the header, the changes are not saved and the user sees the following error:
+If a user is viewing a [!UICONTROL Group] page and attempts to add or remove a group administrator by using the [!UICONTROL Group Administrators] area in the header, the changes are not saved and the user sees the following error:
 
-Error
-
-Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.
-
+[!UICONTROL Error Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]
 
 **Horizontal scroll bar blocks item at end of list**
 
@@ -914,15 +887,15 @@ Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure o
 
 When a user is viewing a list using a view that extends off the side of the screen, the horizontal scroll bar blocks the user's view of the last item on the list.
 
-**"Unexpected error" when converting an issue to a project using a template**
+**"[!UICONTROL Unexpected error]" when converting an issue to a project using a template**
 
 *Lists*
 
 When a user attempts to convert an issue to a project using a template, the issue does not convert and the user sees the following message:
 
-An unexpected error happened
+[!UICONTROL An unexpected error happened]
 
-**The Status field in a timesheet view is now read-only**
+**The [!UICONTROL Status] field in a timesheet view is now read-only**
 
 *Timesheets*
 
@@ -932,17 +905,17 @@ We have changed the [!UICONTROL Status] field in a timesheet view to be read-onl
 
 +++**Maintenance Update on May 12, 2022**
 
-**Save button does not stop loading when editing a project**
+**[!UICONTROL Save] button does not stop loading when editing a project**
 
 *Projects*
 
-When a user is editing a project and attempts to save, they notice that the [!UICONTROL Save] button displays the word "Loading." If the user clicks on this button to save the changes to the project, the button is unresponsive and the changes do not save.
+When a user is editing a project and attempts to save, they notice that the [!UICONTROL Save] button displays the word "[!UICONTROL Loading]." If the user clicks on this button to save the changes to the project, the button is unresponsive and the changes do not save.
 
 **Field labels not appearing when viewing an object in [!UICONTROL Home]**
 
 *Home*
 
-When a user selects an object from their Home Work List, the area to the right of the Home Work List that displays the object does not include field labels. The field values are present.
+When a user selects an object from their [!UICONTROL Home Work List], the area to the right of the [!UICONTROL Home Work List] that displays the object does not include field labels. The field values are present.
 
 **Quick Filter does not automatically focus on search bar**
 
@@ -960,7 +933,7 @@ When a user attempts to edit a field in a report, and that field is pulled from 
 
 **Label and button text not visible when creating a proof**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 NOTE: This issue exists only in the Preview environment.
 
@@ -976,21 +949,21 @@ When a user attempts to create a proof, the text is not visible for options or b
 
 When a user is in the [!UICONTROL Billing Records] area of a project and is using the [!UICONTROL New Billing Record] View, if the user attempts to add a new Billing Record, the fields for a new Billing Record do not appear and the Billing Record cannot be created.
 
-**Error when making bulk assignment in [!DNL Workload Balancer]**
+**Error when making bulk assignment in [!UICONTROL Workload Balancer]**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-When a user attempts to make assignments in the [!DNL Workload] Balancer of a project, the user is redirected to a page with the following message:
+When a user attempts to make assignments in the [!DNL Workload Balancer] of a project, the user is redirected to a page with the following message:
 
-"An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page."
+"[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]"
 
 The user cannot navigate away from this page until they refresh the page.
 
-**Updated navigation to open the Summary panel for tasks and issues in the [!DNL Workload Balancer]**
+**Updated navigation to open the [!UICONTROL Summary] panel for tasks and issues in the [!UICONTROL Workload Balancer]**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-Now, simply clicking a task or issue bar in the Workload Balancer opens the Summary Panel. Prior to this update, you had to click the Open Summary icon in the toolbar and then click on the task or issue. This had proven a confusing experience that is now corrected. Alternatively, you can click the More menu next to the task or issue name, then click Open Summary.
+Now, simply clicking a task or issue bar in the [!UICONTROL Workload Balancer] opens the Summary Panel. Prior to this update, you had to click the [!UICONTROL Open Summary] icon in the toolbar and then click on the task or issue. This had proven a confusing experience that is now corrected. Alternatively, you can click the [!UICONTROL More] menu next to the task or issue name, then click [!UICONTROL Open Summary].
 
 **Group administrator cannot view details of users in the group**
 
@@ -998,8 +971,7 @@ Now, simply clicking a task or issue bar in the Workload Balancer opens the Summ
 
 When a user who is assigned to an access level that includes the [!UICONTROL User Admin (Group Users)] access setting attempts to view details of a user in their group, they see the following error:
 
-"Let's try that again
-Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it."
+"[!UICONTROL Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"
 
 **Cannot delete custom group status**
 
@@ -1009,25 +981,25 @@ When a user attempts to delete a custom group status from the [!UICONTROL Group]
 
 **Email alert settings are inconsistent between Contacts area and User Details**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
-Email alert settings displayed in the [!UICONTROL Contacts] area of [!DNL Workfront] Proof for a given user are different from the email alert setting set in the user's User Details.
+Email alert settings displayed in the [!UICONTROL Contacts] area of [!DNL Workfront Proof] for a given user are different from the email alert setting set in the user's [!UICONTROL User Details].
 
 **Cannot use Text tool when making a comment on a proof**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
-When a user is making a comment on a proof and attempts to open the Text tool, the tool does not open and the user sees the following message:
+When a user is making a comment on a proof and attempts to open the [!UICONTROL Text] tool, the tool does not open and the user sees the following message:
 
-"Text data for this page is still downloading. Please wait."
+"[!UICONTROL Text data for this page is still downloading. Please wait.]"
 
 **Proof emails will go to the user's primary email**
 
-*[!DNL Workfront] Proof*
+*[!DNL Workfront Proof]*
 
 We're making adjustments to how proof email notifications are sent. Now, notifications will go to the user's primary email address rather than the alias email generated by the system.
 
-For more information on why the system generates alias emails, see User synchronization between Adobe [!DNL Workfront] and Workfront Proof.
+For more information on why the system generates alias emails, see User synchronization between Adobe [!DNL Workfront] and [!DNL Workfront Proof].
 
 +++
 
@@ -1035,7 +1007,7 @@ For more information on why the system generates alias emails, see User synchron
 
 +++**Maintenance Update on April 28, 2022**
 
-**Cannot scroll to Save button when editing a timesheet**
+**Cannot scroll to [!UICONTROL Save] button when editing a timesheet**
 
 *Timesheets*
 
@@ -1045,7 +1017,7 @@ When a user is editing a timesheet, they cannot scroll the edit window far enoug
 
 *Proofs*
 
-When signing a proof electronically, the system now checks the Federation ID, if you have SSO set up in [!DNL Workfront] Proof, in addition to your email in [!DNL Workfront].
+When signing a proof electronically, the system now checks the Federation ID, if you have SSO set up in [!DNL Workfront Proof], in addition to your email in [!DNL Workfront].
 
 Previously, the system checked only your email in Workfront.
 
@@ -1053,11 +1025,11 @@ Previously, the system checked only your email in Workfront.
 
 +++**Maintenance Update (Hot Fix) on April 25, 2022**
 
-**[!DNL Workload Balancer] does not load**
+**[!UICONTROL Workload Balancer] does not load**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-When a user attempts to open the [!DNL Workload Balancer], the header and left navigation load, but the content of the Workload Balancer does not load. The user sees flashing gray squares instead of data. Occasionally, part of the content loads, but the user still sees flashing gray squares where the missing data would be.
+When a user attempts to open the [!UICONTROL Workload Balancer], the header and left navigation load, but the content of the Workload Balancer does not load. The user sees flashing gray squares instead of data. Occasionally, part of the content loads, but the user still sees flashing gray squares where the missing data would be.
 
 +++
 
@@ -1075,7 +1047,7 @@ When a user adds a task below an existing task in a list, the page jumps to lowe
 
 If a user is added to a stage in a proof's workflow, the user is not added to the Document sharing and does not get permissions to the proof's work item in [!DNL Workfront]. When the user is in [!DNL Workfront] and attempts to open the work item the proof is attached to, they see the following message:
 
-"You do not have sufficient access to view this \<object\>"
+"[!UICONTROL You do not have sufficient access to view this (object)]"
 
 This issue is specific to proofs already created and users being added after the fact. Adding users to the Workflow before proof creation works as expected.
 
@@ -1085,23 +1057,23 @@ This issue is specific to proofs already created and users being added after the
 
 When a user attempts to send a password reset email from a user list in [!DNL Workfront], the option to send the email is not available.
 
-**Button displays "Start Issue" rather than "Start Request"**
+**Button displays "[!UICONTROL Start Issue]" rather than "[!UICONTROL Start Request]"**
 
 *Requests*
 
-When a user views a request assigned to their team, they see a "Start Issue" button in the header rather than a "Start Request" button.
+When a user views a request assigned to their team, they see a "[!UICONTROL Start Issue]" button in the header rather than a "[!UICONTROL Start Request]" button.
 
-**"Undo comment" option removes tagged users**
+**"[!UICONTROL Undo comment]" option removes tagged users**
 
 *Updates*
 
-When a user tags another user in a comment, posts the comment, and then selects the "Undo comment" option, the comment appears in an update box as usual, but the tagged user is not in the Tagged users box.
+When a user tags another user in a comment, posts the comment, and then selects the "[!UICONTROL Undo comment]" option, the comment appears in an update box as usual, but the tagged user is not in the [!UICONTROL Tagged users] box.
 
-**Cannot scroll when using Milestone view in a report**
+**Cannot scroll when using [!UICONTROL Milestone] view in a report**
 
 *Reports*
 
-When a user is viewing a report and selects the Milestone view, the page displays the Milestone view but no longer scrolls, and the user cannot view any Milestones that would be further down the page.
+When a user is viewing a report and selects the [!UICONTROL Milestone] view, the page displays the Milestone view but no longer scrolls, and the user cannot view any Milestones that would be further down the page.
 
 **Incorrect currency when report is displayed in dashboard**
 
@@ -1111,9 +1083,9 @@ When a user views a report in a dashboard, the currency used in the report is in
 
 **Completed filter is not displaying Completed work item**&#x200B;s
 
-*Home*
+*[!UICONTROL Home]*
 
-When a user views their Home Work List with the Completed filter selected, Completed work items do not display in the list. When the All filter is selected, Completed items are included in the list, showing that the Completed items exist.
+When a user views their [!UICONTROL Home Work List] with the [!UICONTROL Completed] filter selected, Completed work items do not display in the list. When the [!UICONTROL All] filter is selected, Completed items are included in the list, showing that the Completed items exist.
 
 **[!DNL Workfront] does not load**
 
@@ -1139,11 +1111,11 @@ When a user is editing a view, the [!UICONTROL Done] button appears higher on th
 
 The user can edit the view as usual. Functionality is not affected.
 
-**Cannot scroll when using Milestone view in a report**
+**Cannot scroll when using [!UICONTROL Milestone] view in a report**
 
 *Reports*
 
-When a user is viewing a report and selects the Milestone view, the page displays the Milestone view but no longer scrolls, and the user cannot view any Milestones that would be further down the page.
+When a user is viewing a report and selects the [!UICONTROL Milestone] view, the page displays the Milestone view but no longer scrolls, and the user cannot view any Milestones that would be further down the page.
 
 **Blank screen when viewing updates**
 
@@ -1153,12 +1125,11 @@ When a user is viewing updates and scrolls the screen to view updates further do
 
 **Error when bulk assigning user to task that is not assigned to User's role**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-When a user in the [!DNL Workload Balancer] attempts to assign tasks to a user whose Job Role does not match the Job role assigned to the tasks, the user sees a message that the task will be assigned using the primary Job Role of the assigned user. However, when the user clicks "Assign," the tasks are not assigned and the user sees the following error:
+When a user in the [!UICONTROL Workload Balancer] attempts to assign tasks to a user whose Job Role does not match the Job role assigned to the tasks, the user sees a message that the task will be assigned using the primary Job Role of the assigned user. However, when the user clicks "[!UICONTROL Assign]," the tasks are not assigned and the user sees the following error:
 
-"Error
-The server encountered an unknown error."
+"[!UICONTROL Error. The server encountered an unknown error.]"
 
 +++
 
@@ -1168,7 +1139,7 @@ The server encountered an unknown error."
 
 *Proofs*
 
-When a user adds another user to a proof, that user's role on the proof is set as "Read-only" despite the user's actual proof role.
+When a user adds another user to a proof, that user's role on the proof is set as "[!UICONTROL Read-only]" despite the user's actual proof role.
 
 **Cannot send password reset email to user**
 
@@ -1180,7 +1151,7 @@ When a user attempts to send a password reset to another user, they see that the
 
 *Updates*
 
-When a user is viewing the People area of a Project and selects the [!UICONTROL Update All] option, then enters an update, the update is not posted to the project itself. Instead, it is posted to the individual user profiles of each user on the project.
+When a user is viewing the [!UICONTROL People] area of a Project and selects the [!UICONTROL Update All] option, then enters an update, the update is not posted to the project itself. Instead, it is posted to the individual user profiles of each user on the project.
 
 **Excessive number of pages when printing updates**
 
@@ -1188,11 +1159,11 @@ When a user is viewing the People area of a Project and selects the [!UICONTROL 
 
 When a user is viewing an update stream that would be more than one printed page, and attempts to print the page, the print screen shows that the number of pages is far above the actual number of pages needed to print the updates. If the user then attempts to print to PDF, the PDF creation fails.
 
-**Users are unable to see the entire list of entities shared with a report when the "Visible System-Wide" setting is enabled**
+**Users are unable to see the entire list of entities shared with a report when the "[!UICONTROL Visible System-Wide]" setting is enabled**
 
 *Reports*
 
-When sharing reports with multiple entities displaying in the Report Access box, users are unable to scroll to the bottom of the list to see the entire list when the "Visible System-Wide" setting enabled.
+When sharing reports with multiple entities displaying in the [!UICONTROL Report Access] box, users are unable to scroll to the bottom of the list to see the entire list when the "[!UICONTROL Visible System-Wide]" setting enabled.
 
 **Incorrect currency used in reports**
 
@@ -1200,22 +1171,22 @@ When sharing reports with multiple entities displaying in the Report Access box,
 
 If a user sets the currency of a project to be different than the default currency, then views a report on that project, the currency appears as the default currency instead of the project's currency.
 
-**Last Viewed information not updating in Report Usage reports**
+**Last Viewed information not updating in [!UICONTROL Report Usage] reports**
 
 *Reports*
 
 When a user is viewing a report that displays information regarding the last time the report was viewed, that information may be blank or may be old data. This issue affects fields including the following:
 
-* Last Viewed By
-* Last Viewed Data
-* Last X Viewers
-* Views This Month / Quarter / Year
+* [!UICONTROL Last Viewed By]
+* [!UICONTROL Last Viewed Data]
+* [!UICONTROL Last X Viewers]
+* [!UICONTROL Views This Month / Quarter / Year]
 
-**Completed tasks displaying in [!UICONTROL Home Work] List**
+**Completed tasks displaying in [!UICONTROL Home Work List]**
 
-*Home*
+*[!UICONTROL Home]*
 
-When a user is viewing their Home Work List, they see Complete tasks in the list, even when the option to display Completed tasks is not selected.
+When a user is viewing their [!UICONTROL Home Work List], they see Complete tasks in the list, even when the option to display Completed tasks is not selected.
 
 **Schedule button not visible to schedule Sandbox refresh**
 
@@ -1239,7 +1210,7 @@ When a user is working with calculated fields on the custom form builder, the co
 
 *Approvals*
 
-When a user attempts to reject an approval, the Reject button is unresponsive, and the approval is not rejected.
+When a user attempts to reject an approval, the [!UICONTROL Reject] button is unresponsive, and the approval is not rejected.
 
 **[!UICONTROL Projects] tab defaults to All Project section despite previous selection**
 
@@ -1254,11 +1225,11 @@ When a user goes to a Projects page via a tab that has been pinned as part of th
 
 +++**Maintenance Update on March 31, 2022**
 
-**Timezones not consistent between [!DNL Workfront] and [!DNL Workfront] Proof**
+**Timezones not consistent between [!DNL Workfront] and [!DNL Workfront Proof]**
 
-*Proof*
+*[!DNL Workfront Proof]*
 
-When a user's profile is set to a specific timezone in [!DNL Workfront], the user's timezone in Workfront Proof is set to a different timezone.
+When a user's profile is set to a specific timezone in [!DNL Workfront], the user's timezone in [!DNL Workfront Proof] is set to a different timezone.
 
 **Link to submit a requested document leads to blank page**
 
@@ -1272,8 +1243,8 @@ Groups
 
 When a user converts an issue to a project using a template, the functionality is:
 
-* If the template has a group assigned, that group displays in the [!UICONTROL issue conversion] window as the group for the new project.
-* If the template has no group assigned, the default group of the user who is converting the issue displays in the [!UICONTROL issue conversion] window as the group for the new project.
+* If the template has a group assigned, that group displays in the issue conversion window as the group for the new project.
+* If the template has no group assigned, the default group of the user who is converting the issue displays in the issue conversion window as the group for the new project.
 * If the template has no group, the new project should inherit the group from the issue's project.
 
 **Cannot attach cross-object custom form to request queue**
@@ -1282,11 +1253,11 @@ Requests
 
 When a user attempts to add a cross-object custom form to a queue's details page, the cross-object form does not appear in the dropdown list of available forms, and the user cannot select it to add to the queue details.
 
-**Users cannot be assigned with secondary job role on [!DNL Workload Balancer]**
+**Users cannot be assigned with secondary job role on [!UICONTROL Workload Balancer]**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-When a user attempts to assign another user to a task on the [!DNL Workload Balancer], and the task is assigned to a job role other than the assigned user's primary job role, the user is assigned to the task by their primary job role, and the following message displays:
+When a user attempts to assign another user to a task on the [!UICONTROL Workload Balancer], and the task is assigned to a job role other than the assigned user's primary job role, the user is assigned to the task by their primary job role, and the following message displays:
 
 "\<Name\> does not match the role of \<Task role assignment\>. 1 work item currently assigned to the role of <\Task role assignment\> will be assigned to \<Name\> in the role of \<Primary job role\>."
 
@@ -1328,24 +1299,24 @@ NOTE: This issue fix included additional functionality. Now, when you begin typi
 
 +++**Maintenance Update on March 24, 2022**
 
-**Timezones not consistent between [!DNL Workfront] and [!DNL Workfront] Proof**
+**Timezones not consistent between [!DNL Workfront] and [!DNL Workfront Proof]**
 
-*Proof*
+*[!DNL Workfront Proof]*
 
-When a user's profile is set to a specific timezone in [!DNL Workfront], the user's timezone in Workfront Proof is set to a different timezone.
+When a user's profile is set to a specific timezone in [!DNL Workfront], the user's timezone in [!DNL Workfront Proof] is set to a different timezone.
 
 **Required field error for filled-in custom fields when attaching a template**
 
 *Projects*
 
-When attaching a template with required custom fields to a project where the field already exists and is filled out, users see the following error: "There are incomplete fields. Enter values for required fields before you can continue."
-Clicking "Take me there" allows them to see that the fields are filled out and they can attach the template successfully.
+When attaching a template with required custom fields to a project where the field already exists and is filled out, users see the following error: "[!UICONTROL There are incomplete fields. Enter values for required fields before you can continue.]"
+Clicking "[!UICONTROL Take me there]" allows them to see that the fields are filled out and they can attach the template successfully.
 
-**The Workload Balancer flashes when you toggle between dates**
+**The [!UICONTROL Workload Balancer] flashes when you toggle between dates**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-The hours of the user listed first in the [!DNL Workload Balancer] do not display when you update the timeline. The user and their hours display with all grey boxes that just blink. This happens if you move forward and backwards on the timeline.
+The hours of the user listed first in the [!UICONTROL Workload Balancer] do not display when you update the timeline. The user and their hours display with all grey boxes that just blink. This happens if you move forward and backwards on the timeline.
 
 Updating the filter does seem to reset the display. However, moving backwards and forwards on the timeline causes the display flash again and the user hours to not display.
 
@@ -1355,7 +1326,7 @@ Updating the filter does seem to reset the display. However, moving backwards an
 
 Users are reporting that when the [!DNL Workfront] administrator customizes the terminology for some objects using a Layout Template, the new object name displays inconsistently in the interface.
 
-For example, on the [!UICONTROL Projects] page, you can still see the page title displayed as "Projects", even though the [!DNL Workfront] administrator changed the name for "Projects" to something else.
+For example, on the [!UICONTROL Projects] page, you can still see the page title displayed as "[!UICONTROL Projects]", even though the [!DNL Workfront] administrator changed the name for "[!UICONTROL Projects]" to something else.
 
 This causes confusion for end users.
 
@@ -1363,17 +1334,17 @@ This causes confusion for end users.
 
 +++**Maintenance Update on March 17, 2022**
 
-**Thumbnail and main images are blank when viewing multipage files using Safari browser**
+**Thumbnail and main images are blank when viewing multipage files using [!DNL Safari] browser**
 
-*Proof*
+*[!DNL Workfront Proof]*
 
-When a user attempts to view a file with multiple pages in the Safari browser, the thumbnail page images are blank. Occasionally, the main image may also be blank.
+When a user attempts to view a file with multiple pages in the [!DNL Safari] browser, the thumbnail page images are blank. Occasionally, the main image may also be blank.
 
-**Incorrect user list when making bulk assignments in the [!DNL Workload Balancer]**
+**Incorrect user list when making bulk assignments in the [!UICONTROL Workload Balancer]**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-When a user is making a bulk assignment in the [!DNL Workload Balancer] and selects a Project and Job Role, the list of users available is incorrect. It may show users without the Job Role or Project permissions, and users with the Job Role and Project permissions do not appear in the list.
+When a user is making a bulk assignment in the [!UICONTROL Workload Balancer] and selects a Project and Job Role, the list of users available is incorrect. It may show users without the Job Role or Project permissions, and users with the Job Role and Project permissions do not appear in the list.
 
 **[!UICONTROL Sorting is not working in reports]**
 
@@ -1381,19 +1352,19 @@ When a user is making a bulk assignment in the [!DNL Workload Balancer] and sele
 
 When a user clicks on a column to sort by it, the sort appears to work but instantly the results revert to the original sorting as it displayed before clicking the column. The sorting on any column is not retained.
 
-**Selecting "Nothing" reverts to the Report Default grouping**
+**Selecting "[!UICONTROL Nothing]" reverts to the [!UICONTROL Report Default] grouping**
 
 *Reports*
 
-When a report has a built-in grouping and the user attempts to select "Nothing" in the [!UICONTROL Grouping] drop-down menu, the report displays shortly with no grouping and then revert to the Report Default grouping.
+When a report has a built-in grouping and the user attempts to select "[!UICONTROL Nothing]" in the [!UICONTROL Grouping] drop-down menu, the report displays shortly with no grouping and then revert to the [!UICONTROL Report Default] grouping.
 
-**Removed "Blueprints access" tab from Blueprints preferences**
+**Removed "[!UICONTROL Blueprints access]" tab from Blueprints preferences**
 
 *Blueprints*
 
 NOTE: This issue exists only in the Preview environment.
 
-The Blueprints access tab has been removed from the Blueprints preferences modal. No functionality has been removed from the Blueprints preferences.
+The [!UICONTROL Blueprints access] tab has been removed from the Blueprints preferences modal. No functionality has been removed from the Blueprints preferences.
 
 +++
 
@@ -1405,11 +1376,11 @@ The Blueprints access tab has been removed from the Blueprints preferences modal
 
 When a user is viewing a [!DNL Kanban] board and attempts to make an assignment, the user list that appears when they type keeps jumping back to the top as they scroll down. The user is unable to select a user that is not near the top of the list, and cannot save the assignment change.
 
-**Milestone View in project report causes error**
+**[!UICONTROL Milestone] View in project report causes error**
 
 *Reports*
 
-When displaying a project report using the Milestone View, users get a "APIModel INTERNAL does not support namedQuery TILE:milestone-view (UIVW)" error.
+When displaying a project report using the [!UICONTROL Milestone] View, users get a "[!UICONTROL APIModel INTERNAL does not support namedQuery TILE:milestone-view (UIVW)]" error.
 
 **Custom terminology is inconsistent**
 
@@ -1417,7 +1388,7 @@ When displaying a project report using the Milestone View, users get a "APIModel
 
 Users are reporting that when the [!DNL Workfront] administrator customizes the terminology for some objects using a Layout Template, the new object name displays inconsistently in the interface.
 
-For example, on the [!UICONTROL Projects] page, you can still see the page title displayed as "Projects", even though the [!DNL Workfront] administrator changed the name for "Projects" to something else.
+For example, on the [!UICONTROL Projects] page, you can still see the page title displayed as "[!UICONTROL Projects]", even though the [!DNL Workfront] administrator changed the name for "[!UICONTROL Projects]" to something else.
 
 This causes confusion for end users.
 
@@ -1429,13 +1400,13 @@ Users are unable to update/ change the calculations in calculated fields. If the
 
 If you create a calculated field with a certain expression and save it, every time you try to change the calculation, it reverts back to its previous value.
 
-**Invalid Parameter error when resetting passwords**
+**[!UICONTROL Invalid Parameter] error when resetting passwords**
 
 *Login*
 
 Users are unable to reset their passwords in any environment. When they enter their email and try to proceed they see an error.
 
-Error: Invalid Parameter: Search Parameter value "domain".
+[!UICONTROL Error: Invalid Parameter: Search Parameter value "domain"].
 
 +++
 
@@ -1449,7 +1420,7 @@ The following issues with logging in to the Preview environment have been report
 
 When a user attempts to log in to the Preview environment, a message appears indicating that they put in the wrong ID or password.
 
-When a user attempts to reset their password, they see the error "?Multiple users were found with the email address <example@example.com>?"
+When a user attempts to reset their password, they see the error "[!UICONTROL ?Multiple users were found with the email address <example@example.com>?]"
 
 **Custom forms load slowly in [!UICONTROL Project Details] area**
 
@@ -1461,13 +1432,13 @@ When a user attempts to view a project's [!UICONTROL Project Details] area, any 
 
 *Documents*
 
-When a user updates custom form fields in the document summary panel, and one or more of them is a [!UICONTROL typeahead] field, then saves the changes and navigates away from the summary panel, the updates are not saved. This occurs only when a [!UICONTROL typeahead] field is edited, although all fields are affected.
+When a user updates custom form fields in the document summary panel, and one or more of them is a typeahead field, then saves the changes and navigates away from the summary panel, the updates are not saved. This occurs only when a typeahead field is edited, although all fields are affected.
 
 **Data not preserved when converting templates due to template sharing access levels**
 
 *Projects*
 
-When a user who has View access on a shared template attempts to convert an issue to a project, any data in custom form sections that require Contribute or higher access to view is not transferred to the created project.
+When a user who has View access on a shared template attempts to convert an issue to a project, any data in custom form sections that require [!UICONTROL Conrtibute] or higher access to view is not transferred to the created project.
 
 **Error when uploading new document version**
 
@@ -1475,14 +1446,13 @@ When a user who has View access on a shared template attempts to convert an issu
 
 When a user attempts to upload a new version of a document from the document list, the document does not upload and the user sees the following error:
 
-Error
-Cannot invoke "com.attask.boz.Document.getCurrentVersion()" because "document" is null
+[!UICONTROL Error Cannot invoke "com.attask.boz.Document.getCurrentVersion()" because "document" is null]
 
 **Unable to edit billing rates**
 
 *Projects*
 
-When a user attempts to edit a billing rate on the [!UICONTROL Billing Rates] tab of a project, clicking the [!UICONTROL Edit] button opens the Edit window briefly, but it closes before the user can edit the billing rate. Clicking the button again does not open the edit window.
+When a user attempts to edit a billing rate on the [!UICONTROL Billing Rates] tab of a project, clicking the [!UICONTROL Edit] button opens the [!UICONTROL Edit] window briefly, but it closes before the user can edit the billing rate. Clicking the button again does not open the edit window.
 
 **Public link for document leads to blank page**
 
@@ -1496,20 +1466,19 @@ When a user attempts to open a document using a public link, the link leads to a
 
 When a user who is not an admin attempts to add a task or issue to a list, and fills in custom fields, the task or issue is not created and the user sees the following error:
 
-Error
-Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.
+[!UICONTROL Error Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]
 
 **Leaving an update after a status change reverts the object to a previous state**
 
 Projects, tasks, and issues
 
-Changing the status of a project, task, or issue and then immediately starting typing an [!UICONTROL update] without refreshing the page causes the update box to show the previous status. If the update is posted, the object is reverted to the previous status.
+Changing the status of a project, task, or issue and then immediately starting typing an update without refreshing the page causes the update box to show the previous status. If the update is posted, the object is reverted to the previous status.
 
 **Users added to proofs have incorrect roles**
 
 *Proofs*
 
-When a user adds another user to a proof, that user's role on the proof is set as "Read-only" despite the user's actual proof role.
+When a user adds another user to a proof, that user's role on the proof is set as "[!UICONTROL Read-only]" despite the user's actual proof role.
 
 Workaround:
 Set the user's proof role in their profile to something else, then reset to the correct role.
@@ -1520,7 +1489,7 @@ Set the user's proof role in their profile to something else, then reset to the 
 
 When a user attempts to convert an issue to a project using a template, one or more of the custom forms attached to the template may not load. When the user configures the template for the new project, instead of the custom forms they see the following message:
 
-"Something went wrong, could not load form."
+"[!UICONTROL Something went wrong, could not load form]."
 
 **User unable to add issue inline with custom drop-down field displaying in the view**
 
@@ -1528,7 +1497,7 @@ When a user attempts to convert an issue to a project using a template, one or m
 
 When a user is adding an issue from inline and there is a custom view with custom drop-down fields applied to the list, there is an error when they fill out the drop-down field only. The user has access to edit custom form and is the project owner with manage rights to the project.
 
-Error: Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it!
+[!UICONTROL Error: Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it!]
 
 **Permissions to add tasks to a project are not required to move or copy a task to the project**
 
@@ -1554,7 +1523,7 @@ When a user changes the status of a work item in the header, the status does not
 
 +++**Maintenance Update on March 3, 2022**
 
-**Cannot add document from Google Drive**
+**Cannot add document from [!DNL Google Drive]**
 
 *Documents*
 
@@ -1564,13 +1533,13 @@ When a user attempts to add a document from [!DNL Google Drive], the selection i
 
 *Updates*
 
-When a user is tagged in an update, they are not shown in the "to" area of the update or its replies.
+When a user is tagged in an update, they are not shown in the "[!UICONTROL To]" area of the update or its replies.
 
 **Proof user has two separate proofing accounts**
 
-*Proof*
+*[!DNL Workfront Proof]*
 
-A user's email address in [!DNL Workfront] Proof may be in two separate accounts with separate IDs, giving the user two accounts. This may make it difficult to locate the correct account.
+A user's email address in [!DNL Workfront Proof] may be in two separate accounts with separate IDs, giving the user two accounts. This may make it difficult to locate the correct account.
 
 **Whoops error displaying in report headers**
 
@@ -1578,7 +1547,7 @@ A user's email address in [!DNL Workfront] Proof may be in two separate accounts
 
 When a user views a report, the following error displays in the report header:
 
-"Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it."
+"[!UICONTROL Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"
 
 If the user is viewing a dashboard, the error may appear in the header for all the reports on the dashboard.
 
@@ -1590,11 +1559,11 @@ When a non-admin user attempts to convert an issue to a project using a template
 
 When an admin converts the issue, the data is carried to the new project as expected.
 
-**XLS and XLSX file size limit temporarily decreased to 100 MB for proofs**
+**[!DNL XLS] and [!DNL XLSX] file size limit temporarily decreased to 100 MB for proofs**
 
 *Proofing*
 
-In order to address a security issue, we've temporarily limited the maximum file size for XLS and XLSX files to 100 MB when creating a proof.
+In order to address a security issue, we've temporarily limited the maximum file size for [!DNL XLS] and [!DNL XLSX] files to 100 MB when creating a proof.
 
 NOTE: This update was in the Preview environment on February 24, and will be in the Production environment on March 3.
 
@@ -1610,7 +1579,7 @@ The phased rollout will continue for 2 weeks.
 
 Reports
 
-Reports within dashboards now show a new toolbar. This toolbar is part of the updates to lists and reports that are happening throughout Workfront.
+Reports within dashboards now show a new toolbar. This toolbar is part of the updates to lists and reports that are happening throughout [!DNL Workfront].
 
 +++
 
@@ -1637,7 +1606,7 @@ An error occurred while exporting your [!DNL Resource Planner] data.
 
 *Requests*
 
-When a user attempts to copy a request, the [!UICONTROL copy request] button does not work if the user does not have View access to the queue topic.
+When a user attempts to copy a request, the [!UICONTROL Copy Request] button does not work if the user does not have View access to the queue topic.
 
 +++
 
@@ -1649,13 +1618,13 @@ When a user attempts to copy a request, the [!UICONTROL copy request] button doe
 
 When a user is filling out a custom form as part of converting an issue to a project, filling out one custom field may cause data in another custom field to disappear. If the user enters the missing data again, when they try to create the project, they see the following error message:
 
-"You must be a system admin to change this custom data parameter value"
+"[!UICONTROL You must be a system admin to change this custom data parameter value]"
 
-**"This approval process can be used by..." field missing**
+**"[!UICONTROL This approval process can be used by...]" field missing**
 
 *Approvals*
 
-When a user is creating or editing an approval process in the [!UICONTROL Setup] area, the "This approval process can be used by..." field is missing. This can occur when creating an approval process or when editing an existing one.
+When a user is creating or editing an approval process in the [!UICONTROL Setup] area, the "[!UICONTROL This approval process can be used by...]" field is missing. This can occur when creating an approval process or when editing an existing one.
 
 **System admin cannot reassign users when deleting a group**
 
@@ -1669,7 +1638,7 @@ When a system administrator deletes a group, they will only have the option to r
 
 When a user attempts to convert an issue to a project using a template, and adds or removes custom forms from the template, the issue does not convert and the user sees the following message:
 
-Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.
+[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]
 
 **Cannot open proof; page refreshes**
 
@@ -1677,11 +1646,11 @@ Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure o
 
 When a user attempts to open a proof, the proof is unable to open. Eventually, the page refreshes.
 
-**XLS and XLSX file size limit temporarily decreased to 100 MB for proofs**
+**[!DNL XLS] and [!DNL XLSX] file size limit temporarily decreased to 100 MB for proofs**
 
 *Proofing*
 
-In order to address a security issue, we've temporarily limited the maximum file size for XLS and XLSX files to 100 MB when creating a proof.
+In order to address a security issue, we've temporarily limited the maximum file size for [!DNL XLS] and [!DNL XLSX] files to 100 MB when creating a proof.
 
 NOTE: This update will be in the Preview environment on February 24, and in the Production environment on March 3.
 
@@ -1703,13 +1672,13 @@ The phased rollout will continue for 2 weeks.
 
 +++
 
-+++**Workfront Fusion Maintenance Update on February 18, 2022**
++++**[!DNL Workfront Fusion] Maintenance Update on February 18, 2022**
 
-**Field value type validation added to Anaplan list items properties**
+**Field value type validation added to [!DNL Anaplan] list items properties**
 
-*Adobe Workfront Fusion*
+*[!DNL Adobe Workfront Fusion]*
 
-An issue has been fixed that allowed users to put the incorrect data type into fields for List Item properties. Validation of the property type allows Fusion to ensure that the correct data type is sent to Anaplan, eliminating errors caused by incorrect data types.
+An issue has been fixed that allowed users to put the incorrect data type into fields for List Item properties. Validation of the property type allows [!DNL Fusion] to ensure that the correct data type is sent to Anaplan, eliminating errors caused by incorrect data types.
 
 +++
 
@@ -1721,7 +1690,7 @@ An issue has been fixed that allowed users to put the incorrect data type into f
 
 When a user attempts to delete a predecessor from the [!UICONTROL Predecessors] tab on a task, the task does not delete, and the user sees the following error:
 
-Task with primary key value(s) "" not found
+[!UICONTROL Task with primary key value(s) "" not found]
 
 **Whoops error when opening users page**
 
@@ -1729,21 +1698,21 @@ Task with primary key value(s) "" not found
 
 When a user attempts to open the [!UICONTROL Users] page, the page does not open and the user sees the following error:
 
-Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.
+[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]
 
 **Overlapping elements in the header of a report on a dashboard**
 
 *Dashboards*
 
-When a user views a report on a dashboard, they see that the groupings icon and label overlaps the links to Details and Summary.
+When a user views a report on a dashboard, they see that the groupings icon and label overlaps the links to [!UICONTROL Details] and [!UICONTROL Summary].
 
-**Issues with "More" menu for documents and proofs**
+**Issues with "[!UICONTROL More]" menu for documents and proofs**
 
 *Documents*
 
-When a user selects a document or proof on a [!DNL Workfront Classic] document list, then clicks "More," they may see one of the following issues:
+When a user selects a document or proof on a [!DNL Workfront Classic] document list, then clicks "[!UICONTROL More]," they may see one of the following issues:
 The button is unresponsive
-All options under the button are labeled "object Object" and cannot be used.
+All options under the button are labeled "[!UICONTROL object Object]" and cannot be used.
 
 **"You must be a system admin" error when creating a project**
 
@@ -1763,19 +1732,19 @@ When a user converts an issue to a project using a template that has a custom fo
 
 +++**Maintenance Update on February 10, 2022**
 
-**"You must be a system admin" error when creating a project**
+**"[!UICONTROL You must be a system admin]" error when creating a project**
 
 *Projects*
 
 When a user who is not an administrator attempts to create a project, and attaches a custom form that has a section available only to administrators, they cannot create the project and they see the following error:
 
-"You must be a system admin to change this custom data parameter value"
+"[!UICONTROL You must be a system admin to change this custom data parameter value]"
 
 **Users who have been deactivated and reactivated do not appear in [!UICONTROL Proof contacts]**
 
-*Proof*
+*[!DNL Workfront Proof]*
 
-When a user views their contacts list in Proof, users who have been deactivated and reactivated do not appear in the list.
+When a user views their contacts list in [!DNL Workfront Proof], users who have been deactivated and reactivated do not appear in the list.
 
 **"Something went wrong" message when converting an issue to a project using a template**
 
@@ -1783,7 +1752,7 @@ When a user views their contacts list in Proof, users who have been deactivated 
 
 When a user who is not an admin attempts to convert an issue to a project using a template, custom form fields that are visible only to admins show the following message:
 
-"Something went wrong, could not load form"
+"[!UICONTROL Something went wrong, could not load form]"
 
 **"Cannot load page content" error when viewing project preferences**
 
@@ -1791,20 +1760,19 @@ When a user who is not an admin attempts to convert an issue to a project using 
 
 When an admin user attempts to view projects, tasks, or issues under [!UICONTROL Project Preferences] in the [!UICONTROL Setup] area, the page does not load and the user sees the following error:
 
-"Cannot load page content. Please try refreshing the page."
+"[!UICONTROL Cannot load page content. Please try refreshing the page.]"
 
 +++
 
 +++**Maintenance Update on February 3, 2022**
 
-**BizContext error when logging in**
+**[!UICONTROL BizContext] error when logging in**
 
 *Login*
 
 When a user is attempting to log in to [!DNL Workfront], the login is unsuccessful, and the following message displays:
 
-"Let's try that again.
-Database error: BizContext commit failed!"
+"[!UICONTROL Let's try that again. Database error: BizContext commit failed!]"
 
 This has been reported in the Preview environment.
 
@@ -1820,8 +1788,8 @@ When a user clicks into the [!UICONTROL New update] box in the update stream of 
 
 When a user attempts to upload a new version of a document, the new version does not upload and the user sees one of the following errors:
 
-* documentID cannot be null
-* Error: Invalid Parameter: documentID value "undefined"
+* [!UICONTROL documentID cannot be null]
+* [!UICONTROL Error: Invalid Parameter: documentID value "undefined"]
 
 **Public link for document leads to blank page**
 
@@ -1831,17 +1799,17 @@ When a user attempts to open a document using a public link, the link leads to a
 
 **List controls do not work on reports in dashboards**
 
-Das*hboards
+*Dashboards*
 
 When a user is viewing a report in a dashboard and attempts to change the filter, grouping, or view of the report, the filter, grouping, or view does not change.
 
-**"You must be a system admin" error when creating a project**
+**"[!UICONTROL You must be a system admin]" error when creating a project**
 
 *Projects*
 
 When a user who is not an administrator attempts to create a project, and attaches a custom form that has a section available only to administrators, they cannot create the project and they see the following error:
 
-"You must be a system admin to change this custom data parameter value"
+"[!UICONTROL You must be a system admin to change this custom data parameter value]"
 
 **Custom data not preserved when converting issue to project**
 
@@ -1855,7 +1823,7 @@ When a user converts an issue to a project using a template, data from a custom 
 
 When a user attempts to convert an issue to a project, the issue does not convert and they see the following error:
 
-"An unexpected error occurred"
+"[!UICONTROL An unexpected error occurred]"
 
 +++
 
@@ -1880,7 +1848,7 @@ When a user views the user list on an agile board, the users are not displayed i
 
 *Issues*
 
-In the Preview environment, the links for copying and moving issues have been updated to "Copy to" and "Move to" both on the issue page as well as in an issue list.
+In the Preview environment, the links for copying and moving issues have been updated to "[!UICONTROL Copy to]" and "[!UICONTROL Move to]" both on the issue page as well as in an issue list.
 
 **Add up to 45 IP addresses to your [!DNL Workfront] allowlist**
 
@@ -1892,13 +1860,13 @@ The limit for IP addresses added to your [!DNL Workfront] allowlist has increase
 
 +++**Maintenance Update on January 20, 2022**
 
-**"Invalid Parameter" error when creating project from template**
+**"[!UICONTROL Invalid Parameter]" error when creating project from template**
 
 *Projects*
 
-When a user attempts to create a project from a template, and removes a custom form from the template when creating the project, the project is not created and the user sees an "Invalid Parameter" error message that mentions a required field on the removed custom form.
+When a user attempts to create a project from a template, and removes a custom form from the template when creating the project, the project is not created and the user sees an "[!UICONTROL Invalid Parameter]" error message that mentions a required field on the removed custom form.
 
-**User list does not load in Safari browser**
+**User list does not load in [!DNL Safari] browser**
 
 *Users*
 
@@ -1912,13 +1880,13 @@ When a user attempts to move a task in a list by dragging it, the blue line that
 
 +++
 
-+++**Workfront Fusion Maintenance Update on January 14, 2022**
++++**[!DNL Workfront Fusion] Maintenance Update on January 14, 2022**
 
 **Some mapped fields reset when selecting [!UICONTROL new field to map]**
 
-*Workfront Fusion*
+*[!DNL Workfront Fusion]*
 
-When at least one field in the [!DNL Workfront] Create or Update modules has map enabled and a user selects a new field to map, the previously mapped fields that are map enabled lose mapping values.
+When at least one field in the [!DNL Workfront] [!UICONTROL Create] or [!UICONTROL Update] modules has map enabled and a user selects a new field to map, the previously mapped fields that are map enabled lose mapping values.
 
 +++
 
@@ -1934,7 +1902,7 @@ When a user is making a comment in the summary panel of a task and attempts to a
 
 *Teams*
 
-When a user attempts to edit a team, the [!DNL edit team] page does not close. The user cannot close the page by clicking either button, clicking the X, or navigating away from the page.
+When a user attempts to edit a team, the [!DNL Edit team] page does not close. The user cannot close the page by clicking either button, clicking the X, or navigating away from the page.
 
 **Email and in-app notifications are not being sent**
 
@@ -1942,27 +1910,27 @@ When a user attempts to edit a team, the [!DNL edit team] page does not close. T
 
 When an event that should trigger a notification occurs, the notification is not sent. This may occur for email or in-app notifications, and may occur even though other notifications are being sent.
 
-**My Work list appears empty**
+**[!UICONTROL My Work] list appears empty**
 
-*My Work*
+*[!UICONTROL My Work]*
 
-When a user views their [!UICONTROL My Work list], and the layout template for their [!UICONTROL My Work list] includes a numerical value such as [!UICONTROL Percent Complete], the [!UICONTROL My Work list] does not display.
+When a user views their [!UICONTROL My Work] list, and the layout template for their [!UICONTROL My Work] list includes a numerical value such as [!UICONTROL Percent Complete], the [!UICONTROL My Work] list does not display.
 
-**Percent Complete and Hours Complete cannot be modified on Agile Board**
+**[!UICONTROL Percent Complete] and [!UICONTROL Hours Complete] cannot be modified on Agile Board**
 
 *Agile*
 
-When a user selects "Show more work items" on the Agile Board, then attempts to change the Percent Complete or Hours Complete on one of the newly loaded work items, they cannot change the Percent Complete or Hours Complete. The Percent Complete button is also gray, indicating that it is inactive.
+When a user selects "[!UICONTROL Show more work items]" on the Agile Board, then attempts to change the [!UICONTROL Percent Complete] or [!UICONTROL Hours Complete] on one of the newly loaded work items, they cannot change the Percent Complete or Hours Complete. The [!UICONTROL Percent Complete] button is also gray, indicating that it is inactive.
 
 +++
 
 +++**Maintenance Update on January 6, 2022**
 
-**"Invalid Parameter" error when attaching templates or custom forms to projects**
+**"[!UICONTROL Invalid Parameter]" error when attaching templates or custom forms to projects**
 
 *Projects*
 
-When a user attempts to attach a custom form or a template to an existing project, then fills out the required fields on the custom form or template and saves the changes to the project, the changes do not save and the user sees an "Invalid Parameter" error at the top of the project details page.
+When a user attempts to attach a custom form or a template to an existing project, then fills out the required fields on the custom form or template and saves the changes to the project, the changes do not save and the user sees an "[!UICONTROL Invalid Parameter]" error at the top of the project details page.
 
 **Proof comments do not display in Document updates**
 
@@ -1970,11 +1938,11 @@ When a user attempts to attach a custom form or a template to an existing projec
 
 When a user views a proof in the [!UICONTROL Documents] area, any comments made on the proof itself do not display in the [!UICONTROL updates] area of the document.
 
-**Workload Balancer: "?[object Object]?" displays in overallocation information**
+**[!UICONTROL Workload Balancer]: "[!UICONTROL ?[object Object]?]" displays in overallocation information**
 
-*[!DNL Workload Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-If a user shows as overallocated in the [!DNL Workload Balancer] due to a task overlapping the user's time off, and another user views their overallocation, the "Capacity" area of the overallocation information displays "?[object Object]?" instead of the actual capacity of the user.
+If a user shows as overallocated in the [!UICONTROL Workload Balancer] due to a task overlapping the user's time off, and another user views their overallocation, the "[!UICONTROL Capacity]" area of the overallocation information displays "[!UICONTROL ?[object Object]?]" instead of the actual capacity of the user.
 
 +++
 

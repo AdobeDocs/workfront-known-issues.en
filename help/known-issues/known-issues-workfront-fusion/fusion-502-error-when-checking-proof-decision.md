@@ -4,7 +4,7 @@ description: When a scenario is run that includes a module that checks for proof
 hidefromtoc: yes
 exl-id: 9b307c39-06a3-40a9-801e-8371760d99ba
 ---
-# Workfront Fusion: 502 error when scenario includes a module that checks proof decisions in Workfront
+# [!DNL Workfront Fusion]: 502 error when scenario includes a module that checks proof decisions in [!DNL Workfront]
 
 >[!NOTE]
 >

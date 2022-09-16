@@ -4,7 +4,7 @@ description: "Multiple issues have been reported when creating and editing repor
 hidefromtoc: yes
 ---
 
-# Reports: Issues when creating and editing reports in [!UICONTROL Report builder]
+# Reports: Issues when creating and editing reports in Report builder
 
 The following issues have been reported when creating and editing reports in the Report builder:
 

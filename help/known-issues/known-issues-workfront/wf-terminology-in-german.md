@@ -10,6 +10,6 @@ hidefromtoc: yes
 >
 >This issue was fixed on August 25, 2022.
 
-When users have German as their browser language and customize "Task" to "Job" in their Layout Template Terminology area, the "Task Details" tab changes to "Jobndetails" instead of "Jobdetails".
+When users have German as their browser language and customize "[!UICONTROL Task]" to "Job" in their [!UICONTROL Layout Template Terminology] area, the "[!UICONTROL Task Details]" tab changes to "Jobndetails" instead of "Jobdetails".
 
 _First reported on June 1, 2022._

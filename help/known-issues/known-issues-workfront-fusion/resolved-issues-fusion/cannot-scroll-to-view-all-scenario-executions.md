@@ -4,7 +4,7 @@ description: When a user is viewing a scenario's execution history and attempts 
 exl-id: d112a07d-8011-4fb9-8377-da3f469236f6
 hidefromtoc: yes
 ---
-# Workfront Fusion: Cannot scroll to view all scenario executions
+# [!UICONTROL Workfront Fusion]: Cannot scroll to view all scenario executions
 
 >[!NOTE]
 >

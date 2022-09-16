@@ -4,11 +4,11 @@ description: When a user attempts to edit a timesheet in a way that would trigge
 hidefromtoc: yes
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
 ---
-# Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet
+# Timesheets: "[!UICONTROL Your recent changes were not saved]" error when autosaving changes on a timesheet
 
 When a user attempts to edit a timesheet in a way that would trigger an autosave the changes are not saved and the user sees the following message:
 
-"Your recent changes were not saved. Refresh the page to view."
+"Y[!UICONTROL our recent changes were not saved. Refresh the page to view.]"
 
 This has been reported when editing the following:
 

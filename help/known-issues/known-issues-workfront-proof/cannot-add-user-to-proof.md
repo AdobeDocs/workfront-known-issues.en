@@ -4,7 +4,7 @@ description: When a user tags another user who is not currently on the proof in 
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: yes
 ---
-# Proof: Cannot add user to proof by tagging the user in a comment
+# [!DNL Workfront Proof]: Cannot add user to proof by tagging the user in a comment
 
 >[!NOTE]
 >
