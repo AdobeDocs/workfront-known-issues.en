@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+      + [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Proofs: User does not return to previous page when closing proof](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
       + [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Timesheets: Hours do not save when using [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)
