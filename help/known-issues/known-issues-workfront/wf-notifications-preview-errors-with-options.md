@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 >[!NOTE]
 >
->This issue exists only in the Preview environment.
+>This issue exists both in the Production and the Preview environments.
 
 When a user attempts to change email notification settings, they may see one of the following errors:
 
