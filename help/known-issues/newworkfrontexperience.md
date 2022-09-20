@@ -31,6 +31,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 
 | **Issue** | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [pdates: Cannot close user card in update stream](known-issues-workfront/wf-updates-cant-close-user-card.md) | September 20, 2022 |
 | [Custom forms: Elements overlapping in left panel](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | September 16, 2022 |
 | [Timesheets: Hours do not save when using [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | September 16, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
