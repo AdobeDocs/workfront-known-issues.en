@@ -25,6 +25,16 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2022
 
++++**Maintenance Update on September 22, 2022**
+
+**Cannot close user card in update stream**
+
+*Updates*
+
+When a user is viewing updates and hovers over a name, a card with details about the user whose name it is opens and does not close automatically. The page is unresponsive until the card is manually closed by clicking the X in the upper-right corner.
+
++++
+
 +++**Maintenance Update on September 15, 2022**
 
 **"[!UICONTROL Someone else tried to save this project]" error when entering hours**
