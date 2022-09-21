@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # [!DNL Workfront Proof]: Users do not receive notifications when tagged in a proof
 
+>[!NOTE]
+>
+>This issue was fixed on August 16, 2022.
+
 When a user is tagged in a proof comment, they do not receive an email notification about the comment.
 
 **First reported on April 28, 2022.**

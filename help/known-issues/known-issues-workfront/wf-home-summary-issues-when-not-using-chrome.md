@@ -4,7 +4,7 @@ description: When a user is viewing their Home page, and is using a browser othe
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: yes
 ---
-# [!UICONTROL Home]: Home summary issues when using browsers other than [!DNL Chrome]
+# [!UICONTROL Home]: [!UICONTROL Home] summary issues when using browsers other than [!DNL Chrome]
 
 >[!NOTE]
 >
