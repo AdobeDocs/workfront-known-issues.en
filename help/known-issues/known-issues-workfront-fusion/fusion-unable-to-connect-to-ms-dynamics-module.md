@@ -6,6 +6,10 @@ exl-id: 8fb72e2b-5be5-42eb-a098-98a3e74efa65
 ---
 # Workfront Fusion: Unable to connect to [!DNL MS Dynamics] module in Fusion
 
+>[!NOTE]
+>
+> This issue was fixed on August 12, 2022.
+
 The [!DNL MS Dynamics] module within [!DNL Fusion] cannot connect, encountering a "failed to verify connection" error for both new and existing connections.
 
 _First reported on August 10, 2022._
