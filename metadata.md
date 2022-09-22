@@ -4,7 +4,7 @@ solution: Workfront
 product: experience cloud
 type: Troubleshooting
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/template.en
+git-repo: https://github.com/AdobeDocs/workfront-known-issues.en
 index: no
 ---
 
