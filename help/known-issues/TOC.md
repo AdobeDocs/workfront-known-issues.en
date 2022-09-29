@@ -106,6 +106,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
    + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
    + Current Issues in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Blank pages when viewing a proof with multiple pages](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Proofs: Error when adding proof to [!DNL Workfront] from [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Error when uploading a file to a comment](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: Folder views not displaying proofs](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -124,7 +125,6 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
       + [New stage created because deadline cannot match deadline of existing stage](known-issues-workfront-proof/new-stage-created.md)
       + [Inaccurate proof approval deadline displayed in Home Work List](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [Cannot add user to proof by tagging the user in a comment](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [Cannot create a new version of a proof](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL Reply in Proof] button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [Automatic access to proofs are delayed](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL Proof Approval] report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -146,7 +146,6 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
       + [[!DNL Workfront Fusion] in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Resolved Issues in [!DNL Workfront Fusion] {#fusion-resolved}
       + [401 error on [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [Cannot scroll to view all scenario executions](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [Data from custom forms not available in [!DNL Workfront Fusion] [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
