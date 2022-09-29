@@ -16,6 +16,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 
 | **Issue** | **Last Modified** |
 |---|---|
+| [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | September 29, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | September 19, 2022 |
 | [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | September 15, 2022 |
 | [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | September 9, 2022 |
@@ -30,6 +31,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 
 | **Issue** | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Timesheets: Errors when adding comments to a timesheet](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | September 29, 2022 |
 | [Custom forms: Elements overlapping in left panel](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | September 16, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |

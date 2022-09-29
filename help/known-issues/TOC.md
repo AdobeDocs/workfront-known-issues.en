@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+      + [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
+      + [Timesheets: Errors when adding comments to a timesheet](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
       + [Proofs: Cannot open proof in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Proofs: User does not return to previous page when closing proof](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
@@ -139,6 +141,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Known Issues in Workfront Fusion](workfrontfusion.md)
    + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: "Failed to verify connection" error](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Module does not load when creating or editing a scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]: Unable to connect to MS Dynamics module in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
