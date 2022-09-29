@@ -17,7 +17,6 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 | **Issue** | **Last Modified** |
 |---|---|
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | September 19, 2022 |
-| [Proofs: User does not return to previous page when closing proof](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | September 19, 2022 |
 | [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | September 15, 2022 |
 | [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | September 9, 2022 |
 | [Reports: Issues when creating and editing reports in [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | September 6, 2022 |
@@ -31,9 +30,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 
 | **Issue** | **Last Modified** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Proofs: Cannot open proof in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | September 20, 2022 |
 | [Custom forms: Elements overlapping in left panel](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | September 16, 2022 |
-| [Timesheets: Hours do not save when using [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | September 16, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
 | [[!DNL Workfront Proof]: Daily Summary emails do not include a "[!UICONTROL View Details]" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 |

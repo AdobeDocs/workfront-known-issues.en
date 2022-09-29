@@ -24,9 +24,6 @@ This page contains issues currently identified in [!DNL Adobe Workfront Proof].
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: Blank pages when viewing a proof with multiple pages](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md) | September 22, 2022 |
-| [Proofs: Cannot open proof in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | September 20, 2022 |
-| [Proofs: User does not return to previous page when closing proof](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | September 15, 2022 |
 | [[!DNL Workfront Proof]: Email notifications are delayed](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | September 15, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [[!DNL Workfront Proof]: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | August 12, 2022 |

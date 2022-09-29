@@ -25,6 +25,36 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2022
 
++++**Maintenance Update on September 29, 2022**
+
+**User does not return to previous page when closing proof**
+
+*Proofs*
+
+When a user who is viewing a proof within [!DNL Workfront] closes the proof, they do not return the page they were on before they opened the proof. Instead, they are redirected to another page in [!DNL Workfront]. 
+
+**Cannot open proof in [!DNL Workfront]**
+
+*Proofs*
+
+When a user is viewing a document in [!DNL Workfront] and attempts to open the proof, the proof does not open and the user is returned to the [!UICONTROL Document Details] page.
+
+**Hours do not save when using [!UICONTROL Tab] key**
+
+*Timesheets*
+
+When a user is filling out a time sheet and navigating between cells with the [!UICONTROL Tab] key, the hours are not saved. The [!UICONTROL Auto-save] notification does not appear at the bottom of the screen, and if the user refreshes the page, they can see the the hours were not saved.
+
+**Blank pages when viewing a proof with multiple pages**
+
+*[!DNL Workfront Proof]*
+
+When a user views a proof with multiple pages, the user can see thumbnails of the pages, but the pages do not open in the main viewer.
+
+
+
++++
+
 +++**Maintenance Update on September 22, 2022**
 
 **Cannot close user card in update stream**
@@ -66,6 +96,8 @@ To reflect the new functionality of being able to assign both tasks and issues i
 *[!DNL Workfront Scenario Planner]*
 
 Now, when you share a project filter with a group that has additional subgroups, the filter is visible to all group and subgroup members that view projects in the [!UICONTROL Import Projects] box of a plan in the [!DNL Scenario Planner].
+
++++
 
 +++**Maintenance Update on September 8, 2022**
 
