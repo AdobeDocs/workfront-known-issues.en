@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Timesheets: Errors when adding comments to a timesheet
 
+>[!NOTE]
+>
+>This issue was fixed on September 29, 2022.
+
 When a user attempts to add a comment to a timesheet while adding hours, the hours are saved, but the comment is not. The user also sees the following error messages:
 
 * [!UICONTROL You do not have permissions to log hours for other users].

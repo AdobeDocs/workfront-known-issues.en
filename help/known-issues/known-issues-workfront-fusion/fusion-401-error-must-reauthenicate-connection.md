@@ -6,7 +6,7 @@ hidefromtoc: yes
 
 # [!DNL Workfront Fusion]: "Failed to verify connection" error
 
-Workfront Fusion connections to a Workfront account may fail authentication, causing scenarios to throw the following error: 
+[!UICONTROL Workfront Fusion] connections to a [!DNL Workfront] account may fail authentication, causing scenarios to throw the following error: 
 
 Failed to verify connection.
 
