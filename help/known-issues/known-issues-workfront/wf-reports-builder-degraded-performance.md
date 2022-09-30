@@ -6,6 +6,11 @@ hidefromtoc: yes
 
 # Reports: Issues when creating and editing reports in Report builder
 
+>[!NOTE]
+>
+>This issue has been resolved.
+
+
 The following issues have been reported when creating and editing reports in the Report builder:
 
 * The report builder does not load.
