@@ -23,6 +23,18 @@ The following maintenance updates have been made in 2022.
 
 For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in October 2022
+
++++**Maintenance Update on October 3, 2022**
+
+**Manually save your timesheet when previous job roles have changed**
+
+*Timesheets*
+
+If a job role for which you logged time has changed and the [!UICONTROL Assign job roles to hour entries manually] setting has been disabled, you must manually save your time entries until hours are no longer logged for the job role that has changed.
+
++++
+
 ## Updates in September 2022
 
 +++**Maintenance Update on September 29, 2022**
