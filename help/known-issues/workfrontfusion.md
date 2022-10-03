@@ -16,7 +16,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront Fusion].
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
-| None |   |
+* | [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module returning 404 or 422 errors](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | October 3, 2022  |
 
 ## Current Issues
 
