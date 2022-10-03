@@ -22,6 +22,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront Fusion].
 
 | **Issue** | **Last Modified** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [[!DNL Workfront Fusion]: "[!UICONTROL Failed to load data]" error](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | October 3, 2022  |
 | [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] module not producing text](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | September 30, 2022  |
 | [[!DNL Workfront Fusion]: "Failed to verify connection" error](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | September 29, 2022  |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | September 9, 2022 |
