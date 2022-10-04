@@ -39,7 +39,7 @@ When a user is working in the form builder, and the form has more than 100 field
 
 Now, when navigating by keyboard, date pickers are no longer automatically opened and activated upon receiving keyboard focus.
 
-# "[!UICONTROL Your recent changes were not saved]" error when autosaving changes on a timesheet
+"[!UICONTROL Your recent changes were not saved]" error when autosaving changes on a timesheet
 
 *Timesheets*
 
