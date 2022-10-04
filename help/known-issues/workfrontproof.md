@@ -16,7 +16,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront Proof].
 
 | Issue | Last Modified |
 |---|---|
-| None |  |
+| [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
 
 {style="table-layout:auto"}
 
