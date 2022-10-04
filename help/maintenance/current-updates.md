@@ -25,6 +25,41 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2022
 
++++**(Planned) Maintenance Update on October 6, 2022**
+
+**Elements overlapping in left panel**
+
+*Custom forms*
+
+When a user is working in the form builder, and the form has more than 100 fields, the message notifying the user about the field limit causes elements in the left panel to overlap.
+
+**Date picker automatically opens on focus**
+
+*Navigation*
+
+Now, when navigating by keyboard, date pickers are no longer automatically opened and activated upon receiving keyboard focus.
+
+"[!UICONTROL Your recent changes were not saved]" error when autosaving changes on a timesheet
+
+*Timesheets*
+
+When a user attempts to edit a timesheet in a way that would trigger an autosave the changes are not saved and the user sees the following message:
+
+"[!UICONTROL Your recent changes were not saved. Refresh the page to view.]"
+
+This has been reported when editing the following:
+
+* Hours
+* Tasks
+
+Email notifications are delayed
+
+*Workfront Proof*
+
+When an event occurs in [!DNL Workfront Proof] that triggers an email notification, the user does not receive the notification immediately. The notification may be delayed by several hours.
+
++++
+
 +++**Maintenance Update on October 3, 2022**
 
 **Manually save your timesheet when previous job roles have changed**
