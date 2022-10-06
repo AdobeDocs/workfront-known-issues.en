@@ -12,37 +12,46 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
-## New or Under Investigation
+## New
+
+These recently reported issues are currently under review
 
 | **Issue** | **Last Modified** |
-|---|---|
+| -----------------------------------------------------------------| ----------------- |
 | [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
 | [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | September 29, 2022 |
 | [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | September 15, 2022 |
-| [Tasks and Issues: Inadvertent exit when creating tasks or issues](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | September 9, 2022 |
-| [Reports: Issues when creating and editing reports in [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | September 6, 2022 |
 | [Dashboards: Cannot access dashboard from left navigation on an object](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | August 24 2022 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
-| [Agile: Issues when moving cards on the [!UICONTROL Agile] board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 
 {style="table-layout:auto"}
 
-## Current Issues
+
+## In Progress
+
+Fixes for these issues are currently in progress, or are scheduled for the near future.
 
 | **Issue** | **Last Modified** |
-| -------------------------------------------------------------------------------------------------- | ----------------- |
+| -----------------------------------------------------------------| ----------------- |
 | [Proofs: Cannot autocompare proofs](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | October 6, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | September 30, 2022 |
-| [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
-| [[!DNL Workfront Proof]: Daily Summary emails do not include a "[!UICONTROL View Details]" button](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | August 5, 2022 |
+| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
+
+{style="table-layout:auto"}
+
+## No Fix
+
+Fixes for these issues are not currently on the roadmap. In some cases, these issues will be fixed by new features or feature updates.
+
+| **Issue** | **Last Modified** |
+| -----------------------------------------------------------------| ----------------- |
+| [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 |
 | [[!UICONTROL Home]: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |
 | [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | May 11, 2022 |
 | [Layout Templates: Cannot select group when creating a Layout Template](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | May 4, 2022 |
-| [Proofs: Inaccurate proof approval deadline displayed in Home Work List](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | April 25, 2022 |
+| [Agile: Issues when moving cards on the [!UICONTROL Agile] board](known-issues-workfront/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 | [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | April 20, 2022 |
-| [[!UICONTROL Home]: [!UICONTROL Home] summary issues when using browsers other than [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md) | February 24, 2022 |
 | [[!UICONTROL Home]: New Task option showing deactivated users in [!UICONTROL Assign To] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | October 1, 2021 |
 | [Updates: Team name not appearing in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | October 1, 2021 |
 | [Calendars: Issues with [!UICONTROL Time Off] calendar](known-issues-workfront/wf-calendars-issue-time-off.md) | June 25, 2021 |
@@ -65,8 +74,3 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 
 {style="table-layout:auto"}
 
-
-<!--
-
-
--->

@@ -12,10 +12,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront Scenario
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
-## New or Under Investigation
-
-**There are no known issues for [!DNL Workfront Scenario Planner]**
-
+**There are currently no known issues for [!DNL Workfront Library]**
 <!--
 
 

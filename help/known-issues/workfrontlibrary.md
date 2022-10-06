@@ -12,10 +12,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront Library]
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
-
-## New or Under Investigation
-
-**There are no known issues for [!DNL Workfront Library]**
+**There are currently no known issues for [!DNL Workfront Library]**
 
 <!--
 
