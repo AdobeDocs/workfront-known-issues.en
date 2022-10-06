@@ -14,7 +14,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront Fusion].
 
 ## New
 
-These recently reported issues are currently under review
+These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
