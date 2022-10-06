@@ -27,6 +27,12 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 +++**Maintenance Update on October 6, 2022**
 
+**New blueprint type**
+
+*Blueprints*
+
+The blueprint type "Dashboard" has been added to the catalog of blueprints. Previously, only Project Template and Organizational Structure blueprints were available.
+
 **Elements overlapping in left panel**
 
 *Custom forms*
