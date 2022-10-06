@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 >[!NOTE]
 >
+>This issue was fixed on October 6, 2022.
+
+>[!NOTE]
+>
 >This issue exists only in the Preview environment.
 
 When a user assigns multiple teams to a task or issue, only one team appears in the assignments list. This issue also affects reporting. Reports showing team assignments are inaccurate because only one team appears as assigned to the task or issue.

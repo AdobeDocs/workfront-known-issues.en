@@ -25,7 +25,7 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2022
 
-+++**(Planned) Maintenance Update on October 6, 2022**
++++**Maintenance Update on October 6, 2022**
 
 **Elements overlapping in left panel**
 
@@ -39,7 +39,17 @@ When a user is working in the form builder, and the form has more than 100 field
 
 Now, when navigating by keyboard, date pickers are no longer automatically opened and activated upon receiving keyboard focus.
 
-"[!UICONTROL Your recent changes were not saved]" error when autosaving changes on a timesheet
+**Assigning multiple teams results in only one team assigned**
+
+*Teams*
+
+>[!NOTE]
+>
+>This issue exists only in the Preview environment.
+
+When a user assigns multiple teams to a task or issue, only one team appears in the assignments list. This issue also affects reporting. Reports showing team assignments are inaccurate because only one team appears as assigned to the task or issue.
+
+**"[!UICONTROL Your recent changes were not saved]" error when autosaving changes on a timesheet**
 
 *Timesheets*
 
@@ -52,7 +62,7 @@ This has been reported when editing the following:
 * Hours
 * Tasks
 
-Email notifications are delayed
+**Email notifications are delayed**
 
 *Workfront Proof*
 

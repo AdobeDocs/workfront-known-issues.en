@@ -6,6 +6,10 @@ exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
 ---
 # Timesheets: "[!UICONTROL Your recent changes were not saved]" error when autosaving changes on a timesheet
 
+>[!NOTE]
+>
+>This issue was fixed on October 6, 2022.
+
 When a user attempts to edit a timesheet in a way that would trigger an autosave the changes are not saved and the user sees the following message:
 
 "Y[!UICONTROL our recent changes were not saved. Refresh the page to view.]"
