@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] module not producing text
 
+>[!NOTE]
+>
+>This issue was fixed on October 3, 2022.
+
 The [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] module does not output the text of the processsed PDF file. Instead, it outputs only empty metadata. 
 
 _First reported on September 21, 2022._

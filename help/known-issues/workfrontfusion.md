@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md) | October 6, 2022  |
-| [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module returning 404 or 422 errors](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | October 3, 2022  |
 
 {style="table-layout:auto"}
 
@@ -31,7 +30,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]: "[!UICONTROL Failed to load data]" error](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | October 3, 2022  |
-| [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] module not producing text](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | September 30, 2022  |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | August 2, 2022 |
 
 {style="table-layout:auto"}
