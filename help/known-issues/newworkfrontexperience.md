@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
 | [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | September 29, 2022 |
 | [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | September 15, 2022 |
-| [Dashboards: Cannot access dashboard from left navigation on an object](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | August 24 2022 |
 
 {style="table-layout:auto"}
 

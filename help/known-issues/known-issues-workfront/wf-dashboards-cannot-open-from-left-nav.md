@@ -6,6 +6,10 @@ exl-id: f140f758-32ff-4b5a-b690-0ece22461c50
 ---
 # Dashboards: Cannot access dashboard from left navigation on an object
 
+>[!NOTE]
+>
+>This issue was fixed on September 29, 2022.
+
 When a user clicks on a link to a dashboard in the left navigation of a [!DNL Workfront] object, the dashboard does not display.
 
 **Workaround**
