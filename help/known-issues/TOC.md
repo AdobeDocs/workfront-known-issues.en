@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+      + [Layout templates: Error when customizing lists in a layout template](known-issues-workfront/wf-layout-templates-error-lists-users.md)
+      + [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [Proofs: Cannot autocompare proofs](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [Teams: Assigning multiple teams results in only one team assigned](known-issues-workfront/wf-teams-multiple-team-assignments.md)

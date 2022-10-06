@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 6, 2022 |
 | [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
 
 {style="table-layout:auto"}
