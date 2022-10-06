@@ -6,8 +6,6 @@ hidefromtoc: yes
 
 # Integrations: Error when opening [!DNL Workfront for Jira] within [!DNL Jira]
 
-<!--Becky recheck DNL-->
-
 >[!NOTE]
 >
 >This issue was fixed on September 5, 2022.

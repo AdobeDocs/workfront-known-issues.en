@@ -12,22 +12,34 @@ This page contains issues currently identified in [!DNL Adobe Workfront Proof].
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
-## New or Under Investigation
+## New
 
-| Issue | Last Modified |
-|---|---|
+These recently reported issues are currently under review
+
+| **Issue** | **Last Modified** |
+| -----------------------------------------------------------------| ----------------- |
 | [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
 
 {style="table-layout:auto"}
 
-## Current Issues
+## In Progress
+
+Fixes for these issues are currently in progress, or are scheduled for the near future.
 
 | **Issue** | **Last Modified** |
-|-----------------------------------------------------------------------------------|-------------------|
+| -----------------------------------------------------------------| ----------------- |
 | [Proofs: Cannot autocompare proofs](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | October 6, 2022 |
-| [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [[!DNL Workfront Proof]: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | August 12, 2022 |
-| [Proofs: Inaccurate proof approval deadline displayed in [!UICONTROL Home Work List]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | April 25, 2022 |
+
+{style="table-layout:auto"}
+
+## No Fix
+
+Fixes for these issues are not currently on the roadmap. In some cases, these issues will be fixed by new features or feature updates.
+
+| **Issue** | **Last Modified** |
+| -----------------------------------------------------------------| ----------------- |
+| [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [[!DNL Workfront Proof]: Cannot add user to proof by tagging the user in a comment](known-issues-workfront-proof/cannot-add-user-to-proof.md) | March 23, 2022 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | June 21, 2021 |
 | [[!DNL Workfront Proof]: Automatic access to proofs are delayed](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | June 14, 2021 |
@@ -36,3 +48,4 @@ This page contains issues currently identified in [!DNL Adobe Workfront Proof].
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | March 5, 2021 |
 
 {style="table-layout:auto"}
+
