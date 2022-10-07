@@ -39,11 +39,13 @@ The blueprint type "Dashboard" has been added to the catalog of blueprints. Prev
 
 When a user is working in the form builder, and the form has more than 100 fields, the message notifying the user about the field limit causes elements in the left panel to overlap.
 
-**Date picker automatically opens on focus**
+**Date picker no longer automatically opens on input focus or click**
 
 *Navigation*
 
-Now, when navigating by keyboard, date pickers are no longer automatically opened and activated upon receiving keyboard focus.
+When a user navigates by keyboard, date pickers are no longer automatically opened upon the date input receiving keyboard focus. Instead, keyboard users should tab to the date picker icon and press Enter to open the date picker. When a user navigates by mouse, date pickers are no longer automatically opened upon the date input being clicked. Instead, keyboard users should click the date picker icon to open the date picker.
+
+This change was made to better conform with standard date picker UX patterns and to create a more accessible experience for keyboard and screen reader users.
 
 **Assigning multiple teams results in only one team assigned**
 
