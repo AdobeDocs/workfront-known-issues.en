@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Adding a group to a proof does not add all members of the group](known-issues-workfront/wf-proofs-group-members-not-added.md) | October 10, 2022 |
 | [Layout templates: Error when customizing lists in a layout template](known-issues-workfront/wf-layout-templates-error-lists-users.md) | October 6, 2022 |
 | [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 6, 2022 |
 | [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
@@ -33,6 +34,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tasks: [!UICONTROL Predecessor] icon missing from task header](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | October 10, 2022 |
+| [Tasks and issues: Cannot edit name or percent complete of a task or issue](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | October 10, 2022 |
 | [Proofs: Cannot autocompare proofs](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | October 6, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | September 30, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
