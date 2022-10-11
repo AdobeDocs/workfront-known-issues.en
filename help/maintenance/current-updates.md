@@ -25,6 +25,28 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2022
 
++++**Maintenance Update on October 11, 2022**
+
+**Cannot name or save newly created filters**
+
+*[!UICONTROL Resource Planner]*
+
+When a user attempts to name a new filter in the [!UICONTROL Resource Planner], the name box remains blank. In addition, if the user has pressed the space bar, the [!UICONTROL Save] button disables.
+
+**Cannot edit name or percent complete of a task or issue**
+
+*Tasks and issues*
+
+Users with [!UICONTROL Contribute] access to a task or issue cannot edit the name of the task or issue in the header. In addition, users with [!UICONTROL Contribute] access cannot edit the percent complete of a task or issue.
+
+**Requestors and Reviewers count toward an organization's license count**
+
+*[!DNL Workfront Proof]*
+
+When a user is added to a proof as a Reviewer or a Requestor, they gain a "[!UICONTROL Visitor]" permissions profile, which should not use a [!DNL Workfront Proof] license. However, when the user is added, the count of used [!DNL Workfront Proof] licenses goes up.
+
++++
+
 +++**Maintenance Update on October 6, 2022**
 
 **New blueprint type**

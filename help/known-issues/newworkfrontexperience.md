@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Assignments: Error when bulk assigning a team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | October 11, 2022 |
 | [Proofs: Adding a group to a proof does not add all members of the group](known-issues-workfront/wf-proofs-group-members-not-added.md) | October 10, 2022 |
 | [Layout templates: Error when customizing lists in a layout template](known-issues-workfront/wf-layout-templates-error-lists-users.md) | October 6, 2022 |
 | [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 6, 2022 |
