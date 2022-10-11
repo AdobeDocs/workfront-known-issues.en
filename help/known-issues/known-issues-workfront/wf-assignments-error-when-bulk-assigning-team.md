@@ -1,6 +1,6 @@
 ---
-title: ""
-description: ""
+title: "Assignments: Error when bulk assigning a team"
+description: "When a user is bulk editing tasks or issues and assigns a team after assigning an individual, the assignments do not save, and the user sees an error."
 hidefromtoc: yes
 ---
 
@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 When a user is bulk editing tasks or issues and assigns a team after assigning an individual, the assignments do not save, and the user sees the following error: 
 
-"Let's try that again - The following error occurred: teamAssignments must be either a list of objects or a list of IDs"
+"[!UICONTROL Let's try that again - The following error occurred: teamAssignments must be either a list of objects or a list of IDs]"
 
 **Workaround**
 
