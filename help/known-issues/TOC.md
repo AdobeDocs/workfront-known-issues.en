@@ -153,7 +153,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
    + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: "[!UICONTROL Failed to load data]" error](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module returning 404 or 422 errors](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Custom API Call] module returning 404 or 422 errors](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] module not producing text](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: "Failed to verify connection" error](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Module does not load when creating or editing a scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
