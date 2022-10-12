@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+      + [Lists: [!UICONTROL Quick filter] returns no results when searching for teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [Navigation: Cannot re-pin a page after its pin is removed](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
       + [Assignments: Error when bulk assigning a team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [Tasks: [!UICONTROL Predecessor] icon missing from task header](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)

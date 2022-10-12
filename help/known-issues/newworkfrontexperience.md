@@ -35,6 +35,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Lists: [!UICONTROL Quick filter] returns no results when searching for teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | October 12, 2022 |
 | [Navigation: Cannot re-pin a page after its pin is removed](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | October 11, 2022 |
 | [Tasks: [!UICONTROL Predecessor] icon missing from task header](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | October 10, 2022 |
 | [Tasks and issues: Cannot edit name or percent complete of a task or issue](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | October 10, 2022 |
