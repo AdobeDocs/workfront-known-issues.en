@@ -25,7 +25,7 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2022
 
-+++**(Planned) Maintenance Update on October 13, 2022**
++++**Maintenance Update on October 13, 2022**
 
 **Cannot re-pin a page after its pin is removed**
 
