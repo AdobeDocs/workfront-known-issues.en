@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!DNL Workfront Fusion]: "[!UICONTROL Failed to load data]" error
 
+>[!NOTE]
+>
+>This issue was fixed on October 7, 2022.
+
 [!DNL Workfront Fusion] connections to a [!DNL Workfront] account may fail authentication, causing scenarios to throw the following error: 
 
 [!UICONTROL Failed to load data! The request failed due to failure of a previous request.]

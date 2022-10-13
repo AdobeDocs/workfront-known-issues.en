@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This issue is on the WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue has been closed because it is not an issue.
+
 When a user is creating a proof and uses a group to add users to a stage, not all the users of that group are added to the stage.
 
 **Workaround**

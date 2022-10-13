@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This issue is on both the WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on October 10, 2022.
+
 When a user is viewing a proof and attempts to compare proofs using the [!UICONTROL Autocompare] tool, the page is blank.
 
 _First reported on October 5, 2022._
