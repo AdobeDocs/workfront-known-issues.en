@@ -32,6 +32,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Issues with tasks added to an iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | October 13, 2022 |
+| [Custom forms: "Whoops" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | October 13, 2022 |
 | [Assignments: Error when bulk assigning a team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | October 13, 2022 |
 | [Layout templates: Error when customizing lists in a layout template](known-issues-workfront/wf-layout-templates-error-lists-users.md) | October 13, 2022 |
 | [Lists: [!UICONTROL Quick filter] returns no results when searching for teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | October 12, 2022 |
