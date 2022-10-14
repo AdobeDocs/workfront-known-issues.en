@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Layout templates: Error when customizing lists in a layout template
 
+>[!NOTE]
+>
+>This issue was fixed on October 13, 2022.
+
 When a user is editing a layout template and attempts to customize Lists, and selects "[!UICONTROL User]" as the type of list to customize, the user cannot customize the list. Instead, they see the following error:
 
 "[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]"
