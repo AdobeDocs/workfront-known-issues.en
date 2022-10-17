@@ -59,7 +59,7 @@ When a user is added to a proof as a Reviewer or a Requestor, they gain a "[!UIC
 
 +++
 
-+++**Maintenance update on October 11, 2022
++++**Maintenance update on October 11, 2022**
 
 **Cannot re-pin a page after its pin is removed**
 
