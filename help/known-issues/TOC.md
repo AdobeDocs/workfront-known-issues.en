@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Programs: Issues when assigning a [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
         + [Reports: "Move to" option not available on issue reports](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
         + [Issues: Issue count in left navigation of task is incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
         + [Agile: Issues with tasks added to an iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
