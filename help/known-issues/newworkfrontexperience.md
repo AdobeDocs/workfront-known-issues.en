@@ -33,6 +33,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Programs: Issues when assigning a [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | October 17, 2022 |
 | [Reports: "Move to" option not available on issue reports](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | October 13, 2022 |
 | [Agile: Issues with tasks added to an iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | October 13, 2022 |
 | [Custom forms: "Whoops" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | October 13, 2022 |
