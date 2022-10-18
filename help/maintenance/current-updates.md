@@ -25,6 +25,39 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2022
 
++++**Maintenance Update on October 20, 2022**
+
+**Error when bulk assigning a team**
+
+*Assignments*
+
+When a user is bulk editing tasks or issues and assigns a team after assigning an individual, the assignments do not save, and the user sees the following error: 
+
+"[!UICONTROL Let's try that again - The following error occurred: teamAssignments must be either a list of objects or a list of IDs]"
+
+**[!UICONTROL Failed to upload file]" error**
+
+*Documents*
+
+When a user attempts to upload a file to the [!UICONTROL Documents] area, the file does not upload, and the user sees the error "[!UICONTROL Failed to upload file]."
+
+This has been reported when attempting to upload MP4 files.
+
+**Issue count in left navigation of task is incorrect**
+
+*Issues*
+
+When a user is viewing a task, the number displayed on the [!UICONTROL Issues] section of the left navigation does not accurately represent the actual number of issues attached to the task.
+
+
+**[!UICONTROL Predecessor] icon missing from task header**
+
+*Tasks*
+
+When a user is viewing a task, the task predecessor icon is missing from the header.
+
++++
+
 +++**Maintenance Update on October 13, 2022**
 
 **Cannot re-pin a page after its pin is removed**
