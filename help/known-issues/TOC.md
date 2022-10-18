@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md)
+        + [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
         + [Programs: Issues when assigning a [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
         + [Reports: "Move to" option not available on issue reports](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
         + [Issues: Issue count in left navigation of task is incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -125,6 +127,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
         + [[!DNL Workfront Proof]: Blank pages when viewing a proof with multiple pages](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
         + [Proofs: Error when adding proof to [!DNL Workfront] from [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
         + [[!DNL Workfront Proof]: Error when uploading a file to a comment](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
