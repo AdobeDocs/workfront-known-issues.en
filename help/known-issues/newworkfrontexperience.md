@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 | [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md) | October 18, 2022 |
 | [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 18, 2022 |
 | [Issues: Issue count in left navigation of task is incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | October 12, 2022 |
@@ -34,6 +35,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Report usage information is not updating](known-issues-workfront/wf-reports-usage-not-updating.md) | October 19, 2022 |
 | [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | October 19, 2022 |
 | [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 18, 2022 |
 | [Programs: Issues when assigning a [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | October 17, 2022 |
