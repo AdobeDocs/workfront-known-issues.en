@@ -34,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | October 19, 2022 |
 | [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 18, 2022 |
 | [Programs: Issues when assigning a [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | October 17, 2022 |
 | [Reports: "Move to" option not available on issue reports](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | October 13, 2022 |
