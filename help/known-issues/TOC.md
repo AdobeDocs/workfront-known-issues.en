@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Report usage information is not updating](known-issues-workfront/wf-reports-usage-not-updating.md)
         + [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
         + [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md)
         + [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
@@ -128,6 +129,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
         + [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
         + [[!DNL Workfront Proof]: Blank pages when viewing a proof with multiple pages](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
         + [Proofs: Error when adding proof to [!DNL Workfront] from [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
