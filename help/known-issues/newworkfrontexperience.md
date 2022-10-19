@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
+| [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 | [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md) | October 18, 2022 |
 | [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 18, 2022 |
 | [Issues: Issue count in left navigation of task is incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | October 12, 2022 |
