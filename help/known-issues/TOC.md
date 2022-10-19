@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
         + [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md)
         + [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
         + [Programs: Issues when assigning a [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
@@ -161,6 +162,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Workfront Fusion]: Error when viewing an error in a scenario execution history](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
         + [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md)
         + [[!DNL Workfront Fusion]: "[!UICONTROL Failed to load data]" error](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
         + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module returning 404 or 422 errors](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
