@@ -18,11 +18,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Tasks assigned through bulk editing do not appear on team's backlog](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | October 20, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
-| [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md) | October 18, 2022 |
-| [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 18, 2022 |
-| [Issues: Issue count in left navigation of task is incorrect](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | October 12, 2022 |
-| [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
 | [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | September 29, 2022 |
 | [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | September 15, 2022 |
 
@@ -35,6 +32,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 20, 2022 |
+| [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md) | October 20, 2022 |
 | [Reports: Report usage information is not updating](known-issues-workfront/wf-reports-usage-not-updating.md) | October 19, 2022 |
 | [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | October 19, 2022 |
 | [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 18, 2022 |
@@ -42,10 +41,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Reports: "Move to" option not available on issue reports](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | October 13, 2022 |
 | [Agile: Issues with tasks added to an iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | October 13, 2022 |
 | [Custom forms: "Whoops" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | October 13, 2022 |
-| [Assignments: Error when bulk assigning a team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | October 13, 2022 |
 | [Lists: [!UICONTROL Quick filter] returns no results when searching for teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | October 12, 2022 |
 | [Navigation: Cannot re-pin a page after its pin is removed](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | October 11, 2022 |
-| [Tasks: [!UICONTROL Predecessor] icon missing from task header](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | October 10, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | September 30, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |

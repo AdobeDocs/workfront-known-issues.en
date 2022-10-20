@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This issue is on the Workfront TOC and the Workfront Proof TOC-->
 
+>[!NOTE]
+>
+>This issue was fixed on October 20, 2022.
+
 When a user attempts to upload a file to the [!UICONTROL Documents] area, the file does not upload, and the user sees the error "[!UICONTROL Failed to upload file]."
 
 This has been reported when attempting to upload MP4 files.
