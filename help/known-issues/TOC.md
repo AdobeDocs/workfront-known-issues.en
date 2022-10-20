@@ -159,7 +159,6 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
     + Resolved Issues in [!DNL Workfront] Proof {#proof-resolved}
         + [[!DNL Workfront Proof]: Areas of [!DNL Workfront Proof] do not update when a proof is created, moved, or archived](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
         + [Proofs: Proofs show as "[!UICONTROL Generating proof]" for excessive amounts of time](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-        + [User cannot move self to another stage of a proof](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -177,7 +176,6 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
         + [[!DNL Workfront Fusion]: 502 error when scenario includes a module that checks proof decisions in Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
         + [[!DNL Workfront Fusion] in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
     + Resolved Issues in [!DNL Workfront Fusion] {#fusion-resolved}
-        + [401 error on [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
         + [Data from custom forms not available in [!DNL Workfront Fusion] [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
