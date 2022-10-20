@@ -35,7 +35,7 @@ When a user is bulk editing tasks or issues and assigns a team after assigning a
 
 "[!UICONTROL Let's try that again - The following error occurred: teamAssignments must be either a list of objects or a list of IDs]"
 
-**[!UICONTROL Failed to upload file]" error**
+**"[!UICONTROL Failed to upload file]" error**
 
 *Documents*
 
