@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: [!UICONTROL HOUR] function in calculated fields uses UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
         + [Agile: Tasks assigned through bulk editing do not appear on team's backlog](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
         + [Reports: Report usage information is not updating](known-issues-workfront/wf-reports-usage-not-updating.md)
         + [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md)

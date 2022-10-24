@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Custom forms: [!UICONTROL HOUR] function in calculated fields uses UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md) | October 24, 2022 |
 | [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 20, 2022 |
 | [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md) | October 20, 2022 |
 | [Reports: Report usage information is not updating](known-issues-workfront/wf-reports-usage-not-updating.md) | October 19, 2022 |
