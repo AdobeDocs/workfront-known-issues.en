@@ -1,0 +1,12 @@
+---
+title: "Setup: Lists load slowly in Setup"
+description: "When a user is in the Setup area and attempts to load a list, the list loads very slowly. This has been reported in various areas throughout Setup."
+hidefromtoc: yes
+---
+
+# [!UICONTROL Setup]: Lists load slowly in [!UICONTROL Setup]
+
+When a user is in the [!UICONTROL Setup] area and attempts to load a list, the list loads very slowly. This has been reported in various areas throughout [!UICONTROL Setup].
+
+_First reported on October 20, 2022._
+

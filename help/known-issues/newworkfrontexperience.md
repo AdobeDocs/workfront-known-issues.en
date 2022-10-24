@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Setup]: Lists load slowly in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | October 24, 2022 |
 | [Agile: Tasks assigned through bulk editing do not appear on team's backlog](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | October 20, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 | [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | September 29, 2022 |
