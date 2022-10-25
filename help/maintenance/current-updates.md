@@ -25,6 +25,28 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2022
 
++++**(Planned) Maintenance Update on October 27, 2022**
+
+**[!UICONTROL HOUR] function in calculated fields uses UTC**
+
+*Custom forms*
+
+When a calculated field includes the [!UICONTROL HOUR] function, the function returns values based on UTC rather than the expected time zone. Therefore, any calculations based on the HOUR value is incorrect.
+
+**[!UICONTROL Quick filter] returns no results when searching for teams**
+
+*Lists*
+
+When a user attempts to use the [!UICONTROL Quick filter] on a list to search for a team, entering the name of the team returns no results, even when the team is visible in the list (such as in the [!UICONTROL Assigned to] field). Searching for the word "[!UICONTROL team]" also returns no results.
+
+**All users listed in [!UICONTROL Workload Balancer] when using a shareable link in [!DNL Safari] browser**
+
+*[!UICONTROL Workload Balancer]*
+
+When a user follows a shareable link to the [!UICONTROL Workload Balancer] while using a [!DNL Safari] browser, they see all users rather than just the members of the team listed. 
+
++++
+
 +++**Maintenance Update on October 20, 2022**
 
 **Error when bulk assigning a team**
