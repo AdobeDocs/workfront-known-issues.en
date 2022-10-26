@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Boards]: [!UICONTROL Intake] column search is ineffective](known-issues-workfront/wf-boards-search-returns-no-results.md) | October 26, 2022 |
 | [[!UICONTROL Setup]: Lists load slowly in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | October 24, 2022 |
 | [Agile: Tasks assigned through bulk editing do not appear on team's backlog](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | October 20, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
