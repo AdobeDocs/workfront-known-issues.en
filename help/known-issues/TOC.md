@@ -10,6 +10,10 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+        + [Requests: Cannot view more than 100 Queue Topics on a page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+        + [Issues: Left navigation displays "(0)" issues when issues are present](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+        + [Requests: [!UICONTROL Email Queue Settings] not available](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
         + [[!UICONTROL Boards]: [!UICONTROL Intake] column search is ineffective](known-issues-workfront/wf-boards-search-returns-no-results.md)
         + [[!UICONTROL Setup]: Lists load slowly in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md)
         + [Custom forms: [!UICONTROL HOUR] function in calculated fields uses UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
