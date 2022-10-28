@@ -6,6 +6,10 @@ hidefromtoc: yes
 ---
 # [!DNL Workfront Proof]: Requestors and Reviewers count toward an organization's license count
 
+>[!NOTE]
+>
+>This issue was fixed on October 13, 2022.
+
 When a user is added to a proof as a Reviewer or a Requestor, they gain a "[!UICONTROL Visitor]" permissions profile, which should not use a [!DNL Workfront Proof] license. However, when the user is added, the count of used [!DNL Workfront Proof] licenses goes up.
 
 _First reported on June 23, 2022._

@@ -18,9 +18,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Adding a group to a proof does not add all members of the group](known-issues-workfront/wf-proofs-group-members-not-added.md) | October 10, 2022 |
-| [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 6, 2022 |
-| [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
+| [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
+| [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 
 {style="table-layout:auto"}
 
@@ -30,8 +29,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Cannot autocompare proofs](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | October 6, 2022 |
-| [[!DNL Workfront Proof]: Requestors and Reviewers count toward an organization's license count](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | August 12, 2022 |
+| [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 20, 2022 |
+| [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 18, 2022 |
 
 {style="table-layout:auto"}
 
@@ -41,6 +40,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | September 18, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [[!DNL Workfront Proof]: Cannot add user to proof by tagging the user in a comment](known-issues-workfront-proof/cannot-add-user-to-proof.md) | March 23, 2022 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | June 21, 2021 |

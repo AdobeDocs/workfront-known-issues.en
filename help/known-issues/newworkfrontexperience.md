@@ -18,11 +18,13 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Assignments: Error when bulk assigning a team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | October 11, 2022 |
-| [Proofs: Adding a group to a proof does not add all members of the group](known-issues-workfront/wf-proofs-group-members-not-added.md) | October 10, 2022 |
-| [Layout templates: Error when customizing lists in a layout template](known-issues-workfront/wf-layout-templates-error-lists-users.md) | October 6, 2022 |
-| [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 6, 2022 |
-| [Documents: "[!UICONTROL Failed to upload file]" error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | October 4, 2022 |
+| [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
+| [Requests: Cannot view more than 100 Queue Topics on a page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | October 27, 2022 |
+| [Issues: Left navigation displays "(0)" issues when issues are present](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | October 27, 2022 |
+| [Requests: [!UICONTROL Email Queue Settings] not available](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | October 27, 2022 |
+| [[!UICONTROL Boards]: [!UICONTROL Intake] column search is ineffective](known-issues-workfront/wf-boards-search-returns-no-results.md) | October 26, 2022 |
+| [Agile: Tasks assigned through bulk editing do not appear on team's backlog](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | October 20, 2022 |
+| [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 | [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | September 29, 2022 |
 | [Notifications: Errors when accessing email notification settings](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | September 15, 2022 |
 
@@ -35,10 +37,17 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Navigation: Cannot re-pin a page after its pin is removed](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | October 11, 2022 |
-| [Tasks: [!UICONTROL Predecessor] icon missing from task header](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | October 10, 2022 |
-| [Tasks and issues: Cannot edit name or percent complete of a task or issue](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | October 10, 2022 |
-| [Proofs: Cannot autocompare proofs](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | October 6, 2022 |
+| [Custom forms: [!UICONTROL HOUR] function in calculated fields uses UTC](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | October 28, 2022 |
+| [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | October 27, 2022 |
+| [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 20, 2022 |
+| [[!UICONTROL Boards]: [!UICONTROL Boards] page does not load](known-issues-workfront/wf-boards-boards-do-not-load.md) | October 20, 2022 |
+| [Reports: Report usage information is not updating](known-issues-workfront/wf-reports-usage-not-updating.md) | October 19, 2022 |
+| [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | October 19, 2022 |
+| [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 18, 2022 |
+| [Programs: Issues when assigning a [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | October 17, 2022 |
+| [Reports: "Move to" option not available on issue reports](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | October 13, 2022 |
+| [Agile: Issues with tasks added to an iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | October 13, 2022 |
+| [Custom forms: "Whoops" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | October 13, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | September 30, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
@@ -51,6 +60,8 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Setup]: Lists load slowly in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | October 28, 2022 |
+| [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | September 18, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | August 5, 2022 |
 | [[!UICONTROL Home]: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | June 3, 2022 |

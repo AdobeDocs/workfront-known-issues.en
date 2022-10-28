@@ -25,7 +25,74 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2022
 
-+++**(Planned) Maintenance Update on October 13, 2022**
++++**Maintenance Update on October 27, 2022**
+
+**[!UICONTROL HOUR] function in calculated fields uses UTC**
+
+*Custom forms*
+
+When a calculated field includes the [!UICONTROL HOUR] function, the function returns values based on UTC rather than the expected time zone. Therefore, any calculations based on the HOUR value is incorrect.
+
+**[!UICONTROL Quick filter] returns no results when searching for teams**
+
+*Lists*
+
+When a user attempts to use the [!UICONTROL Quick filter] on a list to search for a team, entering the name of the team returns no results, even when the team is visible in the list (such as in the [!UICONTROL Assigned to] field). Searching for the word "[!UICONTROL team]" also returns no results.
+
+**Cannot re-pin a page after its pin is removed**
+
+*Navigation*
+
+>[!NOTE]
+>
+>This issue was fixed in Preview on October 13, 2022. It was fixed in Production on October 27, 2022.
+
+When a user selects the "[!UICONTROL Remove pin]" option on a pin, receives a message about the removal, and attempts to replace the pin by clicking "[!UICONTROL Undo]" in the message, the pin is not replaced in the top navigation, nor is it added to the list of pins under the [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] area).
+
+If a user attempts to re-pin the page by going to the page and pinning it, the pin is not created, and the user cannot pin the page.
+
+**All users listed in [!UICONTROL Workload Balancer] when using a shareable link in [!DNL Safari] browser**
+
+*[!UICONTROL Workload Balancer]*
+
+When a user follows a shareable link to the [!UICONTROL Workload Balancer] while using a [!DNL Safari] browser, they see all users rather than just the members of the team listed. 
+
++++
+
++++**Maintenance Update on October 20, 2022**
+
+**Error when bulk assigning a team**
+
+*Assignments*
+
+When a user is bulk editing tasks or issues and assigns a team after assigning an individual, the assignments do not save, and the user sees the following error: 
+
+"[!UICONTROL Let's try that again - The following error occurred: teamAssignments must be either a list of objects or a list of IDs]"
+
+**"[!UICONTROL Failed to upload file]" error**
+
+*Documents*
+
+When a user attempts to upload a file to the [!UICONTROL Documents] area, the file does not upload, and the user sees the error "[!UICONTROL Failed to upload file]."
+
+This has been reported when attempting to upload MP4 files.
+
+**Issue count in left navigation of task is incorrect**
+
+*Issues*
+
+When a user is viewing a task, the number displayed on the [!UICONTROL Issues] section of the left navigation does not accurately represent the actual number of issues attached to the task.
+
+
+**[!UICONTROL Predecessor] icon missing from task header**
+
+*Tasks*
+
+When a user is viewing a task, the task predecessor icon is missing from the header.
+
++++
+
++++**Maintenance Update on October 13, 2022**
 
 **Cannot re-pin a page after its pin is removed**
 
@@ -59,7 +126,7 @@ When a user is added to a proof as a Reviewer or a Requestor, they gain a "[!UIC
 
 +++
 
-+++**Maintenance update on October 11, 2022
++++**Maintenance update on October 11, 2022**
 
 **Cannot re-pin a page after its pin is removed**
 

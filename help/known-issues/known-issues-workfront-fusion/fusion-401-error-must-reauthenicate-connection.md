@@ -14,7 +14,7 @@ The scenario cannot execute until the connection is restored.
 
 **Workaround**
 
-Reauthorizing the connection can temporarily resolve this issue.
+Create a new connection and replace the current connections in your Workfront modules with the new connection.
 
 _First reported on September 8, 2022._
 
