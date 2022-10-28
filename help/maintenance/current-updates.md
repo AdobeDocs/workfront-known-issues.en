@@ -45,7 +45,7 @@ When a user attempts to use the [!UICONTROL Quick filter] on a list to search fo
 
 >[!NOTE]
 >
->This issue was fixed in Preview on October 13, 2022. It will be fixed in Production on October 27, 2022.
+>This issue was fixed in Preview on October 13, 2022. It was fixed in Production on October 27, 2022.
 
 When a user selects the "[!UICONTROL Remove pin]" option on a pin, receives a message about the removal, and attempts to replace the pin by clicking "[!UICONTROL Undo]" in the message, the pin is not replaced in the top navigation, nor is it added to the list of pins under the [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] area).
 
