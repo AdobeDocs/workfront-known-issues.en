@@ -329,7 +329,7 @@ The filters in the [!UICONTROL Workload Balancer] now support custom quarters.
 
 _[!UICONTROL Workload Balancer]_
 
-We have updated the filter operators when filtering the[!UICONTROL  Workload Balancer] areas by [!UICONTROL Duration].
+We have updated the filter operators when filtering the [!UICONTROL Workload Balancer] areas by [!UICONTROL Duration].
 
 +++
 
