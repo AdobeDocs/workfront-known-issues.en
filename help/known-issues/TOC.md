@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
         + [API: Cannot sort by dynamic fields](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
         + [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md)
         + [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
