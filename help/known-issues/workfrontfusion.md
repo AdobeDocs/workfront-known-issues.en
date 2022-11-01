@@ -30,6 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] module display as "[!UICONTROL object Object]"](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | November 1, 2022 |
 | [[!DNL Workfront Fusion]: Error when viewing an error in a scenario execution history](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | October 19, 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | August 2, 2022 |
 
