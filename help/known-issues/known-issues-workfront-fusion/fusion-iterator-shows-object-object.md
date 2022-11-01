@@ -1,6 +1,6 @@
 ---
 title: "Workfront Fusion: Array elements in Iterator module display as object Object"
-description: "When a user views an Iterator module, elements of the array display as "object Object." This may occur even when the array elements displayed correctly when viewed earlier."
+description: "When a user views an Iterator module, elements of the array display as object Object. This may occur even when the array elements displayed correctly when viewed earlier."
 hidefromtoc: yes
 ---
 
