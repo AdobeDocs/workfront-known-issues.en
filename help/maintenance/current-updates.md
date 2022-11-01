@@ -25,6 +25,32 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2022
 
++++**Maintenance Update on November 3, 2022**
+
+**Errors when accessing email notification settings**
+
+*Notifications*
+
+>[!NOTE]
+>
+>This issue exists both in the Production and the Preview environments.
+
+When a user attempts to change email notification settings, they may see one of the following errors:
+
+* "[!UICONTROL Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"
+
+* "[!UICONTROL Failed to fetch email notification]"
+
+This has been reported in the following areas:
+
+* [!UICONTROL Setup] > [!UICONTROL Email notifications]
+* [!UICONTROL User] > [!UICONTROL Edit user]
+* [!UICONTROL Groups] 
+
++++
+
+## Updates in October 2022
+
 +++**Maintenance Update on October 27, 2022**
 
 **[!UICONTROL HOUR] function in calculated fields uses UTC**
