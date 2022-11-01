@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Search: Search is extremely slow](known-issues-workfront/wf-search-basic-search-is-slow.md) | November 1, 2022 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
 | [Requests: Cannot view more than 100 Queue Topics on a page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | October 27, 2022 |
 | [Issues: Left navigation displays "(0)" issues when issues are present](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | October 27, 2022 |
