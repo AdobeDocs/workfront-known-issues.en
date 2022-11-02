@@ -27,6 +27,12 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 +++**Maintenance Update on November 3, 2022**
 
+**Rename the "Schedule" and "Scheduling" sections  for teams and projects in the layout template**
+
+*Layout templates*
+
+The "Schedule" and "Scheduling" tabs available to add in a layout template to the left panel of a team or project have been renamed to "Workload Balancer".
+
 **Errors when accessing email notification settings**
 
 *Notifications*
