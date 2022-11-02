@@ -4,13 +4,13 @@ description: "When a user searches using basic search (the Search icon), search 
 hidefromtoc: yes
 ---
 
-# Search: Search is extremely slow
+# Search: [!UICONTROL Search] is extremely slow
 
-When a user searches using basic search (the Search icon), search results are returned extremely slowly.
+When a user searches using basic search (the [!UICONTROL Search] icon), search results are returned extremely slowly.
 
 **Workaround**
 
-Use Advanced Search. The link to Advanced Search is at the bottom of the dropdown that appears when you click the Search icon.
+Use [!UICONTROL Advanced Search]. The link to [!UICONTROL Advanced Search] is at the bottom of the dropdown that appears when you click the [!UICONTROL Search] icon.
 
 _First reported on November 1, 2022._
 
