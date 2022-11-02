@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Requests: "Whoops" message when editing request queue](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | November 2, 2022 |
 | [Lists: Inline editing errors by user do not cause error messages](known-issues-workfront/wf-lists-error-messages-not-generated.md) | November 2, 2022 |
 | [Search: Search is extremely slow](known-issues-workfront/wf-search-basic-search-is-slow.md) | November 1, 2022 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |

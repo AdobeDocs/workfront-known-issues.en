@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Requests: "Whoops" message when editing request queue](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
         + [Lists: Inline editing errors by user do not cause error messages](known-issues-workfront/wf-lists-error-messages-not-generated.md)
         + [Search: Search is extremely slow](known-issues-workfront/wf-search-basic-search-is-slow.md)
         + [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
