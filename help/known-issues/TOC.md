@@ -11,7 +11,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
         + [Tasks: Cannot change [!UICONTROL Planned Completion Date] of a task](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
-        + | [Workfront: 500 error when making changes to a Workfront object](known-issues-workfront/wf-500-error-when-making-changes.md) | October 28, 2022 |
+        + [Workfront: 500 error when making changes to a Workfront object](known-issues-workfront/wf-500-error-when-making-changes.md)
         + [Requests: "Whoops" message when editing request queue](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
         + [Lists: Inline editing errors by user do not cause error messages](known-issues-workfront/wf-lists-error-messages-not-generated.md)
         + [Search: Search is extremely slow](known-issues-workfront/wf-search-basic-search-is-slow.md)
