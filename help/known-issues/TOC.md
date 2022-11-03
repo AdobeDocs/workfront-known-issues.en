@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Tasks: Cannot change [!UICONTROL Planned Completion Date] of a task](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+        + | [Workfront: 500 error when making changes to a Workfront object](known-issues-workfront/wf-500-error-when-making-changes.md) | October 28, 2022 |
         + [Requests: "Whoops" message when editing request queue](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
         + [Lists: Inline editing errors by user do not cause error messages](known-issues-workfront/wf-lists-error-messages-not-generated.md)
         + [Search: Search is extremely slow](known-issues-workfront/wf-search-basic-search-is-slow.md)
@@ -143,6 +145,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [[!DNL Workfront Proof]: Cannot open an interactive proof](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
         + [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
         + [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
         + [[!DNL Workfront Proof]: Blank pages when viewing a proof with multiple pages](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
