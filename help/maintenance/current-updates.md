@@ -23,7 +23,7 @@ The following maintenance updates have been made in 2022.
 
 For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
-## Updates in October 2022
+## Updates in November 2022
 
 +++**Maintenance Update on November 3, 2022**
 

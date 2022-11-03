@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 >[!NOTE]
 >
->This issue exists both in the Production and the Preview environments.
+>This issue was fixed on November 3, 2022.
 
 When a user attempts to change email notification settings, they may see one of the following errors:
 
