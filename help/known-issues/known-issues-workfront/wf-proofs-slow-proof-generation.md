@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Proofs: Proof generation is extremely slow
 
+>[!NOTE]
+>
+>This issue was fixed on October 31, 2022.
+
 <!--This article is on the WF and WFP TOCs-->
 
 When a user attempts to add a proof to a Workfront work item through the [!UICONTROL Add new] > [!UICONTROL Proof] option, using an automated workflow, the proof takes several minutes to generate.
