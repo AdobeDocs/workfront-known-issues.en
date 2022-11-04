@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Tasks: Cannot change [!UICONTROL Planned Completion Date] of a task
 
+>[!NOTE]
+>
+>This issue has been closed because it is working as designed.
+
 When a user attempts to change the [!UICONTROL Planned Completion Date] of a task, the field is unresponsive. 
 
 This has been reported in the following areas:

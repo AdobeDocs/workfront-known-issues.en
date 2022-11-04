@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!UICONTROL Boards]: [!UICONTROL Boards] page does not load
 
+>[!NOTE]
+>
+>This issue was fixed on November 3, 2022.
+
 When a user attempts to access [!UICONTROL Boards], the header for [!UICONTROL Boards] briefly appears, but then disappears and the user sees only a blank page.
 
 _First reported on October 11, 2022._

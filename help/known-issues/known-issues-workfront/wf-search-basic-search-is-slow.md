@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Search: [!UICONTROL Search] is extremely slow
 
+>[!NOTE]
+>
+>This issue was fixed on November 3, 2022.
+
 When a user searches using basic search (the [!UICONTROL Search] icon), search results are returned extremely slowly.
 
 **Workaround**

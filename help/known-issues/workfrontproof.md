@@ -18,8 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
-| [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
+| None |  |
 
 {style="table-layout:auto"}
 
