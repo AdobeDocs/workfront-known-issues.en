@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Agile: Issues with tasks added to an iteration
 
+>[!NOTE]
+>
+>This issue was fixed on November 4, 2022.
+
 The following issues have been reported regarding issues added to an iteration:
 
 * Some subtasks of a task added to an iteration do not appear on the [!UICONTROL Iteration] page. 

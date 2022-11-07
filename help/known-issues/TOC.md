@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Agile: Task has a Kanban backlog order of 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
         + [Tasks: Cannot change [!UICONTROL Planned Completion Date] of a task](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
         + [Workfront: 500 error when making changes to a Workfront object](known-issues-workfront/wf-500-error-when-making-changes.md)
         + [Requests: "Whoops" message when editing request queue](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
