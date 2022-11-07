@@ -67,7 +67,7 @@ This behavior has been reported when the user accesses the report in the followi
 
 Accessing reports via a dashboard does update Last Viewed information.
 
-# [!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object
+**[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object**
 
 *[!DNL Workfront]*
 
