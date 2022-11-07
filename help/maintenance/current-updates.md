@@ -25,6 +25,77 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2022
 
++++**Maintenance Update (Hot Fix) on Novemeber 4, 2022**
+
+**Issues with tasks added to an iteration**
+
+*Agile*
+
+The following issues have been reported regarding issues added to an iteration:
+
+* Some subtasks of a task added to an iteration do not appear on the [!UICONTROL Iteration] page. 
+* When a user attempts to add a missing task to the iteration, the task is not added and the user sees the following message:
+  
+  "[!UICONTROL The following error occurred: None of the selected items could be moved, because they are not assigned to an agile team or are not agile items]"
+
+**Tasks assigned through bulk editing do not appear on team's backlog**
+
+*Agile*
+
+When a user assigns tasks to a Scrum team by using bulk editing, those tasks do not appear on the team's backlog.
+
+Kanban teams are not affected by this issue.
+
+ **"[!UICONTROL New proof recipients]" text box is too small**
+
+*Proofs*
+
+When a user is viewing a proof and attempts to share the proof from the [!UICONTROL Sharing] tab, the "[!UICONTROL New proof reciepients]" text box is very small. The user can type in a name, but because the box is so small, the text wraps in a way that is difficult to read.
+
+**Report usage information is not updating**
+
+*Reports*
+
+When a user views a report, Last Viewed information such as the Last Viewed Date and Last Viewed By are not updating. This means that any usage information may be incorrect.
+
+This behavior has been reported when the user accesses the report in the following ways:
+ 
+* Search
+* Pins
+* Favorites
+* Recents
+
+Accessing reports via a dashboard does update Last Viewed information.
+
+**[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object**
+
+*[!DNL Workfront]*
+
+When a user attempts to make changes to a [!DNL Workfront] object, the changes do not save, and the user sees the following error:
+
+"[!UICONTROL 500: Database error due to invalid SQL statement.]"
+
+This has been reported in the following situations:
+
+* Changing Status of an object
+* Recalculating timelines
+* Attaching a template
+* Logging time
+
++++
+
++++**[!DNL Workfront Fusion] Maintenance Update on November 3, 2022**
+
+**Error regarding [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Watch Events] module**
+
+*[!DNL Workfront Fusion]*
+
+When a user attempts to add a webhook into the [!DNL Workfront] > [!UICONTROL Watch Events] module, they receive the following error:
+
+"[!UICONTROL The apiKey provided was empty or deemed invalid.]" 
+
++++
+
 +++**Maintenance Update on November 3, 2022**
 
 **Rename the "Schedule" and "Scheduling" sections  for teams and projects in the layout template**

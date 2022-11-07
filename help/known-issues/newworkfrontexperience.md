@@ -18,10 +18,10 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Task has a Kanban backlog order of 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | November 7, 2022 |
 | [Requests: "Whoops" message when editing request queue](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | November 2, 2022 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
 | [Requests: [!UICONTROL Email Queue Settings] not available](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | October 27, 2022 |
-| [Agile: Tasks assigned through bulk editing do not appear on team's backlog](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | October 20, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 | [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | September 29, 2022 |
 
@@ -36,15 +36,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | -----------------------------------------------------------------| ----------------- |
 | [Lists: Inline editing errors by user do not cause error messages](known-issues-workfront/wf-lists-error-messages-not-generated.md) | November 4, 2022 |
 | [Requests: Cannot view more than 100 Queue Topics on a page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | November 4, 2022 |
-| [[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object](known-issues-workfront/wf-500-error-when-making-changes.md) | November 3, 2022 |
 | [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | October 27, 2022 |
 | [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 20, 2022 |
-| [Reports: Report usage information is not updating](known-issues-workfront/wf-reports-usage-not-updating.md) | October 19, 2022 |
 | [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | October 19, 2022 |
-| [Proofs: "New proof recipients" text box is too small](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | October 18, 2022 |
 | [Programs: Issues when assigning a [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | October 17, 2022 |
 | [Reports: "Move to" option not available on issue reports](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | October 13, 2022 |
-| [Agile: Issues with tasks added to an iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | October 13, 2022 |
 | [Custom forms: "Whoops" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | October 13, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | September 30, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |

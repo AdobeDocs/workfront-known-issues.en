@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Reports: Report usage information is not updating
 
+>[!NOTE]
+>
+>This issue was fixed on November 4, 2022.
+
 When a user views a report, Last Viewed information such as the Last Viewed Date and Last Viewed By are not updating. This means that any usage information may be incorrect.
 
 This behavior has been reported when the user accesses the report in the following ways:

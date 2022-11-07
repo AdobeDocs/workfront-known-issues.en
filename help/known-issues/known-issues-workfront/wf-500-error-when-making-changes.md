@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object
 
+>[!NOTE]
+>
+>This issue was fixed on November 4, 2022.
+
 When a user attempts to make changes to a [!DNL Workfront] object, the changes do not save, and the user sees the following error:
 
 "[!UICONTROL 500: Database error due to invalid SQL statement.]"
