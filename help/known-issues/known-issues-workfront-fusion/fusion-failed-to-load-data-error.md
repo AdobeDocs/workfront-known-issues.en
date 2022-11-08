@@ -1,9 +1,9 @@
 ---
-title: "[!DNL Workfront Fusion]: Failed to load data"
-description: "Workfront Fusion connections to a Workfront account may fail authentication, causing scenarios to throw the following error: Failed to load data! The request failed due to failure of a previous request."
+title: '[!DNL Workfront Fusion]: Failed to load data'
+description: 'Workfront Fusion connections to a Workfront account may fail authentication, causing scenarios to throw the following error: Failed to load data! The request failed due to failure of a previous request.'
 hidefromtoc: yes
+exl-id: 6765a302-b006-4e2a-8c31-215f4b8c4002
 ---
-
 # [!DNL Workfront Fusion]: "[!UICONTROL Failed to load data]" error
 
 >[!NOTE]

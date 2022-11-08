@@ -1,9 +1,9 @@
 ---
-title: "Agile: Issues with tasks added to an iteration"
-description: "Multiple have been reported regarding issues added to an iteration"
+title: 'Agile: Issues with tasks added to an iteration'
+description: Multiple have been reported regarding issues added to an iteration
 hidefromtoc: yes
+exl-id: 25ca4bba-4e0e-470e-ac25-9dede2c6a3be
 ---
-
 # Agile: Issues with tasks added to an iteration
 
 >[!NOTE]
@@ -18,4 +18,3 @@ The following issues have been reported regarding issues added to an iteration:
   "[!UICONTROL The following error occurred: None of the selected items could be moved, because they are not assigned to an agile team or are not agile items]"
 
 _First reported on September 23, 2022._
-

@@ -1,9 +1,9 @@
 ---
-title: "Workfront: 500 error when making changes to a Workfront object"
-description: "When a user attempts to make changes to a Workfront object, the changes do not save, and the user sees an error"
+title: 'Workfront: 500 error when making changes to a Workfront object'
+description: When a user attempts to make changes to a Workfront object, the changes do not save, and the user sees an error
 hidefromtoc: yes
+exl-id: 67c686a8-3c4f-48c2-a120-eca27816a367
 ---
-
 # [!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object
 
 >[!NOTE]
@@ -22,4 +22,3 @@ This has been reported in the following situations:
 * Logging time
 
 _First reported on November 3, 2022._
-

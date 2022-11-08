@@ -1,9 +1,9 @@
 ---
-title: "[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Custom API Call] module returning 404 or 422 errors"
-description: "The Workfront > Custom API module returns an error."
+title: '[!DNL Workfront Fusion]: [!DNL Workfront] &gt; [!UICONTROL Custom API Call] module returning 404 or 422 errors'
+description: The Workfront &gt; Custom API module returns an error.
 hidefromtoc: yes
+exl-id: 6b9effaa-f35a-4bff-ad9c-750f836c2ef9
 ---
-
 # [!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Custom API Call] module returning 404 or 422 errors
 
 >[!NOTE]
@@ -16,4 +16,3 @@ The [!DNL Workfront] > [!UICONTROL Custom API Call] module returns one of the fo
 * [!UICONTROL RuntimeError [422] Invalid Parameter: State Filing State value "CMS"]
 
 _First reported on September 28, 2022._
-

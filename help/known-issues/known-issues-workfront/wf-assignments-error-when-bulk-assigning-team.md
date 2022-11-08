@@ -1,9 +1,9 @@
 ---
-title: "Assignments: Error when bulk assigning a team"
-description: "When a user is bulk editing tasks or issues and assigns a team after assigning an individual, the assignments do not save, and the user sees an error."
+title: 'Assignments: Error when bulk assigning a team'
+description: When a user is bulk editing tasks or issues and assigns a team after assigning an individual, the assignments do not save, and the user sees an error.
 hidefromtoc: yes
+exl-id: a78be81c-0ad8-4c02-a6de-84d732da41a2
 ---
-
 # Assignments: Error when bulk assigning a team
 
 >[!NOTE]
@@ -19,4 +19,3 @@ When a user is bulk editing tasks or issues and assigns a team after assigning a
 Assign the team first, followed by the individuals.
 
 _First reported on October 7, 2022._
-
