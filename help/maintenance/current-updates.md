@@ -25,6 +25,18 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2022
 
++++**(Planned) Maintenance Update on November 10, 2022**
+
+**Cannot open an interactive proof**
+
+*Workfront Proof*
+
+When a user attempts to open an interactive proof, the proof does not open and the user sees the following message:
+
+"[!UICONTROL Proof not loaded (501) Try again]"
+
++++
+
 +++**Maintenance Update (Hot Fix) on Novemeber 4, 2022**
 
 **Issues with tasks added to an iteration**

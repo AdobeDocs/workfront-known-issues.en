@@ -1,6 +1,6 @@
 ---
 title: "Workfront Proof: Cannot open an interactive proof"
-description: ""
+description: "When a user attempts to open an interactive proof, the proof does not open and the user sees an error message."
 hidefromtoc: yes
 ---
 
