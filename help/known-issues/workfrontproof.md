@@ -28,7 +28,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: Cannot open an interactive proof](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | November 3, 2022 |
 | [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 20, 2022 |
 
 {style="table-layout:auto"}

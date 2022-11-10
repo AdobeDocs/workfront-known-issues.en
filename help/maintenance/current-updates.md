@@ -25,7 +25,13 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2022
 
-+++**(Planned) Maintenance Update on November 10, 2022**
++++**Maintenance Update on November 10, 2022**
+
+**Bulk editing tasks changes task assignments**
+
+*Tasks*
+
+When a user bulk edits any field for a set of tasks, the Assignments of the first task are applied to all tasks. This deletes previous assignments. 
 
 **Cannot open an interactive proof**
 
