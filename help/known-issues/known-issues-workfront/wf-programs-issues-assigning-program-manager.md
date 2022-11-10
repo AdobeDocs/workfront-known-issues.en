@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Programs: Issues when assigning a [!UICONTROL Program Owner]
 
+>[!NOTE]
+>
+>This issue was fixed on November 7, 2022.
+
 When a user creates a program and assigns a [!UICONTROL Program Owner], the following issues occur:
 
 * The user sees the error "[!UICONTROL 500: Database error: BizContext.commit failed! /attask/api-internal/PRGM/(Program ID)]"

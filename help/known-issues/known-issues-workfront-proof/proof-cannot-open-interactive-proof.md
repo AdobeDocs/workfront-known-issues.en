@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!DNL Workfront Proof]: Cannot open an interactive proof
 
+>[!NOTE]
+>
+>This issue was fixed on November 10, 2022.
+
 When a user attempts to open an interactive proof, the proof does not open and the user sees the following message:
 
 "[!UICONTROL Proof not loaded (501) Try again]"
