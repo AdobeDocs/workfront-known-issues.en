@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Layout templates: Hiding an item hides the incorrect item](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
         + [Tasks: Bulk editing tasks changes task assignments](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
         + [Agile: Task has a Kanban backlog order of 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
         + [Tasks: Cannot change [!UICONTROL Planned Completion Date] of a task](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
