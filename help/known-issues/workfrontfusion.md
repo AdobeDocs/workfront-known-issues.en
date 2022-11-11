@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | October 31, 2022  |
-| [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md) | October 6, 2022  |
 
 {style="table-layout:auto"}
 

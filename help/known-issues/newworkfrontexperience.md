@@ -23,7 +23,6 @@ These recently reported issues are currently under review.
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
 | [Requests: [!UICONTROL Email Queue Settings] not available](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | October 27, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
-| [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | September 29, 2022 |
 
 {style="table-layout:auto"}
 
@@ -54,6 +53,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | November 11, 2022 |
 | [API: Cannot sort by dynamic fields](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | October 31, 2022 |
 | [[!UICONTROL Setup]: Lists load slowly in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | October 28, 2022 |
 | [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | September 18, 2022 |
