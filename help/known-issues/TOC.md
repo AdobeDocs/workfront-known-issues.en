@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Print summary does not show image thumbnail](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
         + [Integrations: [!UICONTROL Home Calendar] shows events an hour later than [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
         + [Layout templates: Hiding an item hides the incorrect item](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
         + [Tasks: Bulk editing tasks changes task assignments](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)

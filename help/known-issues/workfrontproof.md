@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Proofs: [!UICONTROL Print summary] does not show image thumbnail](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | November 14, 2022 |
 
 {style="table-layout:auto"}
 

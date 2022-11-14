@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: [!UICONTROL Print summary] does not show image thumbnail](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | November 14, 2022 |
 | [Integrations: [!UICONTROL Home Calendar] shows events an hour later than [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | November 11, 2022 |
 | [Agile: Task has a Kanban backlog order of 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | November 7, 2022 |
 | [Requests: "Whoops" message when editing request queue](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | November 2, 2022 |
