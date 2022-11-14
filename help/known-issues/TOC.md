@@ -10,6 +10,9 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+        + [Reports: Combination chart displays the same data twice](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+        + [Proofs: Adding custom message causes issue in Proof viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
         + [Proofs: Print summary does not show image thumbnail](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
         + [Integrations: [!UICONTROL Home Calendar] shows events an hour later than [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
         + [Layout templates: Hiding an item hides the incorrect item](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
