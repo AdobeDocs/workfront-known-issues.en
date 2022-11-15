@@ -35,6 +35,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | November 15, 2022 |
 | [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | November 14, 2022 |
 | [Reports: Combination chart displays the same data twice](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | November 14, 2022 |
 | [Proofs: Adding custom message causes issue in Proof viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | November 14, 2022 |
