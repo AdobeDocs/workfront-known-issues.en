@@ -25,6 +25,17 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2022
 
++++**(Planned) Maintenance Update on November 17, 2022**
+
+**Hiding an item hides the incorrect item**
+
+*Layout templates*
+
+When a user changes the whether an item is hidden or shown, those changes are reflected on a different item on the layout template.
+
+
++++
+
 +++**Maintenance Update on November 10, 2022**
 
 **Bulk editing tasks changes task assignments**
