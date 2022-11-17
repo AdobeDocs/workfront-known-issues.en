@@ -27,6 +27,12 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 +++**Maintenance Update on November 17, 2022**
 
+**Documents placed in the [!UICONTROL Recycle Bin] if unselected when moving a task or an issue**
+
+*Documents*
+
+Now, when you deselect the [!UICONTROL Documents] option in the process of moving a task or an issue, the documents attached to the task, or the issue will be placed in the [!UICONTROL Recycle Bin] for 30 days. An administrator can restore them, if needed. The user who deselects Documents in the moving process will receive a warning about this behavior in the [!UICONTROL Move Task] or [!UICONTROL Move Issue] box. Prior to this enhancement, the documents were permanently deleted.
+
 **Hiding an item hides the incorrect item**
 
 *Layout templates*
