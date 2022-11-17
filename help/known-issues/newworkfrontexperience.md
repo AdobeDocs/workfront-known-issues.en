@@ -40,7 +40,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | November 14, 2022 |
 | [Reports: Combination chart displays the same data twice](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | November 14, 2022 |
 | [Proofs: Adding custom message causes issue in Proof viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | November 14, 2022 |
-| [Layout templates: Hiding an item hides the incorrect item](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | November 10, 2022 |
 | [Lists: Inline editing errors by user do not cause error messages](known-issues-workfront/wf-lists-error-messages-not-generated.md) | November 4, 2022 |
 | [Requests: Cannot view more than 100 Queue Topics on a page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | November 4, 2022 |
 | [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | October 27, 2022 |
