@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
 | [Custom forms: "[!UICONTROL You do not have sufficient access]" error when editing custom form](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | November 16, 2022 |
 | [Proofs: [!UICONTROL Print summary] does not show image thumbnail](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | November 14, 2022 |
 | [Integrations: [!UICONTROL Home Calendar] shows events an hour later than [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | November 11, 2022 |
