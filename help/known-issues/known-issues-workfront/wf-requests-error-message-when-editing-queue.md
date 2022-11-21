@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Requests: "Whoops" message when editing request queue
 
+>[!NOTE]
+>
+>This issue was fixed on November 10, 2022.
+
 When a user is editing a request queue and attempts to save changes, they see the following error:
 
 "Let's try that again. Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it."
