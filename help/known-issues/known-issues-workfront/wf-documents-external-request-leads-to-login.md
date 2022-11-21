@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This article is on the WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This article was fixed on November 7, 2022.
+
 When an external user receives a document request email and clicks on the link to submit the document, they are redirected to the Workfront login page of the organization that requested the document. This may occur even when the "[!UICONTROL Collaborate with people without Workfront accounts by using their email address]" system preference is enabled.
 
 _First reported on September 29, 2022._

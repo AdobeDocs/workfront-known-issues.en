@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
-| [Proofs: [!UICONTROL Print summary] does not show image thumbnail](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | November 14, 2022 |
 
 {style="table-layout:auto"}
 
@@ -30,7 +29,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Adding custom message causes issue in Proof viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | November 14, 2022 |
-| [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 20, 2022 |
 
 {style="table-layout:auto"}
 

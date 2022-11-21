@@ -19,13 +19,8 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
-| [Custom forms: "[!UICONTROL You do not have sufficient access]" error when editing custom form](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | November 16, 2022 |
-| [Proofs: [!UICONTROL Print summary] does not show image thumbnail](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | November 14, 2022 |
 | [Integrations: [!UICONTROL Home Calendar] shows events an hour later than [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | November 11, 2022 |
-| [Agile: Task has a Kanban backlog order of 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | November 7, 2022 |
-| [Requests: "Whoops" message when editing request queue](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | November 2, 2022 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
-| [Requests: [!UICONTROL Email Queue Settings] not available](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | October 27, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 
 {style="table-layout:auto"}
@@ -37,6 +32,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Custom forms: "[!UICONTROL You do not have sufficient access]" error when editing custom form](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | November 21, 2022 |
+| [Agile: Task has a Kanban backlog order of 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | November 21, 2022 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | November 15, 2022 |
 | [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | November 14, 2022 |
 | [Reports: Combination chart displays the same data twice](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | November 14, 2022 |
@@ -44,8 +41,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Lists: Inline editing errors by user do not cause error messages](known-issues-workfront/wf-lists-error-messages-not-generated.md) | November 4, 2022 |
 | [Requests: Cannot view more than 100 Queue Topics on a page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | November 4, 2022 |
 | [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | October 27, 2022 |
-| [Documents: External document request link leads to login page](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | October 20, 2022 |
-| [Navigation: Cannot pin objects](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | October 19, 2022 |
 | [Reports: "Move to" option not available on issue reports](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | October 13, 2022 |
 | [Custom forms: "Whoops" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | October 13, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | September 30, 2022 |
