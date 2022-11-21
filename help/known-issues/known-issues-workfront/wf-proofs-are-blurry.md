@@ -4,7 +4,7 @@ description: "When a user creates a proof, and then views that proof in the Proo
 hidefromtoc: yes
 ---
 
-# Proofs: Proofs display as less clear than original image
+# Proofs: Proofs display in Proof Viewer as less clear than original image
 
 <!--This is on both the WF and WFP TOCs-->
 
