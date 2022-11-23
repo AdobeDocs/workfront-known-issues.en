@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Agile: Error when moving work items to an iteration](known-issues-workfront/wf-proofs-are-blurry.md) | November 23, 2022 |
+| [Agile: Error when moving work items to an iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | November 23, 2022 |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
 | [Integrations: [!UICONTROL Home Calendar] shows events an hour later than [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | November 11, 2022 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
