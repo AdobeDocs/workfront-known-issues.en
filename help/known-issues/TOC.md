@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Integrations: Cannot access elements of [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+        + [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
         + [Agile: Error when moving work items to an iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
         + [Timesheets: Deactivated users available when selecting timesheet approver](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
         + [Custom forms: Cross-object custom forms require [!UICONTROL Manage] or [!UICONTROL Edit] access to edit fields](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -194,6 +196,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Workfront Fusion]: Cannot create connection to [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
         + [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] module display as "[!UICONTROL object Object]"](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
         + [[!DNL Workfront Fusion]: Error when viewing an error in a scenario execution history](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
         + [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md)
