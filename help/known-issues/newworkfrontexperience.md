@@ -33,6 +33,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrations: Cannot access elements of [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | November 28, 2022 |
+| [Custom forms: Cannot use field in calculation if field name contains `'` or `"`](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | November 28, 2022 |
 | [Timesheets: Deactivated users available when selecting timesheet approver](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | November 23, 2022 |
 | [Custom forms: "[!UICONTROL You do not have sufficient access]" error when editing custom form](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | November 21, 2022 |
 | [Agile: Task has a Kanban backlog order of 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | November 21, 2022 |
