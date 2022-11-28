@@ -4,7 +4,7 @@ description: "When a user is creating a calcualted field expression, and attempt
 hidefromtoc: yes
 ---
 
-# Custom forms: Cannot use field in calculation if field name contains `'` or `"`
+# Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks
 
 When a user is creating a calculated field expression, and attempts to include a typeahead field that has a name with a `'` or `"`, the calculation is not accepted, and the user sees the message "[!UICONTROL This is an invalid custom expression, please try again.]"
 
