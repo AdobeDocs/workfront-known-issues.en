@@ -11,7 +11,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
         + [Integrations: Cannot access elements of [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-        + [Custom forms: Cannot use field in calculation if field name contains `'` or `"`](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+        + [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
         + [Agile: Error when moving work items to an iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
         + [Timesheets: Deactivated users available when selecting timesheet approver](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
         + [Custom forms: Cross-object custom forms require [!UICONTROL Manage] or [!UICONTROL Edit] access to edit fields](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
