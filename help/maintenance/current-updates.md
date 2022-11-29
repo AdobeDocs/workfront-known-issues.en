@@ -23,6 +23,56 @@ The following maintenance updates have been made in 2022.
 
 For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in December 2022
+
++++**(Planned) Maintenance Update on December 1, 2022**
+
+**Task has a Kanban backlog order of 0**
+
+*Agile*
+
+When a user is viewing a Kanban team's backlog, one or more of the tasks show a backlog order of 0.
+
+**"[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field**
+
+*Custom forms*
+
+When a user is adding a calculated field to an issue-level custom form and attempts to add any reference to an "[!UICONTROL owner]" (such as `ownerID`), the field does not save, and the user sees the following message:
+
+"[!UICONTROL This is an invalid customer expression, please try again.]"
+
+This occurs even when the expression is valid.
+
+**Cannot access elements of [!DNL Workfront for Jira] integration**
+
+*Integrations*
+
+The following elements cannot currently be accessed in the [!DNL Workfront for Jira] integration for [!DNL Jira Cloud]:
+
+* The [!UICONTROL Configuration] page
+* The "[!UICONTROL Open Workfront]" button on a [!DNL Jira] issue
+
+**Adding custom message causes issue in Proof viewer**
+
+*Proofs*
+
+When a user is sharing a proof and attempts to add a custom message, the following occurs:
+
+* The Proof viewer zooms into the proof.
+* The areas in the left navigation are no longer responsive.
+
+**Deactivated users available when selecting timesheet approver**
+
+*Timesheets*
+
+When a user is creating a timesheet and attempts to assign an approver, the drop-down list includes deactivated users. If a deactivated user is selected, the timesheet is not saved and the user sees the following message:
+
+"[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]"
+
+Since the deactivated user cannot be assigned, the user must select an activated user. The timesheet therefore functions as expected, but the deactivated users in the list may cause confusion or inconvenience to the user.
+
++++
+
 ## Updates in November 2022
 
 +++**Maintenance Update on November 17, 2022**

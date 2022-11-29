@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Cannot remove an issue assignment in [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | November 29, 2022 |
 | [Timesheets: Timesheet is not generated](known-issues-workfront/wf-timesheets-timesheet-not-generated.md ) | November 28, 2022 |
 | [Agile: Error when moving work items to an iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | November 23, 2022 |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |

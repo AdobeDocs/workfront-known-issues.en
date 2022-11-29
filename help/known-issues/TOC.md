@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!UICONTROL Home]: Cannot remove an issue assignment in [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
         + [Timesheets: Timesheet is not generated](known-issues-workfront/wf-timesheets-timesheet-not-generated.md )
         + [Integrations: Cannot access elements of [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
         + [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
