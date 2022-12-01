@@ -25,7 +25,7 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in December 2022
 
-+++**(Planned) Maintenance Update on December 1, 2022**
++++**Maintenance Update on December 1, 2022**
 
 **Task has a Kanban backlog order of 0**
 
@@ -70,6 +70,12 @@ When a user is creating a timesheet and attempts to assign an approver, the drop
 "[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]"
 
 Since the deactivated user cannot be assigned, the user must select an activated user. The timesheet therefore functions as expected, but the deactivated users in the list may cause confusion or inconvenience to the user.
+
+**Timesheet is not generated**
+
+*Timesheets*
+
+Timesheets are not being generated despite timesheet profile settings. Because the timesheet is never generated, it is not available for the user to enter time, and it is not visible on lists.
 
 +++
 

@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This is on both the WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on December 1, 2022.
+
 When a user is sharing a proof and attempts to add a custom message, the following occurs:
 
 * The Proof viewer zooms into the proof.
