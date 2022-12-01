@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Home]: Cannot remove an issue assignment in [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | November 29, 2022 |
-| [Timesheets: Timesheet is not generated](known-issues-workfront/wf-timesheets-timesheet-not-generated.md ) | November 28, 2022 |
 | [Agile: Error when moving work items to an iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | November 23, 2022 |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
 | [Integrations: [!UICONTROL Home Calendar] shows events an hour later than [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | November 11, 2022 |
@@ -35,15 +34,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integrations: Cannot access elements of [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | November 28, 2022 |
 | [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | November 28, 2022 |
-| [Timesheets: Deactivated users available when selecting timesheet approver](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | November 23, 2022 |
 | [Custom forms: "[!UICONTROL You do not have sufficient access]" error when editing custom form](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | November 21, 2022 |
-| [Agile: Task has a Kanban backlog order of 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | November 21, 2022 |
-| [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | November 15, 2022 |
 | [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | November 14, 2022 |
 | [Reports: Combination chart displays the same data twice](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | November 14, 2022 |
-| [Proofs: Adding custom message causes issue in Proof viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | November 14, 2022 |
 | [Lists: Inline editing errors by user do not cause error messages](known-issues-workfront/wf-lists-error-messages-not-generated.md) | November 4, 2022 |
 | [Requests: Cannot view more than 100 Queue Topics on a page](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | November 4, 2022 |
 | [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | October 27, 2022 |
