@@ -6,7 +6,7 @@ hidefromtoc: yes
 
 # Timesheets: Deactivated users available when selecting timesheet approver
 
-<!-->
+<!--
 >[!NOTE]
 >
 >This issue was fixed on December 1, 2022.
