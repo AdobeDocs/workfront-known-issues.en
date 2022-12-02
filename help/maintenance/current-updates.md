@@ -25,6 +25,35 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in December 2022
 
++++**Maintenance Update (Hot Fix) on December 1, 2022**
+
+**Inline editing errors by user do not cause error messages**
+
+*Lists*
+
+When a user is inline editing an object and makes an error that should create an error message, no error message appears. The error itself is not saved into Workfront, so the data is not affected, but the lack of an error message may cause confusion.
+
+This has been reported for the following situations:
+
+* Predecessors: A predecessor loop is created, such as assigning a task to itself
+* Dates: An impossible date is set, such as a Completion Date that is prior to the Start Date or that is beyond the Project Completion Date
+
+**"Move to" option not available on issue reports**
+
+*Reports*
+
+When a user is viewing an issue report and attempts to move an issue, the "Move to" option is not available under the More (three-dot) menu.
+
+
+**Cannot close user card in update stream**
+
+*Updates*
+
+When a user is viewing updates and hovers over a name, a card with details about the user whose name it is opens and does not close automatically. The page is unresponsive until the card is manually closed by clicking the X in the upper-right corner.
+
+
++++
+
 +++**Maintenance Update on December 1, 2022**
 
 **Task has a Kanban backlog order of 0**

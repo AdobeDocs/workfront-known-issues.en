@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Reports: "Move to" option not available on issue reports
 
+>[!NOTE]
+>
+>This issue was fixed on December 1, 2022.
+
 When a user is viewing an issue report and attempts to move an issue, the "Move to" option is not available under the More (three-dot) menu.
 
 _First reported on October 12, 2022._
