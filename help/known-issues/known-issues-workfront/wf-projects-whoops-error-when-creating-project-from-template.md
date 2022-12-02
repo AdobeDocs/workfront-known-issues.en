@@ -1,0 +1,18 @@
+---
+title: "Projects: Whoops error when creating a project from a template"
+description: "When a user attempts to create a project from a template, the project is not created, and the user sees the error Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it."
+hidefromtoc: yes
+---
+
+# Projects: "[!UICONTROL Whoops]" error when creating a project from a template
+
+When a user attempts to create a project from a template, the project is not created, and the user sees the following error:
+
+"[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"
+
+**Workaround**
+
+Create a blank project, then attach the template to it.
+
+_First reported on December 1, 2022._
+

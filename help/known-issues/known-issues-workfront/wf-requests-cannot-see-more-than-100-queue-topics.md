@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Requests: Cannot view more than 100 Queue Topics on a page
 
+>[!NOTE]
+>
+>This issue was fixed on December 2, 2022.
+
 When a user is viewing a list of Queue Topics with more than 100 items and attempts to change the list to display more Queue Topics per page or to display all Queue Topics, the list does not change and the user sees the following message:
 
 "Error: Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.

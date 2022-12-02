@@ -6,9 +6,11 @@ hidefromtoc: yes
 
 # Timesheets: Deactivated users available when selecting timesheet approver
 
+<!--
 >[!NOTE]
 >
 >This issue was fixed on December 1, 2022.
+-->
 
 When a user is creating a timesheet and attempts to assign an approver, the drop-down list includes deactivated users. If a deactivated user is selected, the timesheet is not saved and the user sees the following message:
 
