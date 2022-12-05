@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Timesheets: Cannot enter time on timesheet](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+        + [Proofs: Proof status does not update in [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
         + [Projects: Project status does not follow Group project preferences](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
         + [Projects: "Whoops" error when creating a project from a template](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
         + [[!UICONTROL Home]: Cannot remove an issue assignment in [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md)

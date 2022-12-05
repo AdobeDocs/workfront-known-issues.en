@@ -32,7 +32,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Timesheets: Deactivated users available when selecting timesheet approver](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | December 2, 2022 |
+| [Timesheets: Cannot enter time on timesheet](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | December 5, 2022 |
+| [Timesheets: Deactivated users available when selecting timesheet approver](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | December 2, 2022 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | December 2, 2022 |
 | [Projects: Project status does not follow Group project preferences](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | December 2, 2022 |
 | [Projects: "Whoops" error when creating a project from a template](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | December 2, 2022 |
@@ -52,6 +53,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proof status does not update in [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | December 5, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | December 2, 2022 |
 | [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | December 2, 2022 |
 | [Custom forms: Cross-object custom forms require [!UICONTROL Manage] or [!UICONTROL Edit] access to edit fields](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | November 21, 2022 |
