@@ -25,6 +25,18 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in December 2022
 
++++**(Planned) Maintenance update on December 8, 2022**
+
++++
+
+**Project status does not follow Group project preferences**
+
+*Projects*
+
+When a user creates a project from a template, the new project does not take the status set in the Group project preferences. If a project is created without a template, the status reflects Group project preferences as expected.
+
++++
+
 +++**Maintenance Update (Hot Fix) on December 1, 2022**
 
 **Inline editing errors by user do not cause error messages**
