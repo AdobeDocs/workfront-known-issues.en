@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tasks: Cannot add subtask](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | December 7, 2022 |
 | [Timesheets: Cannot enter time on timesheet](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | December 5, 2022 |
 | [Timesheets: Deactivated users available when selecting timesheet approver](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | December 2, 2022 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | December 2, 2022 |
