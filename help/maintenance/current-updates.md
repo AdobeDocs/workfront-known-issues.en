@@ -41,6 +41,15 @@ When a user attempts to add a subtask using the "[!UICONTROL +New]" button, no o
 
 "[!UICONTROL Cannot read properties of undefined (reading 'validations)]"
 
+**Errors when closing or saving timesheets**
+
+*Timesheets*
+
+When a user attempts to add time to or close a timesheet, the timesheet does not save, and the user sees the following errors:
+
+* Database error due to invalid SQL statement.
+* Your recent changes were not saved. Refresh the page to view the last saved changes.
+
 +++
 
 +++**Maintenance Update (Hot Fix) on December 1, 2022**
