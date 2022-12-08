@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Tasks: Cannot add subtask
 
+>[!NOTE]
+>
+>This issue was fixed on December 8, 2022.
+
 When a user attempts to add a subtask using the "[!UICONTROL +New]" button, no options appear in the [!UICONTROL New Task] window, and the user sees the following message:
 
 "[!UICONTROL Cannot read properties of undefined (reading 'validations)]"

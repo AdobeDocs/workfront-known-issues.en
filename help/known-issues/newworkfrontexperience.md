@@ -38,7 +38,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Timesheets: Cannot enter time on timesheet](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | December 5, 2022 |
 | [Timesheets: Deactivated users available when selecting timesheet approver](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | December 2, 2022 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | December 2, 2022 |
-| [Projects: Project status does not follow Group project preferences](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | December 2, 2022 |
 | [Projects: "Whoops" error when creating a project from a template](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | December 2, 2022 |
 | [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | November 28, 2022 |
 | [Custom forms: "[!UICONTROL You do not have sufficient access]" error when editing custom form](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | November 21, 2022 |

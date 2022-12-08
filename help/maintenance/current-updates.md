@@ -25,15 +25,30 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in December 2022
 
-+++**(Planned) Maintenance update on December 8, 2022**
-
-+++
++++**Maintenance update on December 8, 2022**
 
 **Project status does not follow Group project preferences**
 
 *Projects*
 
 When a user creates a project from a template, the new project does not take the status set in the Group project preferences. If a project is created without a template, the status reflects Group project preferences as expected.
+
+**Cannot add subtask**
+
+*Tasks*
+
+When a user attempts to add a subtask using the "[!UICONTROL +New]" button, no options appear in the [!UICONTROL New Task] window, and the user sees the following message:
+
+"[!UICONTROL Cannot read properties of undefined (reading 'validations)]"
+
+**Errors when closing or saving timesheets**
+
+*Timesheets*
+
+When a user attempts to add time to or close a timesheet, the timesheet does not save, and the user sees the following errors:
+
+* Database error due to invalid SQL statement.
+* Your recent changes were not saved. Refresh the page to view the last saved changes.
 
 +++
 
