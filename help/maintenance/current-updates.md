@@ -271,6 +271,21 @@ This has been reported in the following areas:
 * [!UICONTROL User] > [!UICONTROL Edit user]
 * [!UICONTROL Groups] 
 
+**New information icons for timesheets, timesheet profiles, and timesheet preferences**
+
+*Workfront*
+
+>[!NOTE]
+>
+>This update has been released only to the Preview environment. It will be released to Production with the 23.1 release.
+
+We have added several information icons to the following settings:
+
+* "Can edit time" checkbox when creating or editing a timesheet or a timesheet profile to indicate that when enabled, approvers can also submit, reopen, or edit the timesheet, unless your administrator restricts these actions in the Timesheet Preferences area of Setup.
+* "Restrict timesheet editing to owners and admins" in the Timesheet & Hour Preferences area of Setup to indicate that when disabled, the following users can also edit the timesheets: users with administrative access to timesheets and hours, timesheet approvers allowed to edit time, and timesheet owners' managers.
+
+Notice that the functionality of these settings has not changed and only the information icons have been added to add clarity to the scope of the settings.
+
 +++
 
 ## Updates in October 2022
