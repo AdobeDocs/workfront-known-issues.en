@@ -25,6 +25,34 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 ## Updates in December 2022
 
++++**Maintenance update on December 15, 2022**
+
+**"[!UICONTROL Whoops]" error when creating a project from a template**
+
+*Projects*
+
+When a user attempts to create a project from a template, the project is not created, and the user sees the following error:
+
+"[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"
+
+**Combination chart displays the same data twice**
+
+*Reports*
+
+When a user views a combination chart, the chart displays one value set twice instead of comparing two value sets. The correct value sets can be found in the report details.
+
+**Deactivated users available when selecting timesheet approver**
+
+*Timesheets*
+
+When a user is creating a timesheet and attempts to assign an approver, the drop-down list includes deactivated users. If a deactivated user is selected, the timesheet is not saved and the user sees the following message:
+
+"[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]"
+
+Since the deactivated user cannot be assigned, the user must select an activated user. The timesheet therefore functions as expected, but the deactivated users in the list may cause confusion or inconvenience to the user.
+
++++
+
 +++**Maintenance update on December 8, 2022**
 
 **Project status does not follow Group project preferences**
@@ -214,7 +242,7 @@ This behavior has been reported when the user accesses the report in the followi
 
 Accessing reports via a dashboard does update Last Viewed information.
 
-**[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object**
+**[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object**+
 
 *[!DNL Workfront]*
 
