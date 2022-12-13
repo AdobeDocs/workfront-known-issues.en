@@ -10,7 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + [Reports: Reports uses report creator instead of wildcard "$$[!UICONTROL USERID]"](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+        + [Reports: Report uses report creator instead of wildcard "$$[!UICONTROL USERID]"](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
         + [Documents: Cannot upload MP4 file](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
         + [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
         + [Tasks: Cannot add subtask](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
