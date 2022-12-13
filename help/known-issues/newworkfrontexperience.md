@@ -79,7 +79,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Email Notifications: User isn't directed to comment thread](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | April 23, 2021 |
 | [Calendars: [!DNL OR] filter statement excluding filter rule](known-issues-workfront/wf-calendars-or-filter-statement.md) | April 23, 2021 |
 | [[!UICONTROL Workfront Proof]: [!UICONTROL Proof Approval] report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | April 21, 2021 |
-| [[!UICONTROL Home]: Completed proofs stuck in the [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | June 14, 2021 |
 | [Reports: Cannot scroll report horizontally when viewing on dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | March 30, 2021 |
 | [[!UICONTROL Home]: Project Name shows as a GUID in the [!UICONTROL Work List]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | February 11, 2021 |
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | January 25, 2021 |
