@@ -95,7 +95,6 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
         + [Requests: Cannot open pages of request list beyond first page](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
         + [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
         + [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
-        + [Tasks and Issues: Error when changing the [!UICONTROL Planned Completion Date] in the header of a task or issue](known-issues-workfront/resolved-issues-wf/wf-500-error-planned-completion.md)
         + [Timesheets: "Your recent changes were not saved" error when autosaving changes on a timesheet](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
         + [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
         + [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md)
