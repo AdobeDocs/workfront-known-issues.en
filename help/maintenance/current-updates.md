@@ -55,6 +55,14 @@ Since the deactivated user cannot be assigned, the user must select an activated
 
 +++**Maintenance update on December 8, 2022**
 
+**Smart user selection when adding approvers to an approval path**
+
+*Approvals*
+
+We have improved the way users display when you add them to the [!UICONTROL Approvers] field of a new approval. 
+
+Now, when you add a user to the [!UICONTROL Approvers] field of a system-level or single-use approval, in addition to their name and avatar, their Primary Role and their email also display. This helps distinguish between multiple users with similar or identical names.
+
 **Project status does not follow Group project preferences**
 
 *Projects*
