@@ -41,6 +41,12 @@ When a user attempts to create a project from a template, the project is not cre
 
 When a user views a combination chart, the chart displays one value set twice instead of comparing two value sets. The correct value sets can be found in the report details.
 
+**Tooltips added for dimmed hour cells in timesheets**
+
+*Timesheets*
+
+We have added tooltips to explain the reason why an hour cell might be dimmed in a timesheet. For example, some of the reasons could be because the timesheet is closed, or because the project is completed.
+
 **Deactivated users available when selecting timesheet approver**
 
 *Timesheets*
