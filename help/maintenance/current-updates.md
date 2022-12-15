@@ -27,6 +27,17 @@ For maintenance updates prior to 2022, see [Previous Maintenance Updates](#previ
 
 +++**Maintenance update on December 15, 2022**
 
+**Accessibility updates in lists**
+
+*Lists*
+
+The following accessibility features are now available in lists: 
+
+* Check boxes in lists now have a visible focus indicator when you tab to them. This makes keyboard navigation of items in a list easier to visually follow.
+* All buttons in list toolbars now have consistent hover and focus states, with a gray background shown on hover and a gray background and blue outline shown on focus.
+* Previously, when opening a drop-down menu in a list with the Space key, the menu would open and the page would also scroll down a bit, which was not intended. Now the page no longer scrolls when pressing Space on a drop-down, which is the correct intended behavior.
+* When viewing a list with the row check box selected, you can now tab through each editable item and then press the Space key to switch to Edit Mode and begin editing that cell in the row. Previously, these items were not keyboard navigable and required the use of a mouse. Now switching to Edit Mode is both mouse and keyboard friendly.
+
 **"[!UICONTROL Whoops]" error when creating a project from a template**
 
 *Projects*

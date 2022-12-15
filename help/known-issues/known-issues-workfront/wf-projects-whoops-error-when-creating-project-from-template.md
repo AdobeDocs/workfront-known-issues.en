@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Projects: "[!UICONTROL Whoops]" error when creating a project from a template
 
+>[!NOTE]
+>
+>This issue was fixed on December 15, 2022.
+
 When a user attempts to create a project from a template, the project is not created, and the user sees the following error:
 
 "[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"
