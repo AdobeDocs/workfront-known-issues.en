@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Document permissions are not inherited when their parent issue is converted to a project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | December 16, 2022 |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
 
 {style="table-layout:auto"}
