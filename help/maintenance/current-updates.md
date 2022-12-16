@@ -68,6 +68,12 @@ When a user is creating a timesheet and attempts to assign an approver, the drop
 
 Since the deactivated user cannot be assigned, the user must select an activated user. The timesheet therefore functions as expected, but the deactivated users in the list may cause confusion or inconvenience to the user.
 
+**Cannot enter time on timesheet**
+
+*Timesheets*
+
+When a user attempts to add time to a timesheet, they see that the hour boxes in any Project time or Task Tiem rows are grayed out, and they cannot enter time into these boxes. They can enter time only in the General Time area.
+
 +++
 
 +++**Maintenance update on December 8, 2022**
