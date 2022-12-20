@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Cannot add documents from [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | December 20, 2022 |
 | [Documents: Document permissions are not inherited when their parent issue is converted to a project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | December 16, 2022 |
 | [Reports: Report uses report creator instead of wildcard "$$[!UICONTROL USERID]"](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | December 13, 2022 |
 | [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | December 7, 2022 |
@@ -34,6 +35,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs do not unarchive](known-issues-workfront/wf-proofs-do-not-unarchive.md) | December 20, 2022 |
 | [Reports: Edit Report screen is blank](known-issues-workfront/wf-reports-edit-report-is-blank.md) | December 20, 2022 |
 | [Documents: Cannot upload MP4 file](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | December 8, 2022 |
 | [Tasks: Cannot add subtask](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | December 7, 2022 |
