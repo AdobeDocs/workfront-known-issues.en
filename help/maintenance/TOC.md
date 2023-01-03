@@ -6,6 +6,7 @@ user-guide-description: Maintenance Releases for [!DNL Adobe Workfront]
 # Maintenance Release {#releases}
 
 + [Current updates](current-updates.md)
++ [2022 updates](2022-updates.md)
 + [2021 updates](2021-updates.md)
 
 <!--
