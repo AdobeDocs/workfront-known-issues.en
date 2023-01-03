@@ -17,7 +17,15 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 +++**(Planned) Maintenance Update on January 5, 2023**
 
-This update containes only minor or less prominant bug fixes.
+**Pin functionality available in [!UICONTROL More] menu**
+
+_Navigation_
+
+The following features are now available in the [!UICONTROL More] menu for pins, in the Preview environment only:
+
+* Renaming pins
+* Reordering pins within the [!UICONTROL More] menu
+* Moving a pin out of the [!UICONTROL More] menu (when you do this, the last pin in the top navigation bar is moved to the [!UICONTROL More] menu)
 
 +++
 
