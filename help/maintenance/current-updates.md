@@ -27,6 +27,12 @@ The following features are now available in the [!UICONTROL More] menu for pins,
 * Reordering pins within the [!UICONTROL More] menu
 * Moving a pin out of the [!UICONTROL More] menu (when you do this, the last pin in the top navigation bar is moved to the [!UICONTROL More] menu)
 
+**Removed the project Group limitation from adding users to the project team**
+
+_Teams_
+
+We have removed the limitation that required that the users that need to be added to a project team must be in the Group associated with the project. Now, you can add any active user to a project team, regardless of what groups they belong to.
+
 +++
 
 ## Previous maintenance updates
