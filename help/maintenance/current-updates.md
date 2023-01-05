@@ -33,6 +33,21 @@ _Teams_
 
 We have removed the limitation that required that the users that need to be added to a project team must be in the Group associated with the project. Now, you can add any active user to a project team, regardless of what groups they belong to.
 
+**New information icons for timesheets, timesheet profiles, and timesheet preferences**
+
+>[!NOTE]
+>
+>This update has been released to the Preview environment on November 3, 2022 and it is now available in Production
+
+_Workfront_
+
+We have added several information icons to the following settings:  
+
+* "Can edit time" checkbox when creating or editing a timesheet or a timesheet profile to indicate that when enabled, approvers can also submit, reopen, or edit the timesheet, unless your administrator restricts these actions in the Timesheet Preferences area of Setup. 
+* "Restrict timesheet editing to owners and admins" in the Timesheet & Hour Preferences area of Setup to indicate that when disabled, the following users can also edit the timesheets: users with administrative access to timesheets and hours, timesheet approvers allowed to edit time, and timesheet owners' managers. 
+
+Notice that the functionality of these settings has not changed and only the information icons have been added to add clarity to the scope of the settings.
+
 +++
 
 ## Previous maintenance updates
