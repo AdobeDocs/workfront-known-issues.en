@@ -13,7 +13,7 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
-## Updates in January 2022
+## Updates in January 2023
 
 +++**Maintenance Update on January 5, 2023**
 
