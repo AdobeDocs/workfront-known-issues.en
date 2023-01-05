@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 ---
 # [!DNL Workfront] Maintenance Updates
 
-The following maintenance updates have been made in 2022.
+The following maintenance updates have been made in 2023.
 
 >[!NOTE]
 >
