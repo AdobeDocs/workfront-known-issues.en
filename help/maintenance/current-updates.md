@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2022
 
-+++**(Planned) Maintenance Update on January 5, 2023**
++++**Maintenance Update on January 5, 2023**
 
 **Pin functionality available in [!UICONTROL More] menu**
 
