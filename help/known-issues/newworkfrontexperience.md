@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: Screen temporarily goes blank when reply is submitted](known-issues-workfront/wf-updates-reply-goes-blank.md) | January 6, 2023 |
 | [Documents: Cannot add documents from [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | December 20, 2022 |
 | [Documents: Document permissions are not inherited when their parent issue is converted to a project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | December 16, 2022 |
 | [Reports: Report uses report creator instead of wildcard "$$[!UICONTROL USERID]"](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | December 13, 2022 |
@@ -35,6 +36,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tasks: Indented tasks do not remain indented](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | January 6, 2023 |
 | [Custom Forms: Ctrl+F or Cmd+F does not work as expected in dropdown fields](known-issues-workfront/wf-custom-forms-dropdown-search.md) | January 3, 2023 |
 | [Proofs: Proofs do not unarchive](known-issues-workfront/wf-proofs-do-not-unarchive.md) | December 20, 2022 |
 | [Reports: Edit Report screen is blank](known-issues-workfront/wf-reports-edit-report-is-blank.md) | December 20, 2022 |
