@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--On WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue has been closed because it is not a [!DNL Workfront] issue.
+
 When a user attempts to add a document to [!DNL Workfront] from [!DNL Google Drive], the file selector does not display any files, and the user cannot select the desired file.
 
 **Workaround**

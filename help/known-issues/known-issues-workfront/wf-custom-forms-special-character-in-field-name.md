@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks
 
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+
 When a user is creating a calculated field expression, and attempts to include a typeahead field that has a name with a `'` or `"`, the calculation is not accepted, and the user sees the message "[!UICONTROL This is an invalid custom expression, please try again.]"
 
 This issue exists only with typeahead fields. Text fields with `'` or `"` in the name can be used in calculated field expressions with no issue.

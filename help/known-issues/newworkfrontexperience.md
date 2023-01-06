@@ -19,10 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Updates: Screen temporarily goes blank when reply is submitted](known-issues-workfront/wf-updates-reply-goes-blank.md) | January 6, 2023 |
-| [Documents: Cannot add documents from [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | December 20, 2022 |
-| [Documents: Document permissions are not inherited when their parent issue is converted to a project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | December 16, 2022 |
-| [Reports: Report uses report creator instead of wildcard "$$[!UICONTROL USERID]"](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | December 13, 2022 |
-| [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | December 7, 2022 |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
@@ -36,16 +32,15 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | January 6, 2023 |
+| [Documents: Document permissions are not inherited when their parent issue is converted to a project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | December 16, 2022 |
 | [Tasks: Indented tasks do not remain indented](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | January 6, 2023 |
 | [Custom Forms: Ctrl+F or Cmd+F does not work as expected in dropdown fields](known-issues-workfront/wf-custom-forms-dropdown-search.md) | January 3, 2023 |
 | [Proofs: Proofs do not unarchive](known-issues-workfront/wf-proofs-do-not-unarchive.md) | December 20, 2022 |
 | [Reports: Edit Report screen is blank](known-issues-workfront/wf-reports-edit-report-is-blank.md) | December 20, 2022 |
-| [Documents: Cannot upload MP4 file](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | December 8, 2022 |
 | [Tasks: Cannot add subtask](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | December 7, 2022 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | December 2, 2022 |
-| [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | November 28, 2022 |
 | [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | November 14, 2022 |
-| [Custom forms: "Whoops" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | October 13, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
@@ -57,6 +52,8 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | January 6, 2023 |
+| [Projects: Project status does not follow Group project preferences](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | January 6, 2023 |
 | [Proofs: Proof status does not update in [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | December 5, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | December 2, 2022 |
 | [Projects: Performance issues and error message when creating a project from a template](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | December 2, 2022 |
