@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 >[!NOTE]
 >
->This issue was fixed on December 8, 2022.
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
 
 When a user creates a project from a template, the new project does not take the status set in the Group project preferences. If a project is created without a template, the status reflects Group project preferences as expected.
 
