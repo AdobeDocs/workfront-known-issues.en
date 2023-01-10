@@ -132,6 +132,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
         + [[!DNL Workfront Proof]: Cannot open an interactive proof](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
         + [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
         + [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
