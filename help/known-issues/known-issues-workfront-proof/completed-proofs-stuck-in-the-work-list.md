@@ -6,9 +6,11 @@ hidefromtoc: yes
 ---
 # [!UICONTROL Home]: Completed proofs stuck in the [!UICONTROL Work List]
 
+<!-- Do not change this note unless told to by Daniel Sipos-->
+
 >[!NOTE]
 >
->This issue has been resolved.
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
 
 After a user completes a proof, it still appears in the [!UICONTROL Work List].
 
