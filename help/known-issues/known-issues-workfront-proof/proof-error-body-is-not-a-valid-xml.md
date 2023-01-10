@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof API: "Body is not a valid XML" error"
+title: "Workfront Proof API: Body is not a valid XML error"
 description: "A call to the Workfront Proof API returns an error."
 hidefromtoc: yes
 ---
