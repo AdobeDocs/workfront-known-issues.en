@@ -15,6 +15,28 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2023
 
++++**(Planned) Maintenance Update on January 12, 2023**
+
+**Ctrl+F or Cmd+F does not work as expected in dropdown fields**
+
+_Custom Forms_
+
+When a user is filling out a custom form and searches a dropdown list using Ctrl+F or Cmd+F, then attempts to jump to the next instance of that search, the dropdown list returns to the top of the list rather than jumping to the next instance of the search. This occurs when a dropdown is set to allow multiple selections.
+
+**[!UICONTROL Edit Report] screen is blank**
+
+_Reports_
+
+When a user is viewing a report and attempts to edit the report, the user is taken to a blank screen and cannot edit the report.
+
+**Indented tasks do not remain indented**
+
+_Tasks_
+
+When a user is viewing a task list and indents a task, the task immediately returns to its original (outdented) state.
+
++++
+
 +++**Maintenance Update on January 5, 2023**
 
 **Pin functionality available in [!UICONTROL More] menu**

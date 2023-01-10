@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | January 10, 2023 |
 | [Documents: Cannot add documents from [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | December 20, 2022 |
 | [Documents: Document permissions are not inherited when their parent issue is converted to a project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | December 16, 2022 |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
@@ -40,6 +41,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Completed proofs stuck in the [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | January 10, 2023 |
 | [Proofs: Proof status does not update in [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | December 5, 2022 |
 | [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | September 18, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
