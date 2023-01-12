@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2023
 
-+++**(Planned) Maintenance Update on January 12, 2023**
++++**Maintenance Update on January 12, 2023**
 
 **Ctrl+F or Cmd+F does not work as expected in dropdown fields**
 

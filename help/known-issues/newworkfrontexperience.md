@@ -34,10 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | -----------------------------------------------------------------| ----------------- |
 | [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | January 6, 2023 |
 | [Documents: Document permissions are not inherited when their parent issue is converted to a project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | December 16, 2022 |
-| [Tasks: Indented tasks do not remain indented](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | January 6, 2023 |
-| [Custom Forms: Ctrl+F or Cmd+F does not work as expected in dropdown fields](known-issues-workfront/wf-custom-forms-dropdown-search.md) | January 3, 2023 |
 | [Proofs: Proofs do not unarchive](known-issues-workfront/wf-proofs-do-not-unarchive.md) | December 20, 2022 |
-| [Reports: Edit Report screen is blank](known-issues-workfront/wf-reports-edit-report-is-blank.md) | December 20, 2022 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | December 2, 2022 |
 | [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | November 14, 2022 |
 | [Integrations: Error when submitting request from [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | August 30, 2022 |
