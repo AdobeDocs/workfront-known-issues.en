@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Reports: [!UICONTROL Edit Report] screen is blank
 
+>[!NOTE]
+>
+>This issue was fixed on January 12, 2023.
+
 When a user is viewing a report and attempts to edit the report, the user is taken to a blank screen and cannot edit the report.
 
 **Workaround**
