@@ -6,6 +6,10 @@ exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
 ---
 # [!DNL Workfront Fusion]: Cannot create connection to [!DNL Google]
 
+>[!NOTE]
+>
+>This issue was fixed on January 9, 2023.
+
 When a user attempts to create a connection in any of the [!DNL Google] connectors (such as [!DNL Google Sheets] or [!DNL Google Drive]), they see a window open with the following error:
 
 ```

@@ -32,7 +32,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | January 6, 2023 |
 | [Documents: Document permissions are not inherited when their parent issue is converted to a project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | December 16, 2022 |
 | [Proofs: Proofs do not unarchive](known-issues-workfront/wf-proofs-do-not-unarchive.md) | December 20, 2022 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | December 2, 2022 |
@@ -48,6 +47,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | January 12, 2023 |
 | [[!UICONTROL Home]: Completed proofs stuck in the [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | January 10, 2023 |
 | [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | January 6, 2023 |
 | [Projects: Project status does not follow Group project preferences](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | January 6, 2023 |
