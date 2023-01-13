@@ -6,6 +6,10 @@ exl-id: c2a8ceb5-4c72-428d-8432-1aa394388ddd
 ---
 # [!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] modules
 
+>[!NOTE]
+>
+>This issue was fixed on January 12, 2023.
+
 When a scenario runs, a [!DNL Workfront] module returns a 404 error.
 
 This has been reported in the following modules:

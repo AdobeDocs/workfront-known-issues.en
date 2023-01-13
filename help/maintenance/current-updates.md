@@ -15,6 +15,40 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2023
 
++++**[!DNL Adobe Workfront Fusion] Maintenance Update (Hot Fix) on January 12, 2023**
+
+**404 errors on [!DNL Workfront] modules**
+
+_Workfront Fusion_
+
+When a scenario runs, a [!DNL Workfront] module returns a 404 error.
+
+This has been reported in the following modules:
+
+* [!UICONTROL Read a record]
+
++++
+
++++**Maintenance Update (Hot Fix) on January 12, 2023**
+
+**"[!UICONTROL Whoops]" error when setting up a calculated field**
+
+_Custom Forms_
+
+When a user is creating or editing a calculated field on a custom form, and includes a custom field in the calculated field's expression, the expression is considered invalid. The [!UICONTROL Save] button is disabled, and the user cannot navigate away from the custom field. In addition, the user sees the following message below the field:
+
+"[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
+
+Removing the custom field from the expression allows the user to save and navigate away from the field.
+
+**Cannot set access levels**
+
+_Users_
+
+When a user attempts to change the access level of another user, the access levels are grayed out and the user cannot change them. This occurs even when the user attempting the change is a system administrator.
+
++++
+
 +++**Maintenance Update on January 12, 2023**
 
 **Ctrl+F or Cmd+F does not work as expected in dropdown fields**
