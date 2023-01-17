@@ -15,6 +15,22 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2023
 
++++**(Planned) Maintenance Update on January 19, 2023**
+
+**Expressions with wildcards are not valid in custom fields**
+
+_Custom Forms_
+
+When a user uses a wildcard such as $$TODAY or $$NOW along with a modifier (such as "-30d") in a custom field, the validator does not accept the wildcard as valid. Wildcards without modifiers are seen as valid.
+
+**[!UICONTROL Workload Balancer] shows hours not associated with a project/task/issue**
+
+_[!UICONTROL Workload Balancer]_
+
+When a user views the [!UICONTROL Workload Balancer], they see hours logged for a user that are not associated with any project, task, or issue, nor are they logged as [!UICONTROL General] hours. These hours may display only in the 4 Week or 6 Week view.
+
++++
+
 +++**[!DNL Adobe Workfront Fusion] Maintenance Update (Hot Fix) on January 12, 2023**
 
 **404 errors on [!DNL Workfront] modules**
