@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md)
+        + [Documents: Error when uploading large file](known-issues-workfront/wf-documents-large-uploads-fail.md)
         + [Tasks: Indented tasks do not remain indented](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
         + [Updates: Screen temporarily goes blank when reply is submitted](known-issues-workfront/wf-updates-reply-goes-blank.md)
         + [Custom Forms: Ctrl+F or Cmd+F does not work as expected in dropdown fields](known-issues-workfront/wf-custom-forms-dropdown-search.md)

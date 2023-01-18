@@ -18,7 +18,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Updates: Screen temporarily goes blank when reply is submitted](known-issues-workfront/wf-updates-reply-goes-blank.md) | January 6, 2023 |
+| [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 18, 2023 |
+| [Documents: Error when uploading large file](known-issues-workfront/wf-documents-large-uploads-fail.md) | January 18, 2023 |
 | [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md) | November 18, 2022 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
