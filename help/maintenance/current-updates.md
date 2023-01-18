@@ -15,13 +15,13 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2023
 
-+++**(Planned) Maintenance Update on January 19, 2023**
++++**Maintenance Update on January 18, 2023**
 
 **Expressions with wildcards are not valid in custom fields**
 
 _Custom Forms_
 
-When a user uses a wildcard such as $$TODAY or $$NOW along with a modifier (such as "-30d") in a custom field, the validator does not accept the wildcard as valid. Wildcards without modifiers are seen as valid.
+When a user uses a wildcard such as \$$TODAY or $$NOW along with a modifier (such as "-30d") in a custom field, the validator does not accept the wildcard as valid. Wildcards without modifiers are seen as valid.
 
 **[!UICONTROL Workload Balancer] shows hours not associated with a project/task/issue**
 
