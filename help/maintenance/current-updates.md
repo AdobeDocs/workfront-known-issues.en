@@ -15,6 +15,26 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2023
 
++++**Maintenance Update on January 19, 2023**
+
+**Intake column filters can now be shared**
+
+_Boards_
+
+When the intake column feature was released to Boards, the filters for setting up the intake column could only be seen by the person who created those filters. Now the creator can share the filters with other users or teams.
+
+**Pin functionality available in [!UICONTROL More] menu**
+
+_Navigation_
+
+The following features are now available in the [!UICONTROL More] menu for pins, in the Production environment:
+
+* Renaming pins
+* Reordering pins within the [!UICONTROL More] menu
+* Moving a pin out of the [!UICONTROL More] menu (when you do this, the last pin in the top navigation bar is moved to the [!UICONTROL More] menu)
+
++++
+
 +++**Maintenance Update on January 18, 2023**
 
 **Expressions with wildcards are not valid in custom fields**
