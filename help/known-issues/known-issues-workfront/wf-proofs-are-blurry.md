@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This is on both the WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue has been closed because it could not be reproduced.
+
 When a user creates a proof, and then views that proof in the Proof viewer, the proof looks less clear (more blurry) than the original image.
 
 _First reported on November 1, 2022._
