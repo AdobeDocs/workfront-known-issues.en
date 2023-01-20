@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This article is on WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue has been closed because it is not an issue.
+
 When a user attempts to upload a large file (over 25 MB), the file does not upload, and the user sees the error "[!UICONTROL Failed to upload file]."
 
 **Workaround**
