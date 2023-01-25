@@ -27,6 +27,12 @@ When a user attempts to submit a request with attachments from an [!DNL Outlook]
 
 This occurs only when an assignment is made for the new request, either through the request queue or manually when creating the request.
 
+**User cannot edit their own user setting**
+
+_Users_
+
+When a user with a license of Work, Review, or Request attempts to edit their own user settings, the popup that opens is blank, and the user cannot make any edits. To exit the popup, the user must refresh the page.
+
 +++
 
 +++**Maintenance Update on January 19, 2023**
