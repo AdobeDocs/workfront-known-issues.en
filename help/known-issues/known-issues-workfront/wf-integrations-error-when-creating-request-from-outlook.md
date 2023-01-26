@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Integrations: Error when submitting request from [!DNL Outlook]
 
+>[!NOTE]
+>
+>This issue was fixed on January 26, 2023.
+
 When a user attempts to submit a request with attachments from an [!DNL Outlook] email, one or more attachments do not upload, and the user sees the following error:
 
 "[!UICONTROL The following error occurred: File with handle xxxx does not exist.]"
