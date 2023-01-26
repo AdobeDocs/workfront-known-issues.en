@@ -24,7 +24,6 @@ These recently reported issues are currently under review.
 
 {style="table-layout:auto"}
 
-
 ## In Progress
 
 Fixes for these issues are currently in progress, or are scheduled for the near future.
