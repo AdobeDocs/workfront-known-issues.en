@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Users: Scheduled deactivation does not deactivate user](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work)
         + [Setup: Cannot save email templates](known-issues-workfront/wf-setup-email-templates-not-working.md)
         + [Users: User cannot edit their own user setting](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
         + [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md)
