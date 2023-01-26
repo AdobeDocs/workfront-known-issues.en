@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2023
 
-+++**(Planned) Maintenance Update on January 26, 2023**
++++**Maintenance Update on January 26, 2023**
 
 **Error when submitting request from [!DNL Outlook]**
 
