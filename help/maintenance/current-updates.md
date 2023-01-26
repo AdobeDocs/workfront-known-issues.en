@@ -27,6 +27,17 @@ When a user attempts to submit a request with attachments from an [!DNL Outlook]
 
 This occurs only when an assignment is made for the new request, either through the request queue or manually when creating the request.
 
+**New Desktop Proofing Viewer version**
+
+_Proofing_
+
+To fix a freezing issue in the Desktop Proofing Viewer, we've deployed a new version of the desktop proofing viewer. Users who already have the Desktop Proofing Viewer installed will get this update automatically.
+
+Users can also manually down the latest version. For more information, see [Install the Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* Previous version: 2.1.19
+* New version: 2.1.20
+
 **User cannot edit their own user setting**
 
 _Users_

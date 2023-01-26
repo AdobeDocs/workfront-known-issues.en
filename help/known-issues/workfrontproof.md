@@ -30,7 +30,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | January 20, 2023 |
 | [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 20, 2023 |
-| [Proofs: Proofs do not unarchive](known-issues-workfront/wf-proofs-do-not-unarchive.md) | December 20, 2022 |
 
 {style="table-layout:auto"}
 

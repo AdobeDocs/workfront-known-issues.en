@@ -24,16 +24,15 @@ These recently reported issues are currently under review.
 
 {style="table-layout:auto"}
 
-
 ## In Progress
 
 Fixes for these issues are currently in progress, or are scheduled for the near future.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Users: Scheduled deactivation does not deactivate user](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | January 26, 2023 |
 | [Setup: Cannot save email templates](known-issues-workfront/wf-setup-email-templates-not-working.md) | January 20, 2023 |
 | [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 20, 2023 |
-| [Proofs: Proofs do not unarchive](known-issues-workfront/wf-proofs-do-not-unarchive.md) | December 20, 2022 |
 | [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | November 14, 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
