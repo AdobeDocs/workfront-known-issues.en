@@ -15,6 +15,41 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2023
 
++++**Maintenance Update on January 30, 2023**
+
+**Keyboard shortcuts added for common timesheet actions**
+
+_Timesheets_
+
+We have introduced the following keyboard shortcuts for the following commonly-performed actions inside a timesheet: 
+
+* Add row (Cmd+Option++ / Ctrl+Option++)  
+* Delete row (Cmd+Option+- / Ctrl+Option+-)  
+* Pin or Unpin a work item (Option+P / Option+P) 
+* Open comment (Shift+F2 / Shift+F2) 
+* Save comment (Cmd+Enter / Ctrl+Enter) 
+* Expand (Shift+Option+Up arrow/ Shift+Alt+Up arrow) 
+* Collapse (Shift+Option+Down arrow/ Shift+Alt+Down arrow)
+
+The area where these actions are performed must be highlighted in order for them to apply.
+
+**New information icons for timesheets, timesheet profiles, and timesheet preferences**
+
+_Timesheets_
+
+>[!NOTE]
+>
+>This update was released only to the Preview environment on November 3, 2022 and it is now available in Production.
+
+We have added several information icons to the following settings:  
+
+* "[!UICONTROL Can edit time]" checkbox when creating or editing a timesheet or a timesheet profile to indicate that when enabled, approvers can also submit, reopen, or edit the timesheet, unless your administrator restricts these actions in the [!UICONTROL Timesheet Preferences] area of [!UICONTROL Setup]. 
+* "[!UICONTROL Restrict timesheet editing to owners and admins]" in the [!UICONTROL Timesheet & Hour Preferences] area of [!UICONTROL Setup] to indicate that when disabled, the following users can also edit the timesheets: users with administrative access to timesheets and hours, timesheet approvers allowed to edit time, and timesheet owners' managers. 
+
+Notice that the functionality of these settings has not changed and only the information icons have been added to add clarity to the scope of the settings.
+
++++
+
 +++**Maintenance Update on January 26, 2023**
 
 **Error when submitting request from [!DNL Outlook]**
