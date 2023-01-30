@@ -18,6 +18,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | January 30, 2023 |
+| [Documents: "Invalid response" error when opening or downloading a document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | January 30, 2023 |
 | [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 18, 2023 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
@@ -30,6 +32,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Setup]: Audit logs do not export](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | January 30, 2023 |
+| [[!UICONTROL Summary]: Cannot scroll [!UICONTROL Summary] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | January 30, 2023 |
 | [Users: Scheduled deactivation does not deactivate user](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | January 26, 2023 |
 | [Setup: Cannot save email templates](known-issues-workfront/wf-setup-email-templates-not-working.md) | January 20, 2023 |
 | [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 20, 2023 |

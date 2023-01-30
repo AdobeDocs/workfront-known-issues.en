@@ -10,6 +10,10 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+        + [[!UICONTROL Setup]: Audit logs do not export](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+        + [[!UICONTROL Summary]: Cannot scroll [!UICONTROL Summary] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+        + [Documents: "Invalid response" error when opening or downloading a document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
         + [Users: Scheduled deactivation does not deactivate user](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
         + [Setup: Cannot save email templates](known-issues-workfront/wf-setup-email-templates-not-working.md)
         + [Users: User cannot edit their own user setting](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -161,6 +165,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Adobe Workfront Fusion]: 404 errors in Workfront modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
         + [[!DNL Workfront Fusion]: Cannot create connection to [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
         + [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] module display as "[!UICONTROL object Object]"](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
         + [[!DNL Workfront Fusion]: Error when viewing an error in a scenario execution history](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
