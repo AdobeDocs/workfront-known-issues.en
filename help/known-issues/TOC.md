@@ -165,7 +165,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
-        + [[!DNL Adobe Workfront Fusion]: 404 errors in Workfront modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+        + [[!DNL Adobe Workfront Fusion]: 404 errors in Workfront modules](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
         + [[!DNL Workfront Fusion]: Cannot create connection to [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
         + [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] module display as "[!UICONTROL object Object]"](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
         + [[!DNL Workfront Fusion]: Error when viewing an error in a scenario execution history](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
