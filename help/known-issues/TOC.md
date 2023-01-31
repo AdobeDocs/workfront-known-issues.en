@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: Summary panel returns to top when clicking three-dot menu](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+        + [Documents: "That page doesn't exist" error when opening or downloading a document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
         + [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
         + [[!UICONTROL Setup]: Audit logs do not export](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
         + [[!UICONTROL Summary]: Cannot scroll [!UICONTROL Summary] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
