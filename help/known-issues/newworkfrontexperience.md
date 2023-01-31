@@ -18,6 +18,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Summary panel returns to top when clicking three-dot menu](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | January 31, 2023 |
+| [Documents: "That page doesn't exist" error when opening or downloading a document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | January 31, 2023 |
 | [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | January 30, 2023 |
 | [Documents: "Invalid response" error when opening or downloading a document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | January 30, 2023 |
 | [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 18, 2023 |
