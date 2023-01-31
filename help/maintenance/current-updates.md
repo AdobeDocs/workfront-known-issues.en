@@ -13,7 +13,17 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
-## Updates in January 2023
+## Updates in February 2023
+
++++**Maintenance Update on February 2, 2023**
+
+**Cannot save email templates**
+
+_Setup_
+
+When a user attempts to create or edit an email template, the [!UICONTROL Save] button is unresponsive, and the user cannot save the template.
+
++++
 
 +++**Maintenance Update on January 30, 2023**
 
