@@ -34,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Groups: Subgroups do not reveive notifications based on Group event notification settings](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | February 2, 2023 |
 | [[!UICONTROL Setup]: Audit logs do not export](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | January 30, 2023 |
 | [[!UICONTROL Summary]: Cannot scroll [!UICONTROL Summary] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | January 30, 2023 |
 | [Users: Scheduled deactivation does not deactivate user](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | January 26, 2023 |
