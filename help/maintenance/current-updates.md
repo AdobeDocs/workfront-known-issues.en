@@ -21,7 +21,9 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 _Boards_
 
-The Boards icon now appears in the Main Menu for users who do not have a layout template. Boards is also included in the Main Menu by default for any new layout templates that are created. Existing layout templates have not changed.**Cannot save email templates**
+The Boards icon now appears in the Main Menu for users who do not have a layout template. Boards is also included in the Main Menu by default for any new layout templates that are created. Existing layout templates have not changed.
+
+**Cannot save email templates**
 
 _Setup_
 
