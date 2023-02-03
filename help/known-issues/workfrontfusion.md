@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None | |
+| [[!DNL Adobe Workfront Fusion]: Timeout errors in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | February 3, 2023 |
 
 {style="table-layout:auto"}
 

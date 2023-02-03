@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Workload Balancer: Inaccurate results when using multiple filters at once](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
         + [Groups: Subgroups do not reveive notifications based on Group event notification settings](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
         + [Documents: Summary panel returns to top when clicking three-dot menu](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
         + [Documents: "That page doesn't exist" error when opening or downloading a document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
@@ -169,6 +170,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Adobe Workfront Fusion]: Timeout errors in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
         + [[!DNL Adobe Workfront Fusion]: 404 errors in Workfront modules](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
         + [[!DNL Workfront Fusion]: Cannot create connection to [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
         + [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] module display as "[!UICONTROL object Object]"](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
