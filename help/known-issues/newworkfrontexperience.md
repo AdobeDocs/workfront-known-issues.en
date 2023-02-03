@@ -21,8 +21,6 @@ These recently reported issues are currently under review.
 | [Documents: Summary panel returns to top when clicking three-dot menu](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | January 31, 2023 |
 | [Documents: "That page doesn't exist" error when opening or downloading a document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | January 31, 2023 |
 | [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | January 30, 2023 |
-| [Documents: "Invalid response" error when opening or downloading a document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | January 30, 2023 |
-| [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 18, 2023 |
 | [Proofs: Proof generation is extremely slow](known-issues-workfront/wf-proofs-slow-proof-generation.md) | October 27, 2022 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 

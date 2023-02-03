@@ -20,7 +20,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Documents: Summary panel returns to top when clicking three-dot menu](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | January 31, 2023 |
 | [Documents: "That page doesn't exist" error when opening or downloading a document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | January 31, 2023 |
-| [Documents: "Invalid response" error when opening or downloading a document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | January 30, 2023 |
 | [Documents: Cannot add documents from [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | December 20, 2022 |
 
 {style="table-layout:auto"}
@@ -32,7 +31,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | January 20, 2023 |
-| [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 20, 2023 |
 
 {style="table-layout:auto"}
 
