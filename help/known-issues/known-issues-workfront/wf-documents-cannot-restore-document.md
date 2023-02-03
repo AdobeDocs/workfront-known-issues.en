@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Documents: Cannot restore deleted document
 
+>[!NOTE]
+>
+>This issue was fixed on February 2, 2023.
+
 <!-- On WF and WFP TOCs-->
 
 When a user attempts to restore a previously deleted document, they cannot restore the document, and they see the following error:
