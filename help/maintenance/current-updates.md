@@ -15,6 +15,12 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2023
 
++++**(Planned) Maintenance Update on February 9, 2023**
+
+This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
+
++++
+
 +++**Maintenance Update on February 2, 2023**
 
 **Boards icon appears in Main Menu by default**
