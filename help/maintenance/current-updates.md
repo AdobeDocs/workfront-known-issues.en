@@ -21,6 +21,16 @@ This update includes only minor or less prominent bug fixes. [!DNL Workfront] Su
 
 +++
 
++++**Maintenance Update on February 8, 2023**
+
+**Filter button in intake column**
+
+_Boards_
+
+The intake column on a board now includes an **Add a filter** button when the column is empty and no filters have been created. The button opens the configuration area, where you can add filters to bring tasks and issues into the intake column.
+
++++
+
 +++**Maintenance Update on February 2, 2023**
 
 **Boards icon appears in Main Menu by default**
