@@ -15,9 +15,13 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2023
 
-+++**(Planned) Maintenance Update on February 9, 2023**
++++**Maintenance Update on February 9, 2023**
 
-This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
+**[!UICONTROL Story Points] field added to task and issue lists and reports**
+
+_Reports_
+
+The [!UICONTROL Story Points] field is now available to add to lists and reports for tasks or issues. It is an editable, free form field that is not tied to planned hours or team assignments.
 
 +++
 
@@ -27,17 +31,17 @@ This update includes only minor or less prominent bug fixes. [!DNL Workfront] Su
 
 _Boards_
 
-The intake column on a board now includes an **Add a filter** button when the column is empty and no filters have been created. The button opens the configuration area, where you can add filters to bring tasks and issues into the intake column.
+The intake column on a board now includes an **[!UICONTROL Add a filter]** button when the column is empty and no filters have been created. The button opens the configuration area, where you can add filters to bring tasks and issues into the intake column.
 
 +++
 
 +++**Maintenance Update on February 2, 2023**
 
-**Boards icon appears in Main Menu by default**
+**[!UICONTROL Boards] icon appears in [!UICONTROL Main Menu] by default**
 
 _Boards_
 
-The Boards icon now appears in the Main Menu for users who do not have a layout template. Boards is also included in the Main Menu by default for any new layout templates that are created. Existing layout templates have not changed.
+The [!UICONTROL Boards] icon now appears in the [!UICONTROL Main Menu] for users who do not have a layout template. Boards is also included in the Main Menu by default for any new layout templates that are created. Existing layout templates have not changed.
 
 **Cannot save email templates**
 
