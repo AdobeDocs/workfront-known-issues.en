@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 <!--This article is on the WF and WFP TOC-->
 
+>[!NOTE]
+>
+>This issue was fixed on February 2 2023.
+
 When a user attempts to open or download a document in Workfront, they cannot open or download it, and they see the following error:
 
 "[!UICONTROL That page doesn't exist. Please double-check and try again.]"
