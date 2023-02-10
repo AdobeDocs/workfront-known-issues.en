@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Users: User cannot edit their own notification settings](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
         + [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
         + [Workload Balancer: Inaccurate results when using multiple filters at once](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
         + [Groups: Subgroups do not reveive notifications based on Group event notification settings](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
