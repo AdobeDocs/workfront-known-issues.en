@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Users: User cannot edit their own notification settings](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | February 10, 2023 |
 | [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | February 3, 2023 |
 | [Documents: Summary panel returns to top when clicking three-dot menu](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | January 31, 2023 |
 | [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | January 30, 2023 |
