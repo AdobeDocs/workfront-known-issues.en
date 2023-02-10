@@ -33,6 +33,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: Link to a comment redirects to Details page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | February 10, 2023 |
 | [[!UICONTROL Setup]: Audit logs do not export](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | January 30, 2023 |
 | [Users: Scheduled deactivation does not deactivate user](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | January 26, 2023 |
 | [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 20, 2023 |
