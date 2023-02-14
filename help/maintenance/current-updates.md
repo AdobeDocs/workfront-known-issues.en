@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2023
 
-+++**Maintenance Update on February 16, 2023**
++++**(Planned) Maintenance Update on February 16, 2023**
 
 **Scheduled deactivation does not deactivate user**
 
