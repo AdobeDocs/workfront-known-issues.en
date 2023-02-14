@@ -15,6 +15,16 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2023
 
++++**(Planned) Maintenance Update on February 16, 2023**
+
+**Scheduled deactivation does not deactivate user**
+
+_Users_
+
+When a user is scheduled to be deactivated, and the scheduled date and time passes, the user is not deactivated.
+
++++
+
 +++**Maintenance Update on February 9, 2023**
 
 **[!UICONTROL Story Points] field added to task and issue lists and reports**
