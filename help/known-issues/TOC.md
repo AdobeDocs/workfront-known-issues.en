@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!UICONTROL Boards]: Cannot add cards when grouping is applied](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
         + [Users: Access level is not assigned when reactivating user](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
         + [Updates: Link to a comment redirects to [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
         + [Users: User cannot edit their own notification settings](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
