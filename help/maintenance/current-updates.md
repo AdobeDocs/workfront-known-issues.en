@@ -15,7 +15,19 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2023
 
-+++**(Planned) Maintenance Update on February 16, 2023**
++++**Maintenance Update on February 16, 2023**
+
+**Multiple team assignments on boards**
+
+_Boards_
+
+You can now assign multiple teams to a task or issue on a board, and to the board itself.
+
+**Card falloff limit increase**
+
+_Boards_
+
+The card falloff time limits have been increased to 8 weeks / 60 days instead of 4 weeks / 30 days.
 
 **Scheduled deactivation does not deactivate user**
 
