@@ -15,6 +15,24 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2023
 
++++**(Planned) Maintenance Update on February 23, 2023**
+
+**Link to a comment redirects to [!UICONTROL Details] page**
+
+_Updates_
+
+When a user follows a link to a comment on an object in Workfront, the update stream loads briefly, and then the user is redirected to the object's [!UICONTROL Details] area. This may occur if the user clicks the link from an email or pastes the link into their browser.
+
+This currently affects only Document objects.
+
+**User cannot edit their own notification settings**
+
+_Users_
+
+When a user with a [!UICONTROL Worker] licence attempts to edit their own notification settings, the [!UICONTROL Notifications] options are not visible in the [!UICONTROL Edit] window, and the user cannot edit the settings.
+
++++
+
 +++**Maintenance Update on February 16, 2023**
 
 **Multiple team assignments on boards**
@@ -72,6 +90,8 @@ _Setup_
 When a user attempts to create or edit an email template, the [!UICONTROL Save] button is unresponsive, and the user cannot save the template.
 
 +++
+
+## Updates In January 2023
 
 +++**Maintenance Update on January 30, 2023**
 
