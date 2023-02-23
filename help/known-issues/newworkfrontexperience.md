@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | [Projects: 504 error in project header](known-issues-workfront/wf-projects-504-error-in-project-header.md) | February 17, 2023 |
 | [[!UICONTROL Boards]: Cannot add cards when grouping is applied](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | February 16, 2023 |
 | [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | February 3, 2023 |
-| [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | January 30, 2023 |
 | [Proofs: Print summary does not display all pages of proof](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | October 19, 2022 |
 
 {style="table-layout:auto"}
@@ -32,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | February 23, 2023 |
 | [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | February 14, 2023 |
 | [Users: Access level is not assigned when reactivating user](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | February 13, 2023 |
 | [Documents: Cannot restore deleted document](known-issues-workfront/wf-documents-cannot-restore-document.md) | January 20, 2023 |
