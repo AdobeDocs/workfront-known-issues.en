@@ -39,6 +39,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: User does not receive email when tagged in a proof comment](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | February 23, 2023 |
 | [Proofs: New stage created because deadline cannot match deadline of existing stage](known-issues-workfront-proof/proof-new-stage-created.md) | February 2, 2023 |
 | [[!UICONTROL Home]: Completed proofs stuck in the [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | January 10, 2023 |
 | [Proofs: Proof status does not update in [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | December 5, 2022 |
