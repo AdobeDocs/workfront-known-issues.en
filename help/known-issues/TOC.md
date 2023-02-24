@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
         + [Projects: 504 error in project header](known-issues-workfront/wf-projects-504-error-in-project-header.md)
         + [[!UICONTROL Boards]: Cannot add cards when grouping is applied](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
         + [Users: Access level is not assigned when reactivating user](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
@@ -113,6 +114,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md)
         + [Proofs: User does not receive email when tagged in a proof comment](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
         + [Proofs: New stage created because deadline cannot match deadline of existing stage](known-issues-workfront-proof/proof-new-stage-created.md)
         + [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
