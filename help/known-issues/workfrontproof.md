@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | February 3, 2023 |
-| [Documents: Cannot add documents from [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | December 20, 2022 |
 
 {style="table-layout:auto"}
 

@@ -8,7 +8,7 @@ exl-id: c997469f-b80c-4438-b353-897f9cdb9481
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue was fixed on January 25, 2023.
 
 When a user is viewing a scenario execution history and attempts to see more detail about an error by clicking on the error, the details do not open and the user sees the following message:
 
