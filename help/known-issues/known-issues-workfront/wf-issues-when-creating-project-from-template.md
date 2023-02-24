@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue was fixed on January 11, 2023.
 
 When a user creates a project from a template and saves the project, the project takes 3-5 times longer than usual to be created. In addition, the user sees the message "[!UICONTROL Failed to Fetch]", which suggests that the project has not been created, although the project has in fact been created.
 

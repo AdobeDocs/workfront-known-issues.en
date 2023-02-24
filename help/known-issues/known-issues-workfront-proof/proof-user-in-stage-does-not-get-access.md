@@ -7,6 +7,7 @@ hidefromtoc: yes
 # Proofs: Proof is not shared to users on the Proof Workflow
 
 <!--This issue is on the WF and WFP TOCs-->
+<!--Article live by request-->
 
 >[!NOTE]
 >
