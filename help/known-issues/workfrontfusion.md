@@ -40,7 +40,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Error when viewing an error in a scenario execution history](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | November 4, 2022 |
 | [[!DNL Workfront Fusion]: "Failed to verify connection" error](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | September 29, 2022  |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | September 9, 2022 |
 
