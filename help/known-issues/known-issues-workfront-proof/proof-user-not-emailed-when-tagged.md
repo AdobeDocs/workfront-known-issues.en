@@ -1,6 +1,6 @@
 ---
-title: ""
-description: ""
+title: "Proofs: User does not receive email when tagged in a proof comment"
+description: "When a user is tagged using the @name format on a proof comment, the user does not receive an email notification about the comment."
 hidefromtoc: yes
 ---
 
