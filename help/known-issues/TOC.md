@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Proof roles are changed to [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
         + [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
         + [Projects: 504 error in project header](known-issues-workfront/wf-projects-504-error-in-project-header.md)
         + [[!UICONTROL Boards]: Cannot add cards when grouping is applied](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)

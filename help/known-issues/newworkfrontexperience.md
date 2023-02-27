@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proof roles are changed to [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | February 27, 2023 |
 | [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | February 24, 2023 |
 | [Projects: 504 error in project header](known-issues-workfront/wf-projects-504-error-in-project-header.md) | February 17, 2023 |
 | [[!UICONTROL Boards]: Cannot add cards when grouping is applied](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | February 16, 2023 |
