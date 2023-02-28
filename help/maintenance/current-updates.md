@@ -13,6 +13,34 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in March 2023
+
++++**(Planned) Maintenance Update on March 2, 2023**
+
+**Cannot add cards when grouping is applied**
+
+_Boards_
+
+When a user is viewing a board that has a grouping applies, and attempts to add a card, the user can only enter the name of the card. The rest of the card fields are disabled, including the [!UICONTROL Save] button.
+
+If the user changes the grouping to [!UICONTROL None], the issue remains. The user must change the grouping to [!UICONTROL None] and then refresh the page to restore the ability to add a card.
+
+**Link to a comment redirects to [!UICONTROL Details] page**
+
+_Updates_
+
+When a user follows a link to a comment on an object in Workfront, the update stream loads briefly, and then the user is redirected to the object's [!UICONTROL Details] area. This may occur if the user clicks the link from an email or pastes the link into their browser.
+
+This currently affects only Document objects.
+
+**[!DNL Workfront Proof]: Print Summary does not load**
+
+_[!UICONTROL Workfront Proof]_
+
+When a user attempts to load the Print Summary page, the page appears to be loading, but never loads.
+
++++
+
 ## Updates in February 2023
 
 +++**Maintenance Update on February 23, 2023**
