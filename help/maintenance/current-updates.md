@@ -33,7 +33,7 @@ When a user follows a link to a comment on an object in Workfront, the update st
 
 This currently affects only Document objects.
 
-**[!DNL Workfront Proof]: Print Summary does not load**
+**Print Summary does not load**
 
 _[!UICONTROL Workfront Proof]_
 
