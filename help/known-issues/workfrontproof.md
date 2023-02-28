@@ -31,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: [!UICONTROL Print Summary] does not load](known-issues-workfront-proof/proof-print-summary-not-loading.md) | February 28, 2023 |
 | [Updates: Link to a comment redirects to [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | February 24, 2023 |
 | [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | January 20, 2023 |
 
