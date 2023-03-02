@@ -20,7 +20,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Cannot add user or group to proof workflow](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | February 27, 2023 |
 | [Proofs: Proof roles are changed to [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | February 27, 2023 |
-| [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | February 24, 2023 |
 | [Projects: 504 error in project header](known-issues-workfront/wf-projects-504-error-in-project-header.md) | February 17, 2023 |
 | [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | February 3, 2023 |
 
@@ -32,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | March 2, 2023 |
 | [Projects: Custom field is missing when issue is converted to project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | March 23, 2023 |
 | [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | February 23, 2023 |
 | [Users: Access level is not assigned when reactivating user](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | February 13, 2023 |
