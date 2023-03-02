@@ -117,6 +117,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [[!DNL Workfront Proof]: Proof does not load when using "[!UICONTROL Go to proof]" button in email notification](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
         + [[!DNL Workfront Proof]: [!UICONTROL Reports] area is no longer supported](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
         + [[!DNL Workfront Proof]: [!UICONTROL Print Summary] does not load](known-issues-workfront-proof/proof-print-summary-not-loading.md)
         + [Proofs: User does not receive email when tagged in a proof comment](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
