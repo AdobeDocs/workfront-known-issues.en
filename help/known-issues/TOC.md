@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Custom field is missing when issue is converted to project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
         + [Proofs: Cannot add user or group to proof workflow](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
         + [Proofs: Proof roles are changed to [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
         + [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
@@ -139,6 +140,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Workfront Fusion]: Scenario execution history does not display entire history](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
         + [[!DNL Adobe Workfront Fusion]: Timeout errors in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
         + [[!DNL Adobe Workfront Fusion]: 404 errors in Workfront modules](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
         + [[!DNL Workfront Fusion]: Cannot create connection to [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
