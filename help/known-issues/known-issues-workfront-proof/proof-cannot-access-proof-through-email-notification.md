@@ -1,6 +1,6 @@
 ---
-title: "Workfront Proof: Proof does not load when using "Go to proof" button in email notification"
-description: "When a user attempts to go to a proof using the "Go to proof" button in an email notification, the user is taken to a blank, gray page. The proof does not load."
+title: "Workfront Proof: Proof does not load when using Go to proof button in email notification"
+description: "When a user attempts to go to a proof using the Go to proof button in an email notification, the user is taken to a blank, gray page. The proof does not load."
 hidefromtoc: yes
 ---
 
