@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!DNL Workfront Proof]: Proof does not load when using "[!UICONTROL Go to proof]" button in email notification
 
+>[!NOTE]
+>
+>This issue was fixed on March 2, 2023.
+
 When a user attempts to go to a proof using the "[!UICONTROL Go to proof]" button in an email notification, the user is taken to a blank, gray page. The proof does not load.
 
 **Workaround:**
