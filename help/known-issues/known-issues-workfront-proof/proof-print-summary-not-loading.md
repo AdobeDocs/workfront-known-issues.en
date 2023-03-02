@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!DNL Workfront Proof]: [!UICONTROL Print Summary] does not load
 
+>[!NOTE]
+>
+>This issue was fixed on March 2, 2023.
+
 When a user attempts to load the [!UICONTROL Print Summary] page, the page appears to be loading, but never loads.
 
 _First reported on February 23, 2023._

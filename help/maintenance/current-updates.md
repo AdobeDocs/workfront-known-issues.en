@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
-+++**(Planned) Maintenance Update on March 2, 2023**
++++**Maintenance Update on March 2, 2023**
 
 **Cannot add cards when grouping is applied**
 
@@ -24,6 +24,13 @@ _Boards_
 When a user is viewing a board that has a grouping applies, and attempts to add a card, the user can only enter the name of the card. The rest of the card fields are disabled, including the [!UICONTROL Save] button.
 
 If the user changes the grouping to [!UICONTROL None], the issue remains. The user must change the grouping to [!UICONTROL None] and then refresh the page to restore the ability to add a card.
+
+**Connected cards not added to columns based on status**
+
+_Boards_
+
+Even though column policies are applied for status, new connected cards appear in the leftmost column and not in the column that corresponds to their status.
+
 
 **Link to a comment redirects to [!UICONTROL Details] page**
 
