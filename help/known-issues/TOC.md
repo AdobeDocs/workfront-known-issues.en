@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+        + [Documents: [!UICONTROL Summary] panel contents are too wide for the panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
         + [Projects: Custom field is missing when issue is converted to project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
         + [Proofs: Cannot add user or group to proof workflow](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
         + [Proofs: Proof roles are changed to [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
