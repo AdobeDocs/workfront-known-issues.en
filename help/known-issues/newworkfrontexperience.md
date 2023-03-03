@@ -31,6 +31,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 3, 2023 |
+| [Documents: [!UICONTROL Summary] panel contents are too wide for the panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | March 3, 2023 |
 | [Proofs: Custom messages not appearing in email notifications](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | March 3, 2023 |
 | [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | March 2, 2023 |
 | [Projects: Custom field is missing when issue is converted to project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | March 2, 2023 |

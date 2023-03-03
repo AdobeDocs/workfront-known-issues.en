@@ -31,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: [!UICONTROL Summary] panel contents are too wide for the panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | March 3, 2023 |
 | [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | January 20, 2023 |
 
 {style="table-layout:auto"}
