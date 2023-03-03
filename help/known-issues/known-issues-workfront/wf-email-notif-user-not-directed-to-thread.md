@@ -6,6 +6,8 @@ hidefromtoc: yes
 ---
 # Email Notifications: User isn't directed to comment thread
 
+<!--Article created by request-->
+
 >[!NOTE]
 >
 >The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.

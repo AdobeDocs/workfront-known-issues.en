@@ -7,7 +7,7 @@ hidefromtoc: yes
 
 # Proofs: [!UICONTROL Active Proof Stages] field is blank
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
+<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
 
 >[!NOTE]
 >

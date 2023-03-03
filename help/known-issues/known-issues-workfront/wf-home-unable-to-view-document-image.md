@@ -6,6 +6,8 @@ hidefromtoc: yes
 ---
 # [!UICONTROL Home]: Unable to view the document image in the [!UICONTROL Work List]
 
+<!--Article created by request-->
+
 >[!NOTE]
 >
 >The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
