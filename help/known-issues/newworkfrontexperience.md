@@ -31,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Custom messages not appearing in email notifications](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | March 3, 2023 |
 | [Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | March 2, 2023 |
 | [Projects: Custom field is missing when issue is converted to project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | March 2, 2023 |
 | [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | February 23, 2023 |
