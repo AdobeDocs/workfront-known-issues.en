@@ -52,7 +52,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Proofs: User does not receive email when tagged in a proof comment](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | February 23, 2023 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | January 20, 2023 |
 | [[!UICONTROL Home]: Completed proofs stuck in the [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | January 10, 2023 |
-| [Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | January 6, 2023 |
 | [Proofs: Proof status does not update in [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | December 5, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | December 2, 2022 |
 | [Custom forms: Cross-object custom forms require [!UICONTROL Manage] or [!UICONTROL Edit] access to edit fields](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | November 21, 2022 |

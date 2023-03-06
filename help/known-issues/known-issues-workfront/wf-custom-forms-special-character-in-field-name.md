@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue was fixed on March 2, 2023.
 
 When a user is creating a calculated field expression, and attempts to include a typeahead field that has a name with a `'` or `"`, the calculation is not accepted, and the user sees the message "[!UICONTROL This is an invalid custom expression, please try again.]"
 
