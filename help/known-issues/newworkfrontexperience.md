@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | [Proofs: Cannot add user or group to proof workflow](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | February 27, 2023 |
 | [Proofs: Proof roles are changed to [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | February 27, 2023 |
 | [Projects: 504 error in project header](known-issues-workfront/wf-projects-504-error-in-project-header.md) | February 17, 2023 |
-| [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | February 3, 2023 |
 
 {style="table-layout:auto"}
 
@@ -48,6 +47,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | March 7, 2023 |
 | [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | February 24, 2023 |
 | [Proofs: User does not receive email when tagged in a proof comment](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | February 23, 2023 |
 | [Custom forms: "[!UICONTROL Invalid custom expression]" message when referencing "[!UICONTROL owner]" in a calculated field](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | January 20, 2023 |
