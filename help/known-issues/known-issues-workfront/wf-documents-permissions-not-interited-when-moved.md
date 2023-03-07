@@ -18,5 +18,7 @@ When a user moves a document to a different project, the document does not inher
 
 1. Re-add inherited permissions by navigating back to the parent object's share list and clicking **[!UICONTROL Undo]** next to inherited permissions, then click **[!UICONTROL Save]**.
 
+Alternatively, you can make note of the document's ID (found in the URL of the Document Details page) and contact Workfront customer support.
+
 _First reported on January 6, 2023._
 
