@@ -10,5 +10,13 @@ hidefromtoc: yes
 
 When a user moves a document to a different project, the document does not inherit sharing permissions from the new project. The document is not shared to the users that the project is shared to. 
 
+**Workaround:**
+
+1. Navigate to the document's parent object such as Project, Task, or Issue.
+
+1. Remove inherited permissions from the parent object's share list by clicking the "x" next to inherited permissions, then click **[!UICONTROL Save]**.
+
+1. Re-add inherited permissions by navigating back to the parent object's share list and clicking **[!UICONTROL Undo]** next to inherited permissions, then click **[!UICONTROL Save]**.
+
 _First reported on January 6, 2023._
 

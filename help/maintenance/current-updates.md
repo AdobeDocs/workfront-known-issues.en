@@ -15,6 +15,16 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
++++**(Planned) Maintenance Update on March 9, 2023**
+
+**Access level is not assigned when reactivating user**
+
+_Users_
+
+When a user is reactivating a deactivated user, and attempts to assign them an access level in the [!UICONTROL Reactivate User] window, the access level dropdown does not populate as the user types, and the user cannot select an access level. If the user types in the access level and saves, that access level is not assigned to the reactivated user.
+
++++
+
 +++**Maintenance Update on March 2, 2023**
 
 **Cannot add cards when grouping is applied**
