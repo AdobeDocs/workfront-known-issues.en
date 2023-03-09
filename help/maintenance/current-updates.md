@@ -23,6 +23,12 @@ _Users_
 
 When a user is reactivating a deactivated user, and attempts to assign them an access level in the [!UICONTROL Reactivate User] window, the access level dropdown does not populate as the user types, and the user cannot select an access level. If the user types in the access level and saves, that access level is not assigned to the reactivated user.
 
+**Save the draft of a comment in the [!DNL Goals] area**
+
+_[!DNL Workfront Goals]_
+
+Now, when you navigate away from the [!UICONTROL Updates] page of a goal while in the middle of composing a message, the message is preserved when you navigate back. Before this update, the unsubmitted comment would have been deleted.
+
 +++
 
 +++**Maintenance Update on March 2, 2023**
