@@ -6,6 +6,8 @@ exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 ---
 # [!DNL Workfront Fusion]: "Failed to verify connection" error
 
+<!--This article is live by request for the workaround-->
+
 [!UICONTROL Workfront Fusion] connections to a [!DNL Workfront] account may fail authentication, causing scenarios to throw the following error: 
 
 Failed to verify connection.
