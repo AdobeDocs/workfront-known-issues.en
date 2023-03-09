@@ -8,7 +8,7 @@ exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue was fixed on March 9, 2023.
 
 <!--
 >[!NOTE]

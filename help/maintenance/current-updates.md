@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
-+++**(Planned) Maintenance Update on March 9, 2023**
++++**Maintenance Update on March 9, 2023**
 
 **Access level is not assigned when reactivating user**
 
