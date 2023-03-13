@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workload Balancer: Hours do not adjust to account for user time off](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | March 13, 2023 |
 | [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | March 10, 2023 |
 | [[!UICONTROL Updates]: Cannot log time for the current day in the [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | March 10, 2023 |
 | [Proofs: Cannot add user or group to proof workflow](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | February 27, 2023 |
