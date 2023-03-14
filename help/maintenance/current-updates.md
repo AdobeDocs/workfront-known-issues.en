@@ -17,6 +17,12 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 +++**(Planned) Maintenance Update on March 16, 2023**
 
+**Checklist items not copied when copying a card**
+
+_Boards_
+
+When copying an ad hoc card (connected cards cannot be copied), checklist items are not copied to the new card.
+
 **[!UICONTROL Summary] panel contents are too wide for the panel**
 
 _Documents_
