@@ -15,6 +15,28 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
++++**Maintenance Update on March 16, 2023**
+
+**[!UICONTROL Summary] panel contents are too wide for the panel**
+
+_Documents_
+
+When a user views the [!UICONTROL Summary] panel for a document, the contents are too wide to be seen in the panel. The panel now has a horizontal scrollbar, and the user must scroll horizontally to see the [!UICONTROL Summary] panel contents. This occurs because the filename of the document does not wrap. This issue is limited to file where the filename has an HTML file extension.
+
+**Custom field is missing when issue is converted to project**
+
+_Projects_
+
+When a user converts an issue to a project using a template, a custom field that was on the issue does not display on the project. This issue affects only non-admins.
+
+**Custom messages not appearing in email notifications**
+
+_Proofs_
+
+When a user shares a proof and adds a custom message, that custom message does not appear in the notification email to the recipient. The subject is the proof name, and the message does not appear in the email.
+
++++
+
 +++**Maintenance Update on March 9, 2023**
 
 **Access level is not assigned when reactivating user**
