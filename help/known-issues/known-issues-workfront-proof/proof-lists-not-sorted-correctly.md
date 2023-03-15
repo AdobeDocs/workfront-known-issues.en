@@ -1,0 +1,12 @@
+---
+title: "Workfront Proof: Lists are not sorted correctly"
+description: "When a user views a list in Workfront Proof that has sorting applied (such as Name), the sorting is not accurate."
+hidefromtoc: yes
+---
+
+# [!DNL Workfront Proof]: Lists are not sorted correctly
+
+When a user views a list in [!DNL Workfront Proof] that has sorting applied (such as [!UICONTROL Name]), the sorting is not accurate.
+
+_First reported on March 10, 2023._
+
