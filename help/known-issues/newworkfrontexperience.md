@@ -18,12 +18,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 16, 2023 |
 | [[!UICONTROL Workload Balancer]: Hours do not adjust to account for user time off](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | March 13, 2023 |
-| [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | March 10, 2023 |
 | [[!UICONTROL Updates]: Cannot log time for the current day in the [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | March 10, 2023 |
-| [Proofs: Cannot add user or group to proof workflow](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | February 27, 2023 |
-| [Proofs: Proof roles are changed to [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | February 27, 2023 |
-| [Projects: 504 error in project header](known-issues-workfront/wf-projects-504-error-in-project-header.md) | February 17, 2023 |
 
 {style="table-layout:auto"}
 
@@ -33,6 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | March 16, 2023 |
 | [Filters: Filter is not applied when page is refreshed](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | March 16, 2023 |
 | [Documents: [!UICONTROL Summary] panel contents are too wide for the panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | March 3, 2023 |
 | [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | February 23, 2023 |

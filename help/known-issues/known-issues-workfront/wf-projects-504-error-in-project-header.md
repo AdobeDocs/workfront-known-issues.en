@@ -5,6 +5,10 @@ description: "When a user is viewing a project, there is no name or data in the 
 
 # Projects: 504 error in project header
 
+>[!NOTE]
+>
+>This issue has been resolved.
+
 When a user is viewing a project, there is no name or data in the project header. Instead, the user sees an error similar to the following:
 
 "504: undefined /internal/qs/customizableHeaderData?objCode=PROJ&objectID=xxxxxxxxxxxxxxx"

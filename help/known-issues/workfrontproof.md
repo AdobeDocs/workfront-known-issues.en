@@ -18,10 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-|  | February 24, 2023 |
 | [[!DNL Workfront Proof]: Lists are not sorted correctly](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | March 15, 2023 |
-| [Proofs: Cannot add user or group to proof workflow](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | February 27, 2023 |
-| [Proofs: Proof roles are changed to [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | February 27, 2023 |
 
 {style="table-layout:auto"}
 
