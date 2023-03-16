@@ -18,7 +18,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Scenario execution history does not display entire history](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | March 3, 2023 |
 | [[!DNL Adobe Workfront Fusion]: Timeout errors in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | February 3, 2023 |
 
 {style="table-layout:auto"}

@@ -6,7 +6,7 @@ hidefromtoc: yes
 
 # [!DNL Workfront Proof]: Lists are not sorted correctly
 
-When a user views a list in [!DNL Workfront Proof] that has sorting applied (such as [!UICONTROL Name]), the sorting is not accurate.
+When a user views a list in [!DNL Workfront Proof] that has sorting applied (such as [!UICONTROL Name]), the sorting is not accurate. Alternatively, when a sorting is applied, the list is blank.
 
 _First reported on March 10, 2023._
 
