@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Filters: Filter is not applied when page is refreshed](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
         + [[!UICONTROL Workload Balancer]: Hours do not adjust to account for user time off](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
         + [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
         + [[!UICONTROL Updates]: Cannot log time for the current day in the [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)

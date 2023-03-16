@@ -33,9 +33,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filters: Filter is not applied when page is refreshed](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | March 16, 2023 |
 | [Documents: [!UICONTROL Summary] panel contents are too wide for the panel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | March 3, 2023 |
-| [Proofs: Custom messages not appearing in email notifications](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | March 3, 2023 |
-| [Projects: Custom field is missing when issue is converted to project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | March 2, 2023 |
 | [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | February 23, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 

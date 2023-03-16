@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Projects: Custom field is missing when issue is converted to project
 
+>[!NOTE]
+>
+>This issue was fixed on March 16, 2023.
+
 When a user converts an issue to a project using a template, a custom field that was on the issue does not display on the project. This issue affects only non-admins.
 
 _First reported on February 6, 2023._
