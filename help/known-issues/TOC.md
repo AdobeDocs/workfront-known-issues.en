@@ -10,6 +10,9 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+        + [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+        + [Updates: Update made in behalf of a user displays as directly from the user](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
         + [Filters: Filter is not applied when page is refreshed](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
         + [[!UICONTROL Workload Balancer]: Hours do not adjust to account for user time off](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
         + [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
