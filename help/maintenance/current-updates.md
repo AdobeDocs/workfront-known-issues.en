@@ -15,7 +15,17 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
-+++**(Planned) Maintenance Update on March 16, 2023**
++++**(Planned) Maintenance Update on March 23, 2023**
+
+**[!UICONTROL Summary] panel contents are too wide for the panel**
+
+_Documents_
+
+When a user views the [!UICONTROL Summary] panel for a document, the contents are too wide to be seen in the panel. The panel now has a horizontal scrollbar, and the user must scroll horizontally to see the [!UICONTROL Summary] panel contents. This occurs because the filename of the document does not wrap. This issue is limited to file where the filename has an HTML file extension.
+
++++
+
++++**Maintenance Update on March 16, 2023**
 
 **Checklist items not copied when copying a card**
 
