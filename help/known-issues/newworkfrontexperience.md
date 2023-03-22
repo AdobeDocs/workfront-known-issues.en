@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Issues with the Document List](known-issues-workfront/wf-documents-list-missing-elements.md) | March 22, 2023 |
 | [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 21, 2023 |
 | [Users: Access level changed by system without a record of the change](known-issues-workfront/wf-users-access-level-is-changed.md) | March 20, 2023 |
 | [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 17, 2023 |
