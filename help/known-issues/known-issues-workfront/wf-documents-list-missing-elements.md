@@ -10,7 +10,7 @@ hidefromtoc: yes
 
 The following issues have been reported regarding the Document List:
 
-* Thumbnails do not display
+* Thumbnails do not display.
 * If a user switches the selected folder while in List view, the Filter View, and Grouping options no longer function.
 
 **Workaround**
