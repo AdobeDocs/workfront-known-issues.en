@@ -1,5 +1,5 @@
 ---
-title: "Proofs: User is deactivated from proof workflow and gets "Access not permitted" when accessing proof"
+title: "Proofs: User is deactivated from proof workflow and gets Access not permitted when accessing proof"
 description: "When a user attempts to access a proof they they are assigned to a workflow on, they see an Access not permitted message."
 hidefromtoc: yes
 ---
