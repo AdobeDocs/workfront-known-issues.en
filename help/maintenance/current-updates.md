@@ -31,7 +31,7 @@ To fix a commenting issue in the [!UICONTROL Desktop Proofing Viewe]r, we've dep
 
 Users who already have the [!UICONTROL Desktop Proofing Viewer] installed will get this update automatically.
 
-Users can also manually down the latest version. For more information, see Install the [!UICONTROL Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+Users can also manually down the latest version. For more information, see [Install the [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 
 * Previous version: 2.1.22
 * New version: 2.1.23
