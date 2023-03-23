@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: User is deactivated from proof workflow and gets "[!UICONTROL Access not permitted]" when accessing proof](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
         + [Documents: Issues with the Document List](known-issues-workfront/wf-documents-list-missing-elements.md)
         + [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
         + [Users: Access level changed by system without a record of the change](known-issues-workfront/wf-users-access-level-is-changed.md)

@@ -15,13 +15,26 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
-+++**(Planned) Maintenance Update on March 23, 2023**
++++**Maintenance Update on March 23, 2023**
 
 **[!UICONTROL Summary] panel contents are too wide for the panel**
 
 _Documents_
 
 When a user views the [!UICONTROL Summary] panel for a document, the contents are too wide to be seen in the panel. The panel now has a horizontal scrollbar, and the user must scroll horizontally to see the [!UICONTROL Summary] panel contents. This occurs because the filename of the document does not wrap. This issue is limited to file where the filename has an HTML file extension.
+
+**New [!UICONTROL Desktop Proofing Viewer] version**
+
+_Proofing_
+
+To fix a commenting issue in the [!UICONTROL Desktop Proofing Viewe]r, we've deployed a new version of the desktop proofing viewer.
+
+Users who already have the [!UICONTROL Desktop Proofing Viewer] installed will get this update automatically.
+
+Users can also manually down the latest version. For more information, see [Install the [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* Previous version: 2.1.22
+* New version: 2.1.23
 
 +++
 
