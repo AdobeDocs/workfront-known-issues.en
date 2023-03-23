@@ -18,13 +18,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents: Issues with the Document List](known-issues-workfront/wf-documents-list-missing-elements.md) | March 22, 2023 |
-| [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 21, 2023 |
 | [Users: Access level changed by system without a record of the change](known-issues-workfront/wf-users-access-level-is-changed.md) | March 20, 2023 |
-| [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 17, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | March 17, 2023 |
 | [Updates: Update made in behalf of a user displays as directly from the user](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | March 17, 2023 |
-| [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 16, 2023 |
 | [[!UICONTROL Workload Balancer]: Hours do not adjust to account for user time off](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | March 13, 2023 |
 | [[!UICONTROL Updates]: Cannot log time for the current day in the [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | March 10, 2023 |
 
@@ -36,6 +32,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 23, 2023 |
+| [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |
 | [Proofs: User is deactivated from proof workflow and gets "[!UICONTROL Access not permitted]" when accessing proof](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | March 23, 2023 |
 | [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | March 16, 2023 |
 | [Filters: Filter is not applied when page is refreshed](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | March 16, 2023 |
@@ -50,6 +48,8 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 23, 2023 |
+| [Documents: Issues with the Document List](known-issues-workfront/wf-documents-list-missing-elements.md) | March 23, 2023 |
 | [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 9, 2023 |
 | [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | March 7, 2023 |
 | [Integrations: Cannot open [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | February 24, 2023 |
