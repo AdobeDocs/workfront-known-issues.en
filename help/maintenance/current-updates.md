@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
-+++**(Planned) Maintenance Update on March 23, 2023**
++++**Maintenance Update on March 23, 2023**
 
 **[!UICONTROL Summary] panel contents are too wide for the panel**
 
