@@ -10,6 +10,9 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md)
+        + [Proofs: Cannot switch proof version when viewing proof](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+        + [Proofs: Drowpdowns are not opening when a user is added to a proof](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
         + [Proofs: User is deactivated from proof workflow and gets "[!UICONTROL Access not permitted]" when accessing proof](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
         + [Documents: Issues with the Document List](known-issues-workfront/wf-documents-list-missing-elements.md)
         + [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
