@@ -41,6 +41,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
 | [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 23, 2023 |
 | [Documents: Issues with the Document List](known-issues-workfront/wf-documents-list-missing-elements.md) | March 23, 2023 |
 | [[!DNL Workfront Proof]: Lists are not sorted correctly](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | March 23, 2023 |
