@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
         + [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md)
         + [Proofs: Cannot switch proof version when viewing proof](known-issues-workfront/wf-proofs-cannot-switch-version.md)
         + [Proofs: Drowpdowns are not opening when a user is added to a proof](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
