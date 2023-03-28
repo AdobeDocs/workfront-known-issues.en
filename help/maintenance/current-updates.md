@@ -15,6 +15,22 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
++++**(Planned) Maintenance Update on March 23, 2023**
+
+**Cannot switch proof version when viewing proof**
+
+_Proofs_
+
+When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another version, the version dropdown becomes disables, and the user cannot switch back to the original version they were viewing, or to another version of the proof.
+
+**504 error when exporting reports**
+
+_Reports_
+
+When a user attempts to export a report with a high number of items, they see a 504 error and cannot export the report.
+
++++
+
 +++**Maintenance Update on March 23, 2023**
 
 **[!UICONTROL Summary] panel contents are too wide for the panel**
