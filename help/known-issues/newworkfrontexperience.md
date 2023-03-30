@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
 | [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md) | March 27, 2023 |
 | [Proofs: Drowpdowns are not opening when a user is added to a proof](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | March 27, 2023 |
 | [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 23, 2023 |
