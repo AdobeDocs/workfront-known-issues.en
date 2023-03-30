@@ -15,19 +15,25 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2023
 
-+++**(Planned) Maintenance Update on March 23, 2023**
++++**Maintenance Update on March 23, 2023**
 
 **Cannot switch proof version when viewing proof**
 
 _Proofs_
 
-When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another version, the version dropdown becomes disables, and the user cannot switch back to the original version they were viewing, or to another version of the proof.
+When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another version, the version dropdown becomes disabled, and the user cannot switch back to the original version they were viewing, or to another version of the proof.
 
 **504 error when exporting reports**
 
 _Reports_
 
 When a user attempts to export a report with a high number of items, they see a 504 error and cannot export the report.
+
+**Update made in behalf of a user displays as directly from the user**
+
+_Updates_
+
+When an admin is logged in as a user and makes a comment, that comment displays as directly from the user, instead of from the admin on behalf of the user.
 
 +++
 

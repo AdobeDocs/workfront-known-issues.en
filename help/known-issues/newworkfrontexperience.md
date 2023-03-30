@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | [Proofs: Cannot use Polyline tool when making a comment on a proof](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | March 28, 2023 |
 | [Users: Access level changed by system without a record of the change](known-issues-workfront/wf-users-access-level-is-changed.md) | March 20, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | March 17, 2023 |
-| [Updates: Update made in behalf of a user displays as directly from the user](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | March 17, 2023 |
 | [[!UICONTROL Workload Balancer]: Hours do not adjust to account for user time off](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | March 13, 2023 |
 | [[!UICONTROL Updates]: Cannot log time for the current day in the [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | March 10, 2023 |
 
@@ -34,7 +33,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md) | March 27, 2023 |
-| [Proofs: Cannot switch proof version when viewing proof](known-issues-workfront/wf-proofs-cannot-switch-version.md) | March 27, 2023 |
 | [Proofs: Drowpdowns are not opening when a user is added to a proof](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | March 27, 2023 |
 | [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 23, 2023 |
 | [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |

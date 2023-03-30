@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Proofs: Cannot switch proof version when viewing proof
 
+>[!NOTE]
+>
+>This issue was fixed on March 30, 2023.
+
 When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another version, the version dropdown becomes disables, and the user cannot switch back to the original version they were viewing, or to another version of the proof.
 
 **Workaround:**
