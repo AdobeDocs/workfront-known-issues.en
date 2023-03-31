@@ -136,6 +136,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Proofs: Text options box shows "textAnnotations"](known-issues-workfront-proof/proof-text-shows-textannotation.md)
         + [[!DNL Workfront Proof]: Lists are not sorted correctly](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
         + [Proofs: Custom messages not appearing in email notifications](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
         + [[!DNL Workfront Proof]: Proof does not load when using "[!UICONTROL Go to proof]" button in email notification](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
