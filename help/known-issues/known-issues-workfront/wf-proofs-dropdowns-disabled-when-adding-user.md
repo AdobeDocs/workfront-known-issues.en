@@ -4,7 +4,7 @@ description: "When a user adds another user to a proof in the Proofing Viewer, t
 hidefromtoc: yes
 ---
 
-# Proofs: Drowpdowns are not opening when a user is added to a proof 
+# Proofs: Dropdowns are not opening when a user is added to a proof 
 
 <!--This article is on WF and WFP TOCs-->
 

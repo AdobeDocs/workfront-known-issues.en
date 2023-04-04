@@ -13,9 +13,21 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in April 2023
+
++++**Maintenance Update on April 4, 2023**
+
+**Dropdowns are not opening when a user is added to a proof**
+
+_Proofs_
+
+When a user adds another user to a proof in the [!UICONTROL Proofing Viewer], the "[!UICONTROL Proof role]" and "[!UICONTROL Email alerts]" dropdowns cannot open. The user cannot assign a proof rold or email alert. This may occur when adding a user through a comment, or when sharing the proof with the user.
+
++++
+
 ## Updates in March 2023
 
-+++**Maintenance Update on March 23, 2023**
++++**Maintenance Update on March 30, 2023**
 
 **Cannot switch proof version when viewing proof**
 
