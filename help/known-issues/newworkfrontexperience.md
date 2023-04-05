@@ -34,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Custom forms: Issues in custom dropdown fields](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | April 5, 2023 |
 | [Proofs: Cannot switch between proofs in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | March 31, 2023 |
 | [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
 | [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md) | March 27, 2023 |
