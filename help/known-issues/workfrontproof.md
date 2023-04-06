@@ -31,7 +31,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Cannot switch between proofs in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | March 31, 2023 |
-| [Proofs: Drowpdowns are not opening when a user is added to a proof](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | March 27, 2023 |
 | [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |
 | [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | January 20, 2023 |
 
