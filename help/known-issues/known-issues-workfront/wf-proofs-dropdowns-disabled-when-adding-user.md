@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Proofs: Dropdowns are not opening when a user is added to a proof 
 
+>[!NOTE]
+>
+>This issue was fixed on April 6, 2023.
+
 <!--This article is on WF and WFP TOCs-->
 
 When a user adds another user to a proof in the [!UICONTROL Proofing Viewer], the "[!UICONTROL Proof role]" and "[!UICONTROL Email alerts]" dropdowns cannot open. The user cannot assign a proof rold or email alert. This may occur when adding a user through a comment, or when sharing the proof with the user.
