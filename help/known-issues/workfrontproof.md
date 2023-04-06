@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Text options box shows "textAnnotations"](known-issues-workfront-proof/proof-text-shows-textannotation.md) | March 31, 2023 |
-| [Proofs: Cannot use Polyline tool when making a comment on a proof](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | March 28, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | March 17, 2023 |
 
 {style="table-layout:auto"}
@@ -30,6 +29,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Cannot use Polyline tool when making a comment on a proof](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | April 6 |
+| [Proofs: Text options box shows "textAnnotations"](known-issues-workfront-proof/proof-text-shows-textannotation.md) | April 6, 2023 |
 | [Proofs: Cannot switch between proofs in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | March 31, 2023 |
 | [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |
 | [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | January 20, 2023 |

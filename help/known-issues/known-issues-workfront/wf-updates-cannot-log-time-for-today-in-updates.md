@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!UICONTROL Updates]: Cannot log time for the current day in the [!UICONTROL Updates] area
 
+>[!NOTE]
+>
+>This issue has been closed because it could not be reproduced.
+
 When a user attempts to log time for the current day in the [!UICONTROL Updates] area, the current day is grayed out, and the user cannot enter any hours.
 
 **Workaround**
