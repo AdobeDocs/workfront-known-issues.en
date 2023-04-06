@@ -18,13 +18,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Users: Cannot select [!UICONTROL Default Hour Type] or [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | April 3, 2023 |
-| [Proofs: Text options box shows "textAnnotations"](known-issues-workfront-proof/proof-text-shows-textannotation.md) | March 31, 2023 |
-| [Proofs: Cannot use Polyline tool when making a comment on a proof](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | March 28, 2023 |
 | [Users: Access level changed by system without a record of the change](known-issues-workfront/wf-users-access-level-is-changed.md) | March 20, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | March 17, 2023 |
-| [[!UICONTROL Workload Balancer]: Hours do not adjust to account for user time off](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | March 13, 2023 |
-| [[!UICONTROL Updates]: Cannot log time for the current day in the [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | March 10, 2023 |
 
 {style="table-layout:auto"}
 
@@ -34,6 +29,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Users: Cannot select [!UICONTROL Default Hour Type] or [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | April 6, 2023 |
+| [Proofs: Cannot use Polyline tool when making a comment on a proof](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | April 6, 2023 |
+| [Proofs: Text options box shows "textAnnotations"](known-issues-workfront-proof/proof-text-shows-textannotation.md) | April 6, 2023 |
 | [Custom forms: Issues in custom dropdown fields](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | April 5, 2023 |
 | [Proofs: Cannot switch between proofs in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | March 31, 2023 |
 | [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
