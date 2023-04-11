@@ -15,7 +15,22 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2023
 
-+++**Maintenance Update on April 4, 2023**
++++**Maintenance Update on April 13, 2023**
+
+**Filters are not applied to requests list**
+
+_Requests_
+
+When a user views a list of requests that has a filter applied, the list includes requests that the filter should exclude.
+
+**Cannot select [!UICONTROL Default Hour Type] or [!UICONTROL Available Hour Types]**
+
+_Users_
+
+When an admin is editing a user and attempts to select a [!UICONTROL Default Hour Type] or [!UICONTROL Available Hour Type], they see that the dropdowns for those fields are disabled, and the they cannot select hour types.
++++
+
++++**Maintenance Update on April 6, 2023**
 
 **Dropdowns are not opening when a user is added to a proof**
 
