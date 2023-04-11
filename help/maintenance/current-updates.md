@@ -28,6 +28,7 @@ When a user views a list of requests that has a filter applied, the list include
 _Users_
 
 When an admin is editing a user and attempts to select a [!UICONTROL Default Hour Type] or [!UICONTROL Available Hour Type], they see that the dropdowns for those fields are disabled, and the they cannot select hour types.
+
 +++
 
 +++**Maintenance Update on April 6, 2023**
