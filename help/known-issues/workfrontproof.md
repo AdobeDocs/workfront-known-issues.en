@@ -29,7 +29,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: Clicking near thumbnail in [!UICONTROL Work List] leads to blank page](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | April 10, 2023 |
 | [Proofs: Cannot use Polyline tool when making a comment on a proof](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | April 6 |
 | [Proofs: Text options box shows "textAnnotations"](known-issues-workfront-proof/proof-text-shows-textannotation.md) | April 6, 2023 |
 | [Proofs: Cannot switch between proofs in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | March 31, 2023 |
