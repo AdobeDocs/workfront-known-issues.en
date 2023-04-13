@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Reports: Sorting by column header reverts to previous sort
 
+>[!NOTE]
+>
+>This issue was fixed on April 6, 2023.
+
 When a user attemts to sort a report by clicking a column header, the report sorts according to the column, but then quickly reverts to the previous sort.
 
 **Workaround**

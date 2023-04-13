@@ -18,7 +18,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Users: Access level changed by system without a record of the change](known-issues-workfront/wf-users-access-level-is-changed.md) | March 20, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | March 17, 2023 |
 
 {style="table-layout:auto"}
@@ -29,9 +28,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Users: Access level changed by system without a record of the change](known-issues-workfront/wf-users-access-level-is-changed.md) | April 13, 2023 |
 | [Templates: Cannot select template from [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | April 12, 2023 |
-| [[!UICONTROL Home]: Clicking near thumbnail in [!UICONTROL Work List] leads to blank page](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | April 10, 2023 |
-| [Users: Cannot select [!UICONTROL Default Hour Type] or [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | April 6, 2023 |
 | [Proofs: Cannot use Polyline tool when making a comment on a proof](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | April 6, 2023 |
 | [Proofs: Text options box shows "textAnnotations"](known-issues-workfront-proof/proof-text-shows-textannotation.md) | April 6, 2023 |
 | [Custom forms: Issues in custom dropdown fields](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | April 5, 2023 |
@@ -41,7 +39,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 23, 2023 |
 | [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |
 | [Proofs: User is deactivated from proof workflow and gets "[!UICONTROL Access not permitted]" when accessing proof](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | March 23, 2023 |
-| [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | March 16, 2023 |
 | [Filters: Filter is not applied when page is refreshed](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | March 16, 2023 |
 | [Projects: Project converted from issue does not inherit permissions from portfolio or program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | February 23, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
@@ -54,6 +51,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md) | April 13, 2023 |
 | [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | April 11, 2023 |
 | [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
 | [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 23, 2023 |
