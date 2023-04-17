@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: [!UICONTROL Proof Activity] tab opens [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
         + [Templates: Cannot select template from [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
         + [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
         + [[!UICONTROL Home]: Clicking near thumbnail in [!UICONTROL Work List] leads to blank page](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)

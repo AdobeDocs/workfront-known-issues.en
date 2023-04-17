@@ -28,6 +28,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: [!UICONTROL Proof Activity] tab opens [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | April 17, 2023 |
 | [Users: Access level changed by system without a record of the change](known-issues-workfront/wf-users-access-level-is-changed.md) | April 13, 2023 |
 | [Templates: Cannot select template from [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | April 12, 2023 |
 | [Proofs: Cannot use Polyline tool when making a comment on a proof](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | April 6, 2023 |
