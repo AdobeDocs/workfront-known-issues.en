@@ -15,6 +15,16 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2023
 
++++**Maintenance Update on April 17, 2023**
+
+**Show new comments outside of the visible screen area in the [!UICONTROL Updates] section of issues (new commenting Beta experience) and [!UICONTROL Goals]**
+
+_Updates_
+
+We have added a notification banner for the [!UICONTROL Updates] section to inform users when there are newer comments on an item that might be outside of the visible area on the screen. This update is currently available in the [!UICONTROL Updates] section of goals and that of issues when the new commenting beta experience has been enabled for issues.
+
++++
+
 +++**Maintenance Update on April 13, 2023**
 
 **Filters are not applied to requests list**
