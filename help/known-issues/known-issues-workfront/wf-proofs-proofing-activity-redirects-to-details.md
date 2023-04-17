@@ -1,6 +1,6 @@
 ---
 title: "Proofs: Proof Activity tab opens Proof Details"
-description: "When a user is viewing a proof, and clicks on the "Proof Activity" tab, the Proof Details tab opens instead. This occurs when a proof stage has been manually added to the workflow."
+description: "When a user is viewing a proof, and clicks on the Proof Activity tab, the Proof Details tab opens instead. This occurs when a proof stage has been manually added to the workflow."
 hidefromtoc: yes
 ---
 
