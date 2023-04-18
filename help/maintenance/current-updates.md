@@ -15,6 +15,25 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2023
 
++++**(Planned) Maintenance Update on April 20, 2023**
+
+**Issues in custom dropdown fields**
+
+_Custom forms_
+
+Custom dropdown fields that are enabled as multi-select fields may display the following issues:
+
+* The "+[!UICONTROL Add]" button is not present when the form is not in edit mode.
+* Fields that do not have values show a "--[!UICONTROL no label]--" option.
+
+**Text options box shows "textAnnotations"**
+
+_Proofs_
+
+When a user is viewing a proof, begins to add a comment, and opens the Text tool, the word "textAnnotation" appears next to the options in the tool. The Text tool still functions as expected, and "textAnnotation" disappears after the comment is posted.
+
++++
+
 +++**Maintenance Update on April 17, 2023**
 
 **Show new comments outside of the visible screen area in the [!UICONTROL Updates] section of issues (new commenting Beta experience) and [!UICONTROL Goals]**
