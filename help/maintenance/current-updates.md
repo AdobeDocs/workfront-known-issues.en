@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2023
 
-+++**(Planned) Maintenance Update on April 20, 2023**
++++**Maintenance Update on April 20, 2023**
 
 **Issues in custom dropdown fields**
 
