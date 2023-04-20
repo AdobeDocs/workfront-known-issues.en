@@ -36,7 +36,7 @@ When a user is viewing a proof, begins to add a comment, and opens the Text tool
  
 >[!NOTE]
 >
->This feature released to Preview on April 19, 2023. It will release to production on April 20, 2023.
+>This feature released to Preview on April 19, 2023. It will release to production on in the near future.
  
 Now, when you navigate away from the Updates page while in the middle of composing a message where you have attached an image, the message and the image are preserved when you navigate back. Before this update, the unsubmitted comment was preserved but the image was deleted. This is available in the Updates section for goals and in that of issues when enabling the commenting beta experience.
 
