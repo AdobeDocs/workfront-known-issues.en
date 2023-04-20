@@ -38,15 +38,25 @@ _Proofs_
 
 When a user is viewing a proof, begins to add a comment, and opens the Text tool, the word "textAnnotation" appears next to the options in the tool. The Text tool still functions as expected, and "textAnnotation" disappears after the comment is posted.
 
-## Keep images as a draft when moving away from an update for goals and for issues in the commenting beta experience 
+**Keep images as a draft when moving away from an update for goals and for issues in the commenting beta experience**
  
 >[!NOTE]
 >
->This feature released to Preview on April 19, 2023. It will release to production on in the near future.
+>This feature released to Preview on April 19, 2023 and released to production on April 20, 2023.
 
 _Updates_
  
 Now, when you navigate away from the Updates page while in the middle of composing a message where you have attached an image, the message and the image are preserved when you navigate back. Before this update, the unsubmitted comment was preserved but the image was deleted. This is available in the Updates section for goals and in that of issues when enabling the commenting beta experience.
+
+**Real-time updates and deleted comments in the Updates section**
+ 
+>[!NOTE]
+>
+>This feature released to Preview on April 19, 2023 and released to production on April 20, 2023.
+
+_Updates_
+
+Now, when someone adds a comment or reply, or deletes a comment from the Updates area, you can see the new comment or an indication that the a comment was removed in real time, without a delay. This is available in the Updates section for goals and in that of issues when enabling the commenting beta experience. 
 
 **Access level changed by system without a record of the change**
 
