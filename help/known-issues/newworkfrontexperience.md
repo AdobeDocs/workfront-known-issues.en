@@ -34,7 +34,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Proofs: Cannot switch between proofs in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | March 31, 2023 |
 | [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
 | [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md) | March 27, 2023 |
-| [Timesheets: [!UICONTROL Hour Type] dropdown does not open](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | March 23, 2023 |
 | [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |
 | [Proofs: User is deactivated from proof workflow and gets "[!UICONTROL Access not permitted]" when accessing proof](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | March 23, 2023 |
 | [Filters: Filter is not applied when page is refreshed](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | March 16, 2023 |
