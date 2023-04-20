@@ -26,6 +26,12 @@ Custom dropdown fields that are enabled as multi-select fields may display the f
 * The "+[!UICONTROL Add]" button is not present when the form is not in edit mode.
 * Fields that do not have values show a "--[!UICONTROL no label]--" option.
 
+**Cannot use Polyline tool when making a comment on a proof**
+
+_Proofs_
+
+When a user is viewing a proof in the Proofing Viewer and attemps to make a comment using the Polyline tool, the tool does not mark up the proof. 
+
 **Text options box shows "textAnnotations"**
 
 _Proofs_
@@ -36,9 +42,17 @@ When a user is viewing a proof, begins to add a comment, and opens the Text tool
  
 >[!NOTE]
 >
->This feature released to Preview on April 19, 2023. It will release to production on April 20, 2023.
+>This feature released to Preview on April 19, 2023. It will release to production on in the near future.
+
+_Updates_
  
 Now, when you navigate away from the Updates page while in the middle of composing a message where you have attached an image, the message and the image are preserved when you navigate back. Before this update, the unsubmitted comment was preserved but the image was deleted. This is available in the Updates section for goals and in that of issues when enabling the commenting beta experience.
+
+**Access level changed by system without a record of the change**
+
+_Users_
+
+A user's access level may be unpredictably changed by the system. When this occurs, there is no visible update, and the change does not appear in the audit log.
 
 +++
 
