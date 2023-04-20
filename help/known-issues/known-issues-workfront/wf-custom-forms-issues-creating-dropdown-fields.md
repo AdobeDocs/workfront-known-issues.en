@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Custom forms: Issues in custom dropdown fields
 
+>[!NOTE]
+>
+>This issue was fixed on April 20, 2023.
+
 Custom dropdown fields that are enabled as multi-select fields may display the following issues:
 
 * The "+[!UICONTROL Add]" button is not present when the form is not in edit mode.
