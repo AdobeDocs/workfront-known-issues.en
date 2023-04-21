@@ -1,9 +1,9 @@
 ---
-title: "Tasks: Cannot add subtask"
-description: "When a user attempts to add a subtask using the +New button, no options appear in the New Task window, and the user sees an error message."
+title: 'Tasks: Cannot add subtask'
+description: When a user attempts to add a subtask using the +New button, no options appear in the New Task window, and the user sees an error message.
 hidefromtoc: yes
+exl-id: bc261904-40b3-47fe-a3c0-c08060c6c4e2
 ---
-
 # Tasks: Cannot add subtask
 
 >[!NOTE]
@@ -22,4 +22,3 @@ Do one of the following:
 * Add the new subtask inline on the list of subtasks in the [!UICONTROL Subtasks] area of the task.
 
 _First reported on December 6, 2022._
-

@@ -1,9 +1,9 @@
 ---
-title: "Requests: Whoops message when editing request queue"
-description: "When a user is editing a request queue and attempts to save changes, they see an error."
+title: 'Requests: Whoops message when editing request queue'
+description: When a user is editing a request queue and attempts to save changes, they see an error.
 hidefromtoc: yes
+exl-id: f7ba754c-fc9d-4abb-ad14-f2bc5a79045c
 ---
-
 # Requests: "Whoops" message when editing request queue
 
 >[!NOTE]
@@ -21,4 +21,3 @@ In addition, the user sees the following message at the bottom of the page, near
 The changes to the request queue are saved despite the error message.
 
 _First reported on October 12, 2022._
-

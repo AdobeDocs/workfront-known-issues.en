@@ -1,9 +1,9 @@
 ---
-title: "Custom forms: You do not have sufficient access error when editing custom form"
-description: "When a user attempts to make any change to a custom form, the change is not saved, and the user sees the  error: You do not have sufficient access to edit this Parameter"
+title: 'Custom forms: You do not have sufficient access error when editing custom form'
+description: 'When a user attempts to make any change to a custom form, the change is not saved, and the user sees the  error: You do not have sufficient access to edit this Parameter'
 hidefromtoc: yes
+exl-id: ece576e8-9d66-4ba6-a02e-48902624167b
 ---
-
 # Custom forms: "[!UICONTROL You do not have sufficient access]" error when editing custom form
 
 >[!NOTE]
@@ -15,4 +15,3 @@ When a user attempts to make any change to a custom form, the change is not save
 "[!UICONTROL You do not have sufficient access to edit this Parameter]"
 
 _First reported on November 8, 2022._
-

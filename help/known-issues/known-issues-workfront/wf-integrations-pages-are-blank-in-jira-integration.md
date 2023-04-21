@@ -1,9 +1,9 @@
 ---
-title: "Integrations: Cannot access elements of Workfront for Jira integration"
-description: "Some elements cannot currently be accessed in the Workfront for Jira integration for Jira Cloud."
+title: 'Integrations: Cannot access elements of Workfront for Jira integration'
+description: Some elements cannot currently be accessed in the Workfront for Jira integration for Jira Cloud.
 hidefromtoc: yes
+exl-id: 05cb56e7-3c27-4133-83a2-085bd3e4161e
 ---
-
 # Integrations: Cannot access elements of [!DNL Workfront for Jira] integration
 
 >[!NOTE]
@@ -16,4 +16,3 @@ The following elements cannot currently be accessed in the [!DNL Workfront for J
 * The "[!UICONTROL Open Workfront]" button on a [!DNL Jira] issue
 
 _First reported on November 18, 2022._
-

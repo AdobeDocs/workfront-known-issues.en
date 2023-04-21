@@ -1,9 +1,9 @@
 ---
-title: "Documents: Permissions are not inherited when a document is moved to a new project"
-description: "When a user moves a document to a different project, the document does not inherit sharing permissions from the new project. The document is not shared to the users that the project is shared to. "
+title: 'Documents: Permissions are not inherited when a document is moved to a new project'
+description: 'When a user moves a document to a different project, the document does not inherit sharing permissions from the new project. The document is not shared to the users that the project is shared to. '
 hidefromtoc: yes
+exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
 ---
-
 # Documents: Permissions are not inherited when a document is moved to a new project
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
@@ -23,4 +23,3 @@ When a user moves a document to a different project, the document does not inher
 Alternatively, you can make note of the document's ID (found in the URL of the [!UICONTROL Document Details] page) and contact [!DNL Workfront] customer support.
 
 _First reported on January 6, 2023._
-

@@ -1,9 +1,9 @@
 ---
-title: "Users: Access level is not assigned when reactivating user"
-description: "When a user is reactivating a deactivated user, and attempts to assign them an access level in the Reactivate User window, the access level dropdown does not populate as the user types, and the user cannot select an access level. If the user types in the access level and saves, that access level is not assigned to the reactivated user."
+title: 'Users: Access level is not assigned when reactivating user'
+description: When a user is reactivating a deactivated user, and attempts to assign them an access level in the Reactivate User window, the access level dropdown does not populate as the user types, and the user cannot select an access level. If the user types in the access level and saves, that access level is not assigned to the reactivated user.
 hidefromtoc: yes
+exl-id: 190e77c4-4409-4c24-b32c-9d92401aecd4
 ---
-
 # Users: Access level is not assigned when reactivating user
 
 >[!NOTE]
@@ -17,4 +17,3 @@ When a user is reactivating a deactivated user, and attempts to assign them an a
 Reactivate the user, and then assign the access level in the [!UICONTROL Edit Person] window.
 
 _First reported on February 9, 2023._
-

@@ -1,9 +1,9 @@
 ---
-title: "Proofs: [!UICONTROL Active Proof Stages] field is blank"
-description: "When a user creates a proof and then views that proof in a report such as a [!UICONTROL Document Version] or [!UICONTROL Proof Approval] report, they see that the [!UICONTROL Active Proof Stages] field is blank. This occurs when the proof is created after the document is uploaded, either as a [!UICONTROL Simple Proof] or an [!UICONTROL Advanced Proof] with a [!UICONTROL Basic Workflow]."
+title: 'Proofs: [!UICONTROL Active Proof Stages] field is blank'
+description: When a user creates a proof and then views that proof in a report such as a [!UICONTROL Document Version] or [!UICONTROL Proof Approval] report, they see that the [!UICONTROL Active Proof Stages] field is blank. This occurs when the proof is created after the document is uploaded, either as a [!UICONTROL Simple Proof] or an [!UICONTROL Advanced Proof] with a [!UICONTROL Basic Workflow].
 hidefromtoc: yes
+exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
 ---
-
 # Proofs: [!UICONTROL Active Proof Stages] field is blank
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
@@ -22,4 +22,3 @@ Do one of the following:
 * When creating a proof from an existing document, create it as an [!UICONTROL Advanced Proof] with [!UICONTROL Automated Workflow].
 
 _First reported on August 31, 2022._
-

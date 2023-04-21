@@ -1,9 +1,9 @@
 ---
-title: "Navigation: Cannot pin objects"
-description: "When a user attempts to pin an object in Workfront, the object is not pinned, and the user sees the following message: Something went wrong while pinning. Please contact Workfront so we can fix this."
+title: 'Navigation: Cannot pin objects'
+description: 'When a user attempts to pin an object in Workfront, the object is not pinned, and the user sees the following message: Something went wrong while pinning. Please contact Workfront so we can fix this.'
 hidefromtoc: yes
+exl-id: 83156238-e24e-4e78-bacd-1f7eb61340e0
 ---
-
 # Navigation: Cannot pin objects
 
 >[!NOTE]
@@ -17,4 +17,3 @@ When a user attempts to pin an object in [!DNL Workfront], the object is not pin
 This can occur when pinning an object even if the user can successfully pin lists.
 
 _First reported on September 28, 2022._
-

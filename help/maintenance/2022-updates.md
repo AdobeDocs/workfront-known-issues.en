@@ -1,6 +1,7 @@
 ---
 title: Workfront Maintenance Updates in 2022
 description: 2022 Maintenance Updates for [!DNL Adobe Workfront]
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 ---
 # [!DNL Workfront] Maintenance Updates
 

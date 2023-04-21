@@ -1,9 +1,9 @@
 ---
-title: "Timesheets: Cannot enter time on timesheet"
-description: "When a user attempts to add time to a timesheet, they see that the hour boxes in any Project time or Task Tiem rows are grayed out, and they cannot enter time into these boxes. They can enter time only in the General Time area."
+title: 'Timesheets: Cannot enter time on timesheet'
+description: When a user attempts to add time to a timesheet, they see that the hour boxes in any Project time or Task Tiem rows are grayed out, and they cannot enter time into these boxes. They can enter time only in the General Time area.
 hidefromtoc: yes
+exl-id: 52adc74d-600d-4664-a524-2dca6615b5d9
 ---
-
 # Timesheets: Cannot enter time on timesheet
 
 >[!NOTE]
@@ -17,4 +17,3 @@ When a user attempts to add time to a timesheet, they see that the hour boxes in
 Enter time on the individual projects or tasks.
 
 _First reported on December 2, 2022._
-

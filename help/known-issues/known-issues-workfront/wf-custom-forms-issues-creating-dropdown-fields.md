@@ -1,9 +1,9 @@
 ---
-title: "Custom forms: Issues in custom dropdown fields"
-description: "Custom dropdown fields that are enabled as multi-select fields may display the issues."
+title: 'Custom forms: Issues in custom dropdown fields'
+description: Custom dropdown fields that are enabled as multi-select fields may display the issues.
 hidefromtoc: yes
+exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
 ---
-
 # Custom forms: Issues in custom dropdown fields
 
 >[!NOTE]
@@ -23,4 +23,3 @@ Try one of the following:
 * Set a default value.
 
 _First reported on March 30, 2023._
-

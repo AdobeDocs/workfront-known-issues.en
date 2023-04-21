@@ -1,9 +1,9 @@
 ---
-title: "[!DNL Workfront]: Issues submitting a Workfront support case on Experience League"
+title: '[!DNL Workfront]: Issues submitting a Workfront support case on Experience League'
 description: '"If you are an [!DNL Workfront] Authorized Support Contact and are having issues submitting a support case, please call us at the numbers below so we can assist you.'
 hidefromtoc: yes
+exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 ---
-
 # [!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on [!DNL Experience League]
 
 If you are a [!DNL Workfront] Authorized Support Contact and are having issues submitting a support case, please click [here](https://workfrontpartners.force.com/one/s/).

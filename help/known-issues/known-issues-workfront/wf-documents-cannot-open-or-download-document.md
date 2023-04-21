@@ -1,9 +1,9 @@
 ---
 title: "Documents: That page doesn't exist error when opening or downloading a document"
-description: "When a user attempts to open or download a document in Workfront, they cannot open or download it, and they see an error"
+description: When a user attempts to open or download a document in Workfront, they cannot open or download it, and they see an error
 hidefromtoc: yes
+exl-id: 8d25c1a4-bd9d-48cf-8ebe-a9ff49335173
 ---
-
 # Documents: "That page doesn't exist" error when opening or downloading a document
 
 <!--This article is on the WF and WFP TOC-->

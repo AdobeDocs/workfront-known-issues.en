@@ -1,9 +1,9 @@
 ---
-title: "Proofs: Cannot use Polyline tool when making a comment on a proof"
-description: "When a user is viewing a proof in the Proofing Viewer and attemps to make a comment using the Polyline tool, the tool does not mark up the proof. "
+title: 'Proofs: Cannot use Polyline tool when making a comment on a proof'
+description: 'When a user is viewing a proof in the Proofing Viewer and attemps to make a comment using the Polyline tool, the tool does not mark up the proof. '
 hidefromtoc: yes
+exl-id: 1cd2209f-c430-40ae-ad78-41f4a558beba
 ---
-
 # Proofs: Cannot use Polyline tool when making a comment on a proof
 
 <!--This article is on the WF and WFP TOCs-->
@@ -19,4 +19,3 @@ When a user is viewing a proof in the Proofing Viewer and attemps to make a comm
 Other tools are effective when making a comment.
 
 _First reported on March 24, 2023._
-

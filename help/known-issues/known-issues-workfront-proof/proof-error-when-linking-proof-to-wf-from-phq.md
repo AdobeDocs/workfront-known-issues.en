@@ -1,9 +1,9 @@
 ---
-title: "Proofs: Error when adding proof to [!DNL Workfront] from [!DNL Workfront] Proof"
-description: "When a user attempts to add a proof to [!DNL Workfront] using the [!UICONTROL From Workfront Proof] option, the proof is not added and the user sees an error message."
+title: 'Proofs: Error when adding proof to [!DNL Workfront] from [!DNL Workfront] Proof'
+description: When a user attempts to add a proof to [!DNL Workfront] using the [!UICONTROL From Workfront Proof] option, the proof is not added and the user sees an error message.
 hidefromtoc: yes
+exl-id: 627bcbe2-ee5e-4981-8ad6-6af194b37224
 ---
-
 # Proofs: Error when adding proof to [!DNL Workfront] from [!DNL Workfront Proof]
 
 <!-- This issue is on both WF and proof known issue pages -->
@@ -17,4 +17,3 @@ When a user attempts to add a proof to [!DNL Workfront] using the "[!UICONTROL F
 "[!UICONTROL There was a problem importing the specified proof. Verify that the proof ID provided is valid and retry.]"
 
 _First reported on August 3, 2022, 2022._
-

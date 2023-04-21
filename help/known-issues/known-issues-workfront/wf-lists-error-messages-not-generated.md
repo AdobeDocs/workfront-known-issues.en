@@ -1,9 +1,9 @@
 ---
-title: "Lists: Inline editing errors by user do not cause error messages"
-description: "When a user is inline editing an object and makes an error that should create an error message, no error message appears. The error itself is not saved into Workfront, so the data is not affected, but the lack of an error message may cause confusion."
+title: 'Lists: Inline editing errors by user do not cause error messages'
+description: When a user is inline editing an object and makes an error that should create an error message, no error message appears. The error itself is not saved into Workfront, so the data is not affected, but the lack of an error message may cause confusion.
 hidefromtoc: yes
+exl-id: 70c03735-85f9-44e4-967c-f25de1841e76
 ---
-
 # Lists: Inline editing errors by user do not cause error messages
 
 >[!NOTE]
@@ -18,4 +18,3 @@ This has been reported for the following situations:
 * Dates: An impossible date is set, such as a Completion Date that is prior to the Start Date or that is beyond the Project Completion Date
 
 _First reported on October 26, 2022._
-
