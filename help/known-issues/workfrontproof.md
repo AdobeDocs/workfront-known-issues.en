@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | April 21, 2023 |
-| [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | March 17, 2023 |
 
 {style="table-layout:auto"}
 
@@ -42,6 +41,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | April 21, 2023, 2023 |
 | [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
 | [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 23, 2023 |
 | [Documents: Issues with the Document List](known-issues-workfront/wf-documents-list-missing-elements.md) | March 23, 2023 |
