@@ -1,7 +1,6 @@
 ---
 title: "Timesheets: Timesheet is not generated"
-description: "Timesheets are not being generated despite timesheet profile settings.  
-"
+description: "Timesheets are not being generated despite timesheet profile settings."
 hidefromtoc: yes
 ---
 

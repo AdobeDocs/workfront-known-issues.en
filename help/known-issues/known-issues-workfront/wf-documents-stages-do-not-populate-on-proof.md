@@ -1,7 +1,6 @@
 ---
 title: "Proofs: [!UICONTROL Active Proof Stages] field is blank"
-description: "When a user creates a proof and then views that proof in a report such as a [!UICONTROL Document Version] or [!UICONTROL Proof Approval] report, they see that the [!UICONTROL Active Proof Stages] field is blank. This occurs when the proof is created after the document is uploaded, either as a [!UICONTROL Simple Proof] or an [!UICONTROL Advanced Proof] with a [!UICONTROL Basic Workflow].
-"
+description: "When a user creates a proof and then views that proof in a report such as a [!UICONTROL Document Version] or [!UICONTROL Proof Approval] report, they see that the [!UICONTROL Active Proof Stages] field is blank. This occurs when the proof is created after the document is uploaded, either as a [!UICONTROL Simple Proof] or an [!UICONTROL Advanced Proof] with a [!UICONTROL Basic Workflow]."
 hidefromtoc: yes
 ---
 
