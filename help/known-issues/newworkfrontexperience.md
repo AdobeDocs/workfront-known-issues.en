@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: Filter is not applied when page is refreshed](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | April 25, 2023 |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | April 21, 2023 |
 | [[!UICONTROL Resource Planner]: Cannot save after adding time](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | April 20, 2023 |
 

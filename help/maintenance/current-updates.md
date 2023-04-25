@@ -15,6 +15,26 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2023
 
++++**(Planned) Maintenance Update on April 27, 2023**
+
+**Cannot switch between proofs in [!UICONTROL Proof Viewer]**
+
+_Proofs_
+
+When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another proof, the switch proof button becomes unresponsive. The user cannot switch back to the original proof they were viewing, or to another proof.
+
++++
+
++++**[!DNL Adobe Workfront Fusion] Maintenance Update on April 25, 2023**
+
+**[!DNL Fusion] in-app help links do not lead to specific help pages**
+
+_[!DNL Workfront Fusion]_
+
+When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another proof, the switch proof button becomes unresponsive. The user cannot switch back to the original proof they were viewing, or to another proof.
+
++++
+
 +++**Maintenance Update on April 20, 2023**
 
 **Issues in custom dropdown fields**

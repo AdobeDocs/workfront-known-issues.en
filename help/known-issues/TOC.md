@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Timesheets: Filter is not applied when page is refreshed](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
         + [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
         + [[!UICONTROL Resource Planner]: Cannot save after adding time](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
         + [Proofs: [!UICONTROL Proof Activity] tab opens [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
