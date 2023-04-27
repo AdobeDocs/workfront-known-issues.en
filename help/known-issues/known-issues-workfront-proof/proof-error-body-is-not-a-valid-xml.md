@@ -8,6 +8,10 @@ exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 
 <!--On WFP and WFF TOCs-->
 
+>[!NOTE]
+>
+>This issue has been closed because it could not be reproduced.
+
 A call to the [!DNL Workfront Proof] API returns the following error:
 
 "[!UICONTROL Body is not a valid XML. Unclosed root tag]"
