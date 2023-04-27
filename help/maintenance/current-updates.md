@@ -15,13 +15,19 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2023
 
-+++**(Planned) Maintenance Update on April 27, 2023**
++++**Maintenance Update on April 27, 2023**
 
 **Cannot switch between proofs in [!UICONTROL Proof Viewer]**
 
 _Proofs_
 
 When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another proof, the switch proof button becomes unresponsive. The user cannot switch back to the original proof they were viewing, or to another proof.
+
+**Edit attached images when editing a comment**
+
+_Updates_
+
+You can now edit the image attached to a comment when you are editing a comment. This is available in the Updates section for Workfront Goals and in that of issues when enabling the commenting beta experience.
 
 +++
 
