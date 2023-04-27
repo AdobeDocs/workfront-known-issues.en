@@ -31,7 +31,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: [!UICONTROL Proof Activity] tab opens [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | April 17, 2023 |
 | [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |
-| [[!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | January 20, 2023 |
 
 {style="table-layout:auto"}
 
