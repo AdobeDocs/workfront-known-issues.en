@@ -82,7 +82,6 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
         + [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
         + [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
         + [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
-        + [Notifications: Users do not receive an email notification when mentioned in a comment](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
         + [Dashboards: Report charts viewed in a dashboard use different colors than when viewed in the report](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
         + [Agile: Issues when moving cards on the Agile board](known-issues-workfront/wf-agile-issues-moving-cards.md)
         + [Home: Custom terminology is not applied to Home area](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
