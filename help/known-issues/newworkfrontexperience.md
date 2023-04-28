@@ -61,7 +61,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Proofs: Proof status does not update in [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | December 5, 2022 |
 | [Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | December 2, 2022 |
 | [Custom forms: Cross-object custom forms require [!UICONTROL Manage] or [!UICONTROL Edit] access to edit fields](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | November 21, 2022 |
-| [Notifications: Users not notified when mentioned or included in a comment](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | November 11, 2022 |
 | [API: Cannot sort by dynamic fields](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | October 31, 2022 |
 | [[!UICONTROL Setup]: Lists load slowly in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | October 28, 2022 |
 | [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | September 18, 2022 |
