@@ -6,7 +6,7 @@ exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 ---
 # Documents: Issues with the Document List 
 
-<!--This article is on the WF and WFP TOCs-->
+<!--This article is on the WF and WFP TOCs. Valid issue, won't fix.-->
 
 The following issues have been reported regarding the Document List:
 

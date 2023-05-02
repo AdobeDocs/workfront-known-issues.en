@@ -6,7 +6,7 @@ exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 ---
 # Documents: 404 error when accessing document linked from [!DNL SharePoint]
 
-<!--This issue is on the WF and WFP TOCs-->
+<!--This issue is on the WF and WFP TOCs. By request.-->
 
 When a user attempts to access a document linked through [!DNL SharePoint], they are taken to a page with the following error:
 
