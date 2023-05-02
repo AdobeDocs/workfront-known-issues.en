@@ -13,6 +13,18 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in May 2023
+
++++**(Planned) Maintenance Update on May 4, 2023**
+
+**Cannot select template from [!UICONTROL Favorite templates]**
+
+_Templates_
+
+When a user attempts to select a template from the Actions (three dot) menu, the list of templates disappears when the user moves their mouse to the list, and the user cannot select a template. This is because the scrollbar is between the menu and the list of templates, and the mouse focuses on the scrollbar as it moves to the list of templates.
+
++++
+
 ## Updates in April 2023
 
 +++**Maintenance Update on April 27, 2023**
