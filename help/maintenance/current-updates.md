@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2023
 
-+++**(Planned) Maintenance Update on May 4, 2023**
++++**Maintenance Update on May 4, 2023**
 
 **Cannot select template from [!UICONTROL Favorite templates]**
 
