@@ -31,7 +31,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | -----------------------------------------------------------------| ----------------- |
 | [Tasks: No error message when reordering task in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | May 3, 2023 |
 | [Proofs: [!UICONTROL Proof Activity] tab opens [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | April 17, 2023 |
-| [Templates: Cannot select template from [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | April 12, 2023 |
 | [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
 | [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md) | March 27, 2023 |
 | [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |
