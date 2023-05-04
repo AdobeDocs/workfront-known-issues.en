@@ -8,6 +8,12 @@ exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
 
 <!--This article is on WF and WFP TOCs-->
 
+<!--Valid issue, live for workaround-->
+
+>[!NOTE]
+>
+>This issue has been closed.
+
 When a user is viewing a proof, and clicks on the[!UICONTROL Proof Activity] tab, the [!UICONTROL Proof Details] tab opens instead. This occurs when a proof stage has been manually added to the workflow.
 
 **Workaround**
