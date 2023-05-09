@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-not-applied.md) | May 9, 2023 |
 
 {style="table-layout:auto"}
 

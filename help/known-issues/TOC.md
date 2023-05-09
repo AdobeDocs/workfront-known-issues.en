@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-not-applied.md)
         + [Projects: Error when using [!UICONTROL Milestone] view](known-issues-workfront/wf-projects-error-in-milestone-view.md)
         + [Tasks: No error message when reordering task in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
         + [Timesheets: Filter is not applied when page is refreshed](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)

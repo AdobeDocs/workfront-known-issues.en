@@ -15,6 +15,52 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2023
 
++++**(Planned) Maintenance Update on May 11, 2023**
+
+**[!DNL Workfront] Search times out**
+
+_Search_
+
+[!DNL Workfront] search is timing out. The search may return a few results, or none at all.
+
+This issue also affects the functionality of the [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] module.
+
+**Cannot switch proof version when viewing proof**
+
+_Proofs_
+
+When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another version, the version dropdown becomes disabled, and the user cannot switch back to the original version they were viewing, or to another version of the proof.
+
++++
+
++++**(Planned) [!DNL Adobe Workfront Fusion] Maintenance Update on May 11, 2023**
+
+**Timeout errors in [!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+When a scenario is running, it may have a timeout error. The information from the module with the error does not reach its destination.
+
+**[!DNL Workfront] Search times out**
+
+_Search_
+
+[!DNL Workfront] search is timing out. The search may return a few results, or none at all.
+
+This issue also affects the functionality of the [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] module.
+
++++
+
++++**Maintenance Update on May 9, 2023**
+
+**Saved filters available in board intake column**
+
+_Boards_
+
+You can now use existing Workfront task and issue filters when configuring the intake column for a board. However, existing intake column filters are now read-only in the configuration panel. The existing filters are still applied to the intake column, but you must recreate the filters if you want to edit them.
+
++++
+
 +++**Maintenance Update on May 4, 2023**
 
 **Cannot select template from [!UICONTROL Favorite templates]**
