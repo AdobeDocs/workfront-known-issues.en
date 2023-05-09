@@ -45,6 +45,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Custom forms: "[!UICONTROL Whoops]" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | May 5, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | April 21, 2023 |
 | [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md) | April 13, 2023 |
 | [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | April 11, 2023 |
