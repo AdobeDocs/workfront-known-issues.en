@@ -15,7 +15,13 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2023
 
-+++**(Planned) Maintenance Update on May 11, 2023**
++++**Maintenance Update on May 11, 2023**
+
+**Cannot switch proof version when viewing proof**
+
+_Proofs_
+
+When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another version, the version dropdown becomes disabled, and the user cannot switch back to the original version they were viewing, or to another version of the proof.
 
 **[!DNL Workfront] Search times out**
 
@@ -25,15 +31,9 @@ _Search_
 
 This issue also affects the functionality of the [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] module.
 
-**Cannot switch proof version when viewing proof**
-
-_Proofs_
-
-When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another version, the version dropdown becomes disabled, and the user cannot switch back to the original version they were viewing, or to another version of the proof.
-
 +++
 
-+++**(Planned) [!DNL Adobe Workfront Fusion] Maintenance Update on May 11, 2023**
++++**[!DNL Adobe Workfront Fusion] Maintenance Update on May 11, 2023**
 
 **Timeout errors in [!DNL Workfront Fusion]**
 
