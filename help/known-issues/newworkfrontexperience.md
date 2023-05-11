@@ -28,7 +28,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront//wf-workload-balancer-hours-redistribute.md) | May 11, 2023 |
+| [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | May 11, 2023 |
 | [Projects: Error when using [!UICONTROL Milestone] view](known-issues-workfront/wf-projects-error-in-milestone-view.md) | May 5, 2023 |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | May 4, 2023 |
 | [Tasks: No error message when reordering task in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | May 3, 2023 |
