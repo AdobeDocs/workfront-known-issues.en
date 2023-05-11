@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
         + [Custom forms: "[!UICONTROL Whoops]" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
         + [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-not-applied.md)
         + [Projects: Error when using [!UICONTROL Milestone] view](known-issues-workfront/wf-projects-error-in-milestone-view.md)

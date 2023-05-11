@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Adobe Workfront Fusion]: Timeout errors in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | February 3, 2023 |
+| None |   |
 
 {style="table-layout:auto"}
 
@@ -39,7 +39,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Search: [!DNL Workfront] Search times out](known-issues-workfront/wf-search-search-times-out.md) | April 13, 2023 |
 | [[!DNL Workfront Fusion]: "Failed to verify connection" error](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | September 29, 2022  |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | September 9, 2022 |
 
