@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-not-applied.md) | May 9, 2023 |
+| None |  |
 
 {style="table-layout:auto"}
 
@@ -28,13 +28,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-not-applied.md) | May 11, 2023 |
+| [Tasks: No error message when reordering task in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | May 11, 2023 |
 | [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | May 11, 2023 |
-| [Projects: Error when using [!UICONTROL Milestone] view](known-issues-workfront/wf-projects-error-in-milestone-view.md) | May 5, 2023 |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | May 4, 2023 |
-| [Tasks: No error message when reordering task in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | May 3, 2023 |
 | [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
-| [Proofs: Proof stage does not activate when previous stage deadline passes](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | March 23, 2023 |
-| [Proofs: User is deactivated from proof workflow and gets "[!UICONTROL Access not permitted]" when accessing proof](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | March 23, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
 {style="table-layout:auto"}

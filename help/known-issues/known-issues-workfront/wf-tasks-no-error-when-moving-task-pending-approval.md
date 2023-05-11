@@ -1,14 +1,10 @@
 ---
 title: "Tasks: No error message when reordering task in Pending approval status"
-description: ""
+description: "When a user attempts to reorder a task in a task list, and the task is in [!UICONTROL Pending approval] status, the task appears to move in the task list. Upon refresh, the user sees that the item has not moved. The item cannot move because it is in [!UICONTROL Pending approval] status, but there is no message telling the user that the item cannot move, which may lead to confusion."
 hidefromtoc: yes
 ---
 
 # Tasks: No error message when reordering task in [!UICONTROL Pending approval] status
-
->[!NOTE]
->
->This issue was fixed on May 4, 2023.
 
 When a user attempts to reorder a task in a task list, and the task is in [!UICONTROL Pending approval] status, the task appears to move in the task list. Upon refresh, the user sees that the item has not moved. The item cannot move because it is in [!UICONTROL Pending approval] status, but there is no message telling the user that the item cannot move, which may lead to confusion.
 
