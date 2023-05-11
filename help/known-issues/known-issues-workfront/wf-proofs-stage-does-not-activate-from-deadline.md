@@ -8,6 +8,10 @@ exl-id: c3a16e21-f645-4382-94d8-9836a773132f
 
 <!--This article is on the WF and WFP TOC-->
 
+>[!NOTE]
+>
+>This issue was fixed on May 11, 2023.
+
 When a proof has multiple stages, and a later stage's "Activate stage" setting is set to "When previous stage deadline passes", that later stage does not activate when the deadline passes.
 
 _First reported on March 14, 2023._
