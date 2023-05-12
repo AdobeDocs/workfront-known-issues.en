@@ -6,6 +6,8 @@ exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
 ---
 # Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel].
 
+<!--Converted to story-->
+
 >[!NOTE]
 >
 >The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.

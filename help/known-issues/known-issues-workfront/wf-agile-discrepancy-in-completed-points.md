@@ -6,6 +6,8 @@ hidefromtoc: yes
 ---
 # Agile: Discrepancy in Completed Points for an iteration
 
+<!--Converted to story-->
+
 >[!NOTE]
 >
 >The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.

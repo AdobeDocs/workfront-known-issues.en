@@ -6,7 +6,7 @@ exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
 ---
 # Proofs: [!UICONTROL Active Proof Stages] field is blank
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
+<!--Requested article. This Known Issue is on the TOC for both Workfront and Workfront Proof.-->
 
 >[!NOTE]
 >

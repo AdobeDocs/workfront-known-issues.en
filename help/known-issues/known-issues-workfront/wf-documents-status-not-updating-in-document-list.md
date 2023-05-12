@@ -6,6 +6,8 @@ exl-id: f5f9b16c-4ec5-4625-b8c6-277fdd080d45
 ---
 # Proofs: Proof status does not update in [!UICONTROL Document] lists
 
+<!--Won't fix tab, article live by request-->
+
 When a proof's status changes, a [!UICONTROL Document] list showing that proof does not display the correct new status.
 
 The [!UICONTROL Proof Workflow] page in [!DNL Workfront] shows the correct status of the proof.
