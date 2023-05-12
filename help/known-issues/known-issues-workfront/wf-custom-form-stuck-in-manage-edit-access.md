@@ -6,6 +6,8 @@ exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
 ---
 # Custom forms: Cross-object custom forms require [!UICONTROL Manage] or [!UICONTROL Edit] access to edit fields
 
+<!--Won't fix, live for workaround-->
+
 >[!NOTE]
 >
 >This issue has been closed

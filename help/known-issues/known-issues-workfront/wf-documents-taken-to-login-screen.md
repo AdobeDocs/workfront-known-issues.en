@@ -7,6 +7,7 @@ exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
 # Documents: [!UICONTROL Proofing Activities] options lead to login page
 
 <!--This article is on WF and WFP TOCs-->
+<!--Converted to story-->
 
 >[!NOTE]
 >

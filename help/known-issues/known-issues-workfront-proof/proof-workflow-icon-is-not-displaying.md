@@ -6,6 +6,8 @@ hidefromtoc: yes
 ---
 # Documents: Proof workflow icon is not displaying
 
+<!--Converted to story-->
+
 >[!NOTE]
 >
 >The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.

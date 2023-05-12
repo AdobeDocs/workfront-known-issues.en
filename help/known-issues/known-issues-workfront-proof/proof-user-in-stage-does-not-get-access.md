@@ -7,7 +7,7 @@ exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 # Proofs: Proof is not shared to users on the Proof Workflow
 
 <!--This issue is on the WF and WFP TOCs-->
-<!--Article live by request-->
+<!--Requested article-->
 
 >[!NOTE]
 >
