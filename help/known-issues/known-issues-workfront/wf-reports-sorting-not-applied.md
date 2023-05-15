@@ -1,10 +1,12 @@
 ---
-title: "Reports: Report does not sort correctly"
-description: ""
+title: "Reports: Report does not sort correctly when sorting by custom field
+"
+description: "When a user runs a task report, the report appears to sort correctly when it is loading, but when it finishes loading the user sees that the report is not sorted correctly. 
+"
 hidefromtoc: yes
 ---
 
-# Reports: Report does not sort correctly
+# Reports: Report does not sort correctly when sorting by custom field
 
 When a user runs a task report, the report appears to sort correctly when it is loading, but when it finishes loading the user sees that the report is not sorted correctly. 
 
