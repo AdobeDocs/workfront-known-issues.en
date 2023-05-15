@@ -29,7 +29,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | May 15, 2023 |
 
 {style="table-layout:auto"}
 
