@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Reports: Report not sorting correctly when sorting by any field](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | May 15, 2023 |
 
 {style="table-layout:auto"}
 
@@ -28,7 +28,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Reports: Sorting by column header reverts to previous sort](known-issues-workfront/wf-reports-sorting-not-applied.md) | May 11, 2023 |
+| [Reports: Report does not sort correctly when sorting by custom field](known-issues-workfront/wf-reports-sorting-not-applied.md) | May 11, 2023 |
 | [Tasks: No error message when reordering task in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | May 11, 2023 |
 | [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | May 11, 2023 |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | May 4, 2023 |
