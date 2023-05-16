@@ -15,6 +15,22 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2023
 
++++**Maintenance Update on May 18, 2023**
+
+
+**Report does not sort correctly when sorting by custom field**
+
+_Reports_
+When a user runs a task report, the report appears to sort correctly when it is loading, but when it finishes loading the user sees that the report is not sorted correctly. 
+
+This seems to occur if all the following circumstances are met:
+
+* The report is a task report
+* The report is sorted by a custom field
+* The report has a grouping applied
+
++++
+
 +++**Maintenance Update on May 11, 2023**
 
 **Cannot switch proof version when viewing proof**
