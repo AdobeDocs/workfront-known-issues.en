@@ -28,6 +28,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: [!UICONTROL Kanban] board goes blank when editing cards](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | May 18, 2023 |
 | [Tasks: No error message when reordering task in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | May 11, 2023 |
 | [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | May 11, 2023 |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | May 4, 2023 |
