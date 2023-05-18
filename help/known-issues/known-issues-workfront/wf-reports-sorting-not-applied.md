@@ -8,6 +8,10 @@ hidefromtoc: yes
 
 # Reports: Report does not sort correctly when sorting by custom field
 
+>[!NOTE]
+>
+>This issue was fixed on May 18, 2023.
+
 When a user runs a task report, the report appears to sort correctly when it is loading, but when it finishes loading the user sees that the report is not sorted correctly. 
 
 This seems to occur if all the following circumstances are met:

@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |   |
+| [[!DNL Workfront Fusion]: Executions are stuck or delayed](known-issues-workfront-fusion/fusion-stuck-executions.md) | May 17, 2023 |
 
 {style="table-layout:auto"}
 
