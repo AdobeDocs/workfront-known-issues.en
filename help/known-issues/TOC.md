@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Agile: [!UICONTROL Kanban] board goes blank when editing cards](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
         + [Reports: Report not sorting correctly when sorting by any field](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
         + [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
         + [Custom forms: "[!UICONTROL Whoops]" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
