@@ -142,6 +142,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Workfront Fusion]: Executions are stuck or delayed](known-issues-workfront-fusion/fusion-stuck-executions.md)
         + [[!DNL Workfront Fusion]: Scenario execution history does not display entire history](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
         + [[!DNL Adobe Workfront Fusion]: Timeout errors in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
         + [[!DNL Adobe Workfront Fusion]: 404 errors in Workfront modules](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
