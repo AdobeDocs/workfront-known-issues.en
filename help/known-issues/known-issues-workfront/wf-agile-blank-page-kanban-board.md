@@ -17,5 +17,5 @@ This has been reported in the following circumstances:
 
 Refresh the page.
 
-_First reported on June 1, 2023._
+_First reported on May 14, 2023._
 
