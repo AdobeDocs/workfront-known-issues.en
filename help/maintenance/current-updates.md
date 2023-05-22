@@ -15,6 +15,16 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2023
 
++++**Maintenance Update on May 22, 2023**
+
+**Cannot adjust the size of descriptive text**
+
+_Custom forms_
+
+When the custom form designer was released in beta, the functionality to adjust the size of descriptive text was not available. This issue has been fixed and users can now adjust the size of descriptive text.
+
++++
+
 +++**Maintenance Update on May 18, 2023**
 
 **Report does not sort correctly when sorting by custom field**
