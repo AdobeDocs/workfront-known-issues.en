@@ -15,6 +15,22 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2023
 
++++**(Planned) Maintenance Update on May 25, 2023**
+
+**[!UICONTROL Kanban] board goes blank when editing cards**
+
+_Agile_
+
+When a user changes something about a card on the [!UICONTROL Kanban] board, the [!UICONTROL Kanban] board goes blank instead of refreshing with the change. If the user refreshes the page manually, the [!UICONTROL Kanban] board returns, showing the correct change.
+
+This has been reported in the following circumstances:
+
+* Editing a card
+* Moving a card
+
+
++++
+
 +++**Maintenance Update on May 22, 2023**
 
 **Cannot adjust the size of descriptive text**
