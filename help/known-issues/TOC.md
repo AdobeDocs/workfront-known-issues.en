@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Display logic is lost when custom form is edited in new form designer (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
         + [Agile: [!UICONTROL Kanban] board goes blank when editing cards](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
         + [Reports: Report not sorting correctly when sorting by any field](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
         + [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
@@ -143,6 +144,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Workfront Fusion]: Notifications emails are not being sent](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
         + [[!DNL Workfront Fusion]: Executions are stuck or delayed](known-issues-workfront-fusion/fusion-stuck-executions.md)
         + [[!DNL Workfront Fusion]: Scenario execution history does not display entire history](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
         + [[!DNL Adobe Workfront Fusion]: Timeout errors in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
