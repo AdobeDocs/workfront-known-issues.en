@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Agile: [!UICONTROL Kanban] board goes blank when editing cards
 
+>[!NOTE]
+>
+>This issue was fixed on May 25, 2023.
+
 When a user changes something about a card on the [!UICONTROL Kanban] board, the [!UICONTROL Kanban] board goes blank instead of refreshing with the change. If the user refreshes the page manually, the [!UICONTROL Kanban] board returns, showing the correct change.
 
 This has been reported in the following circumstances:
