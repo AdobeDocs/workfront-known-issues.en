@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]
 
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+
 <!--This article is on Proof and Fusion TOCs-->
 
 When a user accesses the [!DNL Workfront Proof] API [!UICONTROL `getAllProofs`] action, the server returns the following message:
