@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Reports: Report not sorting correctly when sorting by any field](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | May 15, 2023 |
+| None |  |
 
 {style="table-layout:auto"}
 

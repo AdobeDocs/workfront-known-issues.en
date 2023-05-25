@@ -6,6 +6,9 @@ hidefromtoc: yes
 
 # Reports: Report not sorting correctly when sorting by any field
 
+>[!NOTE]
+>
+>This issue has been closed because it is not an issue.
 
 When a user runs a task report, the report appears to sort correctly when it is loading, but when it finishes loading the user sees that the report is not sorted correctly. 
 
