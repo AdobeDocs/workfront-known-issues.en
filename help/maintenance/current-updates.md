@@ -13,9 +13,27 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in June 2023
+
++++**(Planned) Maintenance Update on June 1, 2023**
+
+**No error message when reordering task in [!UICONTROL Pending approval] status**
+
+_Tasks_
+
+When a user attempts to reorder a task in a task list, and the task is in [!UICONTROL Pending approval] status, the task appears to move in the task list. Upon refresh, the user sees that the item has not moved. The item cannot move because it is in [!UICONTROL Pending approval] status, but there is no message telling the user that the item cannot move, which may lead to confusion.
+
+**No error message when moving predecessor task under dependent task**
+
+_Tasks_
+
+When a user attempts to reorder a task in a task list, and the task is in [!UICONTROL Pending approval] status, the task appears to move in the task list. Upon refresh, the user sees that the item has not moved. The item cannot move because a predecessor task cannot be moved under a task it is the predecessor for, but there is no message telling the user that the item cannot move, which may lead to confusion.
+
++++
+
 ## Updates in May 2023
 
-+++**(Planned) Maintenance Update on May 25, 2023**
++++**Maintenance Update on May 25, 2023**
 
 **[!UICONTROL Kanban] board goes blank when editing cards**
 
