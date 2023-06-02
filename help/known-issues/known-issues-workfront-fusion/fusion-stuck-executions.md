@@ -6,7 +6,7 @@ hidefromtoc: yes
 
 # [!DNL Workfront Fusion]: Executions are stuck or delayed
 
->[NOTE]
+>[!NOTE]
 >
 >This issue was fixed on May 31, 2023.
 
