@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Executions are stuck or delayed](known-issues-workfront-fusion/fusion-stuck-executions.md) | May 25, 2023  |
+| None |  |
 
 {style="table-layout:auto"}
 
@@ -29,7 +29,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Notifications emails are not being sent](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md) | May 24, 2023 |
+| None |  |
 
 {style="table-layout:auto"}
 
