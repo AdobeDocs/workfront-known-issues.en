@@ -65,7 +65,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | April 20, 2022 |
 | [[!UICONTROL Home]: New Task option showing deactivated users in [!UICONTROL Assign To] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | October 1, 2021 |
 | [Updates: Team name not appearing in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | October 1, 2021 |
-| [Calendars: Issues with [!UICONTROL Time Off] calendar](known-issues-workfront/wf-calendars-issue-time-off.md) | June 25, 2021 |
 | [Agile: Discrepancy in [!UICONTROL Completed Points] for an iteration](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | June 22, 2021 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | June 21, 2021 |
 | [Email Notifications: "[!UICONTROL I'm assigned to an issue]" setting is displaying](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | June 2, 2021 |
