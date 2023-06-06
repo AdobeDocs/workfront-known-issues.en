@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue was fixed on June 6, 2023.
 
 The following issues are being reported regarding the [!UICONTROL Time Off] calendar:
 
