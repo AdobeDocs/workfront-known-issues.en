@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in June 2023
 
-+++**(Planned) Maintenance Update on June 8, 2023
++++**Maintenance Update on June 8, 2023**
 
 This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
 
