@@ -29,7 +29,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [[!DNL Workfront Fusion]: "[!UICONTROL cannot execute UPDATE]" error](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md) | June 8, 2023 |
 
 {style="table-layout:auto"}
 

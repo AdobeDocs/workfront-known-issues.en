@@ -144,6 +144,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Workfront Fusion]: "[!UICONTROL cannot execute UPDATE]" error](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
         + [[!DNL Workfront Fusion]: Notifications emails are not being sent](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
         + [[!DNL Workfront Fusion]: Executions are stuck or delayed](known-issues-workfront-fusion/fusion-stuck-executions.md)
         + [[!DNL Workfront Fusion]: Scenario execution history does not display entire history](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
