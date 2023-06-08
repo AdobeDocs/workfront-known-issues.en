@@ -42,6 +42,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
 | [Custom forms: "[!UICONTROL Whoops]" error when setting up a calculated field](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | May 5, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/wf-documents-taken-to-login-screen.md) | April 21, 2023 |
 | [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | April 11, 2023 |
