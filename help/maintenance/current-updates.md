@@ -21,6 +21,14 @@ This update includes only minor or less prominent bug fixes. [!DNL Workfront] Su
 
 +++
 
++++**[!DNL Adobe Workfront Fusion] Maintenance Update on June 8, 2023**
+
+[!DNL Fusion] has deployed a fix that prevents a user's connections from being removed when the user is removed or deactivated in the [!UICONTROL Adobe Admin Console].
+
+[!DNL Fusion] team administrators are still able to remove unneeded connections from the [!UICONTROL Connections] page in Fus[!DNL ]ion.
+
++++
+
 +++**Maintenance Update on June 1, 2023**
 
 **No error message when reordering task in [!UICONTROL Pending approval] status**
