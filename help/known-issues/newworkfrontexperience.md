@@ -18,7 +18,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Reports: "[!UICONTROL Whoops]" error when viewing matrix report](known-issues-workfront/wf-reports-error-matrix-report.md) | June 9, 2023 |
+| [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | June 9, 2023 |
 
 {style="table-layout:auto"}
 
