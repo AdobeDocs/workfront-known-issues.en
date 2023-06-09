@@ -10,6 +10,8 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: "[!UICONTROL Whoops]" error when viewing matrix report](known-issues-workfront/wf-reports-error-matrix-report.md)
+        + [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
         + [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
         + [Custom forms: Display logic is lost when custom form is edited in new form designer (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
         + [Agile: [!UICONTROL Kanban] board goes blank when editing cards](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
