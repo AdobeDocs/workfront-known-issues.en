@@ -122,6 +122,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
         + [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
         + [[!DNL Workfront Proof]: Search returns no results](known-issues-workfront-proof/proof-search-returns-no-results.md)
         + [Proofs: Text options box shows "textAnnotations"](known-issues-workfront-proof/proof-text-shows-textannotation.md)
