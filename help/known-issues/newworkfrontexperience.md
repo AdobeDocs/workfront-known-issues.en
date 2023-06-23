@@ -19,8 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | June 12, 2023 |
-| [Reports: "[!UICONTROL Whoops]" error when viewing matrix report](known-issues-workfront/wf-reports-error-matrix-report.md) | June 9, 2023 |
-| [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | June 9, 2023 |
 
 {style="table-layout:auto"}
 
