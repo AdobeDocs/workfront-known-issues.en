@@ -28,6 +28,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Utilization report does not load](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | June 26, 2023 |
+| [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | June 26, 2023 |
+| [Timesheets: Errors when logging hours on a timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | June 26, 2023 |
 | [Custom forms: Display logic is lost when custom form is edited in new form designer (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | May 24, 2023 |
 | [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | May 11, 2023 |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | May 4, 2023 |
