@@ -10,6 +10,9 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Utilization report does not load](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+        + [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+        + [Timesheets: Errors when logging hours on a timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
         + [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
         + [Reports: "[!UICONTROL Whoops]" error when viewing matrix report](known-issues-workfront/wf-reports-error-matrix-report.md)
         + [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
