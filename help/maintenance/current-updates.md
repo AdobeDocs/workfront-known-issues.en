@@ -15,6 +15,26 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in June 2023
 
++++**Maintenance Update on June 22, 2023**
+
+**"[!UICONTROL Whoops]" error when viewing matrix report**
+
+_Reports_
+
+When a user views a matrix report, they see the following error:
+
+"[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
+
+This has been reported when the report is sorted by date and the "[!UICONTROL Show weeks with no results]" option is enabled.
+
+**Dates display incorrectly in matrix reports**
+
+_Reports_
+
+When a chart or matrix report is grouped by date, dates near the edges of the grouping may appear in the correct grouping, the previous / next grouping, or both.
+
++++
+
 +++**Maintenance Update on June 15, 2023**
 
 This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.

@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Reports: Dates display incorrectly in matrix reports
 
+>[!NOTE]
+>
+> This article was fixed on June 22, 2023
+
 When a chart or matrix report is grouped by date, dates near the edges of the grouping may appear in the correct grouping, the previous / next grouping, or both.
 
 The [!UICONTROL Details] tab shows the date groupings correctly.
