@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Projects / Tasks / Issues: Timeline does not recalculate](known-issues-workfront/wf-projects-timeline-dows-not-recalculate.md) | June 27, 2023 |
+| [Projects / Tasks / Issues: Timeline does not recalculate](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | June 27, 2023 |
 | [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | June 12, 2023 |
 
 {style="table-layout:auto"}
