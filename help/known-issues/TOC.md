@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Filters: "[!UICONTROL Enable system-wide]" and "[!UICONTROL View system-wide]" represent different functionality](known-issues-workfront/wf-filters-enable-system-wide.md)
         + [Reports: Utilization report does not load](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
         + [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
         + [Timesheets: Errors when logging hours on a timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)

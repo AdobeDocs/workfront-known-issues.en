@@ -28,6 +28,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filters: "[!UICONTROL Enable system-wide]" and "[!UICONTROL View system-wide]" represent different functionality](known-issues-workfront/wf-filters-enable-system-wide.md) | June 27, 2023 |
 | [Reports: Utilization report does not load](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | June 26, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | June 26, 2023 |
 | [Timesheets: Errors when logging hours on a timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | June 26, 2023 |
