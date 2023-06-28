@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Horizontal scrollbar is not present](known-issues-workfront/wf-board-no-scrollbar.md) | June 28, 2023 |
 | [Projects / Tasks / Issues: Timeline does not recalculate](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | June 27, 2023 |
 | [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | June 12, 2023 |
 
