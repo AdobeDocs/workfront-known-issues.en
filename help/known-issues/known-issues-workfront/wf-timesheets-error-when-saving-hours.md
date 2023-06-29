@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Timesheets: Errors when logging hours on a timesheet
 
+>[!NOTE]
+>
+>This issue was fixed on June 29, 2023.
+
 When a user attempts to log hours on a task in their timesheet, the hours are not saved, and the user sees the following messages:
 
 * Message at bottom of screen: "[!UICONTROL Your recent changes were not saved. Refresh the page to view the last saved changes.]"

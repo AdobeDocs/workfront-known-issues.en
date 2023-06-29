@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # [!DNL Workfront Fusion]: "[!UICONTROL cannot execute UPDATE]" error
 
+>[!NOTE]
+>
+>This issue was fixed on June 14, 2023.
+
 A scenario execution fails with the following error:
 
 "[!UICONTROL cannot execute UPDATE in a read-only transaction]" [sic]
