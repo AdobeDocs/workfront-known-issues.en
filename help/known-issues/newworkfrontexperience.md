@@ -30,6 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Setup: Cannot edit Job Role Cost/Hour or Billing/Hour](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | July 10, 2023 |
 | [Filters: "[!UICONTROL Enable system-wide]" and "[!UICONTROL View system-wide]" represent different functionality](known-issues-workfront/wf-filters-enable-system-wide.md) | June 27, 2023 |
 | [Reports: Utilization report does not load](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | June 26, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | June 26, 2023 |
