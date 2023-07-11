@@ -13,6 +13,38 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in July 2023
+
++++**Maintenance Update on July 13, 2023**
+
+**Timeline does not recalculate**
+
+_Projects / Tasks / Issues_
+
+When an even occurs that should trigger a timeline calculation, the timeline does not recalculate. This affects recalculations that occur on changes, and scheduled recalculations. This can affect accuracy of the Workload Balancer.
+
+**Locked proof approvals still show in Work List**
+
+_Proofs_
+
+Proof approvals that have passed their deadline and are locked are still showing on the approver's Home Work List, instead of dropping off the list when the deadline passed.
+
+**Utilization report does not load**
+
+_Reports_
+
+When a customer attempts to view a utilization report, the user sees a spinning loading indicator, but the report does not load. The report has returned a 500 error, but the user sees no indication that the report has failed.
+
+**Edit User page is blank**
+
+<!--no article-->
+
+_Users_
+
+When a user attempts to edit another user, the Edit User page, is blank, and the user cannot edit the other user.
+
++++
+
 ## Updates in June 2023
 
 +++**Maintenance Update on June 29, 2023**
