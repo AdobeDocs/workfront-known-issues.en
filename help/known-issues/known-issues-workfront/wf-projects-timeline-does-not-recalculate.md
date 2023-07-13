@@ -6,6 +6,10 @@ hidefromtoc: yes
 
 # Projects / Tasks / Issues: Timeline does not recalculate
 
+>[!NOTE]
+>
+>This issue was fixed on July 13, 2023.
+
 When an even occurs that should trigger a timeline calculation, the timeline does not recalculate. This affects recalculations that occur on changes, and scheduled recalculations. This can affect accuracy of the Workload Balancer.
 
 **Workaround**

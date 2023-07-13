@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Boards: Horizontal scrollbar is not present](known-issues-workfront/wf-board-no-scrollbar.md) | June 28, 2023 |
-| [Projects / Tasks / Issues: Timeline does not recalculate](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | June 27, 2023 |
 | [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | June 12, 2023 |
 
 {style="table-layout:auto"}
@@ -32,10 +31,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | -----------------------------------------------------------------| ----------------- |
 | [Setup: Cannot edit Job Role Cost/Hour or Billing/Hour](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | July 10, 2023 |
 | [Filters: "[!UICONTROL Enable system-wide]" and "[!UICONTROL View system-wide]" represent different functionality](known-issues-workfront/wf-filters-enable-system-wide.md) | June 27, 2023 |
-| [Reports: Utilization report does not load](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | June 26, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | June 26, 2023 |
 | [Workload Balancer: Hours redistribute unexpectedly](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | May 11, 2023 |
-| [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | May 4, 2023 |
 | [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 

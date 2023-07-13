@@ -8,6 +8,10 @@ exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
 
 <!--This issue is on the WF and WFP TOC-->
 
+>[!NOTE]
+>
+>This issue was fixed on July 13, 2023.
+
 Proof approvals that have passed their deadline and are locked are still showing on the approver's Home Work List, instead of dropping off the list when the deadline passed.
 
 _First reported on February 27, 2023._
