@@ -43,12 +43,6 @@ _Users_
 
 When a user attempts to edit another user, the Edit User page, is blank, and the user cannot edit the other user.
 
-**Hours redistribute unexpectedly**
-
-_Workload Balancer_
-
-When hour allocations are made on specific tasks, those hours may recalculate and redistribute unexpectedly. This may occur after tabbing between dates or pages, or after refreshing the page.
-
 +++
 
 ## Updates in June 2023
