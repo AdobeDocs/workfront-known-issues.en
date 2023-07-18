@@ -10,6 +10,7 @@ user-guide-description: Known Issues for [!DNL Adobe Workfront]
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!UICONTROL Home]: [!UICONTROL Home Work List] is blank / slow to load](known-issues-workfront/wf-home-blank-slow-to-load.md)
         + [Setup: Cannot edit Job Role Cost/Hour or Billing/Hour](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
         + [Boards: Horizontal scrollbar is not present](known-issues-workfront/wf-board-no-scrollbar.md)
         + [Projects / Tasks / Issues: Timeline does not recalculate](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
