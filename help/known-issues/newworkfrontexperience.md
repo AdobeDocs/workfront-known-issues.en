@@ -18,6 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: [!UICONTROL Home Work List] is blank / slow to load](known-issues-workfront/wf-home-blank-slow-to-load.md) | July 18, 2023 |
 | [Boards: Horizontal scrollbar is not present](known-issues-workfront/wf-board-no-scrollbar.md) | June 28, 2023 |
 | [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | June 12, 2023 |
 
