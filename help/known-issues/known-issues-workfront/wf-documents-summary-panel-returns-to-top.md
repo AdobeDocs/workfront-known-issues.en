@@ -3,6 +3,7 @@ title: 'Documents: Summary panel returns to top when clicking three-dot menu'
 description: ''
 hidefromtoc: yes
 exl-id: 9e6e7b41-7d1b-4e13-a647-7b1fcaeacc1d
+feature: Digital Content and Documents
 ---
 # Documents: Summary panel returns to top when clicking three-dot menu
 

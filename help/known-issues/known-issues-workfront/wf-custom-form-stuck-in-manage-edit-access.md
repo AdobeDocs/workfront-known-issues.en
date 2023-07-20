@@ -2,6 +2,7 @@
 title: 'Custom forms: Cross-object custom forms require Manage or Edit access to edit fields'
 description: When a user creates a form with cross objects that only allow Manage or Edit access, and then removes that object type, the custom form continues to require Manage or Edit access to edit the fields. There is no visual indication the the fields require Manage or Edit access, and no way to reset the form.
 hidefromtoc: yes
+feature: Custom Forms
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
 ---
 # Custom forms: Cross-object custom forms require [!UICONTROL Manage] or [!UICONTROL Edit] access to edit fields

@@ -2,6 +2,7 @@
 title: 'Documents: Permissions are not inherited when a document is moved to a new project'
 description: 'When a user moves a document to a different project, the document does not inherit sharing permissions from the new project. The document is not shared to the users that the project is shared to. '
 hidefromtoc: yes
+feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
 ---
 # Documents: Permissions are not inherited when a document is moved to a new project

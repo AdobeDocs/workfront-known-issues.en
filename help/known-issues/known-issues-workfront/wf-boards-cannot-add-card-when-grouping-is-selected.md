@@ -2,6 +2,7 @@
 title: 'Boards: Cannot add cards when grouping is applied'
 description: When a user is viewing a board that has a grouping applies, and attempts to add a card, the user can only enter the name of the card. The rest of the card fields are disabled, including the Save button.
 hidefromtoc: yes
+feature: Agile
 exl-id: 2e6856d1-1e28-4da7-bb3c-3256d9ec5211
 ---
 # [!UICONTROL Boards]: Cannot add cards when grouping is applied

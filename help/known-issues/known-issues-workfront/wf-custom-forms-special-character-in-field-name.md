@@ -2,6 +2,7 @@
 title: 'Custom forms: Cannot use field in calculation if field name contains quotation marks or an apostrophe'
 description: When a user is creating a calcualted field expression, and attempts to include a typeahead field that has a name with an apostrophe or quotation mark, the calculation is not accepted, and the user sees the message This is an invalid custom expression, please try again.
 hidefromtoc: yes
+feature: Custom Forms
 exl-id: 7caa6b7a-87ab-40e8-aea2-05b41583a375
 ---
 # Custom forms: Cannot use field in calculation if field name contains apostrophes or quotation marks

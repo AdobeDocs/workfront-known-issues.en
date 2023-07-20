@@ -1,6 +1,7 @@
 ---
 title: "Document integrations: Cannot see all folders in OneDrive"
 description: "When a user attempts to access a document through the OneDrive integration in Workfront, the user cannot see all of the OneDrive folders, and cannot access documents in the missing folders."
+feature: Digital Content and Documents
 hidefromtoc: yes
 ---
 

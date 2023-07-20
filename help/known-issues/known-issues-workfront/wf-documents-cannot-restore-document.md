@@ -2,6 +2,7 @@
 title: 'Documents: Cannot restore deleted document'
 description: When a user attempts to restore a previously deleted document, they cannot restore the document, and they see the Whoops error.
 hidefromtoc: yes
+feature: Digital Content and Documents
 exl-id: ded3b89e-47fd-4145-bd7c-21b48eed8a06
 ---
 # Documents: Cannot restore deleted document

@@ -2,6 +2,7 @@
 title: "Custom forms: Display logic is lost when custom form is edited in new form designer (beta)"
 description: ""
 hidefromtoc: yes
+feature: Custom Forms
 ---
 
 # Custom forms: Display logic is lost when custom form is edited in new form designer (beta)

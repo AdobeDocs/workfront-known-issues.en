@@ -2,6 +2,7 @@
 title: 'Custom forms: Issues in custom dropdown fields'
 description: Custom dropdown fields that are enabled as multi-select fields may display the issues.
 hidefromtoc: yes
+feature: Custom Forms
 exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
 ---
 # Custom forms: Issues in custom dropdown fields

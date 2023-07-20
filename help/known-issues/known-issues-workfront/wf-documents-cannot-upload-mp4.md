@@ -1,6 +1,7 @@
 ---
 title: "Documents: Cannot upload MP4 file"
 description: "When a user attempts to upload an MP4, the file does not upload, and the user sees the error message Failed to upload file."
+feature: Digital Content and Documents
 hidefromtoc: yes
 ---
 

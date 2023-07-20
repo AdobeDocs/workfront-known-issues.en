@@ -2,6 +2,7 @@
 title: 'Documents: Error when uploading large file'
 description: When a user attempts to upload a large file (over 25 MB), the file does not upload, and the user sees the error Failed to upload file.
 hidefromtoc: yes
+feature: Digital Content and Documents
 exl-id: 6887a0a1-4f0b-4c91-b20f-664dd5f94470
 ---
 # Documents: Error when uploading large file
