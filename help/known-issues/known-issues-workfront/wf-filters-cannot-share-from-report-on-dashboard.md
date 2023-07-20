@@ -3,6 +3,7 @@ title: 'Filters: Cannot share a filter from a report on a dashboard'
 description: When a user is viewing a report on a dashboard and attempts to share a filter from that report, they are unable to share the filter. Clicking the three dots causes the dashboard to jump to the next report, and when the user scrolls back up to the intended report they see that the Share option has not opened.
 hidefromtoc: yes
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
+feature: Reports and Dashboards
 ---
 # Filters: Cannot share a filter from a report on a dashboard
 

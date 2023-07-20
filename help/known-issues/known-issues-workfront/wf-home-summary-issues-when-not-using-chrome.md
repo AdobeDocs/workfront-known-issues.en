@@ -3,6 +3,7 @@ title: 'Home: Home summary issues when using browsers other than Chrome'
 description: When a user is viewing their Home page, and is using a browser other than Chrome, they may see the various issues.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: yes
+feature: Get Started with Workfront
 ---
 # [!UICONTROL Home]: [!UICONTROL Home] summary issues when using browsers other than [!DNL Chrome]
 

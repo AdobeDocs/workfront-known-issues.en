@@ -2,6 +2,7 @@
 title: 'Documents: Invalid response error when opening or downloading a document'
 description: When a user attempts to open or download a document in Workfront, they cannot open or download it, and they see an error
 hidefromtoc: yes
+feature: Digital Content and Documents
 exl-id: fdce1208-17fa-4fd0-b164-467545061ed3
 ---
 # Documents: "Invalid response" error when opening or downloading a document

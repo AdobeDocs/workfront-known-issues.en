@@ -1,6 +1,7 @@
 ---
 title: "Boards: Horizontal scrollbar is not present"
 description: "When a user is viewing a board and attempts to scroll horizontally, the scrollbar is not present, and the user cannot scroll horizontally."
+feature: Agile
 hidefromtoc: yes
 ---
 

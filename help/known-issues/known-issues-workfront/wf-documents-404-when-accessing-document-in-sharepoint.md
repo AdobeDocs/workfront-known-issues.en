@@ -2,6 +2,7 @@
 title: 'Documents: 404 error when accessing document linked from SharePoint'
 description: When a user attempts to access a document linked through SharePoint, they are taken to a page with a 404 error.
 hidefromtoc: yes
+feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 ---
 # Documents: 404 error when accessing document linked from [!DNL SharePoint]
