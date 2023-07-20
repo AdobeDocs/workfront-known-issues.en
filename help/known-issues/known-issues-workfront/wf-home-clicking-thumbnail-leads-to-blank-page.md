@@ -3,6 +3,7 @@ title: 'Home: Clicking near thumbnail in Work List leads to blank page'
 description: When a user attempts to view a document or proof by clicking the thumbnail in the Home Work List, they are directed to a blank page. This is because an invisible URL is just below the thumbnail image, and if the user clicks this URL it takes them to a blank page.
 hidefromtoc: yes
 exl-id: 7512869b-8efe-4806-abaf-6ee89be1a3de
+feature: Get Started with Workfront, Digital Content and Documents
 ---
 # [!UICONTROL Home]: Clicking near thumbnail in [!UICONTROL Work List] leads to blank page
 

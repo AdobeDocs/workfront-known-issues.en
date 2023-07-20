@@ -1,6 +1,7 @@
 ---
 title: "Home: Items do not appear in Home Work List"
 description: "When a user views their Home Work List, items that should appear in the Work List are not present. For example, a user may go to a project and see that they are assigned tasks in the project, but these tasks do not appear on the user's Home Work List."
+feature: Get Started with Workfront
 hidefromtoc: yes
 ---
 

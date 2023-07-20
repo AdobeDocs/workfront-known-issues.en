@@ -2,6 +2,7 @@
 title: "Email Notifications: User isn't directed to comment thread"
 description: When a user clicks the Comment link in an email notification, they are directed to the top of the [!UICONTROL Updates] area instead of to the comment thread they are trying to reply to.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
+feature: Updates and Notifications
 hidefromtoc: yes
 ---
 # Email Notifications: User isn't directed to comment thread

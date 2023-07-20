@@ -1,6 +1,7 @@
 ---
 title: "Filters: Enable system-wide and View system-wide represent different functionality"
 description: "If a user shares a filter and enables the [!UICONTROL View system-wide] option, the filter is shared with every user in the system. However, if an admin then views this filter in [!UICONTROL Setup], they see that this filter displays [!UICONTROL false] in the [!UICONTROL Visible System-Wide] column. To make this filter a system default, the admin must enable the [!UICONTROL Enable system-wide] option in Setup. This may cause some confusion due to the similarity of wording."
+feature: System Setup and Administration
 hidefromtoc: yes
 ---
 
