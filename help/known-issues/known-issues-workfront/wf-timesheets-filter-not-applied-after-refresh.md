@@ -2,6 +2,7 @@
 title: 'Timesheets: Filter is not applied when page is refreshed'
 description: When a user is viewing a list of timesheets using a filter, and either refreshes or navigates away from the page and back, the filter is not applied. The filter appears to be selected in the filter list.
 hidefromtoc: yes
+feature: Timesheets
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
 ---
 # Timesheets: Filter is not applied when page is refreshed

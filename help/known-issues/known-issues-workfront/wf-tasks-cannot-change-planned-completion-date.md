@@ -3,6 +3,7 @@ title: 'Tasks: Cannot change Planned Completion Date of a task'
 description: 'When a user attempts to change the Planned Completion Date of a task, the field is unresponsive. '
 hidefromtoc: yes
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
+feature: Tasks
 ---
 # Tasks: Cannot change [!UICONTROL Planned Completion Date] of a task
 

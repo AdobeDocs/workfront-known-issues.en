@@ -2,6 +2,7 @@
 title: "Timesheets: Errors when logging hours on a timesheet"
 description: "When a user attempts to log hours on a task in their timesheet, the hours are not saved, and the user sees error messages."
 hidefromtoc: yes
+feature: Timesheets
 ---
 
 # Timesheets: Errors when logging hours on a timesheet

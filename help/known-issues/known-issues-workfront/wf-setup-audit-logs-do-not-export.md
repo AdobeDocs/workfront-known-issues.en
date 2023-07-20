@@ -3,6 +3,7 @@ title: 'Setup: Audit logs do not export'
 description: When a user attempts to export an audit log, the audit log does not export. There is no indication in Workfront that the audit log is not exporting, but the expected export file never appears.
 hidefromtoc: yes
 exl-id: 20c929a3-d083-48f8-8d0a-df3ca3bcfa08
+feature: System Setup and Administration
 ---
 # [!UICONTROL Setup]: Audit logs do not export
 

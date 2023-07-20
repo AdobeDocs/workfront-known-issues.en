@@ -2,6 +2,7 @@
 title: "Workload Balancer: Hours redistribute unexpectedly"
 description: "When hour allocations are made on specific tasks, those hours may recalulate and redistribute unexpectedly. This may occur after tabbing between dates or pages, or after refreshing the page."
 hidefromtoc: yes
+feature: Resource Management
 ---
 
 # Workload Balancer: Hours redistribute unexpectedly

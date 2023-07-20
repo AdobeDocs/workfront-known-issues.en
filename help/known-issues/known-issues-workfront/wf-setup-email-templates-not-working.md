@@ -2,6 +2,7 @@
 title: 'Setup: Cannot save email templates'
 description: When a user attempts to create or edit an email template, the Save button is unresponsive, and the user cannot save the template.
 hidefromtoc: yes
+feature: System Setup and Administration, Updates and Notifications
 exl-id: ce2715ce-3cca-4806-b06f-b74e4b5ec853
 ---
 # Setup: Cannot save email templates

@@ -3,6 +3,7 @@ title: 'Users: Scheduled deactivation does not deactivate user'
 description: When a user is scheduled to be deactivated, and the scheduled date and time passes, the user is not deactivated.
 hidefromtoc: yes
 exl-id: 4d024570-6861-4e46-a537-f4f754aa775b
+feature: People Teams and Groups
 ---
 # Users: Scheduled deactivation does not deactivate user
 
