@@ -1,0 +1,20 @@
+---
+title: "Setup: Cannot export audit logs"
+description: "When a user attempts to export a large number of audit logs, the logs do not export. There is no indication that the export has failed."
+hidefromtoc: yes
+feature: System Setup and Administration
+---
+
+# [!UICONTROL Setup]: Cannot export audit logs
+
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
+
+When a user attempts to export a large number of audit logs, the logs do not export. There is no indication that the export has failed.
+
+**Workaround**
+
+Export fewer logs in one export.
+
+_First reported on June 20, 2023._
