@@ -3,6 +3,7 @@ title: 'Workfront Proof API: Body is not a valid XML error'
 description: A call to the Workfront Proof API returns an error.
 hidefromtoc: yes
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
+feature: Workfront Proof
 ---
 # [!DNL Workfront Proof] API: "[!UICONTROL Body is not a valid XML]" error
 
