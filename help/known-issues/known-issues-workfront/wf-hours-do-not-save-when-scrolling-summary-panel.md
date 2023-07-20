@@ -2,6 +2,7 @@
 title: 'Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel]'
 description: "When a user attempts to enter hours for a task in that task's Summary panel, the hours do not save. This occurs when the user leaves the cursor in the square where they entered hours, and scrolls the [!UICONTROL Summary panel].   "
 hidefromtoc: yes
+feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
 ---
 # Tasks: Hours are not saved when entering hours in the Task [!UICONTROL Summary panel].

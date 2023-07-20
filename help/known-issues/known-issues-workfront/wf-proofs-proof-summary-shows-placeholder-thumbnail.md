@@ -3,6 +3,7 @@ title: 'Proofs: [!UICONTROL Print summary] does not show image thumbnail'
 description: When a user views the [!UICONTROL Print summary] page of a proof in [!DNL Workfront], the thumbnail of the proof does not display. Instead, a simple placeholder image appears.
 hidefromtoc: yes
 exl-id: e3ad759d-59a2-4c2b-b4a1-14a75c9d85d2
+feature: Digital Content and Documents
 ---
 # Proofs: [!UICONTROL Print summary] does not show image thumbnail
 

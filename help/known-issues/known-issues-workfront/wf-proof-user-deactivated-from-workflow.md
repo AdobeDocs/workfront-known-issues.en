@@ -3,6 +3,7 @@ title: 'Proofs: User is deactivated from proof workflow and gets Access not perm
 description: When a user attempts to access a proof they they are assigned to a workflow on, they see an Access not permitted message.
 hidefromtoc: yes
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
+feature: Digital Content and Documents
 ---
 # Proofs: User is deactivated from proof workflow and gets "[!UICONTROL Access not permitted]" when accessing proof
 

@@ -3,6 +3,7 @@ title: 'Proofs: Proof Activity tab opens Proof Details'
 description: When a user is viewing a proof, and clicks on the Proof Activity tab, the Proof Details tab opens instead. This occurs when a proof stage has been manually added to the workflow.
 hidefromtoc: yes
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
+feature: Digital Content and Documents
 ---
 # Proofs: [!UICONTROL Proof Activity] tab opens [!UICONTROL Proof Details]
 

@@ -2,6 +2,7 @@
 title: 'Integrations: Error when logging in to Workfront from Jira'
 description: When a user attempts to log in to Workfront from Jira using the Workfront for Jira integration, the page does not load, and the user sees an error.
 hidefromtoc: yes
+feature: Workfront Integrations and Apps
 exl-id: 8d3b2563-8ab8-4136-9ba1-fe7a0c4654f5
 ---
 # Integrations: Error when logging in to [!DNL Workfront] from [!DNL Jira]
