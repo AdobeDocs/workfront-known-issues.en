@@ -18,6 +18,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | July 20, 2023 |
+| [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | July 20, 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Home Work List] is blank / slow to load](known-issues-workfront/wf-home-blank-slow-to-load.md) | July 18, 2023 |
 | [Boards: Horizontal scrollbar is not present](known-issues-workfront/wf-board-no-scrollbar.md) | June 28, 2023 |
 | [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | June 12, 2023 |

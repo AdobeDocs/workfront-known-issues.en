@@ -15,7 +15,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in July 2023
 
-+++**(Planned) Maintenance Update on July 20, 2023**
++++**Maintenance Update on July 20, 2023**
 
 **Set planned hours on children recurring tasks with [!UICONTROL Simple] duration type without assignments**
 
