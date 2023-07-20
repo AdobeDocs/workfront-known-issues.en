@@ -3,6 +3,7 @@ title: 'Updates: Cannot log time for the current day in the Updates area'
 description: When a user attempts to log time for the current day in the Updates area, the current day is grayed out, and the user cannot enter any hours.
 hidefromtoc: yes
 exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc
+feature: Updates and Notifications
 ---
 # [!UICONTROL Updates]: Cannot log time for the current day in the [!UICONTROL Updates] area
 

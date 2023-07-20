@@ -3,6 +3,7 @@ title: 'Home: Completed proofs stuck in the Work List'
 description: After a user completes a proof, it still appears in the [!UICONTROL Work List].
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: yes
+feature: Workfront Proof
 ---
 # [!UICONTROL Home]: Completed proofs stuck in the [!UICONTROL Work List]
 

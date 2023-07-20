@@ -3,6 +3,7 @@ title: 'Proofs: Proof is not shared to users on the Proof Workflow'
 description: When a proof reaches a stage in a workflow to which a user has been added at proof creation, the proof is not shared with the user, and the user cannot access the proof.
 hidefromtoc: yes
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
+feature: Workfront Proof
 ---
 # Proofs: Proof is not shared to users on the Proof Workflow
 

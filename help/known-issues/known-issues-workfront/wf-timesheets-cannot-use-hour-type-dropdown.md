@@ -3,6 +3,7 @@ title: 'Timesheets: Hour Type dropdown does not open'
 description: When a user attempts to open the Hour Type dropdown on a timesheet, the screen flickers but the dropdown does not open. This occurs when the monitor is set to an unusual resolution, or when the zoom of the browser window is not set to 100%.
 hidefromtoc: yes
 exl-id: 50660f78-b963-4eb9-b95f-3fdc129d9ecb
+feature: Timesheets
 ---
 # Timesheets: [!UICONTROL Hour Type] dropdown does not open
 

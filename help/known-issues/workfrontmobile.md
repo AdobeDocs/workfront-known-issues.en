@@ -3,6 +3,7 @@ title: Known Issues in [!DNL Adobe Workfront] Mobile App
 description: Reported known issues for [!DNL Adobe Workfront] Mobile App
 keywords: new file, add file
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
+feature: Work Management
 ---
 # Known Issues in [!DNL Adobe Workfront] Mobile App
 

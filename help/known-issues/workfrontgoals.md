@@ -3,6 +3,7 @@ title: Known Issues in [!DNL Adobe Workfront Goals]
 description: Reported known issues for [!DNL Adobe Workfront Goals]
 keywords: new file, add file
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
+feature: Workfront Goals
 ---
 # Known Issues in [!DNL Adobe Workfront Goals]
 

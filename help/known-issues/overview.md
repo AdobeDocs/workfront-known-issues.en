@@ -2,6 +2,7 @@
 title: Workfront Known Issues
 description: List of Known Issues for [!DNL Adobe Workfront]
 exl-id: 3825d425-06dc-409e-892c-300b389ddc73
+feature: Get Started with Workfront
 ---
 # Workfront Known Issues
 

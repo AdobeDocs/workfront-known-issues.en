@@ -3,6 +3,7 @@ title: 'Documents: Proof workflow icon is not displaying'
 description: When a user in the new [!DNL Workfront] experience creates a proof, the proof status icon "SOCD" sometimes doesn't display in the Documents list until the user refreshes the page.
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: yes
+feature: Workfront Proof
 ---
 # Documents: Proof workflow icon is not displaying
 

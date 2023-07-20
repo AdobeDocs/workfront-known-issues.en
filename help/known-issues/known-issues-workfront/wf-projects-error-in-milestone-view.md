@@ -2,6 +2,7 @@
 title: "Projects: Error when using Milestone view"
 description: "When a user is viewing a project list and attempts to use the Milestone view, the view does not load and the user sees an error."
 hidefromtoc: yes
+feature: Projects
 ---
 
 # Projects: Error when using [!UICONTROL Milestone] view

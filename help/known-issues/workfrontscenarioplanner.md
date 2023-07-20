@@ -3,6 +3,7 @@ title: Known Issues in [!DNL Adobe Workfront Scenario Planner]
 description: Reported known issues for [!DNL Adobe Workfront Scenario Planner]
 keywords: new file, add file
 exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
+feature: Workfront Scenario Planner
 ---
 # Known Issues in [!DNL Adobe Workfront Scenario Planner]
 

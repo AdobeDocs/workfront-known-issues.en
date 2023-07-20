@@ -3,6 +3,7 @@ title: 'Search: Workfront Search times out'
 description: Workfront search is timing out. The search may return a few results, or none at all.
 hidefromtoc: yes
 exl-id: cbae251b-605c-4062-9627-34347da70ee5
+feature: Get Started with Workfront
 ---
 # Search: [!DNL Workfront] Search times out
 

@@ -3,6 +3,7 @@ title: 'Workfront Proof: Proof does not load when using Go to proof button in em
 description: When a user attempts to go to a proof using the Go to proof button in an email notification, the user is taken to a blank, gray page. The proof does not load.
 hidefromtoc: yes
 exl-id: 5d9c78a4-b1c1-4998-aa4b-fa29a831b7cb
+feature: Workfront Proof
 ---
 # [!DNL Workfront Proof]: Proof does not load when using "[!UICONTROL Go to proof]" button in email notification
 

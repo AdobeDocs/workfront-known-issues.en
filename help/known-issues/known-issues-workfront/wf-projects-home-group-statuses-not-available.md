@@ -3,6 +3,7 @@ title: 'Projects: Home Group custom statuses not available when creating a proje
 description: ''
 hidefromtoc: yes
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
+feature: Projects
 ---
 # Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template
 

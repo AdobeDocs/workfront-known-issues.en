@@ -3,6 +3,7 @@ title: 'Updates: Update made in behalf of a user displays as directly from the u
 description: When an admin is logged in as a user and makes a comment, that comment displays as directly from the user, instead of from the admin on behalf of the user.
 hidefromtoc: yes
 exl-id: b094dc2d-5cd8-4d48-9793-386256db7b4c
+feature: Updates and Notifications
 ---
 # Updates: Update made in behalf of a user displays as directly from the user
 

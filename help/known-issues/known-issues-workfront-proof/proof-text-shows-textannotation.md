@@ -3,6 +3,7 @@ title: 'Proofs: Text options box shows textAnnotations'
 description: When a user is viewing a proof, begins to add a comment, and opens the Text tool, the word textAnnotation appears next to the options in the tool. The Text tool still functions as expected, and textAnnotation disappears after the comment is posted.
 hidefromtoc: yes
 exl-id: abd7fae7-e176-406e-807c-1adae19e7dac
+feature: Workfront Proof
 ---
 # Proofs: Text options box shows "textAnnotations"
 

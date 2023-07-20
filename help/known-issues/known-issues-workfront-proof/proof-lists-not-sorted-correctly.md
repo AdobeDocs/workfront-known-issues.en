@@ -3,6 +3,7 @@ title: 'Workfront Proof: Lists are not sorted correctly'
 description: When a user views a list in Workfront Proof that has sorting applied (such as Name), the sorting is not accurate.
 hidefromtoc: yes
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456
+feature: Workfront Proof
 ---
 # [!DNL Workfront Proof]: Lists are not sorted correctly
 

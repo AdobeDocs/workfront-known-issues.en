@@ -2,6 +2,7 @@
 title: "Reports: Report not sorting correctly when sorting by any field"
 description: ""
 hidefromtoc: yes
+feature: Reports and Dashboards
 ---
 
 # Reports: Report not sorting correctly when sorting by any field

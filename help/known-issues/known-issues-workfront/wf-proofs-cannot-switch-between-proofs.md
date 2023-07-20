@@ -3,6 +3,7 @@ title: 'Proofs: Cannot switch between proofs in Proof Viewer'
 description: When a user is viewing a proof in the [!UICONTROL Proofing Viewer], and switches to another version, the version dropdown becomes disables, and the user cannot switch back to the original version they were viewing, or to another version of the proof.
 hidefromtoc: yes
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
+feature: Digital Content and Documents
 ---
 # Proofs: Cannot switch between proofs in [!UICONTROL Proof Viewer]
 

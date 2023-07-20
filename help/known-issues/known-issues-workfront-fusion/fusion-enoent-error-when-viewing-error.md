@@ -3,6 +3,7 @@ title: 'Workfront Fusion: Error when viewing an error in a scenario execution hi
 description: When a user is viewing a scenario execution history and attempts to see more detail about an error by clicking on the error, the details do not open and the user sees an error message.
 hidefromtoc: yes
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
+feature: Workfront Fusion
 ---
 # [!DNL Workfront Fusion]: Error when viewing an error in a scenario execution history
 

@@ -2,6 +2,7 @@
 title: "Workfront Fusion: Notifications emails are not being sent"
 description: "When an event occurs in Workfront Fusion that should trigger a notification email (such as for scenarios that encounter an error), the email is not sent."
 hidefromtoc: yes
+feature: Workfront Fusion
 ---
 
 # [!DNL Workfront Fusion]: Notifications emails are not being sent
