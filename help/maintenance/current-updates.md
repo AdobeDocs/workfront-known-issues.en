@@ -18,11 +18,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 +++**Maintenance Update on July 20, 2023**
 
-**Set planned hours on children recurring tasks with [!UICONTROL Simple] duration type without assignments**
-
-_Tasks_
-
-Now, when you set Planned Hours on a new parent recurring task with a [!UICONTROL Simple] Duration Type and no assignments, the hours are also added to the individual recurrences. Prior to this change, the hours were not saved for the recurrences when the parent tasks were unassigned.
+This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
 
 +++
 
