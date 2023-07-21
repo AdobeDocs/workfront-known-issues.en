@@ -7,6 +7,10 @@ feature: Get Started with Workfront
 
 # [!UICONTROL Home]: [!UICONTROL Home Work List] is blank / slow to load
 
+>[!NOTE]
+>
+>This issue was fixed on July 19, 2023.
+
 When a user attempts to view their [!UICONTROL Home Work List], The page is blank for an extended time as the page loads. Loading may take several minutes, during which the [!UICONTROL Work List] is blank.
 
 **Workaround**
