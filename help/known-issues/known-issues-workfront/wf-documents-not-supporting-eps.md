@@ -2,7 +2,7 @@
 title: "Documents: EPS files currently not supported"
 description: "Workfront currently does not support creating proofs from EPS files."
 hidefromtoc: yes
-feature: 
+feature: Digital Content and Documents
 ---
 
 # Documents: EPS files currently not supported
