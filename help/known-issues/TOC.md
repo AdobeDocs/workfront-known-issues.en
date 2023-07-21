@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+        + [Projects / Issues: Project does not correctly resolve issue](known-issues-workfront/wf-projects-resolving-issue.md)
         + [[!UICONTROL Setup]: Cannot export audit logs](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
         + [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
         + [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md)
