@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents: Document approvals do not appear in Approvals area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
+| [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
 | [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | July 21, 2023 |
 | [Projects / Issues: Project does not correctly resolve issue](known-issues-workfront/wf-projects-resolving-issue.md) | July 21, 2023 |
 | [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | July 20, 2023 |

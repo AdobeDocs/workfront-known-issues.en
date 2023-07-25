@@ -11,7 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + [Documents: Document approvals do not appear in Approvals area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+        + [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
         + [Documents: EPS files currently not supported](known-issues-workfront/wf-documents-not-supporting-eps.md)
         + [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
         + [Projects / Issues: Project does not correctly resolve issue](known-issues-workfront/wf-projects-resolving-issue.md)
