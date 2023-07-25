@@ -16,6 +16,16 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in July 2023
 
++++**(Planned) Maintenance Update on July 27, 2023**
+
+**"[!UICONTROL Enable system-wide]" and "[!UICONTROL View system-wide]" represent different functionality**
+
+_Filters_
+
+If a user shares a filter and enables the "[!UICONTROL View system-wide]" option, the filter is shared with every user in the system. However, if an admin then views this filter in [!UICONTROL Setup], they see that this filter displays "[!UICONTROL false]" in the "[!UICONTROL Visible System-Wide]" column. To make this filter a system default, the admin must enable the "[!UICONTROL Enable system-wide]" option in [!UICONTROL Setup]. This may cause some confusion due to the similarity of wording.
+
++++
+
 +++**Maintenance Update on July 20, 2023**
 
 This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
