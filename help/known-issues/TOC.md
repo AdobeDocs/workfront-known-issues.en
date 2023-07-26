@@ -166,6 +166,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
         + [[!DNL Workfront Fusion]: "[!UICONTROL cannot execute UPDATE]" error](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
         + [[!DNL Workfront Fusion]: Notifications emails are not being sent](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
         + [[!DNL Workfront Fusion]: Executions are stuck or delayed](known-issues-workfront-fusion/fusion-stuck-executions.md)
