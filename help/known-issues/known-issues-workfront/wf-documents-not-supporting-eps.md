@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--WF, WFP-->
 
+>[!NOTE]
+>
+>This issue was fixed on July 27, 2023.
+
 Workfront currently does not support creating proofs from EPS files.
 
 **Workaround**
