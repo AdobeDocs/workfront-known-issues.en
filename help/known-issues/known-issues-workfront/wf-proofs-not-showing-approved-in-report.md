@@ -7,7 +7,7 @@ feature: Digital Content and Documents
 
 # Proofs: Proofs are not showing in reports as approved
 
-.[!NOTE]
+>[!NOTE]
 >
 >This issue was fixed on July 21, 2023.
 
