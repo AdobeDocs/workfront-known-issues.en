@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in July 2023
 
-+++**(Planned) Maintenance Update on July 27, 2023**
++++**Maintenance Update on July 27, 2023**
 
 **"[!UICONTROL Enable system-wide]" and "[!UICONTROL View system-wide]" represent different functionality**
 
