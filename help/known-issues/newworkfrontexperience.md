@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tasks / Issues: Assigned user does not receive access to object](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | July 27, 2023 |
 | [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
 | [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | July 21, 2023 |
 | [Projects / Issues: Project does not correctly resolve issue](known-issues-workfront/wf-projects-resolving-issue.md) | July 21, 2023 |
