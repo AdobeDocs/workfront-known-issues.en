@@ -69,7 +69,6 @@ role: User
         + [Proofs: Proof status does not update in [!UICONTROL Document] lists](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
         + [Custom forms: Cross-object custom forms require [!UICONTROL Manage] or [!UICONTROL Edit] access to edit fields](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
         + [Proofs: Proofs display in Proof Viewer as less clear than original image](known-issues-workfront/wf-proofs-are-blurry.md)
-        + [Reports: "Whoops" error when adding a new issue to an issue report](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
         + [Proofs: Print summary does not show image thumbnail](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
         + [Integrations: [!UICONTROL Home Calendar] shows events an hour later than [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
         + [Tasks: Cannot change [!UICONTROL Planned Completion Date] of a task](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
