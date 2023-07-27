@@ -20,7 +20,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
-| [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | July 21, 2023 |
 | [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | July 20, 2023 |
 | [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | July 20, 2023 |
 
@@ -32,7 +31,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents: EPS files currently not supported](known-issues-workfront/wf-documents-not-supporting-eps.md) | July 21, 2023 |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | July 21, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | June 26, 2023 |
 
