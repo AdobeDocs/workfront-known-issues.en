@@ -14,9 +14,9 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
-## Updates in July 2023
+## Updates in August 2023
 
-+++**(Planned) Maintenance Update on July 27, 2023**
++++**(Planned) Maintenance Update on August 3, 2023**
 
 **Project does not correctly resolve issue**
 
@@ -39,6 +39,12 @@ This has been reported for users in EMEA.
 ## Updates in July 2023
 
 +++**Maintenance Update on July 27, 2023**
+
+**Tags and checklist items not working correctly in the project board view**
+
+_Boards_
+
+Tags and checklist items have been removed from the board view of projects, because they are not part of the Workfront tasks and cannot be shared between users.
 
 **"[!UICONTROL Enable system-wide]" and "[!UICONTROL View system-wide]" represent different functionality**
 
