@@ -16,6 +16,28 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in July 2023
 
++++**(Planned) Maintenance Update on July 27, 2023**
+
+**Project does not correctly resolve issue**
+
+_Projects / Issues_
+
+When a user changes the status of a project that is the resolving object for an issue, the issue status is changed to a status that does not match the same key as the status on the project.
+
+**"Whoops" error on matrix reports**
+
+_Reports_
+
+When a user attempts to view a matrix report, the report does not load, and the user sees the following error:
+
+"[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
+
+This has been reported for users in EMEA.
+
++++
+
+## Updates in July 2023
+
 +++**Maintenance Update on July 27, 2023**
 
 **"[!UICONTROL Enable system-wide]" and "[!UICONTROL View system-wide]" represent different functionality**
