@@ -11,6 +11,11 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Creating a new proof version deletes all versions of proof](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+        + [Proofs: Approved proof remains on approver's [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+        + [Proofs: Proof displays with top cut off](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+        + [Home: Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience](known-issues-workfront/wf-home-cannot-delete-todo.md)
+        + [Proofs: Cannot select text in lists or bullet points](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
         + [Tasks / Issues: Assigned user does not receive access to object](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
         + [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
         + [Documents: EPS files currently not supported](known-issues-workfront/wf-documents-not-supporting-eps.md)

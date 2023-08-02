@@ -18,6 +18,24 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 +++**(Planned) Maintenance Update on August 3, 2023**
 
+**Difficulty locating items in intake column**
+
+_Boards_
+
+The intake column on a board was previously sorted by the priority defined on tasks and issues, which made it difficult to locate specific items.
+
+The default ordering is now as follows:
+
+Tasks:
+
+* Primary order: Project name
+* Secondary order: Work Breakdown Structure
+
+Issues
+
+* Primary order: Project name
+* Secondary order: Reference number
+
 **Project does not correctly resolve issue**
 
 _Projects / Issues_
