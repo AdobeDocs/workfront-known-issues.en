@@ -7,6 +7,10 @@ hidefromtoc: yes
 
 # Boards: Horizontal scrollbar is not present
 
+>[!NOTE]
+>
+>This issue was fixed on July 13, 2023.
+
 When a user is viewing a board and attempts to scroll horizontally, the scrollbar is not present, and the user cannot scroll horizontally.
 
 **Workaround**

@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--This issue is on the WF and WFP TOC-->
 
+>[!NOTE]
+>
+>This issue was fixed on August 3, 2023.
+
 Proof approvals that have passed their deadline and are locked are still showing on the approver's Home Work List, instead of dropping off the list when the deadline passed.
 
 _First reported on February 27, 2023._

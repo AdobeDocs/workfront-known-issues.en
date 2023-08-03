@@ -25,7 +25,6 @@ These recently reported issues are currently under review.
 | [Proofs: Cannot select text in lists or bullet points](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | August 2, 2023 |
 | [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
 | [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | July 20, 2023 |
-| [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | July 20, 2023 |
 
 {style="table-layout:auto"}
 
@@ -35,9 +34,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | August 3, 2023 |
 | [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md) | August 3, 2023 |
-| [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | July 21, 2023 |
-| [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | June 26, 2023 |
 
 {style="table-layout:auto"}
 
@@ -47,6 +45,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | June 9, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | May 25, 2023 |
