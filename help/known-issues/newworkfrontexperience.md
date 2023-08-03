@@ -37,7 +37,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Creating a new proof version deletes all versions of proof](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | August 2, 2023 |
 | [Home: Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience](known-issues-workfront/wf-home-cannot-delete-todo.md) | August 2, 2023 |
-| [Projects / Issues: Project does not correctly resolve issue](known-issues-workfront/wf-projects-resolving-issue.md) | July 27, 2023 |
 | [Proofs: Locked proof approvals still show in Work List](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | July 21, 2023 |
 | [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | July 21, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | June 26, 2023 |

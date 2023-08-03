@@ -7,6 +7,10 @@ feature: Projects
 
 # Projects / Issues: Project does not correctly resolve issue
 
+>[!NOTE]
+>
+>This issue was fixed on August 3, 2023.
+
 When a user changes the status of a project that is the resolving object for an issue, the issue status is changed to a status that does not match the same key as the status on the project.
 
 **Workaround**
