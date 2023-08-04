@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Pinned project does not display information in some columns](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
         + [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md)
         + [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md)
         + [Proofs: Creating a new proof version deletes all versions of proof](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
