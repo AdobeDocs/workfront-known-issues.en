@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Issues when loading Matrix reports](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+        + [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md)
+        + [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
         + [Projects: Cannot navigate to project with URL that uses [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
         + [Boards: Issues when loading a board](known-issues-workfront/wf-boards-issues-with-loading.md)
         + [Projects: Pinned project does not display information in some columns](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)

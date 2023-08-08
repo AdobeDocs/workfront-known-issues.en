@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Issues when loading Matrix reports](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | August 8, 2023 |
 | [Boards: Issues when loading a board](known-issues-workfront/wf-boards-issues-with-loading.md) | August 7, 2023 |
 | [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 3, 2023 |
 | [Proofs: Approved proof remains on approver's [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | August 2, 2023 |
@@ -35,6 +36,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md) | August 8, 2023 |
+| [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
 | [Projects: Cannot navigate to project with URL that uses [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | August 8, 2023 |
 | [Projects: Pinned project does not display information in some columns](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | August 4, 2023 |
 | [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | August 3, 2023 |

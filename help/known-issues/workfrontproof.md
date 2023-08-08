@@ -34,6 +34,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md) | August 8, 2023 |
+| [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
 | [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | August 3, 2023 |
 | [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md) | August 3, 2023 |
 
