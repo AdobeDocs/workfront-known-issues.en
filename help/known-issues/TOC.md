@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Cannot navigate to project with URL that uses [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
         + [Boards: Issues when loading a board](known-issues-workfront/wf-boards-issues-with-loading.md)
         + [Projects: Pinned project does not display information in some columns](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
         + [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md)
