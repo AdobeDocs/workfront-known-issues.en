@@ -16,6 +16,32 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2023
 
++++**(Planned) Maintenance update on August 10, 2023**
+
+**Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience**
+
+_Home_
+
+When a user in the new [!UICONTROL Home] experience attempts to delete an item from the [!UICONTROL To-do] widget, the item does not delete, and the user sees the following error:
+
+"[!UICONTROL There was a problem removing your to-do, please try again soon.]"
+
+This may occur when there are hours logged to the [!UICONTROL To-do] item.
+
+**Pinned project does not display information in some columns**
+
+_Projects_
+
+When a user navigates to a pinned project using the pin, the object lists (such as the task list) may display blank columns. For example, an [!UICONTROL Assignments] column may display no assignments, even though assignments have been made.
+
+**Sleep module causing scenarios to hang**
+
+_[!DNL Workfront Fusion]_
+
+The [!UICONTROL Tools] > [!UICONTROL Sleep] module in a scenario may cause a scenario execution to hang. These executions show a status of Running in the [!UICONTROL Scenario History], and do not finish.
+
++++
+
 +++**Maintenance Update on August 3, 2023**
 
 **Difficulty locating items in intake column**
