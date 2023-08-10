@@ -9,7 +9,7 @@ feature: Digital Content and Documents
 
 >[!NOTE]
 >
->This issue has been closed because it could not be reproduced.
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
 
 When a user attempts to approve a proof in the [!UICONTROL Desktop Proofing Viewer], soon after the approval was requested, the approval options are not visible, and the user cannot approve the proof. The approval options appear several hours after the approval was requested.
 

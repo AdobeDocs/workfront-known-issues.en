@@ -21,11 +21,7 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Proof colors display inaccurately](known-issues-workfront/wf-proof-inaccurate-colors.md) | August 10, 2023 |
 | [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 3, 2023 |
-| [Proofs: Approved proof remains on approver's [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | August 2, 2023 |
-| [Proofs: Proof displays with top cut off](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | August 2, 2023 |
-| [Proofs: Cannot select text in lists or bullet points](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | August 2, 2023 |
 | [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
-| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | July 20, 2023 |
 
 {style="table-layout:auto"}
 
@@ -35,6 +31,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proof displays with top cut off](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | August 10, 2023 |
+| [Proofs: Approved proof remains on approver's [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | August 10, 2023 |
+| [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 10, 2023 |
+| [Proofs: Cannot select text in lists or bullet points](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | August 10, 2023 |
 | [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md) | August 8, 2023 |
 | [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
 | [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | August 3, 2023 |

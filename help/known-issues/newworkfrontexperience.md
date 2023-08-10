@@ -25,11 +25,7 @@ These recently reported issues are currently under review.
 | [Reports: Issues when loading Matrix reports](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | August 8, 2023 |
 | [Boards: Issues when loading a board](known-issues-workfront/wf-boards-issues-with-loading.md) | August 7, 2023 |
 | [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 3, 2023 |
-| [Proofs: Approved proof remains on approver's [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | August 2, 2023 |
-| [Proofs: Proof displays with top cut off](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | August 2, 2023 |
-| [Proofs: Cannot select text in lists or bullet points](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | August 2, 2023 |
 | [Tasks / Issues: Assigned user does not receive access to object](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | July 27, 2023 |
-| [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
 
 {style="table-layout:auto"}
 
@@ -39,13 +35,17 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proof displays with top cut off](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | August 10, 2023 |
+| [Proofs: Approved proof remains on approver's [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | August 10, 2023 |
+| [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 10, 2023 |
+| [Proofs: Cannot select text in lists or bullet points](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | August 10, 2023 |
+| [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | August 10, 2023 |
 | [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md) | August 8, 2023 |
 | [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
 | [Projects: Cannot navigate to project with URL that uses [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | August 8, 2023 |
 | [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | August 3, 2023 |
 | [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md) | August 3, 2023 |
 | [Proofs: Creating a new proof version deletes all versions of proof](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | August 2, 2023 |
-| [[!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | July 21, 2023 |
 | [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
@@ -57,6 +57,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | August 10, 2023 |
 | [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [Setup: Cannot edit Job Role Cost/Hour or Billing/Hour](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | July 21, 2023 |
 | [[!UICONTROL Setup]: Cannot export audit logs](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | July 20, 2023 |

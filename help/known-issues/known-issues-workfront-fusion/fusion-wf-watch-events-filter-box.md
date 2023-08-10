@@ -7,6 +7,10 @@ feature: Workfront Fusion
 
 # [!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] filter
 
+>[!NOTE]
+>
+>This issue was fixed on August 10, 2023.
+
 When a user is configuring a [!DNL Workfront] > [!DNL Watch Events] module, and the operator is set to "[!UICONTROL Equals]," the text box to enter a value is not present.
 
 **Workaround**
