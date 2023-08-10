@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Sleep module causing scenarios to hang](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | August 3, 2023 |
 | [[!DNL Workfront Fusion]: Scenario fails with "[!UICONTROL read ECONNRESET]" error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | August 3, 2023 |
 
 {style="table-layout:auto"}
