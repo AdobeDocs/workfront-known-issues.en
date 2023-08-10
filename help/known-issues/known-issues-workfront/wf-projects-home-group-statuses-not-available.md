@@ -7,6 +7,10 @@ feature: Projects
 ---
 # Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template
 
+>[!NOTE]
+>
+>This issue was fixed on August 10, 2023.
+
 When a user creates a project from a template, and the template has no group associated with it, the custom statuses associated with the user's [!UICONTROL Home Group] are not available in the [!UICONTROL Status] dropdown of the "[!UICONTROL Create project]" interface.
 
 **Workaround**
