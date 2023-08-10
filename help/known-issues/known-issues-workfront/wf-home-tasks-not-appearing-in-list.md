@@ -7,6 +7,10 @@ hidefromtoc: yes
 
 # [!UICONTROL Home]: Items do not appear in [!UICONTROL Home Work List]
 
+>[!NOTE]
+>
+>This issue was fixed on August 7, 2023.
+
 When a user views their [!UICONTROL Home Work List], items that should appear in the [!UICONTROL Work List] are not present. For example, a user may go to a project and see that they are assigned tasks in the project, but these tasks do not appear on the user's [!UICONTROL Home Work List].
 
 _First reported on May 31, 2023._
