@@ -16,7 +16,29 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2023
 
-+++**(Planned) Maintenance update on August 10, 2023**
++++**Maintenance update on August 17, 2023**
+
+**Cannot navigate to project with URL that uses [!UICONTROL Reference ID]**
+
+_Projects_
+
+When a user attempts to navigate to a project using a URL that includes a [!UICONTROL Reference ID] number, they are redirected to a page with an error message. Navigating to a task using a URl with a [!UICONTROL Reference ID] works as expected.
+
+**"[!UICONTROL Disable proof email notifications]" setting displays inaccurately**
+
+_Proofs_
+
+When a user is viewing proof settings in [!DNL Workfront], the "[!UICONTROL Disable proof email notifications]" checkbox does not accurately display the correct current setting. When the box is checked, indicating that proof email notifications are disabled, the notifications are actually enabled. The opposite is also true.
+
+**Cannot adjust proof markups**
+
+_Proofs_
+
+When a user is making a comment in the proofing viewer and makes a markup on the proof, then clicks away, the user can no longer adjust the markup.
+
++++
+
++++**Maintenance update on August 10, 2023**
 
 **Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience**
 
