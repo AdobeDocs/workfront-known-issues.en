@@ -2,7 +2,7 @@
 title: "Proofs: Cannot create proof from PDF"
 description: "When a user attempts to create a proof from a PDF, the proof does not generate, and the user sees a message that the proof generation has failed."
 hidefromtoc: yes
-feature: DIgital Content and Documents
+feature: Digital Content and Documents
 ---
 
 # Proofs: Cannot create proof from PDF
