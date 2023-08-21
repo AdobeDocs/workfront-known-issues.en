@@ -11,5 +11,5 @@ feature: Digital Content and Documents
 
 When a user attempts to create a proof from a PDF, the proof does not generate, and the user sees a message that the proof generation has failed.
 
-_First reported on August 3, 2023._ 
+_First reported on August 3, 2023._
 
