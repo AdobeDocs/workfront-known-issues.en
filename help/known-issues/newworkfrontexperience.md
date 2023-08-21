@@ -56,6 +56,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Layout templates: Layout templates causing inconsistencies in reports](known-issues-workfront/wf-layout-templates-classic.md) | August 21, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | August 10, 2023 |
 | [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [Setup: Cannot edit Job Role Cost/Hour or Billing/Hour](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | July 21, 2023 |
