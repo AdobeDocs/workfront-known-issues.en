@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!UICONTROL Resource Planner]: Planner does not load when filter is applied](known-issues-workfront/wf-resource-planning-cannot-load.md)
+        + [Proofs: Cannot create proof from PDF](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
         + [Proofs: Proof colors display inaccurately](known-issues-workfront/wf-proof-inaccurate-colors.md)
         + [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/wf-home-mentions-widget-new-home.md)
         + [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
