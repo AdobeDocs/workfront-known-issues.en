@@ -41,10 +41,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Proofs: Cannot select text in lists or bullet points](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | August 10, 2023 |
 | [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | August 10, 2023 |
 | [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md) | August 8, 2023 |
-| [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
-| [Projects: Cannot navigate to project with URL that uses [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | August 8, 2023 |
 | [Proofs: "No image" message when clicking on proof](known-issues-workfront/wf-proofs-no-image-on-comment.md) | August 3, 2023 |
-| [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md) | August 3, 2023 |
 | [Proofs: Creating a new proof version deletes all versions of proof](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | August 2, 2023 |
 | [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |

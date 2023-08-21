@@ -7,6 +7,10 @@ feature: Projects
 
 # Projects: Cannot navigate to project with URL that uses [!UICONTROL Reference ID]
 
+>[!NOTE]
+>
+>This issue was fixed on August 17, 2023.
+
 When a user attempts to navigate to a project using a URL that includes a [!UICONTROL Reference ID] number, they are redirected to a page with an error message. Navigating to a task using a URl with a [!UICONTROL Reference ID] works as expected.
 
 _First reported on August 3, 2023._

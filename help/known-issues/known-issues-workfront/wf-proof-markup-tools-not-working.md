@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on August 17, 2023.
+
 When a user is making a comment in the proofing viewer and makes a markup on the proof, then clicks away, the user can no longer adjust the markup. 
 
 **Workaround**
