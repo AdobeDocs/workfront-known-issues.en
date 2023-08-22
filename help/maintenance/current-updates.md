@@ -16,6 +16,22 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2023
 
++++**(Planned) Maintenance update on August 24, 2023**
+
+**Cannot select text in lists or bullet points**
+
+_Proofs_
+
+When a user is viewing a proof in the proofing viewer and attempts to select text that is in a list or a bullet point, the text selection tool is ineffective, and the text cannot be selected.
+
+**Creating a new proof version deletes all versions of proof**
+
+_Proofs_
+
+When a user creates a proof from a document, the proof is created. However, if a user creates another version of the proof, both the old and new versions are deleted. There is a [!UICONTROL Create Proof] option on the original document, and the proof versions can be found in the [!UICONTROL Trash] area of the [!UICONTROL Proofing] area in [!DNL Workfront].
+
++++
+
 +++**Maintenance update on August 17, 2023**
 
 **Cannot navigate to project with URL that uses [!UICONTROL Reference ID]**

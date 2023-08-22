@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Scenario fails with "[!UICONTROL read ECONNRESET]" error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | August 3, 2023 |
+| None |  |
 
 {style="table-layout:auto"}
 
@@ -30,7 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [[!DNL Workfront Fusion]: Scenario fails with "[!UICONTROL read ECONNRESET]" error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | August 3, 2023 |
 
 {style="table-layout:auto"}
 
