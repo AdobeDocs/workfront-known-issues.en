@@ -7,6 +7,10 @@ feature: Digital Content and Documents
 
 # Proofs: "No image" message when clicking on proof
 
+>[!NOTE]
+>
+>This issue was fixed on August 4, 2023. Proofs created before the fix may still experience the issue.
+
 When a user in the Desktop Proofing Viewer clicks a comment, the image associated with the comment does not open, and the user sees the following message:
 
 "[!UICONTROL There is no image associated with this comment.]"
