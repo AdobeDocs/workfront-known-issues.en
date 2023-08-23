@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Filters do not apply to widgets in the new [!UICONTROL Home] experience](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | August 23, 2023 |
 | [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/wf-home-mentions-widget-new-home.md) | August 10, 2023 |
 | [Reports: Issues when loading Matrix reports](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | August 8, 2023 |
 | [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 3, 2023 |
