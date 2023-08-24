@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on August 24, 2023.
+
 When a user is viewing a proof in the proofing viewer and attempts to select text that is in a list or a bullet point, the text selection tool is ineffective, and the text cannot be selected.
 
 _First reported on August 1, 2023._
