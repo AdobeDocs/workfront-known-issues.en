@@ -34,7 +34,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Proofs: Cannot create proof from PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | August 21, 2023 |
 | [Proofs: Proof displays with top cut off](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | August 10, 2023 |
 | [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 10, 2023 |
-| [Proofs: Cannot select text in lists or bullet points](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | August 10, 2023 |
 | [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md) | August 8, 2023 |
 | [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
 | [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md) | August 3, 2023 |
