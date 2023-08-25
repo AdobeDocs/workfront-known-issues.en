@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 3, 2023 |
 | [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
 
 {style="table-layout:auto"}
