@@ -19,11 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: Filters do not apply to widgets in the new [!UICONTROL Home] experience](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | August 23, 2023 |
 | [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/wf-home-mentions-widget-new-home.md) | August 10, 2023 |
-| [Reports: Issues when loading Matrix reports](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | August 8, 2023 |
-| [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 3, 2023 |
-| [Tasks / Issues: Assigned user does not receive access to object](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | July 27, 2023 |
 
 {style="table-layout:auto"}
 
@@ -33,6 +29,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Filters do not apply to widgets in the new [!UICONTROL Home] experience](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | August 25, 2023 |
+| [Reports: Issues when loading Matrix reports](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | August 25, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | August 22, 2023 |
 | [Proofs: Proof colors display inaccurately](known-issues-workfront/wf-proof-inaccurate-colors.md) | August 23, 2023 |
 | [Home: Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience](known-issues-workfront/wf-boards-issues-with-loading.md) | August 22, 2023 |
@@ -43,7 +41,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 10, 2023 |
 | [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | August 10, 2023 |
 | [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md) | August 8, 2023 |
-| [Projects: [!UICONTROL Home Group] custom statuses not available when creating a project from a template](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | March 30, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
 {style="table-layout:auto"}

@@ -7,6 +7,10 @@ feature: Tasks
 
 # Tasks / Issues: Assigned user does not receive access to object
 
+>[!NOTE]
+>
+>This issue has been closed.
+
 When a user is assigned to a work object, the user may not receive access to the object, and cannot complete the assignment. The user can request access, but this adds time and complexity to the completion of the work item.
 
 **Workaround**
