@@ -16,6 +16,35 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2023
 
++++**(Planned) Maintenance Update on August 31, 2023**
+
+**Filters do not apply to widgets in the new [!UICONTROL Home] experience**
+
+_[!UICONTROL Home]_
+
+When a user applies a filter to a widget in the new [!UICONTROL Home] experience, the widget shows items that should be excluded by the filter.
+
+This has been reported in the Custom Sandbox environment. The same widgets in the Preview and Production environments filter as expected.
+
+**Issues when loading Matrix reports**
+
+_Reports_
+
+When a user attempts to load a Matrix report as a chart, one of the following may occur:
+
+* Some information in the report does not load
+* The report gives the error "[!UICONTROL Unable to load content from the server]"
+
+**Planner does not load when filter is applied**
+
+_[!UICONTROL Resource Planner]_ 
+
+When a user attempts to load the [!UICONTROL Resource Planner], the planner does not load, and the user sees the following error message:
+
+"[!UICONTROL The following error occurred: Something went wrong while connecting to WorkPerDay service]"
+
++++
+
 +++**Maintenance update on August 24, 2023**
 
 **Cannot select text in lists or bullet points**
