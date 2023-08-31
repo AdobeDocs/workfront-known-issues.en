@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2023
 
-+++**(Planned) Maintenance Update on August 31, 2023**
++++**Maintenance Update on August 31, 2023**
 
 **Filters do not apply to widgets in the new [!UICONTROL Home] experience**
 

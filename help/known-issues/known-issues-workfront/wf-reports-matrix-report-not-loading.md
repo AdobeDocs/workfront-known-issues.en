@@ -7,6 +7,10 @@ feature: Reports and Dashboards
 
 # Reports: Issues when loading Matrix reports
 
+>[!NOTE]
+>
+>This issue was fixed on August 31, 2023.
+
 When a user attempts to load a Matrix report as a chart, one of the following may occur:
 
 * Some information in the report does not load

@@ -29,14 +29,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: Filters do not apply to widgets in the new [!UICONTROL Home] experience](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | August 25, 2023 |
-| [Reports: Issues when loading Matrix reports](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | August 25, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | August 22, 2023 |
 | [Proofs: Proof colors display inaccurately](known-issues-workfront/wf-proof-inaccurate-colors.md) | August 23, 2023 |
 | [Home: Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience](known-issues-workfront/wf-boards-issues-with-loading.md) | August 22, 2023 |
 | [Boards: Issues when loading a board](known-issues-workfront/wf-boards-issues-with-loading.md) | August 22, 2023 |
 | [Proofs: Cannot create proof from PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | August 21, 2023 |
-| [[!UICONTROL Resource Planner]: Planner does not load when filter is applied](known-issues-workfront/wf-resource-planning-cannot-load.md) | August 21, 2023 |
 | [Proofs: Proof displays with top cut off](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | August 10, 2023 |
 | [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 10, 2023 |
 | [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | August 10, 2023 |
