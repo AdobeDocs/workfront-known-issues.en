@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on August 24, 2023.
+
 When a user attempts to create a proof from a PDF, the proof does not generate, and the user sees a message that the proof generation has failed.
 
 _First reported on August 3, 2023._

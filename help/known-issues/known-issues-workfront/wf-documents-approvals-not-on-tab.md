@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--On WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue has been closed because it is not an issue.
+
 When a user views the [!UICONTROL Approvals] area of a document, it does not show all of the approvals that have been made. If the user views the [!UICONTROL Updates] area of the same document, they see approvals that do not appear in the approvals area.
 
 _First reported on July 19, 2023._

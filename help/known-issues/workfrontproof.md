@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents: Document approvals do not appear in [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | July 25, 2023 |
+| None |  |
 
 {style="table-layout:auto"}
 
@@ -29,11 +29,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proof colors display inaccurately](known-issues-workfront/wf-proof-inaccurate-colors.md) | August 22, 2023 |
-| [Proofs: Cannot create proof from PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | August 21, 2023 |
-| [Proofs: Proof displays with top cut off](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | August 10, 2023 |
-| [Proofs: Proofs fail to generate](known-issues-workfront/wf-proofs-fail-to-generate.md) | August 10, 2023 |
-| [Proofs: Overlapping text on a proof](known-issues-workfront/wf-proofs-overlapping-text.md) | August 8, 2023 |
 | [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
 | [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md) | August 3, 2023 |
 

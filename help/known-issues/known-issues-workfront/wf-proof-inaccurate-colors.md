@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--WF and WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on August 24, 2023.
+
 When a user views a proof, they see that the colors displayed in the proof viewer do not match the colors of the original file. The colors appear washed out or desaturated, making proofing difficult.
 
 _First reported on August 4, 2023._

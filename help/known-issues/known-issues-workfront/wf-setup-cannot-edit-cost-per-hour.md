@@ -11,7 +11,7 @@ feature: System Setup and Administration
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue was fixed on August 24, 2023
 
 When a user is editing a Job Role and attempts to edit the Cost/Hour or Billing/Hour fields, the fields are blank, and the user cannot edit them.
 
