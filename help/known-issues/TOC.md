@@ -13,7 +13,6 @@ role: User
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
         + [Custom forms: Cannot delete custom field](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
         + [[!UICONTROL Home]: Search functionality not working in legacy [!UICONTROL Home Work List]](known-issues-workfront/wf-home-search-not-working-legacy.md)
-        + [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
         + [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
         + [Projects: Project is blank when loaded from new [!UICONTROL Home] experience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
         + [[!UICONTROL Home]: Filters do not apply to widgets in the new [!UICONTROL Home] experience](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
