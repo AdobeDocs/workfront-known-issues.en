@@ -19,7 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | September 1, 2023 |
+| [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | September 1, 2023 |
 
 {style="table-layout:auto"}
 
