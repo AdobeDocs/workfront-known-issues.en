@@ -14,6 +14,22 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in September 2023
+
++++**Maintenance Update on September 7, 2023**
+
+**Project is blank when loaded from new [!UICONTROL Home] experience**
+
+_Projects_
+
+When a user clicks on a project from their [!UICONTROL Home] page in the new Home experience, the project's page fails to load.
+
+This occurs when the user has logged in as another user, then logged out as the other user and returned to their own [!UICONTROL Home] page.
+
++++
+
+**Filters do not apply to widgets in the new [!UICONTROL Home] experience**
+
 ## Updates in August 2023
 
 +++**Maintenance Update on August 31, 2023**
