@@ -20,4 +20,4 @@ Do one of the following:
 * Unassign and reassign the user
 * Manually give access to the user
 
-_First reported on July, 2023._
+_First reported on July, 2023._ 
