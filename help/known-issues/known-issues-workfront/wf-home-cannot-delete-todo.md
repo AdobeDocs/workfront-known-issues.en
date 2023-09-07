@@ -7,11 +7,9 @@ feature: Get Started with Workfront
 
 # Home: Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience
 
-<!--
 >[!NOTE]
 >
->This issue was resolved on August 10, 2023.
--->
+>This issue was resolved on September 6, 2023.
 
 When a user in the new [!UICONTROL Home] experience attempts to delete an item from the [!UICONTROL To-do] widget, the item does not delete, and the user sees the following error:
 

@@ -7,6 +7,10 @@ feature: Get Started with Workfront
 
 # [!UICONTROL Home]: Search functionality not working in legacy [!UICONTROL Home Work List]
 
+>[!NOTE]
+>
+>This issue has been resolved.
+
 When a user is viewing their [!UICONTROL Home Work List] in the legacy Home experience and attempts to search the list, the search is ineffective.
 
 _First reported on August 18, 2023._

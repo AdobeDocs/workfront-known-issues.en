@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: Search functionality not working in legacy [!UICONTROL Home Work List]](known-issues-workfront/wf-home-search-not-working-legacy.md) | September 1, 2023 |
 | [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | September 1, 2023 |
 | [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | September 1, 2023 |
 | [Projects: Project is blank when loaded from new [!UICONTROL Home] experience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | September 1, 2023 |
@@ -33,9 +32,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Resource Planner]: Planner does not load when filter is applied](known-issues-workfront/wf-resource-planning-cannot-load.md) | September 7, 2023 |
 | [Custom forms: Cannot delete custom field](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | September 1, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | August 22, 2023 |
-| [Home: Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience](known-issues-workfront/wf-boards-issues-with-loading.md) | August 22, 2023 |
 | [Boards: Issues when loading a board](known-issues-workfront/wf-boards-issues-with-loading.md) | August 22, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
