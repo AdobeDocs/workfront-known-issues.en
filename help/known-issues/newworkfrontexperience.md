@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | September 7, 2023 |
 | [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | September 1, 2023 |
 | [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | September 1, 2023 |
 | [Projects: Project is blank when loaded from new [!UICONTROL Home] experience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | September 1, 2023 |
@@ -46,6 +47,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
 | [Layout templates: Layout templates causing inconsistencies in reports](known-issues-workfront/wf-layout-templates-classic.md) | August 21, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | August 10, 2023 |
 | [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
