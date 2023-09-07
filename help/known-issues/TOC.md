@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+        + [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md)
         + [Custom forms: Cannot delete custom field](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
         + [[!UICONTROL Home]: Search functionality not working in legacy [!UICONTROL Home Work List]](known-issues-workfront/wf-home-search-not-working-legacy.md)
         + [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
