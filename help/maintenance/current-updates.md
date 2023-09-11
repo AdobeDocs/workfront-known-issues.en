@@ -16,6 +16,16 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2023
 
++++**Maintenance Update on September 11, 2023**'
+
+**Personal tasks do not display in timesheets**
+
+_Timesheets_
+
+Personal tasks no longer display on the timesheet by default. Personal tasks display on the timesheet when they are pinned or have hours logged. Prior to this change, personal tasks displayed on timesheets by default.
+
++++
+
 +++**Maintenance Update on September 7, 2023**
 
 **Project is blank when loaded from new [!UICONTROL Home] experience**
