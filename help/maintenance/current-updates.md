@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2023
 
-+++**Maintenance Update on September 11, 2023**'
++++**Maintenance Update on September 11, 2023**
 
 **Personal tasks do not display in timesheets**
 
