@@ -16,6 +16,28 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2023
 
++++**(Planned) Maintenance Update on September 14, 2023**
+
+**"[!UICONTROL No factory]" error when adding a document**
+
+_Documents_
+
+When a user attempts to add a document from an external source, [!DNL Workfront] cannot access the source, and the user sees the following error:
+
+"[!UICONTROL The following error occurred: No factory found for authentication type null]"
+
+**"Whoops" error on matrix reports**
+
+_Reports_
+
+When a user attempts to view a matrix report, the report does not load, and the user sees the following error:
+
+"[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
+
+This occurs when grouping a report by date ranges.
+
++++
+
 +++**Maintenance Update on September 11, 2023**
 
 **Personal tasks do not display in timesheets**
