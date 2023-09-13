@@ -7,7 +7,7 @@ feature: System Setup and Administration
 
 # Layout templates: Layout templates causing inconsistencies in reports
 
-Layout templates from the Classic Workfront experience are not longer available in the Workfront interface, but may still affect Workfront data. This can cause inconsistencies in fields affected by layout templates (such as Shared with) on reports or dashboards.
+Layout templates from the Classic [!DNL Workfront] experience are not longer available in the [!DNL Workfront] interface, but may still affect [!DNL Workfront] data. This can cause inconsistencies in fields affected by layout templates (such as [!UICONTROL Shared with]) on reports or dashboards.
 
 **Workaround**
 
