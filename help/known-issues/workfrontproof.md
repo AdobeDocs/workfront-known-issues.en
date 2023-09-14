@@ -19,8 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | September 1, 2023 |
-| [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | September 1, 2023 |
+| None |  |
 
 {style="table-layout:auto"}
 
@@ -30,6 +29,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | September 14, 2023 |
+| [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | September 14, 2023 |
 | [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
 | [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md) | August 3, 2023 |
 
