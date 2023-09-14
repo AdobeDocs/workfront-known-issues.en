@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2023
 
-+++**(Planned) Maintenance Update on September 14, 2023**
++++**Maintenance Update on September 14, 2023**
 
 **"[!UICONTROL No factory]" error when adding a document**
 
