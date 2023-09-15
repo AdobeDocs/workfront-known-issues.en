@@ -32,6 +32,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Cannot move document to a different folder](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | September 15, 2023 |
+| [Proofs: Proofs appear desaturated or cropped](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | September 15, 2023 |
 | [Updates: Comments made in new commenting experience are not visible in legacy experience](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | September 15, 2023 |
 | [Boards: Cannot assign user on a board on a workstream](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | September 15, 2023 |
 | [Updates: Comment displays as sent from the incorrect user](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | September 15, 2023 |

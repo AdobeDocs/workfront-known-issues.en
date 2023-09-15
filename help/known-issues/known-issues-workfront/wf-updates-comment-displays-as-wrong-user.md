@@ -2,7 +2,7 @@
 title: "Updates: Comment displays as sent from the incorrect user"
 description: "When a user makes a comment, the comment displays as posted from a different user."
 hidefromtoc: yes
-feature: 
+feature: Updates and Notifications 
 ---
 
 # Updates: Comment displays as sent from the incorrect user

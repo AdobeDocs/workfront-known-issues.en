@@ -2,7 +2,7 @@
 title: "Filters: Buttons labeled as DEPRECATED when sharing a filter"
 description: "When a user attempts to share a filter, The Share and Cancel buttons both display as DEPRECATED, and the user may not know which button to click to share or to cancel the share. Functionality works as expected, but the button labels may cause confusion."
 hidefromtoc: yes
-feature: 
+feature: System Setup and Administration
 ---
 
 # Filters: Buttons labeled as "[!UICONTROL DEPRECATED]" when sharing a filter

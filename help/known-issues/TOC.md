@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: Cannot move document to a different folder](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
+        + [Proofs: Proofs appear desaturated or cropped](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
         + [Updates: Comments made in new commenting experience are not visible in legacy experience](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
         + [Updates: Comment displays as sent from the incorrect user](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
         + [Boards: Cannot assign user on a board on a workstream](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
