@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Comments made in new commenting experience are not visible in legacy experience](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+        + [Updates: Comment displays as sent from the incorrect user](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+        + [Boards: Cannot assign user on a board on a workstream](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+        + [Filters: Buttons labeled as "[!UICONTROL DEPRECATED]" when sharing a filter](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
         + [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
         + [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md)
         + [Custom forms: Cannot delete custom field](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
