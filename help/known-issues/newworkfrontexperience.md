@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Untitled cards display and appear in backlog](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | September 15, 2023 |
 | [Filters: Buttons labeled as "[!UICONTROL DEPRECATED]" when sharing a filter](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | September 15, 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | September 7, 2023 |
 | [Projects: Project is blank when loaded from new [!UICONTROL Home] experience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | September 1, 2023 |
@@ -32,6 +33,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs take excessive time to generate](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | September 18, 2023 |
 | [Documents: Cannot move document to a different folder](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | September 15, 2023 |
 | [Proofs: Proofs appear desaturated or cropped](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | September 15, 2023 |
 | [Updates: Comments made in new commenting experience are not visible in legacy experience](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | September 15, 2023 |
