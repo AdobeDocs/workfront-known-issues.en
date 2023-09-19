@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Proof: Extra, blank comment when making a comment on a proof](known-issues-workfront/wf-proofs-extra-blank-comment.md) | September 19, 2023 |
 
 {style="table-layout:auto"}
 

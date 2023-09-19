@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proof: Extra, blank comment when making a comment on a proof](known-issues-workfront/wf-proofs-extra-blank-comment.md) | September 19, 2023 |
 | [Boards: Untitled cards display and appear in backlog](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | September 15, 2023 |
 | [Filters: Buttons labeled as "[!UICONTROL DEPRECATED]" when sharing a filter](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | September 15, 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | September 7, 2023 |
