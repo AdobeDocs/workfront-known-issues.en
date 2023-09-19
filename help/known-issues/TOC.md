@@ -138,6 +138,8 @@ role: User
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Workfront Proof: Dashboard data not always accurate](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+        + [Workfront Proof: Search data not always accurate](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
         + [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
         + [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
         + [[!DNL Workfront Proof]: Search returns no results](known-issues-workfront-proof/proof-search-returns-no-results.md)
