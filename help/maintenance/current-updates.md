@@ -16,6 +16,63 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2023
 
++++**(Planned) Maintenance Update on September 21, 2023**
+
+**Cannot assign user on a board on a workstream**
+
+_Boards_
+
+When a user attempts to assign another user to a task from a board that is part of a workstream, and begins to type the user's name, the user does not appear on the drop-down list of available users. This occurs even when the user is active and a member of both the board and the workstream.
+
+The user may also notice that deactivated users appear on the drop-down.
+
+**Custom forms load slowly**
+
+_Custom forms_
+
+When a user attempts to load a custom form, the custom form loads slowly.
+
+**Cannot move document to a different folder**
+
+_Documents_
+
+When a user moves a document into an object folder, they cannot then move the object to a different folder.
+
+**XML error when downloading**
+
+_Documents_
+
+When a user attempts to download a document, the document does not download, and the user sees a page with the following message followed by XML text.
+
+"[!UICONTROL The XML file does not appear to have any style information associated with it. The document tree is below.]"
+
+**Cannot download documents from Preview / Sandbox environments**
+
+_Documents_
+
+When a user attempts to download a document from an environment other than production, the document does not download, and the user sees the following error: 
+
+"[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
+
+**Proofs appear desaturated or cropped**
+
+_Proofs_
+
+The following issues have been reported when creating a proof from a URL.
+
+* The proof appears desaturated or washed out.
+* The proof is cropped.
+
+This may cause proof decisions to be difficult, because the proof is not represented accurately.
+
+**Proofs take excessive time to generate**
+
+_Proofs_
+
+When a user attempts to generate a proof, the proof takes an excessive amount of time to generate. The proof generation may take several days.
+
++++
+
 +++**Maintenance Update on September 14, 2023**
 
 **"[!UICONTROL No factory]" error when adding a document**
