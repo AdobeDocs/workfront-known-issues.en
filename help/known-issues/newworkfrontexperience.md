@@ -34,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: Object page is missing elements](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | September 20, 2023 |
 | [Proofs: Proofs take excessive time to generate](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | September 18, 2023 |
 | [Documents: Cannot move document to a different folder](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | September 15, 2023 |
 | [Proofs: Proofs appear desaturated or cropped](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | September 15, 2023 |

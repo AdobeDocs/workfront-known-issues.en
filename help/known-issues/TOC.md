@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!DNL Workfront]: Object page is missing elements](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
         + [Proof: Extra, blank comment when making a comment on a proof](known-issues-workfront/wf-proofs-extra-blank-comment.md)
         + [Boards: Untitled cards display and appear in backlog](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
         + [Proofs: Proofs take excessive time to generate](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
