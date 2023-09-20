@@ -2,7 +2,7 @@
 title: "[!DNL Workfront]: Object page is missing elements"
 description: "When a user navigates to a custom section on an object in [!DNL Workfront], the page that loads may be missing some elements."
 hidefromtoc: yes
-feature: Get Started in Workfront
+feature: Get Started with Workfront
 ---
 
 # [!DNL Workfront]: Object page is missing elements
