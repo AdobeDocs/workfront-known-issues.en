@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--WF, WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on September 21, 2023.
+
 When a user creates a static proof from a website, text that is bold on the website does not appear as bold on the proof.
 
 _First reported on August 23, 2023._

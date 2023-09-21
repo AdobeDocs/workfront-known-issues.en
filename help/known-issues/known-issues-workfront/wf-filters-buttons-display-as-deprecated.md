@@ -7,6 +7,10 @@ feature: System Setup and Administration
 
 # Filters: Buttons labeled as "[!UICONTROL DEPRECATED]" when sharing a filter
 
+>[!NOTE]
+>
+>This issue was fixed on September 18, 2023.
+
 When a user attempts to share a filter, The "[!UICONTROL Share]" and "[!UICONTROL Cancel]" buttons both display as "[!UICONTROL DEPRECATED]," and the user may not know which button to click to share or to cancel the share. Functionality works as expected, but the button labels may cause confusion.
 
 **Workaround**
