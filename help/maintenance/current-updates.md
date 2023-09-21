@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2023
 
-+++**(Planned) Maintenance Update on September 21, 2023**
++++**Maintenance Update on September 21, 2023**
 
 **Cannot assign user on a board on a workstream**
 
@@ -25,6 +25,12 @@ _Boards_
 When a user attempts to assign another user to a task from a board that is part of a workstream, and begins to type the user's name, the user does not appear on the drop-down list of available users. This occurs even when the user is active and a member of both the board and the workstream.
 
 The user may also notice that deactivated users appear on the drop-down.
+
+**Cannot delete checklist item**
+
+_Boards_
+
+When a user attempts to delete a checklist item from a card on a board, the [!UICONTROL Delete] buttoon is unresponsive, and the item is not deleted.
 
 **Custom forms load slowly**
 
