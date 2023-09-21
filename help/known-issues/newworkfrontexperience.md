@@ -35,13 +35,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]: Object page is missing elements](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | September 20, 2023 |
-| [Proofs: Proofs take excessive time to generate](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | September 18, 2023 |
-| [Documents: Cannot move document to a different folder](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | September 15, 2023 |
-| [Proofs: Proofs appear desaturated or cropped](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | September 15, 2023 |
 | [Updates: Comments made in new commenting experience are not visible in legacy experience](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | September 15, 2023 |
-| [Boards: Cannot assign user on a board on a workstream](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | September 15, 2023 |
 | [Updates: Comment displays as sent from the incorrect user](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | September 15, 2023 |
-| [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | September 14, 2023 |
 | [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | September 14, 2023 |
 | [[!UICONTROL Resource Planner]: Planner does not load when filter is applied](known-issues-workfront/wf-resource-planning-cannot-load.md) | September 7, 2023 |
 | [Custom forms: Cannot delete custom field](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | September 1, 2023 |

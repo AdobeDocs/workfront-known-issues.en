@@ -7,6 +7,10 @@ feature: Digital Content and Documents
 
 # Documents: Cannot move document to a different folder
 
+>[!NOTE]
+>
+>This issue was fixed on September 30, 2023.
+
 When a user moves a document into an object folder, they cannot then move the object to a different folder.
 
 **Workaround:**

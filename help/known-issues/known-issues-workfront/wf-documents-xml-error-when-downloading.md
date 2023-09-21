@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--WF, WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on September 21, 2023. 
+
 When a user attempts to download a document, the document does not download, and the user sees a page with the following message followed by XML text.
 
 "[!UICONTROL The XML file does not appear to have any style information associated with it. The document tree is below.]"

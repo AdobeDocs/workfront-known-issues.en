@@ -7,6 +7,10 @@ feature: Digital Content and Documents
 
 # Proofs: Proofs appear desaturated or cropped
 
+>[!NOTE]
+>
+>This issue was fixed on September 21, 2023.
+
 The following issues have been reported when creating a proof from a URL.
 
 * The proof appears desaturated or washed out.

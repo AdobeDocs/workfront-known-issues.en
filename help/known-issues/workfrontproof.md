@@ -29,10 +29,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proofs take excessive time to generate](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | September 18, 2023 |
-| [Documents: Cannot move document to a different folder](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | September 15, 2023 |
-| [Proofs: Proofs appear desaturated or cropped](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | September 15, 2023 |
-| [Documents: XML error when downloading](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | September 14, 2023 |
 | [Proofs: Text formatting in static proof does not match formatting in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | September 14, 2023 |
 | [Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | August 8, 2023 |
 | [Proofs: Cannot adjust proof markups](known-issues-workfront/wf-proof-markup-tools-not-working.md) | August 3, 2023 |
