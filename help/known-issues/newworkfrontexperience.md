@@ -20,8 +20,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | September 7, 2023 |
-| [Projects: Project is blank when loaded from new [!UICONTROL Home] experience](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | September 1, 2023 |
-| [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/wf-home-mentions-widget-new-home.md) | August 10, 2023 |
 
 {style="table-layout:auto"}
 
@@ -32,12 +30,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proof: Extra, blank comment when making a comment on a proof](known-issues-workfront/wf-proofs-extra-blank-comment.md) | September 19, 2023 |
-| [Boards: Untitled cards display and appear in backlog](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | September 21, 2023 |
 | [[!DNL Workfront]: Object page is missing elements](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | September 20, 2023 |
 | [Updates: Comments made in new commenting experience are not visible in legacy experience](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | September 15, 2023 |
-| [Updates: Comment displays as sent from the incorrect user](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | September 15, 2023 |
 | [Custom forms: Cannot delete custom field](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | September 1, 2023 |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | August 22, 2023 |
 | [Boards: Issues when loading a board](known-issues-workfront/wf-boards-issues-with-loading.md) | August 22, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
@@ -49,6 +44,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
 | [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
 | [Layout templates: Layout templates causing inconsistencies in reports](known-issues-workfront/wf-layout-templates-classic.md) | August 21, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | August 10, 2023 |
