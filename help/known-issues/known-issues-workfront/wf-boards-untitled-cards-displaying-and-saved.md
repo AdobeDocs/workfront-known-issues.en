@@ -7,6 +7,10 @@ feature: Agile
 
 # Boards: Untitled cards display and appear in backlog
 
+>[!NOTE]
+>
+>This issue was fixed on September 21, 2023.
+
 When a user attempts to open a card, the card displays with the name "Untitled" and blank fields. After a time, the desired card details may populate, or the card may remain blank.
 
 In addition, these untitled cards may save to the board's backlog, causing confusion.

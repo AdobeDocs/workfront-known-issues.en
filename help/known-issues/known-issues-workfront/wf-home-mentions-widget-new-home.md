@@ -7,6 +7,12 @@ feature: Get Started with Workfront
 
 # [!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged
 
+<!--Requested article, won't fix-->
+
+>[!NOTE]
+>
+>This issue has been closed because it is working as designed.
+
 When a user views the "[!UICONTROL Mentions]" widget in the new [!UICONTROL Home] experience, they see comments that they are not tagged or mentioned in. The widget includes comments where:
 
 * The user is assigned to the task or issue
