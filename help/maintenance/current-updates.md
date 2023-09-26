@@ -16,6 +16,32 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in September 2023
 
++++**(Planned) Maintenance Update on September 28, 2023**
+
+**Cannot delete custom field**
+
+_Custom forms_
+
+When a user attempts to delete a custom field, they cannot delete it, and they see the message "[!UICONTROL Database error due to constraint violation]."
+
+**Comments made in new commenting experience are not visible in legacy experience**
+
+_Updates_
+
+When a user makes a comment in the new commenting experience, and that comment appears in the Comments area of the new experience, the same comment may not appear in the legacy commenting experience. This may cause users using the legacy experience to miss comments.
+
+**Object page is missing elements**
+
+_Workfront_
+
+When a user navigates to a custom section on an object in [!DNL Workfront], the page that loads may be missing some elements. These elements may include:
+
+* The left navigation panel
+* The name of the object that the custom section belongs to
+* Fields and information in the header
+
++++
+
 +++**Maintenance Update on September 21, 2023**
 
 **Cannot assign user on a board on a workstream**
