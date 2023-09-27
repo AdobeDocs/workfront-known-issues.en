@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Sharing: Error when sharing an object](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | September 27, 2023 |
 | [Boards: Horizontal scrollbar is not present](known-issues-workfront/wf-board-no-scrollbar.md) | September 26, 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | September 7, 2023 |
 
