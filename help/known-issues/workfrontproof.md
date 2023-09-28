@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | September 28, 2023 |
 
 {style="table-layout:auto"}
 
