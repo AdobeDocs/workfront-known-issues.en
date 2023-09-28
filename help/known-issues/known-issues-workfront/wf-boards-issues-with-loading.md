@@ -7,6 +7,10 @@ exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
 ---
 # Boards: Issues when loading a board
 
+>[!NOTE]
+>
+>This issue was fixed on September 28, 2023.
+
 When a user attempts to load a board, one of the following may occur:
 
 * The board loads extremely slowly

@@ -7,6 +7,10 @@ feature: Get Started with Workfront
 
 # [!DNL Workfront]: Object page is missing elements
 
+>[!NOTE]
+>
+>This issue was fixed on September 28, 2023.
+
 When a user navigates to a custom section on an object in [!DNL Workfront], the page that loads may be missing some elements. These elements may include:
 
 * The left navigation panel
