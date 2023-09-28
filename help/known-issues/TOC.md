@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Notifications: Automatic Reminder emails are not being sent](known-issues-workfront/wf-notifications-overdue-error.md)
         + [Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
         + [Users: Error message incorrectly shown when reminding user to register](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
         + [Sharing: Error when sharing an object](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
