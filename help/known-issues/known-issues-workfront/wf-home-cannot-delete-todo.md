@@ -1,10 +1,10 @@
 ---
-title: "Home: Cannot delete To-do in new Home experience"
-description: "When a user in the new Home experience attempts to delete an item from the To-do widget, the item does not delete, and the user sees an error."
+title: 'Home: Cannot delete To-do in new Home experience'
+description: When a user in the new Home experience attempts to delete an item from the To-do widget, the item does not delete, and the user sees an error.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: f0ae15b2-a24c-4420-abfb-a1da0d899f61
 ---
-
 # Home: Cannot delete [!UICONTROL To-do] item in new [!UICONTROL Home] experience
 
 >[!NOTE]
@@ -18,4 +18,3 @@ When a user in the new [!UICONTROL Home] experience attempts to delete an item f
 This may occur when there are hours logged to the [!UICONTROL To-do] item.
 
 _First reported on July 28, 2023._
-

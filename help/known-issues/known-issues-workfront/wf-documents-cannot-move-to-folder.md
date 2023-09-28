@@ -1,10 +1,10 @@
 ---
-title: "Documents: Cannot move document to a different folder"
-description: "When a user moves a document into an object folder, they cannot then move the object to a different folder."
+title: 'Documents: Cannot move document to a different folder'
+description: When a user moves a document into an object folder, they cannot then move the object to a different folder.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: b605b567-55f6-4125-9b57-a8595e74c1d9
 ---
-
 # Documents: Cannot move document to a different folder
 
 >[!NOTE]

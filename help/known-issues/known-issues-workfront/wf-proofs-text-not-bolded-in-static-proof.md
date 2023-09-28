@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Text formatting in static proof does not match formatting in website"
-description: "When a user creates a static proof from a website, text that is bold on the website does not appear as bold on the proof."
+title: 'Proofs: Text formatting in static proof does not match formatting in website'
+description: When a user creates a static proof from a website, text that is bold on the website does not appear as bold on the proof.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: bb6f9183-0aea-4ed6-87cc-6c89596e4197
 ---
-
 # Proofs: Text formatting in static proof does not match formatting in website
 
 <!--WF, WFP TOCs-->
@@ -16,4 +16,3 @@ feature: Digital Content and Documents
 When a user creates a static proof from a website, text that is bold on the website does not appear as bold on the proof.
 
 _First reported on August 23, 2023._
-

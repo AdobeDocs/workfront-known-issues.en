@@ -1,10 +1,10 @@
 ---
-title: "Workfront Fusion: cannot execute UPDATE error"
-description: "A scenario execution fails with the error cannot execute UPDATE in a read-only transaction."
+title: 'Workfront Fusion: cannot execute UPDATE error'
+description: A scenario execution fails with the error cannot execute UPDATE in a read-only transaction.
 hidefromtoc: yes
 feature: Workfront Fusion
+exl-id: 656b16da-760c-44bd-934f-fd88eb63344a
 ---
-
 # [!DNL Workfront Fusion]: "[!UICONTROL cannot execute UPDATE]" error
 
 >[!NOTE]
@@ -18,4 +18,3 @@ A scenario execution fails with the following error:
 This error has been reported in the [!DNL Workfront] > [!UICONTROL Watch Events] module.
 
 _First reported on June 7, 2023._
-

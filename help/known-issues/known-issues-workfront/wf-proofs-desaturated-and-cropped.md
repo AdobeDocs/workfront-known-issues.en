@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Proofs appear desaturated or cropped"
-description: "These issues have been reported when creating a proof from a URL."
+title: 'Proofs: Proofs appear desaturated or cropped'
+description: These issues have been reported when creating a proof from a URL.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 23af7e9a-f7b0-4031-b2a5-877818656b36
 ---
-
 # Proofs: Proofs appear desaturated or cropped
 
 >[!NOTE]

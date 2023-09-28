@@ -1,10 +1,10 @@
 ---
-title: "Reports: Whoops error when viewing matrix report"
-description: "When a user views a matrix report, they see the Whoops error."
+title: 'Reports: Whoops error when viewing matrix report'
+description: When a user views a matrix report, they see the Whoops error.
 hidefromtoc: yes
 feature: Reports and Dashboards
+exl-id: 6247c96c-7fe5-4fea-94f8-7081f9c96539
 ---
-
 # Reports: "[!UICONTROL Whoops]" error when viewing matrix report
 
 >[!NOTE]
@@ -22,4 +22,3 @@ This has been reported when the report is sorted by date and the "[!UICONTROL Sh
 Disable the "[!UICONTROL Show weeks with no results]" option.
 
 _First reported on June 8, 2023._
-

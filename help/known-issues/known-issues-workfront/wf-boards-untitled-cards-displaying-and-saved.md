@@ -1,10 +1,10 @@
 ---
-title: "Boards: Untitled cards display and appear in backlog"
-description: "When a user attempts to open a card, the card displays with the name Untitled and blank fields. After a time, the desired card details may populate, or the card may remain blank. In addition, these untitled cards may save to the board's backlog, causing confusion."
+title: 'Boards: Untitled cards display and appear in backlog'
+description: When a user attempts to open a card, the card displays with the name Untitled and blank fields. After a time, the desired card details may populate, or the card may remain blank. In addition, these untitled cards may save to the board's backlog, causing confusion.
 hidefromtoc: yes
 feature: Agile
+exl-id: dc84fcaa-b4f4-4b18-a80f-d657d1b52722
 ---
-
 # Boards: Untitled cards display and appear in backlog
 
 >[!NOTE]

@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Cannot select text in lists or bullet points"
-description: "When a user is viewing a proof in the proofing viewer and attempts to select text that is in a list or a bullet point, the text selection tool is ineffective, and the text cannot be selected."
+title: 'Proofs: Cannot select text in lists or bullet points'
+description: When a user is viewing a proof in the proofing viewer and attempts to select text that is in a list or a bullet point, the text selection tool is ineffective, and the text cannot be selected.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 04eb6c5b-76f9-4911-ad2c-dd125cfd46f1
 ---
-
 # Proofs: Cannot select text in lists or bullet points
 
 <!--WF and WFP TOCs-->
@@ -16,4 +16,3 @@ feature: Digital Content and Documents
 When a user is viewing a proof in the proofing viewer and attempts to select text that is in a list or a bullet point, the text selection tool is ineffective, and the text cannot be selected.
 
 _First reported on August 1, 2023._
-

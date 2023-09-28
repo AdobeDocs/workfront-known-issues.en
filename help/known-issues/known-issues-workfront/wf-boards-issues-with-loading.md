@@ -1,10 +1,10 @@
 ---
-title: "Boards: Issues when loading a board"
-description: "When a user attempts to load a board, issues may occur."
+title: 'Boards: Issues when loading a board'
+description: When a user attempts to load a board, issues may occur.
 hidefromtoc: yes
 feature: Agile
+exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
 ---
-
 # Boards: Issues when loading a board
 
 When a user attempts to load a board, one of the following may occur:
@@ -15,4 +15,3 @@ When a user attempts to load a board, one of the following may occur:
 This issue appears to be limited to boards that are in Workstreams. 
 
 _First reported on July 28, 2023._
-

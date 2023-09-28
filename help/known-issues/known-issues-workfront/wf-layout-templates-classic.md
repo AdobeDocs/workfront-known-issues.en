@@ -1,10 +1,10 @@
 ---
-title: "Layout templates: Layout templates causing inconsistencies in reports"
-description: "Layout templates from the Classic Workfront experience are not longer available in the Workfront interface, but may still affect Workfront data. This can cause inconsistencies in fields affected by layout templates (such as Shared with) on reports or dashboards."
+title: 'Layout templates: Layout templates causing inconsistencies in reports'
+description: Layout templates from the Classic Workfront experience are not longer available in the Workfront interface, but may still affect Workfront data. This can cause inconsistencies in fields affected by layout templates (such as Shared with) on reports or dashboards.
 hidefromtoc: yes
 feature: System Setup and Administration
+exl-id: 2c5a5af2-d4f5-42f3-93fc-ace53bc7b058
 ---
-
 # Layout templates: Layout templates causing inconsistencies in reports
 
 Layout templates from the Classic [!DNL Workfront] experience are not longer available in the [!DNL Workfront] interface, but may still affect [!DNL Workfront] data. This can cause inconsistencies in fields affected by layout templates (such as [!UICONTROL Shared with]) on reports or dashboards.
@@ -32,4 +32,3 @@ Delete the Classic layout templates using an API call. You must be logged into W
 1. Paste the API call from step 4 into the URL bar of your browser and press Enter.
 
    This deletes the layout template.
-

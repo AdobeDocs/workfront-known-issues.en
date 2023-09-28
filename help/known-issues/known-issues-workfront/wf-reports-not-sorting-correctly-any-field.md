@@ -1,10 +1,10 @@
 ---
-title: "Reports: Report not sorting correctly when sorting by any field"
-description: ""
+title: 'Reports: Report not sorting correctly when sorting by any field'
+description: ''
 hidefromtoc: yes
 feature: Reports and Dashboards
+exl-id: 9f190ced-b074-44ef-882a-8ee10e0c1aa1
 ---
-
 # Reports: Report not sorting correctly when sorting by any field
 
 >[!NOTE]
