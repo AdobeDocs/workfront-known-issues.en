@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Cards do not show correct count of checklist items](known-issues-workfront/wf-boards-checklist-item-count.md) | September 29, 2023 |
 | [Notifications: Automatic Reminder emails are not being sent](known-issues-workfront/wf-notifications-overdue-error.md) | September 28, 2023 |
 | [Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | September 28, 2023 |
 | [Sharing: Error when sharing an object](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | September 27, 2023 |
