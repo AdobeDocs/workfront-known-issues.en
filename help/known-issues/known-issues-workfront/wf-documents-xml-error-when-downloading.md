@@ -3,7 +3,7 @@ title: 'Documents: XML error when downloading'
 description: When a user attempts to download a document, the document does not download, and the user sees a page with a message followed by XML text.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: 9eee1a20-963c-476e-8d98-8ff4cbc796cf
+exl-id: 2f84d09c-71a8-4895-98d7-3412b1affa86
 ---
 # Documents: XML error when downloading
 

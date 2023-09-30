@@ -3,7 +3,7 @@ title: 'Agile: Kanban board goes blank when editing cards'
 description: When a user changes something about a card on the [!UICONTROL Kanban] board, the [!UICONTROL Kanban] board goes blank instead of refreshing with the change. If the user refreshes the page manually, the [!UICONTROL Kanban] board returns, showing the correct change.
 feature: Agile
 hidefromtoc: yes
-exl-id: a2dcee33-2f5e-4379-a877-24fb9c1e9d61
+exl-id: f9939700-7750-4d3a-8e97-ac7330102b75
 ---
 # Agile: [!UICONTROL Kanban] board goes blank when editing cards
 

@@ -3,7 +3,7 @@ title: 'Projects: Error when using Milestone view'
 description: When a user is viewing a project list and attempts to use the Milestone view, the view does not load and the user sees an error.
 hidefromtoc: yes
 feature: Projects
-exl-id: 199b3fd1-d69e-420e-91d9-b17fdc8f6ed4
+exl-id: 2bc5d85a-6a81-482a-a0f3-b54ee700ce9e
 ---
 # Projects: Error when using [!UICONTROL Milestone] view
 

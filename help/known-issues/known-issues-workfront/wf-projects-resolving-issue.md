@@ -3,7 +3,7 @@ title: 'Projects / Issues: Project does not correctly resolve issue'
 description: When a user changes the status of a project that is the resolving object for an issue, the issue status is changed to a status that does not match the same key as the status on the project.
 hidefromtoc: yes
 feature: Projects
-exl-id: 75010120-5d8a-457c-afc2-0f38e7f30500
+exl-id: 8ba68a36-5adf-41dc-9a40-3ce3fbd5310c
 ---
 # Projects / Issues: Project does not correctly resolve issue
 

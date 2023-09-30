@@ -3,7 +3,7 @@ title: 'Proofs: Cannot adjust proof markups'
 description: 'When a user is making a comment in the proofing viewer and makes a markup on the proof, then clicks away, the user can no longer adjust the markup. '
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: ab914d7a-5bc2-42a9-88aa-b076b62e3f06
+exl-id: a6826bc0-8de0-4d65-9007-9e07bbd53609
 ---
 # Proofs: Cannot adjust proof markups
 

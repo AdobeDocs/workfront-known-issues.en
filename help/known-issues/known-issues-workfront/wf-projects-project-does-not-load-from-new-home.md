@@ -3,7 +3,7 @@ title: 'Projects: Project is blank when loaded from new [!UICONTROL Home] experi
 description: When a user clicks on a project from their [!UICONTROL Home] page in the new Home experience, the project's page fails to load.
 hidefromtoc: yes
 feature: Projects
-exl-id: 1ccdb417-002e-4db0-bd4b-6742013260fb
+exl-id: 0c9f09c4-ba49-4104-a1c3-233348dac015
 ---
 # Projects: Project is blank when loaded from new [!UICONTROL Home] experience
 

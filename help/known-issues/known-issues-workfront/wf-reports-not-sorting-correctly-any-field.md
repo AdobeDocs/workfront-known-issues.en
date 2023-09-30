@@ -3,7 +3,7 @@ title: 'Reports: Report not sorting correctly when sorting by any field'
 description: ''
 hidefromtoc: yes
 feature: Reports and Dashboards
-exl-id: 9f190ced-b074-44ef-882a-8ee10e0c1aa1
+exl-id: 26ed9a70-0152-4f8f-aca9-6850ff1998d4
 ---
 # Reports: Report not sorting correctly when sorting by any field
 

@@ -3,7 +3,7 @@ title: 'Workfront Fusion: Sleep module causing scenarios to hang'
 description: The Tools &gt; Sleep module in a scenario may cause a scenario execution to hang. These executions show a status of Running in the Scenario History, and do not finish.
 hidefromtoc: yes
 feature: Workfront Fusion
-exl-id: f3ebf812-6662-4637-8b10-f951020d8e50
+exl-id: 829c7d34-42f7-43bc-9460-5379a43f5df9
 ---
 # [!DNL Workfront Fusion]: Sleep module causing scenarios to hang
 

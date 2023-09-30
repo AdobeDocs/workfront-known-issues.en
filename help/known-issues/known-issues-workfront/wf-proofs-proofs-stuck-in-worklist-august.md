@@ -3,7 +3,7 @@ title: "Proofs: Approved proof remains on approver's Home Work List"
 description: When a user approves a proof, that proof approval remains on the user's Home Work List. Approved proofs should automatically be removed from the Home Work List.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: b2b88456-dba9-42bf-85ed-3a2272574244
+exl-id: 08347294-1309-4488-8fd5-3ad35f63e0d7
 ---
 # Proofs: Approved proof remains on approver's [!UICONTROL Home Work List]
 

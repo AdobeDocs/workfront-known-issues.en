@@ -3,7 +3,7 @@ title: 'Reports: Issues when loading Matrix reports'
 description: When a user attempts to load a Matrix report as a chart, issues may occur.
 hidefromtoc: yes
 feature: Reports and Dashboards
-exl-id: d60e7c7d-a266-4264-be1f-e94a9d46e702
+exl-id: 7b6fc823-51c4-4889-a8c1-b5a269793a24
 ---
 # Reports: Issues when loading Matrix reports
 

@@ -3,7 +3,7 @@ title: 'Projects: Cannot navigate to project with URL that uses Reference ID'
 description: When a user attempts to navigate to a project using a URL that includes a Reference ID number, they are redirected to a page with an error message. Navigating to a task using a URl with a Reference ID works as expected.
 hidefromtoc: yes
 feature: Projects
-exl-id: 30212f11-d07e-42e0-958c-5b126c9dc473
+exl-id: b5439833-b6f8-42f0-ba75-9aac6837b8e0
 ---
 # Projects: Cannot navigate to project with URL that uses [!UICONTROL Reference ID]
 

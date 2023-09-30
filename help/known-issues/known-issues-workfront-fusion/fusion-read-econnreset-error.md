@@ -3,7 +3,7 @@ title: 'Workfront Fusion: Scenario fails with read ECONNRESET error'
 description: A scenario may intermittently fail. When a user views the execution of the failed scenario, they see error messages that mention read ECONNRESET
 hidefromtoc: yes
 feature: Workfront Fusion
-exl-id: b078aaee-cb85-4a0d-9272-26b9d552f534
+exl-id: e1140018-d308-422d-9019-ae5be7e147b2
 ---
 # [!DNL Workfront Fusion]: Scenario fails with "[!UICONTROL read ECONNRESET]" error
 

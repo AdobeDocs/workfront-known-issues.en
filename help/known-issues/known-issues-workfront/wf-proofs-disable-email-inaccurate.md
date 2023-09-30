@@ -3,7 +3,7 @@ title: 'Proofs: Disable proof email notifications setting displays inaccurately'
 description: When a user is viewing proof settings, the Disable proof email notifications checkbox does not accurately display the correct current setting. When the box is checked, indicating that proof email notifications are disabled, the notifications are actually enabled. The opposite is also true.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: b9b3e04f-02d2-41fd-9e32-80ed77b0008c
+exl-id: 58810090-9ff4-4204-b018-e7a86a134b59
 ---
 # Proofs: "[!UICONTROL Disable proof email notifications]" setting displays inaccurately
 

@@ -3,7 +3,7 @@ title: 'Proofs: Proofs are not showing in reports as approved'
 description: When a user is viewing a report that includes proof approval decisions, the report does not show the Approved decision for all approved proofs. When the user views the proof itself, they can see that it has been approved.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: b59ff4ce-55dd-4402-b913-db9903e7a264
+exl-id: 74fe37fa-6624-4c79-bf47-4a3ab5c6ee4c
 ---
 # Proofs: Proofs are not showing in reports as approved
 

@@ -3,7 +3,7 @@ title: 'Reports: Whoops error when viewing matrix report'
 description: When a user views a matrix report, they see the Whoops error.
 hidefromtoc: yes
 feature: Reports and Dashboards
-exl-id: 6247c96c-7fe5-4fea-94f8-7081f9c96539
+exl-id: d56b1126-1be8-4792-aec3-02f6b5cc2f1a
 ---
 # Reports: "[!UICONTROL Whoops]" error when viewing matrix report
 

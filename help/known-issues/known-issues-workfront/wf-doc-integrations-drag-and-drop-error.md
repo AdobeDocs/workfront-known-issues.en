@@ -1,10 +1,10 @@
 ---
-title: "Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration"
-description: "When a user attempts to drag an asset to a folder that is linked through an Experience Manager Assets integration, the document does not move, and the user sees the following error."
+title: 'Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration'
+description: When a user attempts to drag an asset to a folder that is linked through an Experience Manager Assets integration, the document does not move, and the user sees the following error.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 5965a409-b14d-4ceb-90f4-55d7cffd3d19
 ---
-
 # Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration
 
 When a user attempts to drag an asset to a folder that is linked through an Experience Manager Assets integration, the document does not move, and the user sees the following error:

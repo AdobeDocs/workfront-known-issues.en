@@ -3,7 +3,7 @@ title: 'Custom forms: Display logic is lost when custom form is edited in new fo
 description: ''
 hidefromtoc: yes
 feature: Custom Forms
-exl-id: 9efc0ee7-4028-4508-bc2f-f6202323ebb8
+exl-id: 1418f986-2e61-45a8-88f8-8b6267ec1787
 ---
 # Custom forms: Display logic is lost when custom form is edited in new form designer (beta)
 

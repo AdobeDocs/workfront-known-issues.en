@@ -3,7 +3,7 @@ title: 'Projects / Tasks / Issues: Timeline does not recalculate'
 description: When an even occurs that should trigger a timeline calculation, the timeline does not recalculate. This affects recalculations that occur on changes, and scheduled recalculations. This can affect accuracy of the Workload Balancer.
 hidefromtoc: yes
 feature: Projects, Tasks
-exl-id: 6f430e07-4692-4173-a984-5de52f1f22b5
+exl-id: 1358641c-3a43-4b02-8913-b9181f4d2705
 ---
 # Projects / Tasks / Issues: Timeline does not recalculate
 

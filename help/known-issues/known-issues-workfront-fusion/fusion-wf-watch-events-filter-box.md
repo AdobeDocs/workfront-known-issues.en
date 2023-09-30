@@ -3,7 +3,7 @@ title: 'Workfront Fusion: Cannot enter value in Workfront &gt; Watch Events filt
 description: When a user is configuring a [!DNL Workfront] &gt; [!DNL Watch Events] module, and the operator is set to [!UICONTROL Equals], the text box to enter a value is not present.
 hidefromtoc: yes
 feature: Workfront Fusion
-exl-id: 3adf7b53-f256-40db-a448-afa94cf22360
+exl-id: 29f86706-176f-45bb-930a-027e4588b35b
 ---
 # [!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] filter
 

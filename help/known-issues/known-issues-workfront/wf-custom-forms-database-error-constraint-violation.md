@@ -3,7 +3,7 @@ title: 'Custom forms: Cannot delete custom field'
 description: When a user attempts to delete a custom field, they cannot delete it, and they see the message Database error due to constraint violation.
 hidefromtoc: yes
 feature: Custom Forms
-exl-id: 3cdd1501-ac22-4e77-a61f-95b2826cc826
+exl-id: 35616468-ba26-47e6-9316-5a50b5e867ba
 ---
 # Custom forms: Cannot delete custom field
 

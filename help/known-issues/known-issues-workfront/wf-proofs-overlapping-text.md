@@ -3,7 +3,7 @@ title: 'Proofs: Overlapping text on a proof'
 description: 'When a user views a proof in the proofing viewer, they notice overlapping text, even though the text does not overlap on the original document. '
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: 165d78e7-39a4-4bd5-841d-36195c8b347d
+exl-id: c672c261-08fb-4819-8a57-601bb6c2d6df
 ---
 # Proofs: Overlapping text on a proof
 

@@ -3,7 +3,7 @@ title: 'Proofs: Creating a new proof version deletes all versions of proof'
 description: When a user creates a proof from a document, the proof is created. However, if a user creates another version of the proof, both the old and new versions are deleted. There is a [!UICONTROL Create Proof] option on the original document, and the proof versions can be found in the [!UICONTROL Trash] area of the [!UICONTROL Proofing] area in [!DNL Workfront].
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: 92a568e4-2a88-4aff-b44e-11c67b6d0699
+exl-id: faf489c5-198d-4b3d-9548-b6bc0daf0f42
 ---
 # Proofs: Creating a new proof version deletes all versions of proof
 

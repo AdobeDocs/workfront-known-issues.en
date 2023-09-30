@@ -3,7 +3,7 @@ title: 'Home: Filters do not apply to widgets in the new Home experience'
 description: When a user applies a filter to a widget in the new Home experience, the widget shows items that should be excluded by the filter.
 hidefromtoc: yes
 feature: Get Started with Workfront
-exl-id: f715e920-9f80-45da-b2fc-da48b12aa428
+exl-id: a2687750-91d1-45f4-8ec6-985df91483c5
 ---
 # [!UICONTROL Home]: Filters do not apply to widgets in the new [!UICONTROL Home] experience
 

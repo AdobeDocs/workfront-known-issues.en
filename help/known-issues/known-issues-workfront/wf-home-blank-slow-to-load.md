@@ -3,7 +3,7 @@ title: 'Home: Home Work List is blank / slow to load'
 description: When a user attempts to view their Home Work List, The page is blank for an extended time as the page loads. Loading may take several minutes, during which the Work List is blank.
 hidefromtoc: yes
 feature: Get Started with Workfront
-exl-id: b999de70-acb8-4fa3-9fee-eb836a0dc8df
+exl-id: 5d7e52de-27f5-4c3e-bd83-88939e03734c
 ---
 # [!UICONTROL Home]: [!UICONTROL Home Work List] is blank / slow to load
 

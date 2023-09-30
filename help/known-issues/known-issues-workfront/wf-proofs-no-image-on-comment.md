@@ -3,7 +3,7 @@ title: 'Proofs: No image message when clicking on proof'
 description: When a user in the Desktop Proofing Viewer clicks a comment, the image associated with the comment does not open, and the user sees a message.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: 9d36404f-dc06-4616-85cb-db6b81141c70
+exl-id: 73fdd2a0-67fe-477e-b42a-130ca6d975b1
 ---
 # Proofs: "No image" message when clicking on proof
 

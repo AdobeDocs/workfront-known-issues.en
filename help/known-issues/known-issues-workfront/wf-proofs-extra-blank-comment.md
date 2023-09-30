@@ -3,7 +3,7 @@ title: 'Proof: Extra, blank comment when making a comment on a proof'
 description: When a user makes a comment on a proof, the proof also produces another comment, which is blank.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: 8814e7bb-28ce-412b-b931-a989e64266dc
+exl-id: 3f22277a-b9fa-449f-b03a-a669fa710306
 ---
 # Proof: Extra, blank comment when making a comment on a proof
 

@@ -2,7 +2,7 @@
 title: 'Proofs: Locked proof approvals still show in Work List'
 description: Proof approvals that have passed their deadline and are locked are still showing on the approver's Home Work List, instead of dropping off the list when the deadline passed.
 hidefromtoc: yes
-exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
+exl-id: d1968299-42d6-4117-94dc-36698e043fa9
 feature: Digital Content and Documents
 ---
 # Proofs: Locked proof approvals still show in Work List

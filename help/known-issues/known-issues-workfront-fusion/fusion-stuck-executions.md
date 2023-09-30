@@ -3,7 +3,7 @@ title: 'Workfront Fusion: Executions are stuck or delayed'
 description: An execution may become stuck, continuing to run although no data is being processed. Because the scenario is stuck, later executions of that scenario may be delayed.
 hidefromtoc: yes
 feature: Workfront Fusion
-exl-id: cd5477cb-589f-4f1f-b7e6-758de9237daa
+exl-id: 45f19de6-506d-4a07-8a19-236593611e86
 ---
 # [!DNL Workfront Fusion]: Executions are stuck or delayed
 

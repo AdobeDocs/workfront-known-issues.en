@@ -3,7 +3,7 @@ title: 'Proofs: Proofs appear desaturated or cropped'
 description: These issues have been reported when creating a proof from a URL.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: 23af7e9a-f7b0-4031-b2a5-877818656b36
+exl-id: 4a8a5c1a-d593-4a92-b68d-73d40ca9a80b
 ---
 # Proofs: Proofs appear desaturated or cropped
 

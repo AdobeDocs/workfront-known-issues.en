@@ -3,7 +3,7 @@ title: 'Proofs: Proofs fail to generate'
 description: When a user attempts to create a proof from a document uploaded to Workfront, the proof fails to generate.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: f6939504-b25a-406d-b935-8f5ea1fe575f
+exl-id: ec5da8b0-42b8-406b-886a-fd717d2b58aa
 ---
 # Proofs: Proofs fail to generate
 

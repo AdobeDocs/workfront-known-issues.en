@@ -3,7 +3,7 @@ title: 'Proofs: Proof colors display inaccurately'
 description: When a user views a proof, they see that the colors displayed in the proof viewer do not match the colors of the original file. The colors appear washed out or desaturated, making proofing difficult.
 hidefromtoc: yes
 feature: Digital Content and Documents
-exl-id: 99be2363-7cbd-4535-b566-e23539d5dfa5
+exl-id: 932ee726-8430-4be9-bf33-c715023cea60
 ---
 # Proofs: Proof colors display inaccurately
 
