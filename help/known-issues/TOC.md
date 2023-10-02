@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: Board loads slowly](known-issues-workfront/wf-boards-board-loads-slowly.md)
+        + [Boards: Cannot move cards](known-issues-workfront/wf-boards-can-not-move-cards.md)
         + [Boards: Cards do not show correct count of checklist items](known-issues-workfront/wf-boards-checklist-item-count.md)
         + [Notifications: Automatic Reminder emails are not being sent](known-issues-workfront/wf-notifications-overdue-error.md)
         + [Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
