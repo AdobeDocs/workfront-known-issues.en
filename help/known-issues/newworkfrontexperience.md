@@ -34,6 +34,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Board loads slowly](known-issues-workfront/wf-boards-board-loads-slowly.md) | October 2, 2023 |
+| [Boards: Cannot move cards](known-issues-workfront/wf-boards-can-not-move-cards.md) | October 2, 2023 |
 | [Users: Error message incorrectly shown when reminding user to register](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | September 28, 2023 |
 | [[!UICONTROL Resource Planner]: Planner does not load when filter is applied](known-issues-workfront/wf-resource-planning-cannot-load.md) | September 28, 2023 |
 | [Workload Balancer: User displays as overallocated because of inaccurate capacity](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | September 26, 2023 |
