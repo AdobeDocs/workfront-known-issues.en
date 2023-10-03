@@ -161,8 +161,6 @@ This occurs when the user has logged in as another user, then logged out as the 
 
 +++
 
-**Filters do not apply to widgets in the new [!UICONTROL Home] experience**
-
 ## Updates in August 2023
 
 +++**Maintenance Update on August 31, 2023**
