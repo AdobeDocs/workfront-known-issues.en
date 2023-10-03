@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 3, 2023 |
 | [Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | September 28, 2023 |
 
 {style="table-layout:auto"}

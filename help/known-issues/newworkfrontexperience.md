@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 3, 2023 |
+| [Login: Error displays when resetting password although action was successful](known-issues-workfront/wf-login-whoops-resetting-password.md) | October 3, 2023 |
 | [Boards: Cards do not show correct count of checklist items](known-issues-workfront/wf-boards-checklist-item-count.md) | September 29, 2023 |
 | [Notifications: Automatic Reminder emails are not being sent](known-issues-workfront/wf-notifications-overdue-error.md) | September 28, 2023 |
 | [Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | September 28, 2023 |
@@ -34,6 +36,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workload Balancer: Manual hour changes not accurate after page refresh](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | October 3, 2023 |
+| [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | October 3, 2023 |
 | [Boards: Board loads slowly](known-issues-workfront/wf-boards-board-loads-slowly.md) | October 2, 2023 |
 | [Boards: Cannot move cards](known-issues-workfront/wf-boards-can-not-move-cards.md) | October 2, 2023 |
 | [Users: Error message incorrectly shown when reminding user to register](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | September 28, 2023 |

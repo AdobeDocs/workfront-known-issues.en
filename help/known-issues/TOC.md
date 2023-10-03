@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Workload Balancer: Manual hour changes not accurate after page refresh](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+        + [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+        + [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+        + [Login: Error displays when resetting password although action was successful](known-issues-workfront/wf-login-whoops-resetting-password.md)
         + [Boards: Board loads slowly](known-issues-workfront/wf-boards-board-loads-slowly.md)
         + [Boards: Cannot move cards](known-issues-workfront/wf-boards-can-not-move-cards.md)
         + [Boards: Cards do not show correct count of checklist items](known-issues-workfront/wf-boards-checklist-item-count.md)

@@ -14,9 +14,21 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in October 2023
+
++++**(Planned) Maintenance Update on October 5, 2023**
+
+**Automatic Reminder emails are not being sent**
+
+_Notifications_
+
+Automatic email reminders are not being sent. This began on September 14, 2023.
+
++++
+
 ## Updates in September 2023
 
-+++**(Planned) Maintenance Update on September 28, 2023**
++++**Maintenance Update on September 28, 2023**
 
 **Cannot delete custom field**
 
