@@ -1,10 +1,10 @@
 ---
-title: "Login: Error displays when resetting password although action was successful"
-description: "When a user is resetting their password, the Reset Password email is sent, but the user sees an error."
+title: 'Login: Error displays when resetting password although action was successful'
+description: When a user is resetting their password, the Reset Password email is sent, but the user sees an error.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: f5509725-e63a-4fb0-9366-5a7d568dc0b0
 ---
-
 # Login: Error displays when resetting password although action was successful
 
 When a user is resetting their password, the Reset Password email is sent, but the user sees the following error:
