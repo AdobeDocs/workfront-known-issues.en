@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | October 5, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 3, 2023 |
 | [Login: Error displays when resetting password although action was successful](known-issues-workfront/wf-login-whoops-resetting-password.md) | October 3, 2023 |
 | [Boards: Cards do not show correct count of checklist items](known-issues-workfront/wf-boards-checklist-item-count.md) | September 29, 2023 |

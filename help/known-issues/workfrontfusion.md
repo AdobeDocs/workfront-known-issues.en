@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | October 5, 2023 |
 
 {style="table-layout:auto"}
 

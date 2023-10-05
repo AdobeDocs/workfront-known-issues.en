@@ -176,6 +176,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md)
         + [[!DNL Workfront Fusion]: Sleep module causing scenarios to hang](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
         + [[!DNL Workfront Fusion]: Scenario fails with "[!UICONTROL read ECONNRESET]" error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
         + [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
