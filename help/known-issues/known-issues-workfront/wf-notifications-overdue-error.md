@@ -7,6 +7,10 @@ exl-id: 15075849-a0c4-4bbb-9206-df8e3d156d8d
 ---
 # Notifications: Automatic Reminder emails are not being sent
 
+>[!NOTE]
+>
+>This issue was fixed on October 5, 2023.
+
 Automatic email reminders are not being sent. This began on September 14, 2023.
 
 _First reported on September 27, 2023._
