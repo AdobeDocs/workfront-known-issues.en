@@ -7,6 +7,10 @@ exl-id: e1140018-d308-422d-9019-ae5be7e147b2
 ---
 # [!DNL Workfront Fusion]: Scenario fails with "[!UICONTROL read ECONNRESET]" error
 
+>[!NOTE]
+>
+>This issue was fixed on October 2, 2023.
+
 A scenario may intermittently fail. When a user views the execution of the failed scenario, they see the following messages:
 
 * [!UICONTROL Module initialization failed with an error. Error: Read ECONNRESE]T
