@@ -16,7 +16,37 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2023
 
-+++**(Planned) Maintenance Update on October 5, 2023**
++++**Maintenance Update on October 5, 2023**
+
+**Board loads slowly**
+
+_Boards_
+
+When a user loads a board, the board loads extremely slowly. This may occur even though the board has a small number of cards.
+
+Archived cards, even if not displayed, were affecting the board loading time.
+
+**Cannot move cards between columns**
+
+_Boards_
+
+When a user attempts to move a card on a board, the card does not move. This occurs in the following circumstances:
+
+* Drag and drop
+* Move option on card
+* Editing the card
+
+**Cannot move cards out of the intake column**
+
+_Boards_
+
+The user can drag one card out of the intake column to another column on the board, but subsequent cards cannot be moved out of the intake column.
+
+**Group by affects board performance**
+
+_Boards_
+
+When the user attempts to group the cards by assignees or tags, the board performance becomes very slow.
 
 **Automatic Reminder emails are not being sent**
 
