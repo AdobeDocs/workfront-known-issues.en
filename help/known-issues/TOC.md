@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Private updates display in valueexpression fields](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
         + [Workload Balancer: Manual hour changes not accurate after page refresh](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
         + [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
         + [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
