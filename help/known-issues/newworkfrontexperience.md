@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 9, 2023 |
+| [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 9, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 6, 2023 |
 | [Reports: Private updates display in valueexpression fields](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | October 6, 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | October 5, 2023 |
@@ -38,6 +40,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 9, 2023 |
 | [Workload Balancer: Manual hour changes not accurate after page refresh](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | October 3, 2023 |
 | [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | October 3, 2023 |
 | [Users: Error message incorrectly shown when reminding user to register](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | September 28, 2023 |
