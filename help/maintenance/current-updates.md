@@ -16,6 +16,26 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2023
 
++++**(Planned) Maintenance Update on October 12, 2023**
+
+**Calculated fields do not retain value when issue is converted to task**
+
+_Custom forms_
+
+Calculated fields that reference themselves do not retain their values when an issue is converted to a task. 
+
+When converting the issue to a task, the desired value shows correctly in the edit window.However, after the conversion is complete, the calculated field displays an "N/a".
+
+**Error when changing filters in [!UICONTROL Home]**
+
+_Home_
+
+When a user changes the filters on [!UICONTROL Home], the [!UICONTROL Home] area does not load, and the user sees the following error:
+
+"[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]"
+
++++
+
 +++**Maintenance Update on October 5, 2023**
 
 **Board loads slowly**
