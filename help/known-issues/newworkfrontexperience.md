@@ -40,6 +40,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | October 10, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 9, 2023 |
 | [Workload Balancer: Manual hour changes not accurate after page refresh](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | October 3, 2023 |
 | [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | October 3, 2023 |
