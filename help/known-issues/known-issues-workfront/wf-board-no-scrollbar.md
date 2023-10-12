@@ -7,7 +7,9 @@ exl-id: ab136be3-38a1-4078-859b-099a31fd93a1
 ---
 # Boards: Horizontal scrollbar is not present
 
-<!--Reopened Sept 26, 2023-->
+>[!NOTE]
+>
+>This issue was fixed on October 12, 2023.
 
 When a user is viewing a board and attempts to scroll horizontally, the scrollbar is not present, and the user cannot scroll horizontally.
 

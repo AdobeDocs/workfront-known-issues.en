@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Tasks: [!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
         + [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
         + [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
         + [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
