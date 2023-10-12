@@ -21,15 +21,10 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 9, 2023 |
 | [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 9, 2023 |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 6, 2023 |
-| [Reports: Private updates display in valueexpression fields](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | October 6, 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | October 5, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 3, 2023 |
-| [Login: Error displays when resetting password although action was successful](known-issues-workfront/wf-login-whoops-resetting-password.md) | October 3, 2023 |
 | [Boards: Cards do not show correct count of checklist items](known-issues-workfront/wf-boards-checklist-item-count.md) | September 29, 2023 |
-| [Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | September 28, 2023 |
 | [Sharing: Error when sharing an object](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | September 27, 2023 |
-| [Boards: Horizontal scrollbar is not present](known-issues-workfront/wf-board-no-scrollbar.md) | September 26, 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | September 7, 2023 |
 
 {style="table-layout:auto"}
@@ -40,11 +35,13 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tasks: [!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | October 12, 2023 |
+| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 12, 2023 |
+| [Login: Error displays when resetting password although action was successful](known-issues-workfront/wf-login-whoops-resetting-password.md) | October 12, 2023 |
+| [Reports: Private updates display in valueexpression fields](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | October 12, 2023 |
 | [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | October 10, 2023 |
-| [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 9, 2023 |
 | [Workload Balancer: Manual hour changes not accurate after page refresh](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | October 3, 2023 |
 | [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | October 3, 2023 |
-| [Users: Error message incorrectly shown when reminding user to register](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | September 28, 2023 |
 | [Workload Balancer: User displays as overallocated because of inaccurate capacity](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | September 26, 2023 |
 | [Proof: Extra, blank comment when making a comment on a proof](known-issues-workfront/wf-proofs-extra-blank-comment.md) | September 19, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |

@@ -7,6 +7,10 @@ exl-id: 5965a409-b14d-4ceb-90f4-55d7cffd3d19
 ---
 # Document integrations: Error when dragging an asset to a folder in an Experience Manager Assets integration
 
+>[!NOTE]
+>
+>This issue was fixed on October 12, 2023.
+
 When a user attempts to drag an asset to a folder that is linked through an Experience Manager Assets integration, the document does not move, and the user sees the following error:
 
 "?document.action.upload.drag.noaccess?"
