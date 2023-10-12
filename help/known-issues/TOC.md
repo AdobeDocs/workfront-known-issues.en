@@ -168,7 +168,6 @@ role: User
         + [[!DNL Workfront Fusion]: Sleep module causing scenarios to hang](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
         + [[!DNL Workfront Fusion]: Scenario fails with "[!UICONTROL read ECONNRESET]" error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
         + [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-        + [[!DNL Workfront Fusion]: Notifications emails are not being sent](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
         + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module returning 404 or 422 errors](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
         + [[!DNL Workfront Fusion]: "Failed to verify connection" error](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
         + [[!DNL Workfront Fusion]: [!DNL Fusion] module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
