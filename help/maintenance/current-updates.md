@@ -16,7 +16,13 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2023
 
-+++**(Planned) Maintenance Update on October 12, 2023**
++++**Maintenance Update on October 12, 2023**
+
+**Workstreams removed for accounts not using them**
+
+_Boards_
+
+For accounts that have never created a workstream in the Boards application, the Workstreams area has been removed from the Boards dashboard. Accounts that do use workstreams still have access to them.
 
 **Calculated fields do not retain value when issue is converted to task**
 
