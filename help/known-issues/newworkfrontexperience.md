@@ -35,6 +35,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: [!UICONTROL Proof activity] tab does not open](known-issues-workfront/wf-proof-activities-tab-not-working.md) | October 13, 2023 |
 | [Tasks: [!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | October 12, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 12, 2023 |
 | [Login: Error displays when resetting password although action was successful](known-issues-workfront/wf-login-whoops-resetting-password.md) | October 12, 2023 |
