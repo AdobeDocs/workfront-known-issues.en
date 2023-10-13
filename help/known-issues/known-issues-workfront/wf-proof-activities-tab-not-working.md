@@ -2,7 +2,7 @@
 title: "Proofs: Proof activity tab does not open"
 description: "When a user is viewing a proof and clicks the [!UICONTROL Proof activity] tab, the tab returns the user to the [!UICONTROL Proof details] tab."
 hidefromtoc: yes
-feature: 
+feature: Digital Content and Documents
 ---
 
 # Proofs: [!UICONTROL Proof activity] tab does not open
