@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: Branding is not applied](known-issues-workfront/wf-workfront-branding-not-applied.md) | October 13, 2023 |
+| [Boards: Board view in [!UICONTROL Tasks] area of project does not load](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | October 13, 2023 |
 | [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 9, 2023 |
 | [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 9, 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | October 5, 2023 |
@@ -35,6 +37,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Users are not notified of replies on a comment thread](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | October 13, 2023 |
 | [Proofs: [!UICONTROL Proof activity] tab does not open](known-issues-workfront/wf-proof-activities-tab-not-working.md) | October 13, 2023 |
 | [Tasks: [!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | October 12, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 12, 2023 |

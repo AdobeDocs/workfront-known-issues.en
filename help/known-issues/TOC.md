@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Notifications: Users are not notified of replies on a comment thread](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+        + [[!DNL Workfront]: Branding is not applied](known-issues-workfront/wf-workfront-branding-not-applied.md)
+        + [Boards: Board view in [!UICONTROL Tasks] area of project does not load](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
         + [Proofs: [!UICONTROL Proof activity] tab does not open](known-issues-workfront/wf-proof-activities-tab-not-working.md)
         + [Tasks: [!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
         + [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
