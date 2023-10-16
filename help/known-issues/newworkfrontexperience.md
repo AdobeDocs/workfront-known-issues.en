@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 16, 2023 |
 | [[!DNL Workfront]: Branding is not applied](known-issues-workfront/wf-workfront-branding-not-applied.md) | October 13, 2023 |
 | [Boards: Board view in [!UICONTROL Tasks] area of project does not load](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | October 13, 2023 |
 | [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 9, 2023 |
