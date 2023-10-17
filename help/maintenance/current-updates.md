@@ -16,6 +16,30 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2023
 
++++**(Planned) Maintenance Update on October 19, 2023**
+
+Users are not notified of replies on a comment thread
+
+_Notifications_
+
+When a user replies to a comment, other users that should receive notifications for the reply do not receive them. Some users may receive the notification while others do not.
+
+**Extra, blank comment when making a comment on a proof**
+
+_Proofs_
+
+When a user makes a comment on a proof, the proof also produces another comment, which is blank.
+
+This has been reported on video proofs.
+
+**[!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task**
+
+_Tasks_
+
+When a user is assigned to a task that has [!UICONTROL Planned Hours] allocated to other assignees on the task, the task's [!UICONTROL Planned Hours] are evenly distributed to all assignees on the task. 
+
++++
+
 +++**Maintenance Update on October 12, 2023**
 
 **Workstreams removed for accounts not using them**
