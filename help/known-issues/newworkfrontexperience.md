@@ -38,6 +38,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: "[!UICONTROL Deleted]" displays as name of user in system updates when issue is converted to task](known-issues-workfront/wf-updates-deleted-requested-team.md) | October 18, 2023 |
+| [Login: Login page redirects to logout landing page](known-issues-workfront/wf-login-redirects-to-logout-page.md) | October 18, 2023 |
 | [Notifications: Users are not notified of replies on a comment thread](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | October 13, 2023 |
 | [Proofs: [!UICONTROL Proof activity] tab does not open](known-issues-workfront/wf-proof-activities-tab-not-working.md) | October 13, 2023 |
 | [Tasks: [!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | October 12, 2023 |

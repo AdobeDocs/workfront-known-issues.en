@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: "[!UICONTROL Deleted]" displays as name of user in system updates when issue is converted to task](known-issues-workfront/wf-updates-deleted-requested-team.md)
+        + [Login: Login page redirects to logout landing page](known-issues-workfront/wf-login-redirects-to-logout-page.md)
         + [Notifications: Users are not notified of replies on a comment thread](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
         + [[!DNL Workfront]: Branding is not applied](known-issues-workfront/wf-workfront-branding-not-applied.md)
         + [Boards: Board view in [!UICONTROL Tasks] area of project does not load](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
