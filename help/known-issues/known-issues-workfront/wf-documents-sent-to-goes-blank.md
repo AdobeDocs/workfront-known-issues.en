@@ -1,6 +1,6 @@
 ---
 title: "Documents: Send to option causes blank page and error message"
-description: "When a user attempts to use the "Send to" option from a Document Details page, the page goes blank, and the user sees an error message."
+description: "When a user attempts to use the Send to option from a Document Details page, the page goes blank, and the user sees an error message."
 hidefromtoc: yes
 feature: Digital Content and Documents
 ---
