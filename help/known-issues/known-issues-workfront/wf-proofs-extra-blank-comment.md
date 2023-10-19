@@ -9,6 +9,10 @@ exl-id: 3f22277a-b9fa-449f-b03a-a669fa710306
 
 <!--WF, WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on October 19, 2023.
+
 When a user makes a comment on a proof, the proof also produces another comment, which is blank.
 
 This has been reported on video proofs.

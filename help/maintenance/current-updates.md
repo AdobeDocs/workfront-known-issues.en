@@ -32,11 +32,23 @@ When a user makes a comment on a proof, the proof also produces another comment,
 
 This has been reported on video proofs.
 
+**[!UICONTROL Proof activity] tab does not open**
+
+_Proofs_
+
+When a user is viewing a proof and clicks the [!UICONTROL Proof activity] tab, the tab returns the user to the [!UICONTROL Proof details] tab.
+
 **[!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task**
 
 _Tasks_
 
 When a user is assigned to a task that has [!UICONTROL Planned Hours] allocated to other assignees on the task, the task's [!UICONTROL Planned Hours] are evenly distributed to all assignees on the task. 
+
+**"[!UICONTROL Deleted]" displays as name of user in system updates when issue is converted to task**
+
+_Updates_
+
+When a user who is logged in as another user converts an issue to a task, and the issue is assigned to a team, the system updates show "[!UICONTROL Deleted]" as the user who requested that the team work on the task.
 
 +++
 
