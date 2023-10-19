@@ -38,11 +38,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Updates: "[!UICONTROL Deleted]" displays as name of user in system updates when issue is converted to task](known-issues-workfront/wf-updates-deleted-requested-team.md) | October 18, 2023 |
 | [Login: Login page redirects to logout landing page](known-issues-workfront/wf-login-redirects-to-logout-page.md) | October 18, 2023 |
-| [Notifications: Users are not notified of replies on a comment thread](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | October 13, 2023 |
-| [Proofs: [!UICONTROL Proof activity] tab does not open](known-issues-workfront/wf-proof-activities-tab-not-working.md) | October 13, 2023 |
-| [Tasks: [!UICONTROL Planned Hours] are reallocated when an additional user is assigned to a task](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | October 12, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 12, 2023 |
 | [Login: Error displays when resetting password although action was successful](known-issues-workfront/wf-login-whoops-resetting-password.md) | October 12, 2023 |
 | [Reports: Private updates display in valueexpression fields](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | October 12, 2023 |
@@ -50,7 +46,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Workload Balancer: Manual hour changes not accurate after page refresh](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | October 3, 2023 |
 | [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | October 3, 2023 |
 | [Workload Balancer: User displays as overallocated because of inaccurate capacity](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | September 26, 2023 |
-| [Proof: Extra, blank comment when making a comment on a proof](known-issues-workfront/wf-proofs-extra-blank-comment.md) | September 19, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
 {style="table-layout:auto"}
