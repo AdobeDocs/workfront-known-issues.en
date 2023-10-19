@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md) | October 19, 2023 |
+| [Documents: "[!UICONTROL Send to]" option causes blank page and error message](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | October 19, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 16, 2023 |
 | [[!DNL Workfront]: Branding is not applied](known-issues-workfront/wf-workfront-branding-not-applied.md) | October 13, 2023 |
 | [Boards: Board view in [!UICONTROL Tasks] area of project does not load](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | October 13, 2023 |
