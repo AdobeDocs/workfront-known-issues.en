@@ -7,6 +7,10 @@ exl-id: f5509725-e63a-4fb0-9366-5a7d568dc0b0
 ---
 # Login: Error displays when resetting password although action was successful
 
+>[!NOTE]
+>
+>This issue was fixed on October 12, 2023.
+
 When a user is resetting their password, the Reset Password email is sent, but the user sees the following error:
 
 "[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]"

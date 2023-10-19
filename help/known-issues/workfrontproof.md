@@ -21,9 +21,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md) | October 19, 2023 |
 | [Documents: "[!UICONTROL Send to]" option causes blank page and error message](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | October 19, 2023 |
-| [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 9, 2023 |
-| [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 9, 2023 |
-| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 3, 2023 |
 
 {style="table-layout:auto"}
 
@@ -33,7 +30,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 19, 2023 |
+| [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
+| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 19, 2023 |
+| [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 19, 2023 |
 
 {style="table-layout:auto"}
 
