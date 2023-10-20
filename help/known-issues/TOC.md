@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md)
+        + [Boards: Expected cards do not display on board](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+        + [Home: Projects and tasks not loading in Home](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
         + [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md)
         + [Documents: "[!UICONTROL Send to]" option causes blank page and error message](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
         + [Updates: "[!UICONTROL Deleted]" displays as name of user in system updates when issue is converted to task](known-issues-workfront/wf-updates-deleted-requested-team.md)
