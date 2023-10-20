@@ -19,6 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2023 |
+| [Boards: Expected cards do not display on board](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | October 20, 2023 |
+| [Home: Projects and tasks not loading in Home](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | October 20, 2023 |
 | [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md) | October 19, 2023 |
 | [Documents: "[!UICONTROL Send to]" option causes blank page and error message](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | October 19, 2023 |
 | [[!DNL Workfront]: Branding is not applied](known-issues-workfront/wf-workfront-branding-not-applied.md) | October 13, 2023 |
