@@ -11,4 +11,4 @@ feature: Workfront Fusion
 
 When a Create Project module is used during a scenario execution, two identical projects are created. This may cause confusion when using the projects in Workfront.
 
-_First reported on June 1, 2023._
+_First reported on October 11, 2023._
