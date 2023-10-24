@@ -16,7 +16,34 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in October 2023
 
-+++**(Planned) Maintenance Update on October 19, 2023**
++++**(Planned) Maintenance Update on October 26 2023**
+
+**Search not working**
+
+_Boards_
+
+When a user attempts to search boards, the search does not return all of the cards that meet the search criteria.
+
+**Cannot view interactive proof in web viewer**
+
+_Proofs_
+
+When a user attempts to view a proof in the web proof viewer, the proof does not display, and the user sees the following error:
+
+"[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]"
+
+
+**User is duplicated when sharing a request**
+
+_Requests_
+
+When sharing a request, if the access level of a user that the request is being shared with is modified, the user just above that user in the list becomes that user. 
+
+For example, if the request is being shared with User A and User B, and User B's access is modified, User A changes to User B, and there are now two User Bs in the list. In addition, only the top User B's access has been modified.
+
++++
+
++++**Maintenance Update on October 19, 2023**
 
 Users are not notified of replies on a comment thread
 
