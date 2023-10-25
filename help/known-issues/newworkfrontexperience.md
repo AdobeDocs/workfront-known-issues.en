@@ -37,6 +37,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |
+| [Login: Error message when logging in](known-issues-workfront/wf-login-error-when-logging-in.md) | October 25, 2023 |
 | [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 19, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 19, 2023 |
@@ -58,6 +60,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
 | [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
 | [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
 | [Layout templates: Layout templates causing inconsistencies in reports](known-issues-workfront/wf-layout-templates-classic.md) | August 21, 2023 |
