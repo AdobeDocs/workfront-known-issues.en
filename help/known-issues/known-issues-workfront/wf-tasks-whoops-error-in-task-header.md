@@ -2,7 +2,7 @@
 title: "Tasks: [!UICONTROL Whoops] error in task header"
 description: "When a user views a task, the task header does not contain any information. Instead, the user sees a Whoops message."
 hidefromtoc: yes
-feature: 
+feature: Tasks
 ---
 
 # Tasks: "[!UICONTROL Whoops]" error in task header
