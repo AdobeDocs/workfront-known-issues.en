@@ -68,4 +68,3 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | March 5, 2021 |
 
 {style="table-layout:auto"}
-
