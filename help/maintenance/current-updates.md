@@ -32,6 +32,13 @@ When a user attempts to view a proof in the web proof viewer, the proof does not
 
 "[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]"
 
+**Cannot create new version of a proof**
+
+_Proofs_
+
+When a user attempts to create a new version of a proof, the new version is not created, and the user sees the following error message:
+
+"[!UICONTROL Error generating proof]"
 
 **User is duplicated when sharing a request**
 
@@ -40,6 +47,14 @@ _Requests_
 When sharing a request, if the access level of a user that the request is being shared with is modified, the user just above that user in the list becomes that user. 
 
 For example, if the request is being shared with User A and User B, and User B's access is modified, User A changes to User B, and there are now two User Bs in the list. In addition, only the top User B's access has been modified.
+
+**"[!UICONTROL Whoops]" error in task header**
+
+_Tasks_
+
+When a user views a task, the task header does not contain any information. Instead, the user sees the following error message:
+
+"[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
 
 +++
 
