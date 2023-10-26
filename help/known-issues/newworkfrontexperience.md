@@ -20,13 +20,9 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | October 24, 2023 |
-| [Boards: Expected cards do not display on board](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | October 20, 2023 |
-| [Home: Projects and tasks not loading in Home](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | October 20, 2023 |
-| [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md) | October 19, 2023 |
+| [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2023 |
 | [Documents: "[!UICONTROL Send to]" option causes blank page and error message](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | October 19, 2023 |
-| [[!DNL Workfront]: Branding is not applied](known-issues-workfront/wf-workfront-branding-not-applied.md) | October 13, 2023 |
 | [Sharing: Error when sharing an object](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | September 27, 2023 |
-| [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | September 7, 2023 |
 
 {style="table-layout:auto"}
 
@@ -36,10 +32,13 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [Login: Error message when logging in](known-issues-workfront/wf-login-error-when-logging-in.md) | October 25, 2023 |
+| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |
+| [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md) | October 26, 2023 |
+| [Boards: Expected cards do not display on board](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | October 26, 2023 |
+| [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |
 | [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 19, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
-| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 19, 2023 |
+| [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 19, 2023 |
 | [Login: Login page redirects to logout landing page](known-issues-workfront/wf-login-redirects-to-logout-page.md) | October 18, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 12, 2023 |
 | [Reports: Private updates display in valueexpression fields](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | October 12, 2023 |
@@ -57,6 +56,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | October 26, 2023 |
 | [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
 | [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
 | [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
