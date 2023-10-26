@@ -7,6 +7,10 @@ feature: Get Started with Workfront
 
 # Home: Projects and tasks not loading in Home
 
+>[!NOTE]
+>
+>This issue was fixed on October 20, 2023.
+
 The following behaviors have been reported regarding projects and tasks loading in Home:
 
 * New Home experience: The My Projects and My Tasks widgets do not populate.

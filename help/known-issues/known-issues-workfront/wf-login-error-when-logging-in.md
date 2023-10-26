@@ -7,6 +7,10 @@ feature: Get Started with Workfront
 
 # Login: Error message when logging in
 
+>[!NOTE]
+>
+>This issue was fixed on October 26, 2023.
+
 When a user attempts to login to [!DNL Workfront], they see the following error message: 
 
 [!UICONTROL Error: {"err":{"name":"Validation Error","statusCode":400,"message":"Expect one user but found 0. dell preview (User's name)"}}]
