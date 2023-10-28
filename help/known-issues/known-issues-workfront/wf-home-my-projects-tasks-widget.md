@@ -1,10 +1,10 @@
 ---
-title: "Home: Projects and tasks not loading in Home"
-description: "Projects and tasks  not loading in Home"
+title: 'Home: Projects and tasks not loading in Home'
+description: Projects and tasks  not loading in Home
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: 01498e80-af59-44c8-990b-69a6332bb72e
 ---
-
 # Home: Projects and tasks not loading in Home
 
 >[!NOTE]

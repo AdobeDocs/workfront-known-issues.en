@@ -1,10 +1,10 @@
 ---
-title: "Setup: Cannot edit Job Role Cost/Hour or Billing/Hour"
-description: "When a user is editing a Job Role and attempts to edit the Cost/Hour or Billing/Hour fields, the fields are blank, and the user cannot edit them."
+title: 'Setup: Cannot edit Job Role Cost/Hour or Billing/Hour'
+description: When a user is editing a Job Role and attempts to edit the Cost/Hour or Billing/Hour fields, the fields are blank, and the user cannot edit them.
 hidefromtoc: yes
 feature: System Setup and Administration
+exl-id: 5179e926-bf22-42a8-b3e8-f11e2b34e036
 ---
-
 # Setup: Cannot edit Job Role Cost/Hour or Billing/Hour
 
 
@@ -20,4 +20,3 @@ When a user is editing a Job Role and attempts to edit the Cost/Hour or Billing/
 Edit the field inline in the list of Job Roles.
 
 _First reported on June 29, 2023._
-

@@ -1,10 +1,10 @@
 ---
-title: "Resource Planner: Planner does not load when filter is applied"
-description: "When a user attempts to load the Resource Planner, the planner does not load, and the user sees an error message."
+title: 'Resource Planner: Planner does not load when filter is applied'
+description: When a user attempts to load the Resource Planner, the planner does not load, and the user sees an error message.
 hidefromtoc: yes
 feature: Resource Management
+exl-id: 3462b953-6f65-4c4f-9b63-04b588e0f68c
 ---
-
 # [!UICONTROL Resource Planner]: Planner does not load when filter is applied
 
 >[!NOTE]
@@ -16,4 +16,3 @@ When a user attempts to load the [!UICONTROL Resource Planner], the planner does
 "[!UICONTROL The following error occurred: Something went wrong while connecting to WorkPerDay service]"
 
 _First reported on August 2, 2023._
-

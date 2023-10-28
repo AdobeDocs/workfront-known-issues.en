@@ -1,10 +1,10 @@
 ---
-title: "Workload Balancer: User displays as overallocated because of inaccurate capacity"
-description: ""
+title: 'Workload Balancer: User displays as overallocated because of inaccurate capacity'
+description: ''
 hidefromtoc: yes
 feature: Resource Management
+exl-id: 656e65e8-2007-43ff-8a77-33512443b661
 ---
-
 # Workload Balancer: User displays as overallocated because of inaccurate capacity
 
 A user may show in the Workload Balancer as overallocated. If a user hovers over the overallocation, they see that the user's capacity is set to 0.

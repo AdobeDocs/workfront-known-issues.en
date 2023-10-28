@@ -1,10 +1,10 @@
 ---
-title: "Updates: Comment displays as sent from the incorrect user"
-description: "When a user makes a comment, the comment displays as posted from a different user."
+title: 'Updates: Comment displays as sent from the incorrect user'
+description: When a user makes a comment, the comment displays as posted from a different user.
 hidefromtoc: yes
-feature: Updates and Notifications 
+feature: Updates and Notifications
+exl-id: 4d2d62cb-7a46-4879-9d1b-f8f447f717e9
 ---
-
 # Updates: Comment displays as sent from the incorrect user
 
 >[!NOTE]
