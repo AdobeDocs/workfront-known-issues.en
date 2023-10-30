@@ -33,6 +33,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | October 30, 2023 |
 | [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | October 27, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |
 | [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md) | October 26, 2023 |
