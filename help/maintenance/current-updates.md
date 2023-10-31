@@ -14,9 +14,30 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in November 2023
+
++++**(Planned) Maintenance Update on November 2, 2023**
+
+**Private updates display in valueexpression fields
+**
+_Reports_
+
+When a report field includes a valueexpression that references a private update, users that are not included in the private update can see it in the report.
+
+
+**User displays as overallocated because of inaccurate capacity**
+
+_Workload Balancer_
+
+A user may show in the Workload Balancer as overallocated. If a user hovers over the overallocation, they see that the user's capacity is set to 0.
+
+If the user changes the date range, the allocation is accurate. However, if the user refreshes the page, the capacity may be inaccurate again.
+
++++
+
 ## Updates in October 2023
 
-+++**(Planned) Maintenance Update on October 26 2023**
++++**Maintenance Update on October 26, 2023**
 
 **Search not working**
 
