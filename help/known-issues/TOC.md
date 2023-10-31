@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] loads slowly](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
         + [Requests: Incorrect custom currency displayed on New request page](known-issues-workfront/wf-requests-custom-currency.md)
         + [Reports: Budgeted hours in utilization report do not match budgeted hours reported through API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
         + [Dashboards: User cannot access [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
