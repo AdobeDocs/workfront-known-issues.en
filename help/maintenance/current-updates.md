@@ -18,12 +18,11 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 +++**(Planned) Maintenance Update on November 2, 2023**
 
-**Private updates display in valueexpression fields
-**
+**Private updates display in valueexpression fields**
+
 _Reports_
 
 When a report field includes a valueexpression that references a private update, users that are not included in the private update can see it in the report.
-
 
 **User displays as overallocated because of inaccurate capacity**
 
