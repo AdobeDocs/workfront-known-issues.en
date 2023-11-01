@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Comments attached to system updates are not displayed](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
+        + [Boards: Error in Comments section of a card ](known-issues-workfront/wf-boards-comment-section-error.md)
         + [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] loads slowly](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
         + [Requests: Incorrect custom currency displayed on New request page](known-issues-workfront/wf-requests-custom-currency.md)
         + [Reports: Budgeted hours in utilization report do not match budgeted hours reported through API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
