@@ -7,6 +7,10 @@ exl-id: 32bdda48-219a-4251-b345-40f68d02cbe8
 ---
 # Sharing: Error when sharing an object
 
+>[!NOTE]
+>
+>This issue was fixed on November 2, 2023.
+
 When a user attempts to share an object, the object is not shared, and the user sees the following message:
 
 "[!UICONTROL There was a problem saving your changes. Please try again.]" 

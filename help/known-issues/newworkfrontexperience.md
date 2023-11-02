@@ -24,8 +24,6 @@ These recently reported issues are currently under review.
 | [[!UICONTROL Workfront Proof]: Delayed emails and notifications](known-issues-workfront-proof/proof-delayed-notification.md) | October 26, 2023 |
 | [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | October 24, 2023 |
 | [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2023 |
-| [Documents: "[!UICONTROL Send to]" option causes blank page and error message](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | October 19, 2023 |
-| [Sharing: Error when sharing an object](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | September 27, 2023 |
 
 {style="table-layout:auto"}
 
@@ -35,7 +33,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] loads slowly](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | October 31, 2023 |
 | [Requests: Incorrect custom currency displayed on New request page](known-issues-workfront/wf-requests-custom-currency.md) | October 30, 2023 |
 | [Reports: Budgeted hours in utilization report do not match budgeted hours reported through API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | October 30, 2023 |
 | [Dashboards: User cannot access [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | October 30, 2023 |
@@ -51,7 +48,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 12, 2023 |
 | [Reports: Private updates display in valueexpression fields](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | October 12, 2023 |
 | [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | October 10, 2023 |
-| [Workload Balancer: Manual hour changes not accurate after page refresh](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | October 3, 2023 |
 | [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | October 3, 2023 |
 | [Workload Balancer: User displays as overallocated because of inaccurate capacity](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | September 26, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
