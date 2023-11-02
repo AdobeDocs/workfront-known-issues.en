@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2023
 
-+++**(Planned) Maintenance Update on November 2, 2023**
++++**Maintenance Update on November 2, 2023**
 
 **Private updates display in valueexpression fields**
 
