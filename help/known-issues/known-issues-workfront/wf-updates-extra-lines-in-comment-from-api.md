@@ -2,7 +2,7 @@
 title: "Updates: Extra lines in comment made through API or Workfront Fusion"
 description: "When a user submits a comment through the API or through Workfront Fusion, the comment displayed in the Updates area shows extra lines. At times there are so many lines that the user must scroll down to see the comment content."
 hidefromtoc: yes
-feature: 
+feature: Updates and Notifications
 ---
 
 # Updates: Extra lines in comment made through API or [!DNL Workfront Fusion]
