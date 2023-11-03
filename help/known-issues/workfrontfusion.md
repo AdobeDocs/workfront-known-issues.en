@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Low memory error](known-issues-workfront-fusion/fusion-low-memory-error.md) | November 3, 2023 |
 | [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | October 24, 2023 |
 
 {style="table-layout:auto"}
