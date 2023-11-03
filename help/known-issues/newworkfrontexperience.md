@@ -43,7 +43,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Dashboards: User cannot access [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | October 30, 2023 |
 | [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | October 27, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |
-| [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md) | October 26, 2023 |
 | [Boards: Expected cards do not display on board](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | October 26, 2023 |
 | [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |
 | [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 19, 2023 |
