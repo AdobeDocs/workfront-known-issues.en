@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: Approval stuck on [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+        + [Proofs: Issues with stage activation](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+        + [Proofs: Breadcrumb missing when accessing proof from email link](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+        + [Requests: Fields clear when a document is added to a request](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
         + [Updates: Extra lines in comment made through API or [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
         + [Updates: Comments attached to system updates are not displayed](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
         + [Boards: Error in Comments section of a card ](known-issues-workfront/wf-boards-comment-section-error.md)
@@ -187,6 +191,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [Workfront Fusion: Low memory error](known-issues-workfront-fusion/fusion-low-memory-error.md)
         + [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
         + [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md)
         + [[!DNL Workfront Fusion]: Sleep module causing scenarios to hang](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
