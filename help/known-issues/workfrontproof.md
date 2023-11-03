@@ -20,7 +20,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront Proof]: Delayed emails and notifications](known-issues-workfront-proof/proof-delayed-notification.md) | October 26, 2023 |
-| [Documents: Share button does not work](known-issues-workfront/wf-documents-share-button-not-working.md) | October 19, 2023 |
 
 {style="table-layout:auto"}
 
