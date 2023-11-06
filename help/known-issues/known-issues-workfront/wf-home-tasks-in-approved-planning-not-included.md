@@ -12,6 +12,8 @@ Tasks from projects that have the status Approved or Planning are not displayed 
 * Classic Home: Work List
 * New Home: My Tasks widget
 
+This is because tasks from projects in these statuses are currently included in the 2000 item query limit, but they are not shown in My Tasks or the Home Work List. This may create a situation where a user that has fewer than 2000 tasks, these tasks are not visible.
+
 **Workaround**
 
 Create a custom Assignments report that includes the following text mode filters:
