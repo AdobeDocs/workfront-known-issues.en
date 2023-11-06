@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
         + [Templates: Child tasks appear out of order when moved under parent task](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
         + [Home: Approval stuck on [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
         + [Proofs: Issues with stage activation](known-issues-workfront/wf-proofs-stage-activation-issues.md)
