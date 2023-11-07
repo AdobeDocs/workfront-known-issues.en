@@ -16,6 +16,38 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2023
 
++++**(Planned) Maintenance Update on November 9, 2023**
+
+**My Work widget missing objects when not at top of page**
+
+_Home_
+
+If the My Work widget is at the top of the new Home page, it pulls in all expected objects. However, if this widget is below any other widgets on the page, it pulls in only 10 objects.
+
+**Cannot generate proof**
+
+_Proofs_
+
+When a user attempts to generate a proof, the proof is not created, and the user sees the following error:
+
+"[!UICONTROL Error generating proof]"
+
+This occurs when the user's access level setting[!UICONTROL  View Contact Info] is set to Disabled.
+
+**Fields clear when a document is added to a request**
+
+_Requests_
+
+When a user is creating a request, fills out fields in a form, and then adds or removes a document, some fields on the form are cleared of data, and the user must fill them out again before submitting the request.
+
+**Personal task appears on timesheet**
+
+_Timesheets_
+
+When a user creates a task on the [!UICONTROL Todo] widget of the new [!UICONTROL Home] experience, that task appears on the user's timesheet. This occurs even if the task has no hours logged, and the personal project is not pinned.
+
++++
+
 +++**Maintenance Update on November 2, 2023**
 
 **Private updates display in valueexpression fields**
