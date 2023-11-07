@@ -48,6 +48,16 @@ When a user creates a task on the [!UICONTROL Todo] widget of the new [!UICONTRO
 
 +++
 
++++**Maintenance Update (Hot Fix) on November 3, 2023**
+
+**Child tasks appear out of order when moved under parent task**
+
+_Templates_
+
+When a user creates tasks on a template, and then moves those tasks under a parent task, the numbers assigned to the child tasks do not appear in the expected order. Therefore, when the page is refreshed, the child tasks are sorted by the unexpected task numbers, and the child tasks are therefore out of order.
+
++++
+
 +++**Maintenance Update on November 2, 2023**
 
 **Private updates display in valueexpression fields**
