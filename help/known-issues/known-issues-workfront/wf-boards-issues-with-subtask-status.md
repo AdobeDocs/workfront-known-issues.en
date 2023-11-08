@@ -2,7 +2,7 @@
 title: "Boards: Issues when viewing subtask status"
 description: "Issues have been reported regarding viewing subtask status on a card in Boards."
 hidefromtoc: yes
-feature: 
+feature: Agile
 ---
 
 # Boards: Issues when viewing subtask status
