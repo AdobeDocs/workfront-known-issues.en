@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Issues when viewing subtask status](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | November 8, 2023 |
 | [Requests: Fields clear when a document is added to a request](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | November 3, 2023 |
 | [Updates: Comments attached to system updates are not displayed](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | November 1, 2023 |
 | [Boards: Error in Comments section of a card ](known-issues-workfront/wf-boards-comment-section-error.md) | November 1, 2023 |
