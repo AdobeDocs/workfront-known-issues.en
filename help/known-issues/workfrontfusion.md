@@ -19,8 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Low memory error](known-issues-workfront-fusion/fusion-low-memory-error.md) | November 3, 2023 |
-| [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | October 24, 2023 |
+| None |  |
 
 {style="table-layout:auto"}
 
@@ -31,6 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Low memory error](known-issues-workfront-fusion/fusion-low-memory-error.md) | November 9, 2023 |
 | [Updates: Extra lines in comment made through API or [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | November 2, 2023 |
 
 {style="table-layout:auto"}
@@ -41,6 +41,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | October 24, 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | May 25, 2023 |
 | [[!DNL Workfront Fusion]: "Failed to verify connection" error](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | September 29, 2022  |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | September 9, 2022 |

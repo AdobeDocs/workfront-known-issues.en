@@ -34,7 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Proofs: Breadcrumb missing when accessing proof from email link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | November 3, 2023 |
 | [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | October 27, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |
-| [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | October 19, 2023 |
+| [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 19, 2023 |
 
 {style="table-layout:auto"}
@@ -71,3 +71,4 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | March 5, 2021 |
 
 {style="table-layout:auto"}
+

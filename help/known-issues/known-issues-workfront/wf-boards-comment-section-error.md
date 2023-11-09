@@ -7,6 +7,10 @@ feature: Agile
 
 # Boards: Error in Comments section of a card 
 
+>[!NOTE]
+>
+>This issue was fixed on November 2, 2023.
+
 When a user is viewing a card on a board, the [!UICONTROL Comments] section does not display comments or allow the user to make a comment. Instead, the section displays the following error:
 
 "[!UICONTROL Something went wrong. Please try again later.]"
