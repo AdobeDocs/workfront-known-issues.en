@@ -7,6 +7,10 @@ exl-id: fd75ae65-726c-4301-bded-297cc82566b8
 ---
 # Timesheets: Personal task appears on timesheet
 
+>[!NOTE]
+>
+>This issue was fixed on November 9, 2023.
+
 When a user creates a task on the [!UICONTROL Todo] widget of the new [!UICONTROL Home] experience, that task appears on the user's timesheet. This occurs even if the task has no hours logged, and the personal project is not pinned.
 
 _First reported on October 3, 2023._
