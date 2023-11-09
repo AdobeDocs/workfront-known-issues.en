@@ -7,6 +7,10 @@ feature: Reports and Dashboards
 
 # Dashboards: User cannot access [!UICONTROL Canvas Dashboards]
 
+>[!NOTE]
+>
+>This issue was fixed on November 7, 2023.
+
 When a user who should have access to a [!UICONTROL Canvas Dashboard] attempts to access the [!UICONTROL Canvas Dashboard], the dashboard does not load, and the user sees the following message:
 
 "[!UICONTROL You do not have access to canvas dashboards, please contact your administrator to gain access.]"
