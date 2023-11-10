@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Tasks: Task dates greyed out for extended time when recalculating timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+        + [Boards: Cannot edit tag color](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
         + [Notifications: Email notification not received when user is tagged in a comment](known-issues-workfront/wf-notif-email-not-received.md)
         + [Boards: Issues when viewing subtask status](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
         + [Dashboard: Large blank margin when printing dashboard to PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
