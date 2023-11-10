@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Cannot edit tag color](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | November 10, 2023 |
 | [Boards: Issues when viewing subtask status](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | November 8, 2023 |
 | [Updates: Comments attached to system updates are not displayed](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | November 1, 2023 |
 | [[!UICONTROL Workfront Proof]: Delayed emails and notifications](known-issues-workfront-proof/proof-delayed-notification.md) | October 26, 2023 |
@@ -32,6 +33,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Tasks: Task dates greyed out for extended time when recalculating timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | November 10, 2023 |
 | [Notifications: Email notification not received when user is tagged in a comment](known-issues-workfront/wf-notif-email-not-received.md) | November 8, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
 | [Home: Approval stuck on [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | November 3, 2023 |
