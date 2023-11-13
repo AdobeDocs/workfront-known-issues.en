@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Tasks do not appear in [!UICONTROL My Work] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | November 13, 2023 |
 | [Boards: Cannot edit tag color](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | November 10, 2023 |
 | [Boards: Issues when viewing subtask status](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | November 8, 2023 |
 | [Updates: Comments attached to system updates are not displayed](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | November 1, 2023 |
