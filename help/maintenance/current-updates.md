@@ -16,6 +16,32 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2023
 
++++**(Planned) Maintenance Update on November 16, 2023**
+
+**Budgeted hours in utilization report do not match budgeted hours reported through API**
+
+_Reports_
+
+When a user makes an API call to the RPBGHR object for a given project, and compares the results of that call to the utilization report for that project, the results do not match.
+
+**Incorrect custom currency displayed on New request page**
+
+_Requests_
+
+When a user is submitting a request and makes a selection that changes display logic on the request form, the currency displayed reverts to the default currency rather than the custom currency that is set on the project that the request queue represents.
+
+When the user submits their request, the currency displays as the correct custom currency for the project that the request queue represents
+
+**Extra lines in comment made through API or [!DNL Workfront Fusion]**
+
+_Updates_
+
+When a user submits a comment through the API or through [!DNL Workfront Fusion], the comment displayed in the Updates area shows extra lines. At times there are so many lines that the user must scroll down to see the comment content.
+
+This has been reported in the new commenting experience.
+
++++
+
 +++**Maintenance Update on November 9, 2023**
 
 **My Work widget missing objects when not at top of page**
