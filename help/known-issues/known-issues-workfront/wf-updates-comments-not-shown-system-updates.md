@@ -15,6 +15,10 @@ feature: Updates and Notifications
 
 -->
 
+>[!NOTE]
+>
+>This issue has been closed because it is working as designed.
+
 When a user makes a comment on a system action (such as status change), that comment is not displayed in the Updates area. 
 
 This issue has been reported in the new commenting experience.

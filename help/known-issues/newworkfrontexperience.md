@@ -22,7 +22,6 @@ These recently reported issues are currently under review.
 | [[!UICONTROL Home]: Tasks do not appear in [!UICONTROL My Work] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | November 13, 2023 |
 | [Boards: Cannot edit tag color](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | November 10, 2023 |
 | [Boards: Issues when viewing subtask status](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | November 8, 2023 |
-| [Updates: Comments attached to system updates are not displayed](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | November 1, 2023 |
 | [[!UICONTROL Workfront Proof]: Delayed emails and notifications](known-issues-workfront-proof/proof-delayed-notification.md) | October 26, 2023 |
 | [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2023 |
 
@@ -40,9 +39,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Home: Approval stuck on [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | November 3, 2023 |
 | [Proofs: Issues with stage activation](known-issues-workfront/wf-proofs-stage-activation-issues.md) | November 3, 2023 |
 | [Proofs: Breadcrumb missing when accessing proof from email link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | November 3, 2023 |
-| [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | October 27, 2023 |
-| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |
-| [Boards: Expected cards do not display on board](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | October 26, 2023 |
 | [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
 | [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 19, 2023 |
@@ -59,6 +55,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |
 | [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | November 9, 2023 |
 | [Dashboard: Large blank margin when printing dashboard to PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | November 7, 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | October 26, 2023 |
