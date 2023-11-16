@@ -40,9 +40,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Home: Approval stuck on [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | November 3, 2023 |
 | [Proofs: Issues with stage activation](known-issues-workfront/wf-proofs-stage-activation-issues.md) | November 3, 2023 |
 | [Proofs: Breadcrumb missing when accessing proof from email link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | November 3, 2023 |
-| [Updates: Extra lines in comment made through API or [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | November 2, 2023 |
-| [Requests: Incorrect custom currency displayed on New request page](known-issues-workfront/wf-requests-custom-currency.md) | October 30, 2023 |
-| [Reports: Budgeted hours in utilization report do not match budgeted hours reported through API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | October 30, 2023 |
 | [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | October 27, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |
 | [Boards: Expected cards do not display on board](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | October 26, 2023 |
