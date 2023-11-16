@@ -7,6 +7,10 @@ feature: Updates and Notifications
 
 # Updates: Extra lines in comment made through API or [!DNL Workfront Fusion]
 
+>[!NOTE]
+>
+>This issue was fixed on November 16, 2023.
+
 When a user submits a comment through the API or through [!DNL Workfront Fusion], the comment displayed in the Updates area shows extra lines. At times there are so many lines that the user must scroll down to see the comment content.
 
 This has been reported in the new commenting experience.

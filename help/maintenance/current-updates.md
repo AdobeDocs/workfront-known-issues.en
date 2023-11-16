@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2023
 
-+++**(Planned) Maintenance Update on November 16, 2023**
++++**Maintenance Update on November 16, 2023**
 
 **Budgeted hours in utilization report do not match budgeted hours reported through API**
 
@@ -42,7 +42,7 @@ This has been reported in the new commenting experience.
 
 +++
 
-+++**Maintenance Update on November 9, 2023**
+    +++**Maintenance Update on November 9, 2023**
 
 **My Work widget missing objects when not at top of page**
 
