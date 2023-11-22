@@ -1,10 +1,10 @@
 ---
-title: "Boards: Issues when viewing subtask status"
-description: "Issues have been reported regarding viewing subtask status on a card in Boards."
+title: 'Boards: Issues when viewing subtask status'
+description: Issues have been reported regarding viewing subtask status on a card in Boards.
 hidefromtoc: yes
 feature: Agile
+exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
 ---
-
 # Boards: Issues when viewing subtask status
 
 The following issues have been reported regarding viewing subtask status on a card in Boards:

@@ -1,10 +1,10 @@
 ---
-title: "Boards: Error in Comments section of a card"
-description: "When a user is viewing a card on a board, the [!UICONTROL Comments] section does not display comments or allow the user to make a comment. Instead, the section displays an error."
+title: 'Boards: Error in Comments section of a card'
+description: When a user is viewing a card on a board, the [!UICONTROL Comments] section does not display comments or allow the user to make a comment. Instead, the section displays an error.
 hidefromtoc: yes
 feature: Agile
+exl-id: 0c0863f7-e1e1-452e-8a1a-244771f8ea0d
 ---
-
 # Boards: Error in Comments section of a card 
 
 >[!NOTE]

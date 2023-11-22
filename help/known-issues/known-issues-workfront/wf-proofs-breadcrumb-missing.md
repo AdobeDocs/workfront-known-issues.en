@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Breadcrumb missing when accessing proof from email link"
-description: "When a user views a proof by clicking on the Go To Proof button in a proof notification email, the breadcrumb link to the proof's parent object is missing."
+title: 'Proofs: Breadcrumb missing when accessing proof from email link'
+description: When a user views a proof by clicking on the Go To Proof button in a proof notification email, the breadcrumb link to the proof's parent object is missing.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: fb79a7cd-bd29-4a69-a2c9-4455edad9acc
 ---
-
 # Proofs: Breadcrumb missing when accessing proof from email link
 
 When a user views a proof by clicking on the Go To Proof button in a proof notification email, the breadcrumb link to the proof's parent object is missing.

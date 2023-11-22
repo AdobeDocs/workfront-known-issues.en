@@ -1,10 +1,10 @@
 ---
-title: "Dashboards: User cannot access [!UICONTROL Canvas Dashboards]"
-description: "When a user who should have access to a [!UICONTROL Canvas Dashboard] attempts to access the [!UICONTROL Canvas Dashboard], the dashboard does not load, and the user sees a message."
+title: 'Dashboards: User cannot access [!UICONTROL Canvas Dashboards]'
+description: When a user who should have access to a [!UICONTROL Canvas Dashboard] attempts to access the [!UICONTROL Canvas Dashboard], the dashboard does not load, and the user sees a message.
 hidefromtoc: yes
 feature: Reports and Dashboards
+exl-id: bd432237-aa86-4bbf-9927-289f7551aa8f
 ---
-
 # Dashboards: User cannot access [!UICONTROL Canvas Dashboards]
 
 >[!NOTE]

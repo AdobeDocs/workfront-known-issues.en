@@ -1,10 +1,10 @@
 ---
-title: "Boards: Cannot edit tag color"
-description: "When a user attempts to edit the color of an existing tag in the Tag manager, the user cannot select another color from the dropdown. When the user clicks a color, the click is ineffective."
+title: 'Boards: Cannot edit tag color'
+description: When a user attempts to edit the color of an existing tag in the Tag manager, the user cannot select another color from the dropdown. When the user clicks a color, the click is ineffective.
 hidefromtoc: yes
 feature: Agile
+exl-id: 65c148d6-1020-4345-8efb-0ac128dccd68
 ---
-
 # Boards: Cannot edit tag color
 
 When a user attempts to edit the color of an existing tag in the [!UICONTROL Tag manager], the user cannot select another color from the dropdown. When the user clicks a color, the click is ineffective.

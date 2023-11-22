@@ -1,10 +1,10 @@
 ---
-title: "Reports: 500 error when exporting a report"
-description: "When a user attempts to export a report, the export fails with a 500 error."
+title: 'Reports: 500 error when exporting a report'
+description: When a user attempts to export a report, the export fails with a 500 error.
 hidefromtoc: yes
 feature: Reports and Dashboards
+exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
 ---
-
 # Reports: 500 error when exporting a report
 
 When a user attempts to export a report, the export fails with the following error:
