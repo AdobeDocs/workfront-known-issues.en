@@ -11,7 +11,6 @@ feature: Digital Content and Documents
 
 When a user attempts to open a [!UICONTROL SharePoint] folder in [!DNL Workfront], the folder does not open, and they see the following message:
 
-[!UICONTROL Error
-Authorization is required.]
+[!UICONTROL Error: Authorization is required.]
 
 _First reported on November 9, 2023._
