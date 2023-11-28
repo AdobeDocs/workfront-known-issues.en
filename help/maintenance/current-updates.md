@@ -16,6 +16,34 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2023
 
++++**(Planned) Maintenance Update on November 30, 2023**
+
+**Tasks do not appear in [!UICONTROL My Work] widget**
+
+_[!UICONTROL Home]_
+
+When a user views their [!UICONTROL My Work] widget in [!UICONTROL Home], some of the tasks they are assigned to are not displayed in the widget. For example, a user may go to a project and see that they are assigned tasks in the project, but these tasks do not appear on the user's [!UICONTROL My Work] widget.
+
+**Login page redirects to logout landing page**
+
+_Login_
+
+When a user attempts to sign in to [!DNL Workfront], instead of the login page, they are directed to the page that they would land on if they were to logout.
+
+**500 error when exporting a report**
+
+_Reports_
+
+When a user attempts to export a report, the export fails with the following error:
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+This has been reported in reports that use a `valueexpression` to reference the `lastNote` note text. 
+
++++
+
 +++**Maintenance Update on November 16, 2023**
 
 **Budgeted hours in utilization report do not match budgeted hours reported through API**
@@ -42,7 +70,7 @@ This has been reported in the new commenting experience.
 
 +++
 
-    +++**Maintenance Update on November 9, 2023**
++++**Maintenance Update on November 9, 2023**
 
 **My Work widget missing objects when not at top of page**
 
