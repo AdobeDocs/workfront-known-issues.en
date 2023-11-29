@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Cards moved to a column return to original column after refresh](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | November 29, 2023 |
 | [Tasks: Duplicating tasks causes tasks to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | November 28, 2023 |
 | [Documents: Cannot access [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | November 27, 2023 |
 | [Boards: Card appears on multiple sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | November 21, 2023 |
