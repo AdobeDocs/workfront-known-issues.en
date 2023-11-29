@@ -37,6 +37,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Proofs: Proofs that are pending approval do not appear in reports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | November 29, 2023 |
 | [Custom forms: Cannot bulk add or bulk remove custom forms on template tasks](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | November 21, 2023 |
 | [Reports: 500 error when exporting a report](known-issues-workfront/wf-reports-500-error-when-exporting.md) | November 20, 2023 |
 | [Tasks: Task dates greyed out for extended time when recalculating timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | November 10, 2023 |
