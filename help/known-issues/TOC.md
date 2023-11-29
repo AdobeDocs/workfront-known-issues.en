@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: Cards moved to a column return to original column after refresh](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
         + [Proofs: Proofs that are pending approval do not appear in reports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
         + [Tasks: Duplicating tasks causes tasks to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
         + [Documents: Cannot access [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
