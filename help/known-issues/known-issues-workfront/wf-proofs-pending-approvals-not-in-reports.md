@@ -2,7 +2,7 @@
 title: "Proofs: Proofs that are pending approval do not appear in reports"
 description: ""
 hidefromtoc: yes
-feature: 
+feature: Digital Content and Documents
 ---
 
 # Proofs: Proofs that are pending approval do not appear in reports
