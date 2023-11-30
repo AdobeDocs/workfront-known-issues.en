@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in November 2023
 
-+++**(Planned) Maintenance Update on November 30, 2023**
++++**Maintenance Update on November 30, 2023**
 
 **Tasks do not appear in [!UICONTROL My Work] widget**
 

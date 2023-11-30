@@ -7,6 +7,10 @@ exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
 ---
 # Reports: 500 error when exporting a report
 
+>[!NOTE]
+>
+>This issue was fixed on November 30, 2023.
+
 When a user attempts to export a report, the export fails with the following error:
 
 ```
