@@ -24,7 +24,6 @@ These recently reported issues are currently under review.
 | [Documents: Cannot access [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | November 27, 2023 |
 | [Boards: Card appears on multiple sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | November 21, 2023 |
 | [Templates: Cannot select template from [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | November 16, 2023 |
-| [[!UICONTROL Home]: Tasks do not appear in [!UICONTROL My Work] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | November 13, 2023 |
 | [Boards: Cannot edit tag color](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | November 10, 2023 |
 | [Boards: Issues when viewing subtask status](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | November 8, 2023 |
 | [[!UICONTROL Workfront Proof]: Delayed emails and notifications](known-issues-workfront-proof/proof-delayed-notification.md) | October 26, 2023 |
@@ -40,7 +39,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 |----------------------------------| ----------------- |
 | [Proofs: Proofs that are pending approval do not appear in reports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | November 29, 2023 |
 | [Custom forms: Cannot bulk add or bulk remove custom forms on template tasks](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | November 21, 2023 |
-| [Reports: 500 error when exporting a report](known-issues-workfront/wf-reports-500-error-when-exporting.md) | November 20, 2023 |
 | [Tasks: Task dates greyed out for extended time when recalculating timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | November 10, 2023 |
 | [Notifications: Email notification not received when user is tagged in a comment](known-issues-workfront/wf-notif-email-not-received.md) | November 8, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
