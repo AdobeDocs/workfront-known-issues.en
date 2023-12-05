@@ -14,6 +14,29 @@ The following maintenance updates have been made in 2023.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in December 2023
+
++++**Maintenance Update on December 7, 2023**
+
+**Approval stuck on [!UICONTROL Awaiting my approval] widget**
+
+_Home_
+
+When a new version of a document is uploaded and the previous version has an approval that is not complete, the old version of the document becomes stuck on the approver's [!UICONTROL Awaiting my approval] widget. The approval cannot be approved since there is a new version, and it cannot be removed from the widget.
+
+**Issues when adding work items in Board view of tasks or issues**
+
+_Tasks / Issues_
+
+When a user is viewing the Board view of the Tasks or Issues area in a project and attempts to add a task or issue, the following may occur:
+
+* The popup window switches back and forth between two different window styles
+* The user cannot close the popup window
+
+This has been reported to occur when a user selects an area from the left navigation of the popup window before entering any information.
+
++++
+
 ## Updates in November 2023
 
 +++**Maintenance Update on November 30, 2023**
