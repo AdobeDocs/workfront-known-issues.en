@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Some updates are missing in the new commenting experience](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
         + [Tasks / Issues: Issues when adding work items in Board view of tasks or issues](known-issues-workfront/wf-tasks-issues-board-view.md)
         + [Boards: Error in [!UICONTROL Comments] section of cards](known-issues-workfront/wf-boards-comments-section-error.md)
         + [Setup: Cannot use [!UICONTROL Kick-Starts] to set up groupings](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
