@@ -35,6 +35,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Status: [!UICONTROL Whoops] error when hiding status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | December 6, 2023 |
 | [Updates: Some updates are missing in the new commenting experience](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | December 6, 2023 |
 | [Tasks / Issues: Issues when adding work items in Board view of tasks or issues](known-issues-workfront/wf-tasks-issues-board-view.md) | December 1, 2023 |
 | [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | November 30, 2023 |
