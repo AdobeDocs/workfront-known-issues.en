@@ -7,6 +7,10 @@ feature: Tasks, Work Management, Agile
 
 # Tasks / Issues: Issues when adding work items in Board view of tasks or issues
 
+>[!NOTE]
+>
+>This issue was fixed on December 7, 2023.
+
 When a user is viewing the Board view of the Tasks or Issues area in a project and attempts to add a task or issue, the following may occur:
 
 * The popup window switches back and forth between two different window styles

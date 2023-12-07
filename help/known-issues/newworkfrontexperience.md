@@ -37,7 +37,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 |----------------------------------| ----------------- |
 | [Status: [!UICONTROL Whoops] error when hiding status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | December 6, 2023 |
 | [Updates: Some updates are missing in the new commenting experience](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | December 6, 2023 |
-| [Tasks / Issues: Issues when adding work items in Board view of tasks or issues](known-issues-workfront/wf-tasks-issues-board-view.md) | December 1, 2023 |
 | [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | November 30, 2023 |
 | [Reports: Budgeted hours in utilization report do not match budgeted hours reported through API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | November 30, 2023 |
 | [Tasks: Duplicating tasks causes tasks to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | November 30, 2023 |
@@ -46,7 +45,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Tasks: Task dates greyed out for extended time when recalculating timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | November 10, 2023 |
 | [Notifications: Email notification not received when user is tagged in a comment](known-issues-workfront/wf-notif-email-not-received.md) | November 8, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
-| [Home: Approval stuck on [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | November 3, 2023 |
 | [Proofs: Issues with stage activation](known-issues-workfront/wf-proofs-stage-activation-issues.md) | November 3, 2023 |
 | [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
