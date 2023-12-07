@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Proofs that are pending approval do not appear in reports"
-description: ""
+title: 'Proofs: Proofs that are pending approval do not appear in reports'
+description: ''
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: e324848f-0278-4bbd-ba9b-870fde37a23d
 ---
-
 # Proofs: Proofs that are pending approval do not appear in reports
 
 <!--WF and WFP-->
