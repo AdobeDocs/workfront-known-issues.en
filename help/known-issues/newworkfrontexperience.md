@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Setup: Default issue statuses missing from some issue types in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | December 7, 2023 |
+| [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | December 7, 2023 |
 | [Boards: Error in [!UICONTROL Comments] section of cards](known-issues-workfront/wf-boards-comments-section-error.md) | December 1, 2023 |
 | [Boards: Cards moved to a column return to original column after refresh](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | November 29, 2023 |
 | [Documents: Cannot access [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | November 27, 2023 |
@@ -35,6 +37,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Home: My Projects and My Tasks widgets display only 25 items](known-issues-workfront/wf-home-widgets-show-25-items.md) | December 7, 2023 |
 | [Status: [!UICONTROL Whoops] error when hiding status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | December 6, 2023 |
 | [Updates: Some updates are missing in the new commenting experience](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | December 6, 2023 |
 | [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | November 30, 2023 |
