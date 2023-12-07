@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Setup: Default issue statuses missing from some issue types in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | December 7, 2023 |
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | December 7, 2023 |
 | [Boards: Error in [!UICONTROL Comments] section of cards](known-issues-workfront/wf-boards-comments-section-error.md) | December 1, 2023 |
 | [Boards: Cards moved to a column return to original column after refresh](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | November 29, 2023 |
@@ -37,24 +36,21 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Setup: Default issue statuses missing from some issue types in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | December 7, 2023 |
 | [Home: My Projects and My Tasks widgets display only 25 items](known-issues-workfront/wf-home-widgets-show-25-items.md) | December 7, 2023 |
 | [Status: [!UICONTROL Whoops] error when hiding status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | December 6, 2023 |
 | [Updates: Some updates are missing in the new commenting experience](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | December 6, 2023 |
 | [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | November 30, 2023 |
-| [Reports: Budgeted hours in utilization report do not match budgeted hours reported through API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | November 30, 2023 |
 | [Tasks: Duplicating tasks causes tasks to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | November 30, 2023 |
 | [Proofs: Proofs that are pending approval do not appear in reports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | November 29, 2023 |
 | [Custom forms: Cannot bulk add or bulk remove custom forms on template tasks](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | November 21, 2023 |
 | [Tasks: Task dates greyed out for extended time when recalculating timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | November 10, 2023 |
-| [Notifications: Email notification not received when user is tagged in a comment](known-issues-workfront/wf-notif-email-not-received.md) | November 8, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
-| [Proofs: Issues with stage activation](known-issues-workfront/wf-proofs-stage-activation-issues.md) | November 3, 2023 |
 | [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
 | [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 19, 2023 |
 | [Login: Login page redirects to logout landing page](known-issues-workfront/wf-login-redirects-to-logout-page.md) | October 18, 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] does not match the sum of [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | October 12, 2023 |
-| [Home: Delegated tasks are not shared and do not appear in Home Work List](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | October 3, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
 {style="table-layout:auto"}
