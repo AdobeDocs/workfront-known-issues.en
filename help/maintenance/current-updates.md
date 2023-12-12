@@ -16,6 +16,15 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in December 2023
 
++++**Maintenance Update on December 14, 2023**
+
+**Proofs that are pending approval do not appear in reports**
+
+_Proofs_
+
+When a user views a report for pending proof approvals, some pending approvals do not appear in the report.
++++
+
 +++**Maintenance Update on December 7, 2023**
 
 **Approval stuck on [!UICONTROL Awaiting my approval] widget**
