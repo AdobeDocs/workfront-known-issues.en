@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Budgeted hour report not updating hourly as expected](known-issues-workfront/wf-reports-report-not-updating.md)
         + [Setup: Default issue statuses missing from some issue types in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
         + [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
         + [Home: My Projects and My Tasks widgets display only 25 items](known-issues-workfront/wf-home-widgets-show-25-items.md)
