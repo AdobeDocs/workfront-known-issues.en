@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Budgeted hour report not updating hourly as expected](known-issues-workfront/wf-reports-report-not-updating.md) | December 14, 2023 |
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | December 7, 2023 |
 | [Boards: Error in [!UICONTROL Comments] section of cards](known-issues-workfront/wf-boards-comments-section-error.md) | December 1, 2023 |
 | [Boards: Cards moved to a column return to original column after refresh](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | November 29, 2023 |
@@ -36,13 +37,13 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Updates: Comments made in new commenting experience are not visible in legacy experience](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | December 14, 2023 |
 | [Setup: Default issue statuses missing from some issue types in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | December 7, 2023 |
 | [Home: My Projects and My Tasks widgets display only 25 items](known-issues-workfront/wf-home-widgets-show-25-items.md) | December 7, 2023 |
 | [Status: [!UICONTROL Whoops] error when hiding status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | December 6, 2023 |
 | [Updates: Some updates are missing in the new commenting experience](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | December 6, 2023 |
 | [Timesheets: Personal task appears on timesheet](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | November 30, 2023 |
 | [Tasks: Duplicating tasks causes tasks to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | November 30, 2023 |
-| [Proofs: Proofs that are pending approval do not appear in reports](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | November 29, 2023 |
 | [Custom forms: Cannot bulk add or bulk remove custom forms on template tasks](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | November 21, 2023 |
 | [Tasks: Task dates greyed out for extended time when recalculating timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | November 10, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
