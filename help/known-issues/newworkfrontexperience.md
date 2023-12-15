@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Templates: Error when attaching template to project](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | December 15, 2023 |
 | [Reports: Budgeted hour report not updating hourly as expected](known-issues-workfront/wf-reports-report-not-updating.md) | December 14, 2023 |
 | [Documents: Cannot access [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | November 27, 2023 |
 | [Boards: Card appears on multiple sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | November 21, 2023 |
