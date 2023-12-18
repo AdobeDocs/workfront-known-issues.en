@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+        + [Boards: Cannot attach a document to a card](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
         + [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
         + [Templates: Error when attaching template to project](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
         + [Reports: Budgeted hour report not updating hourly as expected](known-issues-workfront/wf-reports-report-not-updating.md)
