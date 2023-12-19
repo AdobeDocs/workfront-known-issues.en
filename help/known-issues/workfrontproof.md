@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs created from Word documents do not include comments or markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | December 19, 2023 |
 | [Documents: Cannot access [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | November 27, 2023 |
 
 {style="table-layout:auto"}

@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs created from Word documents do not include comments or markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | December 19, 2023 |
+| [Tasks: Window closes when creating new task](known-issues-workfront/wf-tasks-new-window-closes.md) | December 19, 2023 |
 | [Templates: Error when attaching template to project](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | December 15, 2023 |
 | [Reports: Budgeted hour report not updating hourly as expected](known-issues-workfront/wf-reports-report-not-updating.md) | December 14, 2023 |
 | [Documents: Cannot access [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | November 27, 2023 |

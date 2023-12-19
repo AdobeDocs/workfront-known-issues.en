@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Proofs created from Word documents do not include comments or markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+        + [Tasks: Window closes when creating new task](known-issues-workfront/wf-tasks-new-window-closes.md)
         + [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
         + [Boards: Cannot attach a document to a card](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
         + [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
