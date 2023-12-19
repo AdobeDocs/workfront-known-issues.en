@@ -16,6 +16,51 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in December 2023
 
++++**(Planned) Maintenance Update on December 21, 2023**
+
+**Issues when viewing subtask status**
+
+_Boards_
+
+The following issues have been reported regarding viewing subtask status on a card in Boards:
+
+* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
+* If the user attempts to select a status, the screen goes blank and must be refreshed.
+
+**Cannot attach a document to a card**
+
+_Boards_
+
+When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
+
+This has been reported in cards connected to issues.
+
+**Cannot select template from [!UICONTROL Favorites] list**
+
+_Templates_
+
+When a user attempts to select a template from the [!UICONTROL Favorites] list, the list disappears when the user moves their mouse to the list, and the user cannot select a template.
+
+**Some updates are missing in the new commenting experience**
+
+_Updates_
+
+When a user is viewing updates in the new commenting experience, some of the comments that should be displayed are not displayed. If the user switches to the legacy commenting experience, all of the comments are displayed.
+
++++
+
++++**(Planned) [!DNL Adobe Workfront Fusion] Maintenance Update on December 21, 2023**
+
+Module field takes too long to open
+
+_[!DNL Workfront Fusion]_
+
+<!--no article-->
+
+When a user is configuring a module and the module requires data from the connected account (such as for selecting a record), the module cannot retrieve the data, and the request for data times out.
+
++++
+
 +++**Maintenance Update on December 14, 2023**
 
 **Proofs that are pending approval do not appear in reports**
