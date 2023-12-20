@@ -7,7 +7,7 @@ exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
 ---
 # Layout templates: Layout templates causing inconsistencies in reports
 
-Layout templates from the Classic [!DNL Workfront] experience are not longer available in the [!DNL Workfront] interface, but may still affect [!DNL Workfront] data. This can cause inconsistencies in fields affected by layout templates (such as [!UICONTROL Shared with]) on reports or dashboards.
+Layout templates from the Classic [!DNL Workfront] experience are no longer available in the [!DNL Workfront] interface, but may still affect [!DNL Workfront] data. This can cause inconsistencies in fields affected by layout templates (such as [!UICONTROL Shared with]) on reports or dashboards.
 
 **Workaround**
 
