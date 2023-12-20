@@ -1,6 +1,6 @@
 ---
 title: 'Layout templates: Layout templates causing inconsistencies in reports'
-description: Layout templates from the Classic Workfront experience are not longer available in the Workfront interface, but may still affect Workfront data. This can cause inconsistencies in fields affected by layout templates (such as Shared with) on reports or dashboards.
+description: Layout templates from the Classic Workfront experience are no longer available in the Workfront interface, but may still affect Workfront data. This can cause inconsistencies in fields affected by layout templates (such as Shared with) on reports or dashboards.
 hidefromtoc: yes
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
