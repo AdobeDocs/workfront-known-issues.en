@@ -7,6 +7,10 @@ exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
 ---
 # Boards: Issues when viewing subtask status
 
+>[!NOTE]
+>
+>This issue was fixed on December 21, 2023.
+
 The following issues have been reported regarding viewing subtask status on a card in Boards:
 
 * The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
