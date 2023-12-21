@@ -16,7 +16,7 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in December 2023
 
-+++**(Planned) Maintenance Update on December 21, 2023**
++++**Maintenance Update on December 21, 2023**
 
 **Issues when viewing subtask status**
 
@@ -49,7 +49,7 @@ When a user is viewing updates in the new commenting experience, some of the com
 
 +++
 
-+++**(Planned) [!DNL Adobe Workfront Fusion] Maintenance Update on December 21, 2023**
++++**[!DNL Adobe Workfront Fusion] Maintenance Update on December 21, 2023**
 
 Module field takes too long to open
 
