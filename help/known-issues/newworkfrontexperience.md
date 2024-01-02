@@ -35,6 +35,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Boards: "[!UICONTROL You have no access]" when viewing comments on a card](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | January 2, 2024 |
+| [Teams: Issues with setting team statuses for [!UICONTROL Done] button ](known-issues-workfront/wf-teams-statuses-missing.md) | January 2, 2024 |
 | [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | December 18, 2023 |
 | [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
 | [Boards: Error in [!UICONTROL Comments] section of cards](known-issues-workfront/wf-boards-comments-section-error.md) | December 14, 2023 |
