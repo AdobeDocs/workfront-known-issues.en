@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: "[!UICONTROL You have no access]" when viewing comments on a card](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+        + [Teams: Issues with setting team statuses for [!UICONTROL Done] button ](known-issues-workfront/wf-teams-statuses-missing.md)
         + [Proofs: Proofs created from Word documents do not include comments or markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
         + [Tasks: Window closes when creating new task](known-issues-workfront/wf-tasks-new-window-closes.md)
         + [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
