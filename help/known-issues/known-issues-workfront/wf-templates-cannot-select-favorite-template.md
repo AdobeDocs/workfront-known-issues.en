@@ -7,10 +7,6 @@ feature: Projects
 
 # Templates: Cannot select template from [!UICONTROL Favorites] list
 
->[!NOTE]
->
->This issue was fixed on December 21, 2023.
-
 When a user attempts to select a template from the [!UICONTROL Favorites] list, the list disappears when the user moves their mouse to the list, and the user cannot select a template.
 
 **Workaround**
