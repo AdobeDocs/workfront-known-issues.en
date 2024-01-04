@@ -35,6 +35,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
+| [Boards: Cards persist when changing iteration](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | January 4, 2024 |
 | [Boards: "[!UICONTROL You have no access]" when viewing comments on a card](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | January 2, 2024 |
 | [Teams: Issues with setting team statuses for [!UICONTROL Done] button ](known-issues-workfront/wf-teams-statuses-missing.md) | January 2, 2024 |
 | [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | December 18, 2023 |

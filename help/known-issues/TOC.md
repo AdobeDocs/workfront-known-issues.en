@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+        + [Boards: Cards persist when changing iteration](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
         + [Boards: "[!UICONTROL You have no access]" when viewing comments on a card](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
         + [Teams: Issues with setting team statuses for [!UICONTROL Done] button ](known-issues-workfront/wf-teams-statuses-missing.md)
         + [Proofs: Proofs created from Word documents do not include comments or markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
