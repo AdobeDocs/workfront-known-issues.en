@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2023 |
 | [Boards: Card appears on multiple sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | November 21, 2023 |
 | [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2023 |
 
