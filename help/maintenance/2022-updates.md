@@ -4,7 +4,7 @@ description: 2022 Maintenance Updates for [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 ---
-# [!DNL Workfront] Maintenance Updates
+# [!DNL Workfront] Maintenance Updates in 2022
 
 The following maintenance updates have been made in 2022.
 
