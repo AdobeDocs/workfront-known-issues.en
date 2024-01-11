@@ -7,7 +7,7 @@ role: User
 # Maintenance Release {#releases}
 
 + [Current updates](current-updates.md)
-* [2023 updates](2023-updates.md)
++ [2023 updates](2023-updates.md)
 + [2022 updates](2022-updates.md)
 + [2021 updates](2021-updates.md)
 
