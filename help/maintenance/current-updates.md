@@ -41,7 +41,7 @@ To close the card, the user must edit the URL to remove "board" and anything to 
 
 -->
 
-+++**Maintenance Update on January 11, 2023
++++**Maintenance Update on January 11, 2023**
 
 ### Maintenance Update on January 11, 2023
 
