@@ -68,7 +68,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | -----------------------------------------------------------------| ----------------- |
 | [Setup: Cannot use [!UICONTROL Kick-Starts] to set up groupings](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | November 30, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |
-| [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | November 9, 2023 |
+| [Workfront something: Duplicate projects created from single module](known-issues-workfront-something/fusion-duplicate-projects-created.md) | November 9, 2023 |
 | [Dashboard: Large blank margin when printing dashboard to PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | November 7, 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | October 26, 2023 |
 | [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
