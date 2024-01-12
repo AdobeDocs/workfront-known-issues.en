@@ -8,6 +8,10 @@ feature: Tasks
 
 # Tasks: Task dates greyed out for extended time when recalculating timeline
 
+>[!NOTE]
+>
+>This issue was fixed on December 21, 2023.
+
 When a user makes a change in a task list that triggers a recalculation of a timeline, other tasks affected by that timeline are also recalculated. While this is occurring, the affected dates in these other tasks are greyed out. In this issue, the tasks stay greyed out for extended periods of time. 
 
 Changes made to these greyed-out dates while they are greyed out are saved.

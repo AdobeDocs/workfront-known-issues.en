@@ -20,7 +20,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2023 |
-| [Boards: Card appears on multiple sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | November 21, 2023 |
 | [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2023 |
 
 {style="table-layout:auto"}
@@ -31,27 +30,20 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [Boards: Card doesn't close when using Boards view in a Project](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md) | January 8, 2024 |
 | [Issues: Time fields save incorrect time when bulk editing issues](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | January 5, 2024 |
 | [Proofs: Proofs created from Word documents do not include comments or markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | January 4, 2024 |
 | [Templates: Error when attaching template to project](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | January 4, 2024 |
 | [Tasks: Window closes when creating new task](known-issues-workfront/wf-tasks-new-window-closes.md) | January 4, 2024 |
 | [Templates: Cannot select template from [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | January 4, 2024 |
-| [Boards: Cannot attach a document to a card](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | January 4, 2024 |
-| [Boards: Issues when viewing subtask status](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | January 4, 2024 |
 | [Home: Approval stuck on [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | January 4, 2024 |
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
-| [Boards: Cards persist when changing iteration](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | January 4, 2024 |
-| [Boards: "[!UICONTROL You have no access]" when viewing comments on a card](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | January 2, 2024 |
 | [Teams: Issues with setting team statuses for [!UICONTROL Done] button ](known-issues-workfront/wf-teams-statuses-missing.md) | January 2, 2024 |
 | [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | December 18, 2023 |
 | [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
-| [Boards: Error in [!UICONTROL Comments] section of cards](known-issues-workfront/wf-boards-comments-section-error.md) | December 14, 2023 |
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | December 14, 2023 |
 | [Setup: Default issue statuses missing from some issue types in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | December 7, 2023 |
 | [Tasks: Duplicating tasks causes tasks to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | November 30, 2023 |
 | [Custom forms: Cannot bulk add or bulk remove custom forms on template tasks](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | November 21, 2023 |
-| [Tasks: Task dates greyed out for extended time when recalculating timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | November 10, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
 | [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
