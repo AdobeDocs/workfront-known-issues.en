@@ -6,6 +6,7 @@ feature: Agile, Tasks, Projects
 ---
 
 # Boards: Card doesn't close when using Boards view in a Project
+
 <!--
 >[!NOTE]
 >

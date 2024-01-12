@@ -6,6 +6,7 @@ feature: Agile
 exl-id: 660cb70d-a513-4176-a205-ca54e02aac71
 ---
 # Boards: Card appears on multiple sprints
+
 <!--
 >[!NOTE]
 >

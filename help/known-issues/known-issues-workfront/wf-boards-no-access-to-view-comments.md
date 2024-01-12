@@ -6,7 +6,7 @@ feature: Agile
 ---
 
 # Boards: "[!UICONTROL You have no access]" when viewing comments on a card
-<!--
+
 >[!NOTE]
 >
 >This issue was fixed on January 12, 2024.-->

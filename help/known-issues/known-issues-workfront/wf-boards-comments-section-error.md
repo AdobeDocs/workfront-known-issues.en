@@ -6,6 +6,7 @@ feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
 ---
 # Boards: Error in [!UICONTROL Comments] section of cards
+
 <!--
 >[!NOTE]
 >
