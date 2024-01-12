@@ -16,6 +16,8 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2024
 
+<!--
+
 +++**Maintenance Update on January 12, 2024**
 
 ### Maintenance Update on January 12, 2024
@@ -64,6 +66,8 @@ When a user attempts to view comments on a card that is not connected to a [!DNL
 This may occur even when the user could previously see comments on the card.
 
 +++
+
+-->
 
 +++**Maintenance Update on January 11, 2023**
 
