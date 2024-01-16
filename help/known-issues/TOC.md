@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [[!UICONTROL Setup]: Cannot hide optional statuses](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+        + [Documents: Issues when viewing documents lists](known-issues-workfront/wf-documents-list-not-loading.md)
         + [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
         + [Boards: Card doesn't close when using Boards view in a Project](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
         + [Issues: Time fields save incorrect time when bulk editing issues](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
