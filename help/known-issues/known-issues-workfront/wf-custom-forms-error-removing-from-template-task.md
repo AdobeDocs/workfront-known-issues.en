@@ -7,6 +7,10 @@ exl-id: e9014f67-2098-46e4-a301-6a742a0c2ddb
 ---
 # Custom forms: Cannot bulk add or bulk remove custom forms on template tasks
 
+>[!NOTE]
+>
+>This issue was fixed on January 18, 2024.
+
 If a user attempts to bulk add or bulk remove a custom form on a template task, the form is not added or removed, and the user sees the following error:
 
 [!UICONTROL Let's try that again. Invalid Parameter: templateID value "XXXXXXXXXXXXXXXX"]

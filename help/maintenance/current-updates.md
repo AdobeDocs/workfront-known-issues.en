@@ -16,11 +16,9 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2024
 
-<!--
++++**Maintenance Update on January 18, 2024**
 
-+++**Maintenance Update on January 12, 2024**
-
-### Maintenance Update on January 12, 2024
+### Maintenance Update on January 18, 2024
 
 #### Boards
 
@@ -65,9 +63,60 @@ When a user attempts to view comments on a card that is not connected to a [!DNL
 
 This may occur even when the user could previously see comments on the card.
 
-+++
+#### Custom forms
 
--->
+**Cannot bulk add or bulk remove custom forms on template tasks**
+
+If a user attempts to bulk add or bulk remove a custom form on a template task, the form is not added or removed, and the user sees the following error:
+
+[!UICONTROL Let's try that again. Invalid Parameter: templateID value "XXXXXXXXXXXXXXXX"]
+
+If the user locates the template with the specified GUID, then attempts to add or remove custom forms on the remainder of the template tasks, the error will reoccur using another templateID.
+
+Custom forms can be added or removed on a single template task. This error applies only to bulk addition or removal.
+
+#### Portfolios
+
+**Custom terminology does not apply to group page**
+
+When a user sets custom terminology at the Portfolio level, the terminology does not apply to the group level page.
+
+#### Setup
+
+**Cannot hide optional statuses**
+
+When a user attempts to hide optional statuses on a system and group level, the status is not hidden. If the user views the status, the option to hide the status is not enable, even though the user did enable it and save the changes.
+
+**Default issue statuses missing from some issue types in Setup**
+
+When a user is viewing issue statuses in Setup, they see that the default statuses for issues (New, In Progress, and Complete) are missing from some types of issues. Default statuses do not have the option to change the issue type, so the user cannot reconfigure the statuses to display for the affected issue types. 
+
+#### Teams
+
+**Issues with setting team statuses for [!UICONTROL Done] button** 
+
+The following issues have been reported regarding statuses for the [!UICONTROL Done] button when editing or creating a team:
+
+* Some statuses may be missing from the Done button area of the [!UICONTROL New team] window or the [!UICONTROL Team Settings] area of an existing team.
+* If the user attempts to save the team, they may see the error "You must select at least one status in each category."
+
+#### Templates
+
+**Error when attaching template to project**
+
+When a user attempts to attach a template to a project, they receive the following error: 
+
+"Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it."
+
+This occurs when the user does not have View permission to a custom form attached to the template.
+
+#### Updates
+
+**Comments do not transfer between old and new experience**
+
+A comment made in the legacy commenting experience may not be visible in the new commenting experience. The reverse may also occur.
+
++++
 
 +++**Maintenance Update on January 11, 2023**
 

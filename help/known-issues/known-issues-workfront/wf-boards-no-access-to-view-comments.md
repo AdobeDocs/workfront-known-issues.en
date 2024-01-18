@@ -9,7 +9,7 @@ feature: Agile
 
 >[!NOTE]
 >
->This issue was fixed on January 12, 2024.-->
+>This issue was fixed on January 18, 2024.
 
 When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
 
