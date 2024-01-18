@@ -7,10 +7,9 @@ feature: Agile
 
 # Boards: Cannot attach a document to a card
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on January 12, 2024.-->
+>This issue was fixed on January 18, 2024.
 
 <!--WF and WFP TOCs-->
 
