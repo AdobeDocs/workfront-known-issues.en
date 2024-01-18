@@ -83,9 +83,32 @@ When a user sets custom terminology at the Portfolio level, the terminology does
 
 #### Setup
 
+**Cannot hide optional statuses**
+
+When a user attempts to hide optional statuses on a system and group level, the status is not hidden. If the user views the status, the option to hide the status is not enable, even though the user did enable it and save the changes.
+
 **Default issue statuses missing from some issue types in Setup**
 
 When a user is viewing issue statuses in Setup, they see that the default statuses for issues (New, In Progress, and Complete) are missing from some types of issues. Default statuses do not have the option to change the issue type, so the user cannot reconfigure the statuses to display for the affected issue types. 
+
+#### Teams
+
+**Issues with setting team statuses for [!UICONTROL Done] button** 
+
+The following issues have been reported regarding statuses for the [!UICONTROL Done] button when editing or creating a team:
+
+* Some statuses may be missing from the Done button area of the [!UICONTROL New team] window or the [!UICONTROL Team Settings] area of an existing team.
+* If the user attempts to save the team, they may see the error "You must select at least one status in each category."
+
+#### Templates
+
+**Error when attaching template to project**
+
+When a user attempts to attach a template to a project, they receive the following error: 
+
+"Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it."
+
+This occurs when the user does not have View permission to a custom form attached to the template.
 
 #### Updates
 

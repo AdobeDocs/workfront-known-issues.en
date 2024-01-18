@@ -7,6 +7,10 @@ feature: Projects
 
 # Templates: Error when attaching template to project
 
+>[!NOTE]
+>
+>This issue was fixed on January 18, 2024.
+
 When a user attempts to attach a template to a project, they receive the following error: 
 
 "Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it."
