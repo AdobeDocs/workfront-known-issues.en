@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Marking notifications as seen does not persist](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | January 19, 2023 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2023 |
 | [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2023 |
 
@@ -30,6 +31,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Integrations: Cannot log time from Workfront for Jira integration](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | January 19, 2024 |
+| [Updates: Cannot view or download images in comments](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | January 19, 2024 |
 | [Documents: Issues when viewing documents lists](known-issues-workfront/wf-documents-list-not-loading.md) | January 18, 2024 |
 | [Issues: Time fields save incorrect time when bulk editing issues](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | January 5, 2024 |
 | [Tasks: Window closes when creating new task](known-issues-workfront/wf-tasks-new-window-closes.md) | January 4, 2024 |

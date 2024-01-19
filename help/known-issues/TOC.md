@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Integrations: Cannot log time from Workfront for Jira integration](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+        + [Updates: Cannot view or download images in comments](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+        + [Notifications: Marking notifications as seen does not persist](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
         + [[!UICONTROL Setup]: Cannot hide optional statuses](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
         + [Documents: Issues when viewing documents lists](known-issues-workfront/wf-documents-list-not-loading.md)
         + [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)

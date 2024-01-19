@@ -1,0 +1,14 @@
+---
+title: "Integrations: Cannot log time from Workfront for Jira integration"
+description: "When a user attempts to log time in the Workfront For Jira integration, the time does not log, and the use sees an error."
+hidefromtoc: yes
+feature: Workfront Integrations and Apps
+---
+
+# Integrations: Cannot log time from Workfront for Jira integration
+
+When a user attempts to log time in the Workfront For Jira integration, the time does not log, and the use sees the following error:
+
+"[!UICONTROL Cannot read properties of undefined (reading 'split')]"
+
+_First reported on August 7, 2023._
