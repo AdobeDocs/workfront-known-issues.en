@@ -16,6 +16,24 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in January 2024
 
++++**Maintenance Update on January 25, 2024**
+
+### Maintenance Update on January 25, 2024
+
+#### Boards
+
+**Cards not moving to appropriate column when status is changed**
+
+When the status of a connected card's linked object is changed directly on the object, the card does not move to the appropriate column. If the object status is changed on the card, or the card is dragged to the new column, the card behaves as expected.
+
+#### Notifications
+
+**Marking notifications as seen does not persist** 
+
+When a user marks their notifications as seen and then navigates to a different page within [!DNL Workfront], the notifications icon still shows the number of unread notifications that existed before the user marked them as seen, and the notifications still list when the user clicks the icon. This continues if the user marks them as seen and navigates to another page or back to the original page.
+
++++
+
 +++**Maintenance Update on January 18, 2024**
 
 ### Maintenance Update on January 18, 2024
