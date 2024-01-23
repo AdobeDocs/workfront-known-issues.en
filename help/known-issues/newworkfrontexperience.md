@@ -19,9 +19,12 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Notifications: Marking notifications as seen does not persist](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | January 19, 2023 |
-| [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2023 |
-| [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2023 |
+| [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | January 23, 2024 |
+| [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
+| [Resource Management: Incorrect finance calculations due to Job Role issues](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | January 23, 2024 |
+| [Notifications: Marking notifications as seen does not persist](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | January 19, 2024 |
+| [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
+| [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2024 |
 
 {style="table-layout:auto"}
 

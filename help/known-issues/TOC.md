@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+        + [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md)
+        + [Resource Management: Incorrect finance calculations due to Job Role issues](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
         + [Integrations: Cannot log time from Workfront for Jira integration](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
         + [Updates: Cannot view or download images in comments](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
         + [Notifications: Marking notifications as seen does not persist](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
