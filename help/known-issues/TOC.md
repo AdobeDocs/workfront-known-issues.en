@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Comments made in legacy commenting experience are not visible in new experience](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+        + [Updates: Issues with tagging in legacy commenting experience](known-issues-workfront/wf-updates-showing-first-name.md)
         + [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md)
         + [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md)
         + [Resource Management: Incorrect finance calculations due to Job Role issues](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)

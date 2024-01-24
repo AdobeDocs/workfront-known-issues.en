@@ -34,6 +34,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Updates: Comments made in legacy commenting experience are not visible in new experience](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | January 24, 2024 |
+| [Updates: Issues with tagging in legacy commenting experience](known-issues-workfront/wf-updates-showing-first-name.md) | January 24, 2024 |
 | [Integrations: Cannot log time from Workfront for Jira integration](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | January 19, 2024 |
 | [Updates: Cannot view or download images in comments](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | January 19, 2024 |
 | [Documents: Issues when viewing documents lists](known-issues-workfront/wf-documents-list-not-loading.md) | January 18, 2024 |
