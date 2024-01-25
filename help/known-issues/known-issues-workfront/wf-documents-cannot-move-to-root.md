@@ -11,4 +11,14 @@ When a user attempts to move a folder from a user-created folder into the projec
 
 "[!UICONTROL destinationFolderlD cannot be null]"
 
+**Workaround**
+
+Use the **Move** option.
+
+1. Select the documents that you want to move to the root folder. 
+1. Click the **Move** icon.
+1. Select **Project**.
+1. Begin typing the name of the project, then select it from the list.
+1. Click **Finish**.
+
 _First reported on January 18, 2024._

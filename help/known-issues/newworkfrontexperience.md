@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | January 23, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
-| [Resource Management: Incorrect finance calculations due to Job Role issues](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 | [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2024 |
 
@@ -33,12 +32,13 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Teams: Issues with setting team statuses for [!UICONTROL Done] button](known-issues-workfront/wf-teams-statuses-missing.md) | January 25, 2024 |
+| [Resource Management: Incorrect finance calculations due to Job Role issues](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | January 25, 2024 |
+| [Boards: Cards persist when changing iteration](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | January 25, 2024 |
 | [Updates: Comments made in legacy commenting experience are not visible in new experience](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | January 24, 2024 |
-| [Integrations: Cannot log time from Workfront for Jira integration](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | January 19, 2024 |
 | [Updates: Cannot view or download images in comments](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | January 19, 2024 |
 | [Documents: Issues when viewing documents lists](known-issues-workfront/wf-documents-list-not-loading.md) | January 18, 2024 |
 | [Issues: Time fields save incorrect time when bulk editing issues](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | January 5, 2024 |
-| [Tasks: Window closes when creating new task](known-issues-workfront/wf-tasks-new-window-closes.md) | January 4, 2024 |
 | [Templates: Cannot select template from [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | January 4, 2024 |
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
 | [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | December 18, 2023 |

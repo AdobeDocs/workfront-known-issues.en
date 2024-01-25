@@ -7,9 +7,13 @@ feature: People Teams and Groups
 
 # Teams: Issues with setting team statuses for [!UICONTROL Done] button 
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on January 18, 2024.
+
+-->
 
 The following issues have been reported regarding statuses for the [!UICONTROL Done] button when editing or creating a team:
 
