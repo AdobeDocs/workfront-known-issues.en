@@ -32,6 +32,19 @@ When the status of a connected card's linked object is changed directly on the o
 
 When a user marks their notifications as seen and then navigates to a different page within [!DNL Workfront], the notifications icon still shows the number of unread notifications that existed before the user marked them as seen, and the notifications still list when the user clicks the icon. This continues if the user marks them as seen and navigates to another page or back to the original page.
 
+#### Updates
+
+**Issues with tagging in legacy commenting experience**
+
+When a user is tagged in a comment in the legacy commenting experience, the following issues occur:
+
+* Only the user's first name is present in the comment
+* The user's name is not marked with an @ symbol
+* The user's name is not blue
+* The user's name is not a link to that user's profile
+
+The user does receive an email notification regarding the tag, as expected.
+
 +++
 
 +++**Maintenance Update on January 18, 2024**
@@ -136,9 +149,9 @@ A comment made in the legacy commenting experience may not be visible in the new
 
 +++
 
-+++**Maintenance Update on January 11, 2023**
++++**Maintenance Update on January 11, 2024**
 
-### Maintenance Update on January 11, 2023
+### Maintenance Update on January 11, 2024
 
 #### Boards
 
