@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Resource Management]: Cannot change date in [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | January 25, 2024 |
 | [Teams: Issues with setting team statuses for [!UICONTROL Done] button](known-issues-workfront/wf-teams-statuses-missing.md) | January 25, 2024 |
 | [Resource Management: Incorrect finance calculations due to Job Role issues](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | January 25, 2024 |
 | [Boards: Cards persist when changing iteration](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | January 25, 2024 |
