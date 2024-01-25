@@ -22,7 +22,6 @@ These recently reported issues are currently under review.
 | [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | January 23, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Resource Management: Incorrect finance calculations due to Job Role issues](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | January 23, 2024 |
-| [Notifications: Marking notifications as seen does not persist](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | January 19, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 | [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2024 |
 
@@ -35,7 +34,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
 | [Updates: Comments made in legacy commenting experience are not visible in new experience](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | January 24, 2024 |
-| [Updates: Issues with tagging in legacy commenting experience](known-issues-workfront/wf-updates-showing-first-name.md) | January 24, 2024 |
 | [Integrations: Cannot log time from Workfront for Jira integration](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | January 19, 2024 |
 | [Updates: Cannot view or download images in comments](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | January 19, 2024 |
 | [Documents: Issues when viewing documents lists](known-issues-workfront/wf-documents-list-not-loading.md) | January 18, 2024 |
@@ -45,7 +43,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
 | [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | December 18, 2023 |
 | [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
-| [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | December 14, 2023 |
 | [Tasks: Duplicating tasks causes tasks to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | November 30, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
 | [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |

@@ -7,6 +7,10 @@ feature: Updates and Notifications
 
 # Updates: Issues with tagging in legacy commenting experience
 
+>[!NOTE]
+>
+>This issue was fixed on January 25, 2024.
+
 When a user is tagged in a comment in the legacy commenting experience, the following issues occur:
 
 * Only the user's first name is present in the comment
