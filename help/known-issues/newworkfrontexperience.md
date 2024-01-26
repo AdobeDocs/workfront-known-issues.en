@@ -22,7 +22,6 @@ These recently reported issues are currently under review.
 | [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | January 23, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
-| [Boards: Search not working](known-issues-workfront/wf-boards-search-not-working.md) | October 20, 2024 |
 
 {style="table-layout:auto"}
 
@@ -47,9 +46,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
 | [Tasks: Duplicating tasks causes tasks to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | November 30, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
-| [Tasks: "[!UICONTROL Whoops]" error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | October 25, 2023 |
 | [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
-| [Proofs: Cannot create new version of a proof](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | October 19, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
 {style="table-layout:auto"}
