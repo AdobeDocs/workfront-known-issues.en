@@ -180,6 +180,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [Workfront Fusion: RuntimeError with 200 response from Workfront module](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
         + [Workfront Fusion: Low memory error](known-issues-workfront-fusion/fusion-low-memory-error.md)
         + [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
         + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module returning 404 or 422 errors](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
