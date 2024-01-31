@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Issues: Issue status not in dropdown](known-issues-workfront/wf-issues-status-not-available.md)
+        + [Updates: Disabled image option is available when editing a comment](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+        + [Boards: Cannot move a card in a column by using [!UICONTROL Move] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
         + [Templates: Error when copying templates](known-issues-workfront/wf-templates-cannot-copy-template.md)
         + [[!UICONTROL Resource Management]: Cannot change date in [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
         + [Updates: Comments made in legacy commenting experience are not visible in new experience](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
