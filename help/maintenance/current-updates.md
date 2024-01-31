@@ -42,7 +42,7 @@ When a user attempts to copy a new or existing template, the template does not c
 
 ### Maintenance Update (Hot Fix) on January 30, 2024
 
-#### Custom forms
+#### Reports
 
 **External API field does not show all available values in lists and reports**
 
