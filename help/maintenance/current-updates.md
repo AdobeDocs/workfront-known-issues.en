@@ -14,7 +14,43 @@ The following maintenance updates have been made in 2024.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in February 2024
+
++++**(Planned) Maintenance Update on February 1, 2024**
+
+### (Planned) Maintenance Update on February 1, 2024
+
+#### Login
+
+**Users using SSO are not redirected to original location when logging in**
+
+When a user is on a page in [!DNL Workfront] and logs in with SSO, when login is complete they are directed to [!UICONTROL Home] instead of the page they were on before logging in.
+
+#### Templates
+
+**Error when copying templates**
+
+When a user attempts to copy a new or existing template, the template does not copy, and the user sees the following error:
+
+"[!UICONTROL ID Cannot be Null]"
+
++++
+
 ## Updates in January 2024
+
++++**Maintenance Update (Hot Fix) on January 30, 2024**
+
+### Maintenance Update (Hot Fix) on January 30, 2024
+
+#### Reports
+
+**External API field does not show all available values in lists and reports**
+
+Previously, users could see the selected value (and edit the value) for an external lookup field in lists and reports, but would not see the dropdown with the options coming from the API.
+
+Now, when an external lookup custom field is used in a list or report, the dropdown with all options from the external API is available.
+
++++
 
 +++**Maintenance Update on January 25, 2024**
 
