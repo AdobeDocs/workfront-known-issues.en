@@ -7,6 +7,10 @@ feature: Digital Content and Documents
 
 # Documents: Issues when viewing documents lists
 
+>[!NOTE]
+>
+>This issue has been resolved.
+
 The following issues have been reported regarding viewing documents lists:
 
 * **Thumbnail or Standard view**: The documents list does not list.

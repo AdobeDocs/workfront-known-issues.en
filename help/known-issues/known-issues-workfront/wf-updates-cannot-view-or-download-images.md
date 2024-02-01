@@ -7,6 +7,10 @@ feature: Updates and Notifications
 
 # Updates: Cannot view or download images in comments
 
+>[!NOTE]
+>
+>This issue was fixed on January 25, 2024.
+
 When a user attempts to view or download an image from a comment in Workfront, they see the following error:
 
 `Access to <domain>.my.workfront.com was denied`
