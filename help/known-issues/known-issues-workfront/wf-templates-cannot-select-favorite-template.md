@@ -7,7 +7,7 @@ feature: Projects
 
 # Templates: Cannot select template from [!UICONTROL Favorites] list
 
->[NOTE]
+>[!NOTE]
 >
 >This issue was fixed on January 25, 2024.
 
