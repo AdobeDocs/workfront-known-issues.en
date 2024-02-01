@@ -20,7 +20,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Boards: Cannot move a card in a column by using [!UICONTROL Move] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | January 26, 2024 |
-| [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | January 23, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 
@@ -32,17 +31,15 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | February 1, 2024 |
+| [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | February 1, 2024 |
 | [Issues: Issue status not in dropdown](known-issues-workfront/wf-issues-status-not-available.md) | January 31, 2024 |
 | [Updates: Disabled image option is available when editing a comment](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | January 31, 2024 |
 | [[!UICONTROL Resource Management]: Cannot change date in [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | January 25, 2024 |
 | [Teams: Issues with setting team statuses for [!UICONTROL Done] button](known-issues-workfront/wf-teams-statuses-missing.md) | January 25, 2024 |
 | [Resource Management: Incorrect finance calculations due to Job Role issues](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | January 25, 2024 |
 | [Boards: Cards persist when changing iteration](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | January 25, 2024 |
-| [Updates: Comments made in legacy commenting experience are not visible in new experience](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | January 24, 2024 |
-| [Updates: Cannot view or download images in comments](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | January 19, 2024 |
-| [Documents: Issues when viewing documents lists](known-issues-workfront/wf-documents-list-not-loading.md) | January 18, 2024 |
 | [Issues: Time fields save incorrect time when bulk editing issues](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | January 5, 2024 |
-| [Templates: Cannot select template from [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | January 4, 2024 |
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
 | [Tasks: User is unassigned from one or more tasks](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | December 18, 2023 |
 | [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
