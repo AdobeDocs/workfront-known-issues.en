@@ -9,7 +9,15 @@ exl-id: bcb71d1f-4563-4a87-a068-1f707a3a2e02
 
 >[!NOTE]
 >
+>This issue has been resolved.
+
+<!--
+
+>[!NOTE]
+>
 >The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+
+-->
 
 When a user attempts to access a document through the [!DNL OneDrive] integration in [!DNL Workfront], the user cannot see all of the [!DNL OneDrive] folders, and cannot access documents in the missing folders.
 
