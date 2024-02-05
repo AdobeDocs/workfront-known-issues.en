@@ -183,6 +183,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [Workfront Fusion: Field is missing from module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
         + [Workfront Fusion: Output formatting for dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
         + [Workfront Fusion: RuntimeError with 200 response from Workfront module](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
         + [Workfront Fusion: Low memory error](known-issues-workfront-fusion/fusion-low-memory-error.md)

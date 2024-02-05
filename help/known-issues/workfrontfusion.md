@@ -40,6 +40,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Field is missing from module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | February 5, 2024 |
 | [Workfront Fusion: Output formatting for dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | January 31, 2024 |
 | [Workfront Fusion: Low memory error](known-issues-workfront-fusion/fusion-low-memory-error.md) | November 16, 2023 |
 | [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | October 24, 2023 |
