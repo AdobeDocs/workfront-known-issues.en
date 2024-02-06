@@ -16,9 +16,31 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2024
 
++++**(Planned) Maintenance Update on February 8, 2024**
+
+### (Planned) Maintenance Update on February 8, 2024
+
+#### Boards
+
+**Cannot move a card in a column by using [!UICONTROL Move] options**
+
+When a user attempts to move a card in a column by using the "[!UICONTROL Top of column]" or "[!UICONTROL Bottom of column]" options in the three-dot menu, the card does not move.
+
+**Cards persist when changing iteration**
+
+When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously.
+
+#### Reports
+
+**"No value" column displays no results**
+
+When a chart report has a "[!DNL No value]" column, the column shows no data, even though data should be present.
+
++++
+
 +++**Maintenance Update on February 1, 2024**
 
-### (Planned) Maintenance Update on February 1, 2024
+### Maintenance Update on February 1, 2024
 
 #### Login
 

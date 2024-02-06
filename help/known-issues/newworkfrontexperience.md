@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Boards: Cannot move a card in a column by using [!UICONTROL Move] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | January 26, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 
@@ -31,6 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Boards: Cannot move a card in a column by using [!UICONTROL Move] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | February 6, 2024 |
 | [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | February 1, 2024 |
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | February 1, 2024 |
 | [Issues: Issue status not in dropdown](known-issues-workfront/wf-issues-status-not-available.md) | January 31, 2024 |
