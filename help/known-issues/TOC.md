@@ -183,6 +183,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [Workfront Fusion: Workfront Proof > Watch Proof module times out](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | February 6, 2024
         + [Workfront Fusion: Field is missing from module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
         + [Workfront Fusion: Output formatting for dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
         + [Workfront Fusion: RuntimeError with 200 response from Workfront module](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
