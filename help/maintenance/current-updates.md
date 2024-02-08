@@ -16,9 +16,9 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2024
 
-+++**(Planned) Maintenance Update on February 8, 2024**
++++**Maintenance Update on February 8, 2024**
 
-### (Planned) Maintenance Update on February 8, 2024
+### Maintenance Update on February 8, 2024
 
 #### Boards
 
@@ -35,6 +35,14 @@ When a user is viewing an iteration on a board and then changes the iteration, t
 **"No value" column displays no results**
 
 When a chart report has a "[!DNL No value]" column, the column shows no data, even though data should be present.
+
+#### Resource Management
+
+**Incorrect finance calculations due to Job Role issues**
+
+Hours and finance calculations may be incorrect, showing a cost of 0 even though hours are logged in a job role that has a cost rate. 
+
+This is because Job Roles are automatically creating duplicate rates with no start or end dates. Because they have no start or end dates, they are treated as a value of 0 when finance calculations are run.
 
 +++
 

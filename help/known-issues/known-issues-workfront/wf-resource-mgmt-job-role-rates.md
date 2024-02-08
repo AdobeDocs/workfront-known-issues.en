@@ -7,6 +7,10 @@ feature: Resource Management
 
 # Resource Management: Incorrect finance calculations due to Job Role issues
 
+>[!NOTE]
+>
+>This issue was fixed on February 8, 2024.
+
 Hours and finance calculations may be incorrect, showing a cost of 0 even though hours are logged in a job role that has a cost rate. 
 
 This is because Job Roles are automatically creating duplicate rates with no start or end dates. Because they have no start or end dates, they are treated as a value of 0 when finance calculations are run.
