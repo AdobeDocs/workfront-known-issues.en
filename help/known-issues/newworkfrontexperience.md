@@ -35,7 +35,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | February 1, 2024 |
 | [Issues: Issue status not in dropdown](known-issues-workfront/wf-issues-status-not-available.md) | January 31, 2024 |
 | [Updates: Disabled image option is available when editing a comment](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | January 31, 2024 |
-| [[!UICONTROL Resource Management]: Cannot change date in [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | January 25, 2024 |
 | [Teams: Issues with setting team statuses for [!UICONTROL Done] button](known-issues-workfront/wf-teams-statuses-missing.md) | January 25, 2024 |
 | [Issues: Time fields save incorrect time when bulk editing issues](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | January 5, 2024 |
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
