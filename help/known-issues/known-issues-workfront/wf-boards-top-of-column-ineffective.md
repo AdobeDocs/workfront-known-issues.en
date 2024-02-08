@@ -7,6 +7,10 @@ feature: Agile
 
 # Boards: Cannot move a card in a column by using [!UICONTROL Move] options
 
+>[!NOTE]
+>
+>This issue was fixed on February 8, 2024.
+
 When a user attempts to move a card in a column by using the "[!UICONTROL Top of column]" or "[!UICONTROL Bottom of column]" options in the three-dot menu, the card does not move.
 
 **Workaround**
