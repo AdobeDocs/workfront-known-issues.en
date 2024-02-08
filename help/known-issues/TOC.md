@@ -11,7 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + | [Users: Lower access levels not available when creating a user](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
+        + [Users: Lower access levels not available when creating a user](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
         + [Issues: Issue status not in dropdown](known-issues-workfront/wf-issues-status-not-available.md)
         + [Updates: Disabled image option is available when editing a comment](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
         + [Boards: Cannot move a card in a column by using [!UICONTROL Move] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
