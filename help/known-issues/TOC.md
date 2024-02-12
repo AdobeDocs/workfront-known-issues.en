@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Screen goes blank when replying to a user from another company](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+        + [Boards: Filtering for multiple users does not return all results](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
         + [Users: Lower access levels not available when creating a user](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
         + [Issues: Issue status not in dropdown](known-issues-workfront/wf-issues-status-not-available.md)
         + [Updates: Disabled image option is available when editing a comment](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
