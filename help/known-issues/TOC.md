@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Integrations: Documents not attached when creating a request from [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+        + [Proofs: Cannot create a proof with [!UICONTROL Advanced Workflow] from a [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+        + [Boards: 400 error when adding a task to a board](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
         + [Updates: Screen goes blank when replying to a user from another company](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
         + [Boards: Filtering for multiple users does not return all results](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
         + [Users: Lower access levels not available when creating a user](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)

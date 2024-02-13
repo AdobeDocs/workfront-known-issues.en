@@ -16,6 +16,30 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2024
 
++++**(Planned) Maintenance Update on February 15, 2024**
+
+### (Planned) Maintenance Update on February 15, 2024
+
+#### Issues
+
+**Time fields save incorrect time when bulk editing issues**
+
+When a user is bulk editing issues and selects a date and time for a date field and saves, the time that is saved to this field in the issue is not the time that the user selected. Instead, the time appears to be converted to UTC when the user saves.
+
+#### Tasks
+
+**User is unassigned from one or more tasks**
+
+A user may be automatically unassigned from a task that they are assigned to. This may occur for one or more tasks. The unassignment does not display in the System Updates area of the tasks, althout it does display in the Update feeds section of the setup menu. 
+
+#### Updates
+
+**Disabled image option is available when editing a comment**
+
+After a [!DNL Workfront] administrator has disabled the option to add images to comments, that option is not available when creating a comment. However, if a user edits an existing comment, the image option is available.
+
++++
+
 +++**Maintenance Update on February 8, 2024**
 
 ### Maintenance Update on February 8, 2024
