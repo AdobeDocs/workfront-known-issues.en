@@ -19,6 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrations: Documents not attached when creating a request from [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | February 13, 2024 |
+| [Proofs: Cannot create a proof with [!UICONTROL Advanced Workflow] from a [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | February 13, 2024 |
+| [Boards: 400 error when adding a task to a board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | February 13, 2024 |
 | [Boards: Filtering for multiple users does not return all results](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | February 12, 2024 |
 | [Users: Lower access levels not available when creating a user](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | February 8, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
