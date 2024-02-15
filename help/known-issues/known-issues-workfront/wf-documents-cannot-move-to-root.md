@@ -7,6 +7,10 @@ feature: Digital Content and Documents
 
 # Documents: Cannot move document from folder to root
 
+>[!NOTE]
+>
+>This issue was fixed on January 24, 2024.
+
 When a user attempts to move a folder from a user-created folder into the project's Documents root folder, the document does not move, and the user sees the following error:
 
 "[!UICONTROL destinationFolderlD cannot be null]"
