@@ -19,9 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: Workspace and pins do not load](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | February 15, 2024 |
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | February 14, 2024 |
 | [Integrations: Documents not attached when creating a request from [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | February 13, 2024 |
-| [Proofs: Cannot create a proof with [!UICONTROL Advanced Workflow] from a [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | February 13, 2024 |
 | [Boards: 400 error when adding a task to a board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | February 13, 2024 |
 | [Boards: Filtering for multiple users does not return all results](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | February 12, 2024 |
 | [Users: Lower access levels not available when creating a user](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | February 8, 2024 |
@@ -36,8 +36,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Proofs: Cannot create a proof with [!UICONTROL Advanced Workflow] from a [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | February 15, 2024 |
 | [Updates: Screen goes blank when replying to a user from another company](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | February 12, 2024 |
-| [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | February 1, 2024 |
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | February 1, 2024 |
 | [Issues: Issue status not in dropdown](known-issues-workfront/wf-issues-status-not-available.md) | January 31, 2024 |
 | [Teams: Issues with setting team statuses for [!UICONTROL Done] button](known-issues-workfront/wf-teams-statuses-missing.md) | January 25, 2024 |

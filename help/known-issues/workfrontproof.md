@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Cannot create a proof with [!UICONTROL Advanced Workflow] from a [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | February 13, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 
 {style="table-layout:auto"}
@@ -30,7 +29,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents: Cannot move document from folder to root](known-issues-workfront/wf-documents-cannot-move-to-root.md) | February 1, 2024 |
+| [Proofs: Cannot create a proof with [!UICONTROL Advanced Workflow] from a [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | February 15, 2024 |
 | [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
 | [Proofs: Breadcrumb missing when accessing proof from email link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | November 3, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |
