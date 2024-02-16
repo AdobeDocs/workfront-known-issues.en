@@ -36,6 +36,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | February 16, 2024 |
+| [Boards: Cards not sorting](known-issues-workfront/wf-boards-not-sorting.md) | February 16, 2024 |
+| [Boards: Screen goes blank when viewing card details](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | February 16, 2024 |
 | [Proofs: Cannot create a proof with [!UICONTROL Advanced Workflow] from a [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | February 15, 2024 |
 | [Updates: Screen goes blank when replying to a user from another company](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | February 12, 2024 |
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | February 1, 2024 |

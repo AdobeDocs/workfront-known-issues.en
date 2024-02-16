@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+        + [Boards: Cards not sorting](known-issues-workfront/wf-boards-not-sorting.md)
+        + [Boards: Screen goes blank when viewing card details](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
         + [Home: Workspace and pins do not load](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
         + [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md)
         + [Integrations: Documents not attached when creating a request from [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
