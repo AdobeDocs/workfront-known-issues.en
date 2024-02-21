@@ -36,6 +36,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Custom forms: Error when pasting text into a rich text field](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | February 21, 2024 |
+| [Projects: Timeline recalculates very slowly when changing a date on a task](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | February 21, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | February 16, 2024 |
 | [Boards: Cards not sorting](known-issues-workfront/wf-boards-not-sorting.md) | February 16, 2024 |
 | [Boards: Screen goes blank when viewing card details](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | February 16, 2024 |
