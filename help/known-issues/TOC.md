@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Error when pasting text into a rich text field](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+        + [Projects: Timeline recalculates very slowly when changing a date on a task](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
         + [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
         + [Boards: Cards not sorting](known-issues-workfront/wf-boards-not-sorting.md)
         + [Boards: Screen goes blank when viewing card details](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

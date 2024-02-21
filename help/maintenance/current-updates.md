@@ -35,10 +35,16 @@ When a user logs in, the following may occur:
 
 <!--no article-->
 
-When a group administrator attemps to change the access level of a user, one of the following may occur:
+When a group administrator attempts to change the access level of a user, one of the following may occur:
 
 * The access level field is disabled.
 * The group administrator is unable to choose a lower access level.
+
+#### Workload Balancer
+
+**Label for non-working hours**
+
+The Workload Balancer and personal time off calendar now show "[!UICONTROL Non-working Hours]" for time that a user is taking off. Previously the display showed "[!UICONTROL Working Hours]" for non-working time.
 
 +++
 
