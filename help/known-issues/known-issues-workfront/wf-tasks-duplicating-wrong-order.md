@@ -7,6 +7,10 @@ feature: Tasks
 
 # Tasks: Duplicating tasks causes tasks to display in wrong order
 
+>[!NOTE]
+>
+>This issue was fixed on February 22, 2024.
+
 When a user selects one or more tasks on a task list and duplicates them, the task list then displays the tasks in the wrong order according to the task order number. The tasks are numbered correctly, but they are displayed in the wrong order.
 
 **Workaround**
