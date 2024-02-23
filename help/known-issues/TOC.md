@@ -11,6 +11,11 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Workload Balancer: Planned hours are not updated in Workload Balancer](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+        + [Boards: Documents uploaded to cards show incorrect timestamp](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+        + [Timesheets: Error when viewing summary panel](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+        + [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+        + [Projects: Error when using filters on a product list](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
         + [Custom forms: Error when pasting text into a rich text field](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
         + [Projects: Timeline recalculates very slowly when changing a date on a task](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
         + [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
