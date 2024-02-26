@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Changes made in text mode are not applied to reports or views](known-issues-workfront/wf-reports-text-mode-not-saving.md)
         + [Workload Balancer: Planned hours are not updated in Workload Balancer](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
         + [Boards: Documents uploaded to cards show incorrect timestamp](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
         + [Timesheets: Error when viewing summary panel](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
