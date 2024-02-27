@@ -16,6 +16,20 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in February 2024
 
++++**Maintenance Update on February 29, 2024**
+
+### Maintenance Update on February 29, 2024
+
+#### Updates
+
+**Updates: Screen goes blank when replying to a user from another company**
+
+When a user attempts to reply to a comment by a user in another company, the screen goes blank.
+
+This is because the user does not have permission to see users from other companies.
+
++++
+
 +++**Maintenance Update on February 22, 2024**
 
 ### Maintenance Update on February 22, 2024
