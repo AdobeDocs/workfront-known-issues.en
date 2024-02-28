@@ -34,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Boards: Documents uploaded to cards show incorrect timestamp](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | February 28, 2024 |
 | [Workload Balancer: Planned hours are not updated in Workload Balancer](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | February 23, 2024 |
 | [Timesheets: Error when viewing summary panel](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | February 23, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | February 23, 2024 |
