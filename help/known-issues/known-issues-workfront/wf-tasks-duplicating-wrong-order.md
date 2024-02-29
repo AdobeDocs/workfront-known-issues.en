@@ -14,3 +14,4 @@ When a user creates or duplicates a task on a task list, the task list then disp
 Refresh the page.
 
 _First reported on November 27, 2023._
+
