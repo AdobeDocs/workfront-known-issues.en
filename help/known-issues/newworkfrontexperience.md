@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
 | [Reports: Changes made in text mode are not applied to reports or views](known-issues-workfront/wf-reports-text-mode-not-saving.md) | February 26, 2024 |
-| [Projects: Error when using filters on a product list](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | February 22, 2024 |
 | [Boards: 400 error when adding a task to a board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | February 13, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
@@ -34,18 +33,14 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [Boards: Documents uploaded to cards show incorrect timestamp](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | February 28, 2024 |
 | [Workload Balancer: Planned hours are not updated in Workload Balancer](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | February 23, 2024 |
-| [Timesheets: Error when viewing summary panel](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | February 23, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | February 23, 2024 |
-| [Boards: Filtering for multiple users does not return all results](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | February 22, 2024 |
 | [Integrations: Documents not attached when creating a request from [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | February 22, 2024 |
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | February 22, 2024 |
 | [Users: Lower access levels not available when creating a user](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | February 22, 2024 |
 | [Projects: Timeline recalculates very slowly when changing a date on a task](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | February 21, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | February 16, 2024 |
 | [Boards: Cards not sorting](known-issues-workfront/wf-boards-not-sorting.md) | February 16, 2024 |
-| [Updates: Screen goes blank when replying to a user from another company](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | February 12, 2024 |
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | February 1, 2024 |
 | [Issues: Issue status not in dropdown](known-issues-workfront/wf-issues-status-not-available.md) | January 31, 2024 |
 | [Teams: Issues with setting team statuses for [!UICONTROL Done] button](known-issues-workfront/wf-teams-statuses-missing.md) | January 25, 2024 |
