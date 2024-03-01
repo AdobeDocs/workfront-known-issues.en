@@ -30,7 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Workfront Proof > Watch Proof module times out](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | February 6, 2024 |
+| [Proofs: Proofs created from linked documents do not have proof template applied](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | March 1, 2024 |
 | [Workfront Fusion: RuntimeError with 200 response from Workfront module](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | January 29, 2024 |
 
 {style="table-layout:auto"}
