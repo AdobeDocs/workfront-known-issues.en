@@ -31,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Updates: Requestor users do cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
 | [Reports: Changes made in text mode are not applied to reports or views](known-issues-workfront/wf-reports-text-mode-not-saving.md) | February 26, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | March 8, 2024 |
 | [Updates: Large spaces between lines](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | March 8, 2024 |
