@@ -1,0 +1,14 @@
+---
+title: "Updates: Large spaces between lines"
+description: "When a user types an update with multiple lines using the Return or Enter key, or pastes multiple lines into an update, the update appears as expected. However, if a user then views that update in a report, there are large spaces between the lines."
+hidefromtoc: yes
+feature: Updates and Notifications
+---
+
+# Updates: Large spaces between lines
+
+When a user types an update with multiple lines using the Return or Enter key, or pastes multiple lines into an update, the update appears as expected. However, if a user then views that update in a report, there are large spaces between the lines.
+
+This has been reported in the new commenting experience.
+
+_First reported on January 19, 2024._
