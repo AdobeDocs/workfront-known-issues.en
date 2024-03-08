@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Requestor users do cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md)
         + [Updates: Large spaces between lines](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
         + [Proofs: Proofs created from linked documents do not have proof template applied](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
         + [Reports: Changes made in text mode are not applied to reports or views](known-issues-workfront/wf-reports-text-mode-not-saving.md)
