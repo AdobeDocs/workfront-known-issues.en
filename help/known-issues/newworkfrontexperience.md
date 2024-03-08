@@ -20,8 +20,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
-| [Reports: Changes made in text mode are not applied to reports or views](known-issues-workfront/wf-reports-text-mode-not-saving.md) | February 26, 2024 |
-| [Boards: 400 error when adding a task to a board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | February 13, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 
@@ -33,8 +31,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Reports: Changes made in text mode are not applied to reports or views](known-issues-workfront/wf-reports-text-mode-not-saving.md) | February 26, 2024 |
+| [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | March 8, 2024 |
+| [Updates: Large spaces between lines](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | March 8, 2024 |
 | [Proofs: Proofs created from linked documents do not have proof template applied](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | March 1, 2024 |
-| [Workload Balancer: Planned hours are not updated in Workload Balancer](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | February 23, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | February 23, 2024 |
 | [Integrations: Documents not attached when creating a request from [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | February 22, 2024 |
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | February 22, 2024 |

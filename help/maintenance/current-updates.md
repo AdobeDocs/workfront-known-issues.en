@@ -14,6 +14,45 @@ The following maintenance updates have been made in 2024.
 
 For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in March 2024
+
++++**Maintenance Update on March 7, 2024**
+
+### Maintenance Update on March 7, 2024
+
+#### Boards
+
+**400 error when adding a task to a board**
+
+When a user is viewing a project and attempts to add a task to a board, the task is not added, and the user sees the following error:
+
+Error: "400: undefined /boards-service/graphql"
+
+#### Home
+
+**Error when inline editing a task in the My Task widget**
+
+When a user attempts to inline edit a task in the My Tasks widget, they see the following error: 
+
+"An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page."
+
+
+#### Workload Balancer
+
+**Planned hours are not updated in Workload Balancer**
+
+When the planned hours on a project are updated, they are not updated in the Workload Balancer. This may occur even though the change is accurately reflected in the project.
+
++++
+
++++**Workfront Fusion Maintenance Update on March 7, 2024
+
+**Workfront Proof > Watch Proof module times out**
+
+Scenarios that use the Workfront Proof > Watch Proof module may deactivate due to the Watch Proof module timing out.
+
++++
+
 ## Updates in February 2024
 
 +++**Maintenance Update on February 29, 2024**
