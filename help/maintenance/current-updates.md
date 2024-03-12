@@ -16,6 +16,32 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2024
 
++++**(Planned) Maintenance Update on March 14, 2024**
+
+### (Planned) Maintenance Update on March 14, 2024
+
+#### Integrations
+
+**Documents not attached when creating a request from [!DNL Outlook]**
+
+When a user creates a request from [!DNL Outlook], the documents attached to the email are not attached to the request.
+
+#### Proofs
+
+**Proofs created from linked documents do not have proof template applied**
+
+When a user creates a proof from a linked document, the proof template is not correctly applied, and the proof may be missing information such as the workflow.
+
+This also applies to proofs created through the API and through Workfront Fusion.
+
+#### Users
+
+**Lower access levels not available when creating a user**
+
+When a user is creating another user, only the first user's access level is available to the newly created user. All access levels with lower permissions than those of the creating user should be available to assign to the new user.
+
++++
+
 +++**Maintenance Update on March 7, 2024**
 
 ### Maintenance Update on March 7, 2024
