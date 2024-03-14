@@ -9,6 +9,10 @@ feature: Digital Content and Documents
 
 <!--On WF, WFF, WFP TOCs-->
 
+>[!NOTE]
+>
+>This issue was fixed on March 14, 2024.
+
 When a user creates a proof from a linked document, the proof template is not correctly applied, and the proof may be missing information such as the workflow.
 
 This also applies to proofs created through the API and through Workfront Fusion.
