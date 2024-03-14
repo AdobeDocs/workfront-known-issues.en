@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: Document comments do not appear in updates of parent object](known-issues-workfront/wf-updates-document-comments-not-visible.md) | March 14, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 
 {style="table-layout:auto"}
