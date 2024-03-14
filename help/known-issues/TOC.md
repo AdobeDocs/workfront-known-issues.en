@@ -11,6 +11,11 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Cannot generate a proof from a website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+        + [Search: Cannot edit from Search](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+        + [Updates: Tagging a user is ineffective](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+        + [Logging time: User cannot log time for current day](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+        + [Updates: Document comments do not appear in updates of parent object](known-issues-workfront/wf-updates-document-comments-not-visible.md)
         + [Updates: Requestor users do cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md)
         + [Updates: Large spaces between lines](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
         + [Proofs: Proofs created from linked documents do not have proof template applied](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)

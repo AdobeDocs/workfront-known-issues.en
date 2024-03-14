@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: Document comments do not appear in updates of parent object](known-issues-workfront/wf-updates-document-comments-not-visible.md) | March 14, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
@@ -31,6 +32,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Proofs: Cannot generate a proof from a website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | March 14, 2024 |
+| [Search: Cannot edit from Search](known-issues-workfront/wf-search-cannot-edit-from-search.md) | March 14, 2024 |
+| [Updates: Tagging a user in ineffective](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | March 14, 2024 |
+| [Logging time: User cannot log time for current day](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | March 14, 2024 |
 | [Boards: 400 error when adding a task to a board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | March 14, 2024 |
 | [Updates: Requestor users do cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
 | [Reports: Changes made in text mode are not applied to reports or views](known-issues-workfront/wf-reports-text-mode-not-saving.md) | February 26, 2024 |
