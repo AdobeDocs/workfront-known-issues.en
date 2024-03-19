@@ -16,6 +16,26 @@ For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2024
 
++++**(Planned) Maintenance Update on March 21, 2024**
+
+### (Planned) Maintenance Update on March 21, 2024
+
+#### Updates
+
+**Large spaces between lines**
+
+When a user types an update with multiple lines using the Return or Enter key, or pastes multiple lines into an update, the update appears as expected. However, if a user then views that update in a report, there are large spaces between the lines.
+
+This has been reported in the new commenting experience.
+
+**Tagging a user with @ is ineffective**
+
+When a user tags another user with @ in a comment, the user is not added to the tagged users area, and does not receive a notification about the comment. 
+
+This fix applies only to the new commenting experience.
+
++++
+
 +++**Maintenance Update on March 14, 2024**
 
 ### Maintenance Update on March 14, 2024
