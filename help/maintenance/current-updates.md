@@ -12,7 +12,7 @@ The following maintenance updates have been made in 2024.
 >
 >These updates also include other minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
 
-For maintenance updates prior to 2023, see [Previous Maintenance Updates](#previous-maintenance-updates)
+For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
 ## Updates in March 2024
 
