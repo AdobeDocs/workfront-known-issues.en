@@ -30,6 +30,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs remain on My Approvals widget](known-issues-workfront/wf-proofs-stuck-on-widget.md) | March 22, 2024 |
+| [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
+| [Proofs: Simple proof of new document version includes workflow from previous version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | March 22, 2024 |
 | [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
 | [Proofs: Breadcrumb missing when accessing proof from email link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | November 3, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |

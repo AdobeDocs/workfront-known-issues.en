@@ -11,6 +11,13 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+        + [Proofs: Proofs remain on My Approvals widget](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+        + [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+        + [Resource Management: Discrepancy in Budgeted Hours](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+        + [Proofs: Simple proof of new document version includes workflow from previous version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+        + [Tasks: Predecessor tooltip does not display task name](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+        + [Boards: 400 error when adding a task to a board from a Kanban board](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
         + [Proofs: Cannot generate a proof from a website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
         + [Search: Cannot edit from Search](known-issues-workfront/wf-search-cannot-edit-from-search.md)
         + [Updates: Tagging a user is ineffective](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
