@@ -1,10 +1,10 @@
 ---
-title: "Boards: 400 error when adding a task to a board"
-description: "When a user is viewing a project and attempts to add a task to a board, the task is not added, and the user sees the an error. A workaround is available."
+title: 'Boards: 400 error when adding a task to a board'
+description: When a user is viewing a project and attempts to add a task to a board, the task is not added, and the user sees the an error. A workaround is available.
 hidefromtoc: yes
 feature: Agile
+exl-id: 8bd8815c-d9e0-4258-8093-afb5283951e4
 ---
-
 # Boards: 400 error when adding a task to a board
 
 >[!NOTE]

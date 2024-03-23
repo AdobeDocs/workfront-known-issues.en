@@ -1,10 +1,10 @@
 ---
-title: "Boards: Filtering for multiple users does not return all results"
-description: "When a user filters for multiple users in Assignment filter in Boards does not return all expected results."
+title: 'Boards: Filtering for multiple users does not return all results'
+description: When a user filters for multiple users in Assignment filter in Boards does not return all expected results.
 hidefromtoc: yes
 feature: Agile
+exl-id: 02ea73fe-d295-4867-b79b-a30ce0d50fed
 ---
-
 # Boards: Filtering for multiple users does not return all results
 
 >[!NOTE]

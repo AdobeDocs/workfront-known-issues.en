@@ -1,10 +1,10 @@
 ---
-title: "Boards: Screen goes blank when viewing card details"
-description: "When a user clicks on a card in Boards, the card details display briefly before the screen goes blank."
+title: 'Boards: Screen goes blank when viewing card details'
+description: When a user clicks on a card in Boards, the card details display briefly before the screen goes blank.
 hidefromtoc: yes
 feature: Agile
+exl-id: f8320b39-e067-44dc-b0f9-ee99736207eb
 ---
-
 # Boards: Screen goes blank when viewing card details
 
 >[!NOTE]

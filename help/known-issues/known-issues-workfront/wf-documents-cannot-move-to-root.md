@@ -1,10 +1,10 @@
 ---
-title: "Documents: Cannot move document from folder to root"
-description: "When a user attempts to move a folder from a user-created folder into the project's Documents root folder, the document does not move, and the user sees an error."
+title: 'Documents: Cannot move document from folder to root'
+description: When a user attempts to move a folder from a user-created folder into the project's Documents root folder, the document does not move, and the user sees an error.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 69148c01-232c-4b55-90fb-cd0b89010e4a
 ---
-
 # Documents: Cannot move document from folder to root
 
 >[!NOTE]

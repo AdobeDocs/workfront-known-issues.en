@@ -1,10 +1,10 @@
 ---
-title: "Notifications: Marking notifications as seen does not persist"
-description: "When a user marks their notifications as seen and then navigates to a different page within Workfront, the notifications icon still shows the number of unread notifications that existed before the user marked them as seen, and the notifications still list when the user clicks the icon. This continues if the user marks them as seen and navigates to another page or back to the original page."
+title: 'Notifications: Marking notifications as seen does not persist'
+description: When a user marks their notifications as seen and then navigates to a different page within Workfront, the notifications icon still shows the number of unread notifications that existed before the user marked them as seen, and the notifications still list when the user clicks the icon. This continues if the user marks them as seen and navigates to another page or back to the original page.
 hidefromtoc: yes
 feature: Updates and Notifications
+exl-id: b72951ea-982a-423e-a167-03753553384b
 ---
-
 # Notifications: Marking notifications as seen does not persist 
 
 >[!NOTE]

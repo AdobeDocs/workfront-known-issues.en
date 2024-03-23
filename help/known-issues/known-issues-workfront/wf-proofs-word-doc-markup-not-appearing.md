@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Proofs created from Word documents do not include comments or markup"
-description: "When a user creates a proof from a Word document that includes markup or embedded comments, the proof does not include the comments or markup. This may occur even though previous versions of the proof do include the comments or markup."
+title: 'Proofs: Proofs created from Word documents do not include comments or markup'
+description: When a user creates a proof from a Word document that includes markup or embedded comments, the proof does not include the comments or markup. This may occur even though previous versions of the proof do include the comments or markup.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 4769da97-83b1-45d1-b1fd-8377815ccbec
 ---
-
 # Proofs: Proofs created from Word documents do not include comments or markup
 
 >[!NOTE]

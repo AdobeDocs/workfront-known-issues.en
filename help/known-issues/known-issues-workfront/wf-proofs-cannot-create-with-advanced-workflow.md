@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Cannot create a proof with Advanced Workflow from a SharePoint document"
-description: "When a user attempts to create a proof with an Advanced Workflow from a SharePoint document, the proof does not generate, and the user sees a Proof failed to generate message."
+title: 'Proofs: Cannot create a proof with Advanced Workflow from a SharePoint document'
+description: When a user attempts to create a proof with an Advanced Workflow from a SharePoint document, the proof does not generate, and the user sees a Proof failed to generate message.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 662dc871-5ca5-40d4-938c-ba2ad005c66a
 ---
-
 # Proofs: Cannot create a proof with [!UICONTROL Advanced Workflow] from a [!DNL SharePoint] document
 
 >[!NOTE]

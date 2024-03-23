@@ -1,10 +1,10 @@
 ---
-title: "Home: Workspace and pins do not load"
-description: "When a user logs in, their Home Workspace and pins do not load, and they see error messages."
+title: 'Home: Workspace and pins do not load'
+description: When a user logs in, their Home Workspace and pins do not load, and they see error messages.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: d6baafb5-7a5a-43ac-a366-013ab4816884
 ---
-
 # [!UICONTROL Home]: [!UICONTROL Workspace] and pins do not load
 
 >[!NOTE]

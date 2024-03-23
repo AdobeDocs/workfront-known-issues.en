@@ -1,10 +1,10 @@
 ---
-title: "Documents: Issues when viewing documents lists"
-description: "Issues have been reported regarding viewing documents lists. Find details in this article."
+title: 'Documents: Issues when viewing documents lists'
+description: Issues have been reported regarding viewing documents lists. Find details in this article.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 28dc113a-f71e-472c-8e12-eefb53862855
 ---
-
 # Documents: Issues when viewing documents lists
 
 >[!NOTE]
