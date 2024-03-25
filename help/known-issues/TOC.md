@@ -102,7 +102,7 @@ role: User
         + [Requests: Fields clear when a document is added to a request](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
         + [Updates: Extra lines in comment made through API or [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
         + [Updates: Comments attached to system updates are not displayed](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
-        + [Boards: Error in Comments section of a card ](known-issues-workfront/wf-boards-comment-section-error.md)
+        + [Boards: Error in Comments section of a card ](known-issues-workfront/wf-boards-comments-section-error.md)
         + [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] loads slowly](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
         + [Requests: Incorrect custom currency displayed on New request page](known-issues-workfront/wf-requests-custom-currency.md)
         + [Reports: Budgeted hours in utilization report do not match budgeted hours reported through API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
@@ -173,7 +173,7 @@ role: User
         + [[!UICONTROL Home]: Unable to view the document image in the [!UICONTROL Work List]](known-issues-workfront/wf-home-unable-to-view-document-image.md)
         + [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
         + [[!UICONTROL Home]: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
-        + [Calendar: Tasks not displaying](known-issues-workfront/inactive.wf-calendar-tasks-not-displaying.md)
+        + [Calendar: Tasks not displaying](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
 
 
