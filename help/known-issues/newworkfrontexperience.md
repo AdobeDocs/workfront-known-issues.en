@@ -67,9 +67,9 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |
 | [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | November 9, 2023 |
 | [Dashboard: Large blank margin when printing dashboard to PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md) | November 7, 2023 |
-| [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/wf-home-request-shows-one-team.md) | October 26, 2023 |
+| [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/inactive/wf-home-request-shows-one-team.md) | October 26, 2023 |
 | [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
-| [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
+| [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
 | [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
 | [Layout templates: Layout templates causing inconsistencies in reports](known-issues-workfront/wf-layout-templates-classic.md) | August 21, 2023 |
 | [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | August 10, 2023 |
@@ -96,7 +96,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Agile: Cannot edit fields from custom forms on cards](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | May 11, 2022 |
 | [Agile: Issues when moving cards on the [!UICONTROL Agile] board](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 | [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | April 20, 2022 |
-| [[!UICONTROL Home]: New Task option showing deactivated users in [!UICONTROL Assign To] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | October 1, 2021 |
+| [[!UICONTROL Home]: New Task option showing deactivated users in [!UICONTROL Assign To] field](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | October 1, 2021 |
 | [Updates: Team name not appearing in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | October 1, 2021 |
 | [Agile: Discrepancy in [!UICONTROL Completed Points] for an iteration](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | June 22, 2021 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | June 21, 2021 |
@@ -105,7 +105,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Calendars: [!DNL OR] filter statement excluding filter rule](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | April 23, 2021 |
 | [[!UICONTROL Workfront Proof]: [!UICONTROL Proof Approval] report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | April 21, 2021 |
 | [Reports: Cannot scroll report horizontally when viewing on dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | March 30, 2021 |
-| [[!UICONTROL Home]: Project Name shows as a GUID in the [!UICONTROL Work List]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | February 11, 2021 |
+| [[!UICONTROL Home]: Project Name shows as a GUID in the [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md) | February 11, 2021 |
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | January 25, 2021 |
 | [Reports: Calendar defaults to old dates](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | February 5, 2021 |
 | [Email Notifications: Emails are not formatting correctly in [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) | March 30, 2021 |
