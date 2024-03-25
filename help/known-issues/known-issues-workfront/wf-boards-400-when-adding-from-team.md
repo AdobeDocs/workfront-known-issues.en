@@ -1,10 +1,10 @@
 ---
-title: "Boards: 400 error when adding a task to a board from a team page"
-description: "When a user is viewing a project and attempts to add a task to a board, the task is not added, and the user sees the an error. A workaround is available."
+title: 'Boards: 400 error when adding a task to a board from a team page'
+description: When a user is viewing a project and attempts to add a task to a board, the task is not added, and the user sees the an error. A workaround is available.
 hidefromtoc: yes
 feature: Agile
+exl-id: 6630fc4a-241b-4699-a076-f04768099372
 ---
-
 # Boards: 400 error when adding a task to a board from a Kanban board
 
 When a user is viewing a team's Kanban board page and attempts to add a task to a board in Boards, the task is not added, and the user sees the following error:

@@ -1,10 +1,10 @@
 ---
-title: "Boards: You have no access when viewing comments on a card."
-description: "When a user attempts to view comments on a card that is not connected to a Workfront object, they see an error message."
+title: 'Boards: You have no access when viewing comments on a card.'
+description: When a user attempts to view comments on a card that is not connected to a Workfront object, they see an error message.
 hidefromtoc: yes
 feature: Agile
+exl-id: 8272e4ca-15eb-4491-b721-365116486bdd
 ---
-
 # Boards: "[!UICONTROL You have no access]" when viewing comments on a card
 
 >[!NOTE]

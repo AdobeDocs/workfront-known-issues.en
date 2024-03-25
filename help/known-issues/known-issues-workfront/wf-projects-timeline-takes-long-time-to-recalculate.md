@@ -1,10 +1,10 @@
 ---
-title: "Projects: Timeline recalculates very slowly when changing a date on a task"
-description: "When a user is viewing a project and changes a date on one of the project's tasks, all dates in the project are recalculated. This process may take several minutes, during which the dates on the project's tasks are greyed out and unresponsive."
+title: 'Projects: Timeline recalculates very slowly when changing a date on a task'
+description: When a user is viewing a project and changes a date on one of the project's tasks, all dates in the project are recalculated. This process may take several minutes, during which the dates on the project's tasks are greyed out and unresponsive.
 hidefromtoc: yes
 feature: Projects
+exl-id: a9b47793-e790-46ac-89a5-13fa27453c55
 ---
-
 # Projects: Timeline recalculates very slowly when changing a date on a task
 
 >[!NOTE]

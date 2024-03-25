@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Zipped proofs fail to generate"
-description: "When a user attempts to create a zipped proof, and two or more files in the proof have the same name, the proof fails to generate."
+title: 'Proofs: Zipped proofs fail to generate'
+description: When a user attempts to create a zipped proof, and two or more files in the proof have the same name, the proof fails to generate.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
 ---
-
 # Proofs: Zipped proofs fail to generate
 
 <!--WF and WFP TOCs-->

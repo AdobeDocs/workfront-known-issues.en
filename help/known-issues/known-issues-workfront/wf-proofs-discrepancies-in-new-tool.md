@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Issues processing static files"
-description: "Workfront recently changed its proof processing tool from a third-party provider to an internal solution, and has discovered some discrepancies in the capabilities of both systems. These discrepancies can cause issues with processing static files, especially PDF, Word, and PPT files. A workaround is available."
+title: 'Proofs: Issues processing static files'
+description: Workfront recently changed its proof processing tool from a third-party provider to an internal solution, and has discovered some discrepancies in the capabilities of both systems. These discrepancies can cause issues with processing static files, especially PDF, Word, and PPT files. A workaround is available.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
 ---
-
 # Proofs: Issues processing static files
 
 <!--WF and WFP TOCs-->

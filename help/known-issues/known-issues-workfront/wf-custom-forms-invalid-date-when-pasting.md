@@ -1,10 +1,10 @@
 ---
-title: "Custom forms: Error when pasting text into a rich text field"
-description: "When a user attempts to paste text from another application (such as Salesforce or Outlook) into a rich text field in Workfront, the text is not pasted in, and the user sees an error."
+title: 'Custom forms: Error when pasting text into a rich text field'
+description: When a user attempts to paste text from another application (such as Salesforce or Outlook) into a rich text field in Workfront, the text is not pasted in, and the user sees an error.
 hidefromtoc: yes
 feature: Custom Forms
+exl-id: d7847f8d-7bf0-4200-995b-c92dab2ad387
 ---
-
 # Custom forms: Error when pasting text into a rich text field
 
 >[!NOTE]

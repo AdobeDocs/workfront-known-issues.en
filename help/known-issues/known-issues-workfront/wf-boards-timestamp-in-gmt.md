@@ -1,10 +1,10 @@
 ---
-title: "Boards: Documents uploaded to cards show incorrect timestamp"
-description: ""
+title: 'Boards: Documents uploaded to cards show incorrect timestamp'
+description: ''
 hidefromtoc: yes
 feature: Agile
+exl-id: d476309c-eb6b-4dbd-bd8a-c9c9a0f5460c
 ---
-
 # Boards: Documents uploaded to cards show incorrect timestamp
 
 >[!NOTE]

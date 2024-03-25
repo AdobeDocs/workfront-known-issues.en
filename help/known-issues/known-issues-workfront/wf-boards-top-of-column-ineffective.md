@@ -1,10 +1,10 @@
 ---
-title: "Boards: Cannot move a card in a column by using Move options"
-description: "When a user attempts to move a card in a column by using the Top of column or Bottom of column options in the three-dot menu, the card does not move."
+title: 'Boards: Cannot move a card in a column by using Move options'
+description: When a user attempts to move a card in a column by using the Top of column or Bottom of column options in the three-dot menu, the card does not move.
 hidefromtoc: yes
 feature: Agile
+exl-id: ce33fac3-28b9-47ae-ae84-583616048071
 ---
-
 # Boards: Cannot move a card in a column by using [!UICONTROL Move] options
 
 >[!NOTE]
