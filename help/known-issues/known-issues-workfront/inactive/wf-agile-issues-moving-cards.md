@@ -7,6 +7,8 @@ hidefromtoc: yes
 ---
 # Agile: Issues when moving cards on the Agile board
 
+<!--Valid issue, won't fix-->
+
 The following issues have been reported when moving cards on the Agile board:
 
 * Dragging animation is delayed
