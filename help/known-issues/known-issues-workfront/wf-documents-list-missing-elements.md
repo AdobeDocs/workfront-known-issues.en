@@ -12,7 +12,7 @@ exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 The following issues have been reported regarding the Document List:
 
 * Thumbnails do not display.
-* If a user switches the selected folder while in List view, the Filter View, and Grouping options no longer function.
+* If a user switches the selected folder while in List view, the Filter, View, and Grouping options no longer function.
 
 **Workaround**
 
