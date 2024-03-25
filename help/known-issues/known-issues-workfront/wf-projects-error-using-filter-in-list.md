@@ -1,11 +1,11 @@
 ---
-title: "Projects: Error when using filters on a product list"
+title: "Projects: Error when using filters on a project list"
 description: "If a user is viewing a project list and applies a filter, the list disappears and the user sees an error message."
 hidefromtoc: yes
 feature: Projects
 ---
 
-# Projects: Error when using filters on a product list
+# Projects: Error when using filters on a project list
 
 >[!NOTE]
 >
