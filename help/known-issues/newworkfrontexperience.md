@@ -97,7 +97,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Agile: Issues when moving cards on the [!UICONTROL Agile] board](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | April 27, 2022 |
 | [Approvals: Approval delegation is set for the incorrect number of days](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | April 20, 2022 |
 | [[!UICONTROL Home]: New Task option showing deactivated users in [!UICONTROL Assign To] field](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | October 1, 2021 |
-| [Updates: Team name not appearing in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | October 1, 2021 |
+| [Updates: Team name not appearing in @mention](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | October 1, 2021 |
 | [Agile: Discrepancy in [!UICONTROL Completed Points] for an iteration](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | June 22, 2021 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | June 21, 2021 |
 | [Email Notifications: "[!UICONTROL I'm assigned to an issue]" setting is displaying](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | June 2, 2021 |
