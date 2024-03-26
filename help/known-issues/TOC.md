@@ -157,7 +157,6 @@ role: User
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
         + [[!UICONTROL Workfront Proof]: Cannot reorder assets when creating a proof](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
         + [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
-        + [[!UICONTROL Workfront Proof]: Delayed emails and notifications](known-issues-workfront-proof/proof-delayed-notification.md)
         + [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
         + [Workfront Proof: Dashboard data not always accurate](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
         + [Workfront Proof: Search data not always accurate](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
