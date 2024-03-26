@@ -51,7 +51,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | February 16, 2024 |
 | [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | February 1, 2024 |
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
-| [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
+| [Proofs: Issues processing static files](known-issues-workfront/inactive/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
@@ -64,22 +64,22 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Setup: Cannot use [!UICONTROL Kick-Starts] to set up groupings](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | November 30, 2023 |
-| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |
+| [Proofs: Error when sharing proof from email link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |
 | [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | November 9, 2023 |
 | [Dashboard: Large blank margin when printing dashboard to PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md) | November 7, 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/inactive/wf-home-request-shows-one-team.md) | October 26, 2023 |
 | [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
 | [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
 | [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
-| [Layout templates: Layout templates causing inconsistencies in reports](known-issues-workfront/wf-layout-templates-classic.md) | August 21, 2023 |
-| [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | August 10, 2023 |
-| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
+| [Layout templates: Layout templates causing inconsistencies in reports](known-issues-workfront/inactive/wf-layout-templates-classic.md) | August 21, 2023 |
+| [Proofs: Approval options do not appear in [!UICONTROL Proofing Viewer]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | August 10, 2023 |
+| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [[!UICONTROL Setup]: Cannot export audit logs](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | July 20, 2023 |
-| [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
+| [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
 | [Custom forms: "[!UICONTROL Whoops]" error when setting up a calculated field](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md) | May 5, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | April 21, 2023 |
 | [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | April 11, 2023 |
-| [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
+| [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
 | [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 23, 2023 |
 | [Documents: Issues with the Document List](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | March 23, 2023 |
 | [Documents: Permissions are not inherited when a document is moved to a new project](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | March 7, 2023 |
@@ -110,7 +110,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Reports: Calendar defaults to old dates](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | February 5, 2021 |
 | [Email Notifications: Emails are not formatting correctly in [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) | March 30, 2021 |
 | [[!UICONTROL Home]: Unable to view the document image in the [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md) | November 9, 2020 |
-| [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | November 9, 2020 |
+| [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | November 9, 2020 |
 | [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | November 9, 2020 |
 | [Calendar: Tasks not displaying](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | November 9, 2020 |
 

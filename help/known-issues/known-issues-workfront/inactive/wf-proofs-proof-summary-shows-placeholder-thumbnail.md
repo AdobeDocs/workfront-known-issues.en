@@ -9,6 +9,8 @@ feature: Digital Content and Documents
 
 <!--This is on both the WF and WFP TOCs-->
 
+<!--This article is live by request-->
+
 >[!NOTE]
 >
 >This issue has been closed because it is working as designed.
