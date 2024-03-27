@@ -19,8 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs created from linked documents do not have proof template applied](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | March 27, 2024 |
 | [Boards: User cannot see board when user's team is added to board](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | March 27, 2024 |
-| [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | March 22, 2024 |
 | [Boards: 400 error when adding a task to a board from a Kanban board](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | March 22, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
@@ -34,17 +34,15 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | March 28, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
-| [Proofs: Simple proof of new document version includes workflow from previous version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | March 22, 2024 |
 | [Proofs: Cannot generate a proof from a website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | March 14, 2024 |
 | [Search: Cannot edit from Search](known-issues-workfront/wf-search-cannot-edit-from-search.md) | March 14, 2024 |
 | [Logging time: User cannot log time for current day](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | March 14, 2024 |
 | [Updates: Requestor users do cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
-| [Reports: Changes made in text mode are not applied to reports or views](known-issues-workfront/wf-reports-text-mode-not-saving.md) | February 26, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | February 23, 2024 |
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | February 22, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | February 16, 2024 |
-| [Boards: Cards not moving to appropriate column when status is changed](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | February 1, 2024 |
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
 | [Proofs: Issues processing static files](known-issues-workfront/inactive/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
