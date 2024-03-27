@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Updates: Document comments do not appear in updates of parent object](known-issues-workfront/wf-updates-document-comments-not-visible.md) | March 14, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 
 {style="table-layout:auto"}
@@ -30,7 +29,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proofs remain on My Approvals widget](known-issues-workfront/wf-proofs-stuck-on-widget.md) | March 22, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
 | [Proofs: Simple proof of new document version includes workflow from previous version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | March 22, 2024 |
 | [Proofs: Issues processing static files](known-issues-workfront/inactive/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |

@@ -30,7 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: RuntimeError with 200 response from Workfront module](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | January 29, 2024 |
+| None |  |
 
 {style="table-layout:auto"}
 
