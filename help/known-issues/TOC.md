@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: User cannot see board when user's team is added to board](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
         + [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
         + [Proofs: Proofs remain on My Approvals widget](known-issues-workfront/wf-proofs-stuck-on-widget.md)
         + [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

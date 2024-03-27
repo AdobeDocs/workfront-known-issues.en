@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: User cannot see board when user's team is added to board](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | March 27, 2024 |
 | [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | March 22, 2024 |
 | [Tasks: Predecessor tooltip does not display task name](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | March 22, 2024 |
 | [Boards: 400 error when adding a task to a board from a Kanban board](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | March 22, 2024 |
