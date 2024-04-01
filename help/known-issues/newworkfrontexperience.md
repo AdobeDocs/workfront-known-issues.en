@@ -44,7 +44,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | February 22, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | February 16, 2024 |
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |
-| [Proofs: Issues processing static files](known-issues-workfront/inactive/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | November 6, 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
@@ -97,7 +96,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Email Notifications: User isn't directed to comment thread](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | April 23, 2021 |
 | [Calendars: [!DNL OR] filter statement excluding filter rule](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | April 23, 2021 |
 | [[!UICONTROL Workfront Proof]: [!UICONTROL Proof Approval] report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | April 21, 2021 |
-| [Reports: Cannot scroll report horizontally when viewing on dashboard](known-issues-workfront/inactive/wf-reports-cannot-scroll-horizontally.md) | March 30, 2021 |
 | [[!UICONTROL Home]: Project Name shows as a GUID in the [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md) | February 11, 2021 |
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | January 25, 2021 |
 | [Reports: Calendar defaults to old dates](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | February 5, 2021 |
