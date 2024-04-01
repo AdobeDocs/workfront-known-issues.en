@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Report filter does not return expected results](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
         + [Boards: User cannot see board when user's team is added to board](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
         + [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
         + [Proofs: Proofs remain on My Approvals widget](known-issues-workfront/wf-proofs-stuck-on-widget.md)
