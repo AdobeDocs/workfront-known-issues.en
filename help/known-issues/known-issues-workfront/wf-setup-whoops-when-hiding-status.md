@@ -1,10 +1,10 @@
 ---
-title: "Status: Whoops error when hiding status"
-description: "When a user attempts to hide a status, the status is not hidden, and the user sees the Whoops error."
+title: 'Status: Whoops error when hiding status'
+description: When a user attempts to hide a status, the status is not hidden, and the user sees the Whoops error.
 hidefromtoc: yes
 feature: System Setup and Administration
+exl-id: d7313da4-b7a9-481e-803f-cac9b07854ab
 ---
-
 # Status: [!UICONTROL Whoops] error when hiding status
 
 >[!NOTE]

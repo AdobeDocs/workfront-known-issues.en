@@ -1,10 +1,10 @@
 ---
-title: "[!UICONTROL Resource Management]: Cannot change date in [!UICONTROL Utilization] area"
-description: "When a user is viewing the [!UICONTROL Utilization] area of [!UICONTROL Resource Management] and attempts to change the date range, the dates do not change, and the user sees an error."
+title: '[!UICONTROL Resource Management]: Cannot change date in [!UICONTROL Utilization] area'
+description: When a user is viewing the [!UICONTROL Utilization] area of [!UICONTROL Resource Management] and attempts to change the date range, the dates do not change, and the user sees an error.
 hidefromtoc: yes
 feature: Resource Management
+exl-id: 921c3359-1dc8-4822-ad19-6b6dfd556712
 ---
-
 # [!UICONTROL Resource Management]: Cannot change date in [!UICONTROL Utilization] area
 
 >[!NOTE]

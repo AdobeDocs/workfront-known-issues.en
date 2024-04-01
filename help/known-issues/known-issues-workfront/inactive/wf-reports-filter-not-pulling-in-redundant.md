@@ -1,10 +1,10 @@
 ---
-title: "Reports: Report filter does not return expected results"
-description: "A filter in a report may not return all of the expected results. A workaround is available."
+title: 'Reports: Report filter does not return expected results'
+description: A filter in a report may not return all of the expected results. A workaround is available.
 hidefromtoc: yes
 feature: Reports and Dashboards
+exl-id: d9ca1eac-1478-4ee0-a713-24743c1487c5
 ---
-
 # Reports: Report filter does not return expected results
 
 >[!NOTE]
@@ -20,4 +20,3 @@ This can occur when the filter is configured to return results with certain crit
 Ensure that your filter's OR blocks do not include identical evaluation criteria.
 
 _First reported on March 11, 2024._
- 

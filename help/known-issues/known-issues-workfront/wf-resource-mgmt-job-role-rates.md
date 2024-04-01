@@ -1,10 +1,10 @@
 ---
-title: "Resource Management: Incorrect finance calculations due to Job Role issues"
-description: "Hours and finance calculations may be incorrect, showing a cost of 0 even though hours are logged in a job role that has a cost rate."
+title: 'Resource Management: Incorrect finance calculations due to Job Role issues'
+description: Hours and finance calculations may be incorrect, showing a cost of 0 even though hours are logged in a job role that has a cost rate.
 hidefromtoc: yes
 feature: Resource Management
+exl-id: b7be3fa8-e26a-4a84-b004-c1f70dabf06a
 ---
-
 # Resource Management: Incorrect finance calculations due to Job Role issues
 
 >[!NOTE]

@@ -1,11 +1,10 @@
 ---
-title: "Reports: Changes made in text mode are not applied to reports or views"
-description: "When a user makes a change to a report or view in text mode, those changes are not save and applies to the report or view."
+title: 'Reports: Changes made in text mode are not applied to reports or views'
+description: When a user makes a change to a report or view in text mode, those changes are not save and applies to the report or view.
 hidefromtoc: yes
 feature: Reports and Dashboards
-
+exl-id: fcd0ba82-4c0f-4090-8450-123e0abb3be4
 ---
-
 # Reports: Changes made in text mode are not applied to reports or views
 
 >[!NOTE]
