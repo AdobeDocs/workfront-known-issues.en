@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Updates: Document comments do not appear in updates of parent object](known-issues-workfront/wf-updates-document-comments-not-visible.md) | March 14, 2024 |
+| [Proofs: Proofs created from linked documents do not have proof template applied](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | March 27, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
 
 {style="table-layout:auto"}
@@ -30,13 +30,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proofs remain on My Approvals widget](known-issues-workfront/wf-proofs-stuck-on-widget.md) | March 22, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
-| [Proofs: Simple proof of new document version includes workflow from previous version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | March 22, 2024 |
-| [Proofs: Issues processing static files](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | December 15, 2023 |
 | [Proofs: Breadcrumb missing when accessing proof from email link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | November 3, 2023 |
-| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | October 26, 2023 |
-| [Proofs: Cannot generate proof](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | October 19, 2023 |
 
 {style="table-layout:auto"}
 
@@ -46,16 +41,16 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Error when sharing proof from email link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |
+| [Proofs: Error when sharing proof from email link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |
 | [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
 | [Workfront Proof: Dashboard data not always accurate](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | September 19, 2023 |
 | [Workfront Proof: Search data not always accurate](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | September 19, 2023 |
-| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
+| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | June 9, 2023 |
-| [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
+| [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | May 25, 2023 |
 | [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | April 21, 2023, 2023 |
-| [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
+| [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
 | [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 23, 2023 |
 | [Documents: Issues with the Document List](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | March 23, 2023 |
 | [[!DNL Workfront Proof]: Lists are not sorted correctly](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | March 23, 2023 |

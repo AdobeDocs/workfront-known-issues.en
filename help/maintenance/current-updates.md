@@ -16,6 +16,71 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in March 2024
 
++++**Maintenance Update on March 28, 2024**
+
+### Maintenance Update on March 28, 2024
+
+#### Integrations
+
+**Documents not attached when creating a request from [!DNL Outlook]**
+
+When a user creates a request from [!DNL Outlook], the documents attached to the email are not attached to the request.
+
+This has been reported for the following attachment types:
+
+XLS
+PDF
+
+#### Proofs
+
+**Proofs remain on My Approvals widget**
+
+A proof that should disappear from the My Approvals widget remains on the widget. This may occur when multiple users make decisions on a proof at the same time, or one user makes a decision and quickly changes it.
+
+#### Resource Management
+
+**Discrepancy in Budgeted Hours**
+
+Budgeted hours displayed in one of the following areas may not match those displayed in another of these areas:
+
+* Business Case
+* Reports
+* Resource Budgeting tool
+
+#### Tasks
+
+**Predecessor tooltip does not display task name**
+
+When a user is viewing a task list and hovers over a predecessor icon to get more information, the tooltip that appears does not display the name of the predecessor task.
+
+#### Updates
+
+**Document comments do not appear in updates of parent object**
+
+When a user makes a comment on a document, that comment does not immediately appear in the Updates area of the document's parent object.
+
+This issue has been reported in the new Commenting experience. Comments appear in the legacy commenting experience as expected.
+
+**Tagging a user is ineffective**
+
+When a user is tagged in a comment, that comment is not visible to the tagged user, Also, the tagged user is not notified about the comment, either by email or through an in-app notification.
+
+This has been reported in the legacy commenting experience.
+
++++
+
++++**Workfront Fusion Maintenance Update on March 28, 2024**
+
+### Workfront Fusion Maintenance Update on March 28, 2024
+
+**RuntimeError with 200 response from Workfront module**
+
+A Workfront module can return a `RuntimeError [200]` response. The 200 implies a successful response, but the error shows that the request was unsuccessful.
+
+This may occur if the response is extremely long. The data is returned to Fusion, but cannot be processed by Fusion.
+
++++
+
 +++**Maintenance Update on March 21, 2024**
 
 ### Maintenance Update on March 21, 2024

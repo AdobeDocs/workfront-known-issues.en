@@ -7,6 +7,10 @@ feature: Updates and Notifications
 
 # Updates: Document comments do not appear in updates of parent object
 
+>[!NOTE]
+>
+>This issue was fixed on March 28, 2024.
+
 <!--WF, WFP-->
 
 When a user makes a comment on a document, that comment does not immediately appear in the Updates area of the document's parent object.
