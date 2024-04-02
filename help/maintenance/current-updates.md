@@ -14,6 +14,32 @@ The following maintenance updates have been made in 2024.
 
 For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in April 2024
+
++++**(Planned) Maintenance Update on April 4, 2024**
+
+### (Planned) Maintenance Update on April 4, 2024
+
+#### Logging time
+
+**User cannot log time for current day**
+
+When a user attempts to log time in the Updates area, the current day is greyed out, and the user cannot log time for the current day.
+
+#### Updates
+
+<!--no article-->
+
+**Error when viewing comments**
+
+When a user attempts to view comments in the new commenting experience, they cannot see the comments, and instead see the following error:
+
+"Something went wrong. Please try again later."
+
+The legacy commenting experience works as expected.
+
++++
+
 ## Updates in March 2024
 
 +++**Maintenance Update on March 28, 2024**
