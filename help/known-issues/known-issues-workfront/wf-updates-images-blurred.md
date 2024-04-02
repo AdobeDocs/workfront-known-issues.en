@@ -12,3 +12,4 @@ When a user is viewing updates and clicks the magnifying glass on an image to pr
 If the user downloads the image, the image appears at the expected resolution.
 
 _First reported on March 27, 2024._
+
