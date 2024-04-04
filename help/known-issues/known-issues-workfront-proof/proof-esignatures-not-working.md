@@ -12,3 +12,4 @@ feature: Digital Content and Documents
 When a user is viewing a proof in Workfront Proof and attempts to make a decision using an e-signature, the e-signature is ineffective, and the user cannot sign the decision.
 
 _First reported on March 26, 2024._
+

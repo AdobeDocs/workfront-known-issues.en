@@ -10,3 +10,4 @@ feature: Reports and Dashboards
 When a user is viewing a calendar and refreshes the page a "Whoops" error displays. The data on the calendar displays as expected, but may be obscured by the error message.
 
 _First reported on March 13, 2024._
+

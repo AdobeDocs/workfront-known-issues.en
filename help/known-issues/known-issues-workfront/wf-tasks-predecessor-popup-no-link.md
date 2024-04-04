@@ -10,3 +10,4 @@ feature: Tasks
 When a user hovers over a predecessor to see more information about it, that information does not include a link to the predecessor task.
 
 _First reported on March 22, 2024._
+
