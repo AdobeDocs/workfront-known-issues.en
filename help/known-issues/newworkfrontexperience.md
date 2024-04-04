@@ -19,9 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proofs created from linked documents do not have proof template applied](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | March 27, 2024 |
-| [Boards: User cannot see board when user's team is added to board](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | March 27, 2024 |
-| [Boards: 400 error when adding a task to a board from a Kanban board](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | March 22, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
@@ -37,7 +34,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Updates: Preview of image in updates is blurry](known-issues-workfront/wf-updates-images-blurred.md) | April 2, 2024 |
 | [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | March 28, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
-| [Proofs: Cannot generate a proof from a website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | March 14, 2024 |
 | [Search: Cannot edit from Search](known-issues-workfront/wf-search-cannot-edit-from-search.md) | March 14, 2024 |
 | [Updates: Requestor users do cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | February 23, 2024 |
