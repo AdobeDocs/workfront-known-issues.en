@@ -39,7 +39,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
 | [Proofs: Cannot generate a proof from a website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | March 14, 2024 |
 | [Search: Cannot edit from Search](known-issues-workfront/wf-search-cannot-edit-from-search.md) | March 14, 2024 |
-| [Logging time: User cannot log time for current day](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | March 14, 2024 |
 | [Updates: Requestor users do cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | February 23, 2024 |
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | February 22, 2024 |

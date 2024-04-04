@@ -16,9 +16,20 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2024
 
-+++**(Planned) Maintenance Update on April 4, 2024**
++++**Maintenance Update on April 4, 2024**
 
-### (Planned) Maintenance Update on April 4, 2024
+### Maintenance Update on April 4, 2024
+
+#### Integrations
+
+**Documents not attached when creating a request from [!DNL Outlook]**
+
+When a user creates a request from [!DNL Outlook], the documents attached to the email are not attached to the request.
+
+This has been reported for the following attachment types:
+
+XLS
+PDF
 
 #### Logging time
 
