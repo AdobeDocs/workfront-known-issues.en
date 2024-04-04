@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proofs created from linked documents do not have proof template applied](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | March 27, 2024 |
+| None | |
 
 {style="table-layout:auto"}
 
@@ -30,7 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Workfront Fusion: RuntimeError with 200 response from Workfront module](known-issues-workfront-fusion/fusion-200-runtime-error.md) | March 27, 2024 |
 
 {style="table-layout:auto"}
 

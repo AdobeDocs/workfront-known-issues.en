@@ -7,6 +7,10 @@ exl-id: a7c91886-4acd-443f-b6e0-7f0627a08281
 ---
 # Boards: User cannot see board when user's team is added to board
 
+>[!NOTE]
+>
+>This issue was fixed on April 2, 2024.
+
 When a user's team is added to a board, the user may not be able to view or use the board. This may occur even though other members of the team can view or use the board.
 
 **Workaround**
