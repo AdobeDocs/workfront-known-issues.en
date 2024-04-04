@@ -1,6 +1,6 @@
 ---
 title: "Calendars: Error when refreshing calendar"
-description: "When a user is viewing a calendar and refreshes the page a "Whoops" error displays. The data on the calendar displays as expected, but may be obscured by the error message."
+description: "When a user is viewing a calendar and refreshes the page a Whoops error displays. The data on the calendar displays as expected, but may be obscured by the error message."
 hidefromtoc: yes
 feature: Reports and Dashboards
 ---
