@@ -12,3 +12,4 @@ When a user who has a Requestor license is assigned to a layout template that ha
 This has been reported for Requestor licenses.
 
 _First reported on March 22, 2024._
+

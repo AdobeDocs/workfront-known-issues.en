@@ -12,3 +12,4 @@ When a user is writing a comment that includes an @mention, then navigates away 
 This has been reported in the new commenting experience.
 
 _First reported on March 21, 2024._
+
