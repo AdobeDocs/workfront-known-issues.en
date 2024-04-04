@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: "[!UICONTROL We're unable to post your comment]" message when replying](known-issues-workfront/wf-updates-were-unable-to-post.md)
         + [Updates: Comments do not display "[!UICONTROL on behalf of]"](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
         + [Calendars: Error when refreshing calendar](known-issues-workfront/wf-calendar-error-when-refresh.md)
         + [Updates: Text is not preserved when navigating away and back to comment](known-issues-workfront/wf-updates-text-missing-after-mention.md)
