@@ -11,6 +11,14 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Comments do not display "[!UICONTROL on behalf of]"](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+        + [Calendars: Error when refreshing calendar](known-issues-workfront/wf-calendar-error-when-refresh.md)
+        + [Updates: Text is not preserved when navigating away and back to comment](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+        + [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+        + [Tasks: Predecessor information does not include link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+        + [Workfront Proof: E-Signatures are not working](known-issues-workfront-proof/proof-esignatures-not-working.md)
+        + [Layout template: Landing page is incorrect](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+        + [Logging time: Cannot edit hours on tasks or issues](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
         + [Custom forms: External lookup fields do not return results](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
         + [Updates: Preview of image in updates is blurry](known-issues-workfront/wf-updates-images-blurred.md)
         + [Reports: Report filter does not return expected results](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
