@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Layout template: Landing page is incorrect](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | April 4, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
@@ -31,6 +32,15 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Updates: Comments do not display "[!UICONTROL on behalf of]"](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | April 4, 2024 |
+| [Calendars: Error when refreshing calendar](known-issues-workfront/wf-calendar-error-when-refresh.md) | April 4, 2024 |
+| [Updates: Text is not preserved when navigating away and back to comment](known-issues-workfront/wf-updates-text-missing-after-mention.md) | April 4, 2024 |
+| [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
+| [Tasks: Predecessor information does not include link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | April 4, 2024 |
+| [Workfront Proof: E-Signatures are not working](known-issues-workfront-proof/proof-esignatures-not-working.md) | April 4, 2024 |
+| [Updates: "[!UICONTROL We're unable to post your comment]" message when replying](known-issues-workfront/wf-updates-were-unable-to-post.md) | April 4, 2024 |
+| [Logging time: Cannot edit hours on tasks or issues](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | April 4, 2024 |
+| [Custom forms: External lookup fields do not return results](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | April 4, 2024 |
 | [Updates: Preview of image in updates is blurry](known-issues-workfront/wf-updates-images-blurred.md) | April 2, 2024 |
 | [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | March 28, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
