@@ -18,3 +18,4 @@ This occurs when the report references a project-level custom currency field.
 Remove the column that references the custom currency field and export the report again.
 
 _First reported on April 4, 2024._
+
