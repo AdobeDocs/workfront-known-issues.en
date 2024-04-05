@@ -20,3 +20,4 @@ Perform the following procedure:
 3. Use the Move Document feature to move the proof to the new project.
 
 _First reported on March 28, 2024._
+
