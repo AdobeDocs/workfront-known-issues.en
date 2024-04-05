@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
         + [Reports: 500 error when exporting a report](known-issues-workfront/wf-reports-500-error-exporting.md)
         + [Updates: "[!UICONTROL We're unable to post your comment]" message when replying](known-issues-workfront/wf-updates-were-unable-to-post.md)
         + [Updates: Comments do not display "[!UICONTROL on behalf of]"](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
