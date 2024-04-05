@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Reports: 500 error when exporting a report](known-issues-workfront/wf-reports-500-error-exporting.md) | April 5, 2024 |
 | [Updates: Comments do not display "[!UICONTROL on behalf of]"](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | April 4, 2024 |
 | [Calendars: Error when refreshing calendar](known-issues-workfront/wf-calendar-error-when-refresh.md) | April 4, 2024 |
 | [Updates: Text is not preserved when navigating away and back to comment](known-issues-workfront/wf-updates-text-missing-after-mention.md) | April 4, 2024 |
