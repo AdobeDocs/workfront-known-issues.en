@@ -11,7 +11,7 @@ When a user attempts to convert a task or issue that includes a web generated pr
 
 "[!UICONTROL There was a problem copying the file] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Please remove the file or contact support and try again.]"
 
-**Workaround**
+**Workaround**s
 
 Perform the following procedure:
 
@@ -21,3 +21,4 @@ Perform the following procedure:
 
 _First reported on March 28, 2024._
 
+    
