@@ -33,13 +33,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
 | [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | April 5, 2024 |
-| [Reports: 500 error when exporting a report](known-issues-workfront/wf-reports-500-error-exporting.md) | April 5, 2024 |
 | [Updates: Comments do not display "[!UICONTROL on behalf of]"](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | April 4, 2024 |
 | [Calendars: Error when refreshing calendar](known-issues-workfront/wf-calendar-error-when-refresh.md) | April 4, 2024 |
 | [Updates: Text is not preserved when navigating away and back to comment](known-issues-workfront/wf-updates-text-missing-after-mention.md) | April 4, 2024 |
 | [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
 | [Tasks: Predecessor information does not include link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | April 4, 2024 |
-| [Workfront Proof: E-Signatures are not working](known-issues-workfront-proof/proof-esignatures-not-working.md) | April 4, 2024 |
 | [Updates: "[!UICONTROL We're unable to post your comment]" message when replying](known-issues-workfront/wf-updates-were-unable-to-post.md) | April 4, 2024 |
 | [Logging time: Cannot edit hours on tasks or issues](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | April 4, 2024 |
 | [Custom forms: External lookup fields do not return results](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | April 4, 2024 |
