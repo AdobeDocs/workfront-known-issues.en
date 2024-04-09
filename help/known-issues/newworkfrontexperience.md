@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Requests: Calculated field does not update when filling out request](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | April 9, 2024 |
 | [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | April 5, 2024 |
 | [Updates: Comments do not display "[!UICONTROL on behalf of]"](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | April 4, 2024 |
 | [Calendars: Error when refreshing calendar](known-issues-workfront/wf-calendar-error-when-refresh.md) | April 4, 2024 |
