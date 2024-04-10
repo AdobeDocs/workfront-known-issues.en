@@ -7,6 +7,10 @@ exl-id: 4106a592-61ee-4dcd-9bf9-c42e65f83d37
 ---
 # Layout template: Landing page is incorrect
 
+>[!NOTE]
+>
+>This issue has been closed because it is not an issue.
+
 When a user who has a Requestor license is assigned to a layout template that has the Requests page set as the landing page, that user is instead directed to the Home page as their landing page.
 
 This has been reported for Requestor licenses.

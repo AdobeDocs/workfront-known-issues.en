@@ -10,3 +10,4 @@ exl-id: 9facbd7e-b072-4586-beca-9806712a288a
 When a user is filling out a custom form related to a request, and the form includes a calculated field, the field does not update. The user cannot see the calculated value until after the form is submitted.
 
 _First reported on March 18, 2024._
+ 
