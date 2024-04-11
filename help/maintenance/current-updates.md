@@ -16,6 +16,32 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2024
 
++++**Maintenance Update on April 11, 2024**
+
+### Maintenance Update on April 11, 2024
+
+#### Search
+
+**Cannot edit from Search**
+
+When a user is using Advanced Search and attempts to edit or bulk edit the search results, the Edit icon is unresponsive.
+
+#### Updates
+
+**Preview of image in updates is blurry**
+
+When a user is viewing updates and clicks the magnifying glass on an image to preview the image, the preview that opens is extremely pixelated blurry.
+
+If the user downloads the image, the image appears at the expected resolution.
+
+**"[!UICONTROL We're unable to post your comment]" message when replying**
+
+When a user attempts to reply to a message in the new commenting experience, the reply is not saved and the user sees the following message:
+
+"[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]"
+
++++
+
 +++**Maintenance Update on April 4, 2024**
 
 ### Maintenance Update on April 4, 2024

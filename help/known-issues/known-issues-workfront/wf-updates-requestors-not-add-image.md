@@ -5,7 +5,7 @@ hidefromtoc: yes
 feature: Updates and Notifications
 ---
 
-# Updates: Requestor users do cannot add images to updates
+# Updates: Requestor users cannot add images to updates
 
 When a user who has a Requestor license is viewing the updates area and attempts to add an image, the icon to add an image is missing, and the option to add an image is not available to the user.
 
