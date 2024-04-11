@@ -2,7 +2,7 @@
 title: "Teams: Cannot view team owner or delete team"
 description: "These actions are unavailable to Group Administrators."
 hidefromtoc: yes
-feature: 
+feature: People Teams and Groups
 ---
 
 # Teams: Cannot view team owner or delete team
