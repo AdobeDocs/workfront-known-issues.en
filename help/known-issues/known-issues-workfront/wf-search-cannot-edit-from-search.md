@@ -7,6 +7,10 @@ exl-id: af302be1-91d1-4f42-8d7d-0d9f85d29131
 ---
 # Search: Cannot edit from Search
 
+>[!NOTE]
+>
+>This issue was fixed on April 11, 2024.
+
 When a user is using Advanced Search and attempts to edit or bulk edit the search results, the Edit icon is unresponsive.
 
 _First reported on February 26, 2024._

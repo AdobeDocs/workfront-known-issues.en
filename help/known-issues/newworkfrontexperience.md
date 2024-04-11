@@ -38,14 +38,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Updates: Text is not preserved when navigating away and back to comment](known-issues-workfront/wf-updates-text-missing-after-mention.md) | April 4, 2024 |
 | [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
 | [Tasks: Predecessor information does not include link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | April 4, 2024 |
-| [Updates: "[!UICONTROL We're unable to post your comment]" message when replying](known-issues-workfront/wf-updates-were-unable-to-post.md) | April 4, 2024 |
 | [Logging time: Cannot edit hours on tasks or issues](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | April 4, 2024 |
 | [Custom forms: External lookup fields do not return results](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | April 4, 2024 |
-| [Updates: Preview of image in updates is blurry](known-issues-workfront/wf-updates-images-blurred.md) | April 2, 2024 |
 | [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | March 28, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
-| [Search: Cannot edit from Search](known-issues-workfront/wf-search-cannot-edit-from-search.md) | March 14, 2024 |
-| [Updates: Requestor users do cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
+| [Updates: Requestor users cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | February 23, 2024 |
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | February 22, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | February 16, 2024 |
