@@ -16,3 +16,4 @@ When a user is creating a new request, and there are drafts related to that requ
 Open the draft from the Drafts area in the left navigation.
 
 _First reported on April 2, 2024._
+
