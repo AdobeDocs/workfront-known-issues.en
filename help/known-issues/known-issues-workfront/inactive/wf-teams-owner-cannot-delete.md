@@ -19,3 +19,4 @@ The following actions are unavailable to Group Administrators
 This occurs even though the group administrator has all permissions related to teams and users.
 
 _First reported on March 15, 2024._
+
