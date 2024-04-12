@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
+| None | |
 
 {style="table-layout:auto"}
 
@@ -29,6 +29,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | April 12, 2024 |
+| [Workfront Proof: E-Signatures are not working](known-issues-workfront-proof/proof-esignatures-not-working.md) | April 12, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
 | [Proofs: Breadcrumb missing when accessing proof from email link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | November 3, 2023 |
 
