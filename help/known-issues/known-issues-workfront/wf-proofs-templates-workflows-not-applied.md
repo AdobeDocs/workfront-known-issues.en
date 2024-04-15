@@ -2,7 +2,7 @@
 title: "Proofs: Proofs created from integrations assets do not have templates and workflows correctly applied"
 description: ""
 hidefromtoc: yes
-feature: 
+feature: Digital Content and Documents
 ---
 
 # Proofs: Proofs created from integrations assets do not have templates and workflows correctly applied
