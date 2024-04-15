@@ -31,9 +31,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Updates: Numbered lists are not numbered correctly](known-issues-workfront/wf-updates-not-numbering-correctly.md) | April 15, 2024 |
+| [Proofs: Proofs created from integrations assets do not have templates and workflows correctly applied](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | April 15, 2024 |
 | [Requests: Error when opening draft](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | April 12, 2024 |
 | [Lists: List does not display all items](known-issues-workfront/wf-lists-does-not-display-all.md) | April 12, 2024 |
-[Workfront Proof: E-Signatures are not working](known-issues-workfront-proof/proof-esignatures-not-working.md) | April 12, 2024 |
+| [Workfront Proof: E-Signatures are not working](known-issues-workfront-proof/proof-esignatures-not-working.md) | April 12, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
 | [Requests: Calculated field does not update when filling out request](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | April 9, 2024 |
 | [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | April 5, 2024 |

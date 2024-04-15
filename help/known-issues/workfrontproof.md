@@ -29,6 +29,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proofs created from integrations assets do not have templates and workflows correctly applied](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | April 15, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | April 12, 2024 |
 | [Workfront Proof: E-Signatures are not working](known-issues-workfront-proof/proof-esignatures-not-working.md) | April 12, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
