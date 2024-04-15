@@ -16,4 +16,3 @@ The following elements have been reported as incorrect in created proofs:
 * Email notifications (not sent)
 
 _First reported on February 28, 2024._
-

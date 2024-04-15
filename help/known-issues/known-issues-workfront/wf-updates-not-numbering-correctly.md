@@ -12,4 +12,3 @@ When a user submits a comment that includes a numbered list, that list shows inc
 This has been reported in the new commenting experience.
 
 _First reported on March 14, 2024._
-
