@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Comments made through API are not visible in Sandbox environment](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
         + [Updates: Numbered lists are not numbered correctly](known-issues-workfront/wf-updates-not-numbering-correctly.md)
         + [Proofs: Proofs created from integrations assets do not have templates and workflows correctly applied](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
         + [Requests: Error when opening draft](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
