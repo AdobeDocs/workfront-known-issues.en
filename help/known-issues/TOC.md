@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Numbered lists are not numbered correctly](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+        + [Proofs: Proofs created from integrations assets do not have templates and workflows correctly applied](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
         + [Requests: Error when opening draft](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
         + [Lists: List does not display all items](known-issues-workfront/wf-lists-does-not-display-all.md)
         + [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
