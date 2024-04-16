@@ -16,6 +16,40 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2024
 
++++**Maintenance Update on April 18, 2024**
+
+### Maintenance Update on April 18, 2024
+
+#### Agile
+
+**Kanban cards do not display custom fields**
+
+When a user is viewing a Kanban board that has been configured to include custom fields, those custom fields may not display.
+
+#### Calendars
+
+**Error when refreshing calendar**
+
+When a user is viewing a calendar and refreshes the page a "Whoops" error displays. The data on the calendar displays as expected, but may be obscured by the error message.
+
+#### Custom forms
+
+**External lookup fields do not return results**
+
+When an external lookup field references a multi-select field that has only one value selected, the field does not return the value. 
+
+For example, if an external lookup field references a multi-select field that has both "red" and "blue" values selected, the field functions as expected. If the field has only "red" selected, the external lookup field returns no value.
+
+#### Projects
+
+**Cannot convert issue to project if web proof is attached**
+
+When an issue has a web proof attached (a URL proof using a link from an external document provider such as SharePoint), and a user attempts to convert that issue to a project, the conversion fails and the project is not created. The user sees the following error:
+
+"There was a problem copying the file (File GUID). Please remove the file or contact support and try again."
+
++++
+
 +++**Maintenance Update on April 11, 2024**
 
 ### Maintenance Update on April 11, 2024
