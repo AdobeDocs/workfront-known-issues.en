@@ -32,23 +32,22 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Requests: Cannot share request queue path](known-issues-workfront/wf-requests-cannot-share-path.md) | April 18, 2024 |
+| [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md) | April 18, 2024 |
+| [Updates: "[!UICONTROL We're unable to post your comment]" message when replying](known-issues-workfront/wf-updates-were-unable-to-post.md) | April 18, 2024 |
+| [Updates: Preview of image in updates is blurry](known-issues-workfront/wf-updates-images-blurred.md) | April 18, 2024 |
+| [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | April 18, 2024 |
 | [Updates: Numbered lists are not numbered correctly](known-issues-workfront/wf-updates-not-numbering-correctly.md) | April 15, 2024 |
-| [Proofs: Proofs created from integrations assets do not have templates and workflows correctly applied](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | April 15, 2024 |
 | [Requests: Error when opening draft](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | April 12, 2024 |
 | [Lists: List does not display all items](known-issues-workfront/wf-lists-does-not-display-all.md) | April 12, 2024 |
-| [Workfront Proof: E-Signatures are not working](known-issues-workfront-proof/proof-esignatures-not-working.md) | April 12, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
 | [Requests: Calculated field does not update when filling out request](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | April 9, 2024 |
 | [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | April 5, 2024 |
 | [Updates: Comments do not display "[!UICONTROL on behalf of]"](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | April 4, 2024 |
-| [Calendars: Error when refreshing calendar](known-issues-workfront/wf-calendar-error-when-refresh.md) | April 4, 2024 |
 | [Updates: Text is not preserved when navigating away and back to comment](known-issues-workfront/wf-updates-text-missing-after-mention.md) | April 4, 2024 |
 | [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
 | [Tasks: Predecessor information does not include link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | April 4, 2024 |
 | [Logging time: Cannot edit hours on tasks or issues](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | April 4, 2024 |
-| [Custom forms: External lookup fields do not return results](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | April 4, 2024 |
-| [Agile: Kanban cards do not display custom fields](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | March 28, 2024 |
-| [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | March 22, 2024 |
 | [Updates: Requestor users cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | February 22, 2024 |
 | [New [!UICONTROL Home]: Widget filter and grouping defaults do not follow layout template](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | January 4, 2024 |

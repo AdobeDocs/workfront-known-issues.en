@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Requests: Cannot share request queue path](known-issues-workfront/wf-requests-cannot-share-path.md)
+        + [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md)
         + [Updates: Comments made through API are not visible in Sandbox environment](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
         + [Updates: Numbered lists are not numbered correctly](known-issues-workfront/wf-updates-not-numbering-correctly.md)
         + [Proofs: Proofs created from integrations assets do not have templates and workflows correctly applied](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)

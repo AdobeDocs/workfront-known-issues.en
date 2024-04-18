@@ -7,13 +7,9 @@ exl-id: ff93f7b2-7d40-44ba-b8f6-f02cda5acde9
 ---
 # Workfront Proof: E-Signatures are not working
 
-
-<!-- 
 >[!NOTE]
 >
->This issue was fixed on April 5, 2024.
-
--->
+>This issue was fixed on April 18, 2024.
 
 <!--wf. wfp-->
 
