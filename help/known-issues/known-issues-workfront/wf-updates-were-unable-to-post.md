@@ -7,9 +7,13 @@ feature: Updates and Notifications
 
 # Updates: "[!UICONTROL We're unable to post your comment]" message when replying
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on April 11, 2024.
+
+-->
 
 When a user attempts to reply to a message in the new commenting experience, the reply is not saved and the user sees the following message:
 
