@@ -10,3 +10,4 @@ feature: People Teams and Groups
 When a user attempts to delete users, the users are not deleted. This has been reported in organizations that have migrated to the Adobe Admin Console.
 
 _First reported on March 11, 2024._
+

@@ -10,3 +10,4 @@ feature: Requests
 When a user attempts to share a request queue path, the link does not open the correct request queue. Instead, the link goes to the Requests page.
 
 _First reported on April 18, 2024._
+
