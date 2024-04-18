@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | April 18, 2024 |
 | [Updates: Comments made through API are not visible in Sandbox environment](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | April 15, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |

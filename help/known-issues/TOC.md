@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
         + [Requests: Cannot share request queue path](known-issues-workfront/wf-requests-cannot-share-path.md)
         + [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md)
         + [Updates: Comments made through API are not visible in Sandbox environment](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
