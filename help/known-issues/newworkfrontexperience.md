@@ -33,6 +33,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Projects, Tasks, and Issues: Inherited permissions are not shown](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | April 19, 2024 |
 | [Requests: Cannot share request queue path](known-issues-workfront/wf-requests-cannot-share-path.md) | April 18, 2024 |
 | [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md) | April 18, 2024 |
 | [Updates: "[!UICONTROL We're unable to post your comment]" message when replying](known-issues-workfront/wf-updates-were-unable-to-post.md) | April 18, 2024 |
