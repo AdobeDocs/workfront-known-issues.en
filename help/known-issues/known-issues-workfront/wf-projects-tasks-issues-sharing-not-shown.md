@@ -14,3 +14,4 @@ When a user is sharing an object, the card that shows inherited permissions is n
 
 _First reported on January 9, 2024._
 
+
