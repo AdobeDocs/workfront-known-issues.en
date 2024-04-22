@@ -1,10 +1,10 @@
 ---
-title: "Home: Approvals widget is not accurate"
-description: "The Awaiting My Approvals widget in the new Home experience does not accurately display the approvals."
+title: 'Home: Approvals widget is not accurate'
+description: The Awaiting My Approvals widget in the new Home experience does not accurately display the approvals.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
 ---
-
 # Home: Approvals widget is not accurate
 
 <!-- WF, WFP-->
