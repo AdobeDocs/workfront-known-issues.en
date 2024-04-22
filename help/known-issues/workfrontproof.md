@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None | |
+| [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | April 22, 2024 |
 
 {style="table-layout:auto"}
 
