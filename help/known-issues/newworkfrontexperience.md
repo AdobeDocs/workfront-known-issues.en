@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | April 22, 2024 |
 | [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | April 18, 2024 |
 | [Updates: Comments made through API are not visible in Sandbox environment](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | April 15, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
@@ -35,7 +36,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 |----------------------------------| ----------------- |
 | [Boards: Card briefly returns to original column](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | April 22, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | April 22, 2024 |
-| [Projects, Tasks, and Issues: Inherited permissions are not shown](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | April 19, 2024 |
 | [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md) | April 18, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | April 18, 2024 |
 | [Updates: Numbered lists are not numbered correctly](known-issues-workfront/wf-updates-not-numbering-correctly.md) | April 15, 2024 |
