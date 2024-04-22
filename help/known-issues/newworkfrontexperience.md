@@ -33,11 +33,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Boards: Card briefly returns to original column](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | April 22, 2024 |
+| [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | April 22, 2024 |
 | [Projects, Tasks, and Issues: Inherited permissions are not shown](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | April 19, 2024 |
-| [Requests: Cannot share request queue path](known-issues-workfront/wf-requests-cannot-share-path.md) | April 18, 2024 |
 | [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md) | April 18, 2024 |
-| [Updates: "[!UICONTROL We're unable to post your comment]" message when replying](known-issues-workfront/wf-updates-were-unable-to-post.md) | April 18, 2024 |
-| [Updates: Preview of image in updates is blurry](known-issues-workfront/wf-updates-images-blurred.md) | April 18, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | April 18, 2024 |
 | [Updates: Numbered lists are not numbered correctly](known-issues-workfront/wf-updates-not-numbering-correctly.md) | April 15, 2024 |
 | [Requests: Error when opening draft](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | April 12, 2024 |

@@ -1,0 +1,17 @@
+---
+title: "Home: Approvals widget is not accurate"
+description: "The Awaiting My Approvals widget in the new Home experience does not accurately display the approvals."
+hidefromtoc: yes
+feature: Digital Content and Documents
+---
+
+# Home: Approvals widget is not accurate
+
+<!-- WF, WFP-->
+
+The Awaiting My Approvals widget in the new Home experience does not accurately display the approvals.
+
+* Proofs that are awaiting approval may not appear in the widget.
+* Proofs that have been approved may remain on the widget.
+
+_First reported on April 16, 2024._
