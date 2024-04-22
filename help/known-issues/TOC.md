@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: Card briefly returns to original column](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+        + [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
         + [Projects, Tasks, and Issues: Inherited permissions are not shown](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
         + [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
         + [Requests: Cannot share request queue path](known-issues-workfront/wf-requests-cannot-share-path.md)
