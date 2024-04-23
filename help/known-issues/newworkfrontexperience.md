@@ -34,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | April 23, 2024 |
 | [Boards: Card briefly returns to original column](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | April 22, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | April 22, 2024 |
 | [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md) | April 18, 2024 |
