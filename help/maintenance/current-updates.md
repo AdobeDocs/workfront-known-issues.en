@@ -16,6 +16,26 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in April 2024
 
++++**(Planned) Maintenance Update on April 25, 2024**
+
+### (Planned) Maintenance Update on April 25, 2024
+
+#### Updates
+
+**Numbered lists are not numbered correctly**
+
+When a user submits a comment that includes a numbered list, that list shows incorrect numbering in the update.
+
+This has been reported in the new commenting experience.
+
+**Text is not preserved when navigating away and back to comment**
+
+When a user is writing a comment that includes an @mention, then navigates away from and back to the comment before submitting it, any text that was entered after the @mention is missing from the comment draft.
+
+This has been reported in the new commenting experience.
+
++++
+
 +++**Maintenance Update on April 18, 2024**
 
 ### Maintenance Update on April 18, 2024
