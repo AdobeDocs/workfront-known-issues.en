@@ -1,10 +1,10 @@
 ---
-title: "Integrations: Filename is null when sent to AEM via integration"
-description: "When a large file (over 100 MB) is sent to Adobe Experience Manager via the Workfront integration, the filename in AEM is null. "
+title: 'Integrations: Filename is null when sent to AEM via integration'
+description: 'When a large file (over 100 MB) is sent to Adobe Experience Manager via the Workfront integration, the filename in AEM is null. '
 hidefromtoc: yes
 feature: Workfront Integrations and Apps, Digital Content and Documents
+exl-id: c2d15424-ae04-414f-9384-a7b083212313
 ---
-
 # Integrations: Filename is "null" when sent to AEM via integration
 
 When a large file (over 100 MB) is sent to Adobe Experience Manager via the Workfront integration, the filename in AEM is "null." 
