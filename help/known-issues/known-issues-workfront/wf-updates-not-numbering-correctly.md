@@ -7,7 +7,7 @@ feature: Updates and Notifications
 
 # Updates: Numbered lists are not numbered correctly
 
-[!NOTE]
+>[!NOTE]
 >
 >This issue was fixed on April 25, 2024.
 
