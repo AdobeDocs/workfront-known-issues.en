@@ -7,6 +7,10 @@ feature: Updates and Notifications
 
 # Updates: Numbered lists are not numbered correctly
 
+>[!NOTE]
+>
+>This issue was fixed on April 25, 2024.
+
 When a user submits a comment that includes a numbered list, that list shows incorrect numbering in the update.
 
 This has been reported in the new commenting experience.
