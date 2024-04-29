@@ -13,7 +13,13 @@ This page contains issues currently identified in [!DNL Adobe Workfront Goals].
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
-**There are currently no known issues for [!DNL Workfront Goals]**
+## In Progress
+
+Fixes for these issues are currently in progress, or are scheduled for the near future.
+
+| **Issue** | **Last Modified** |
+|----------------------------------| ----------------- |
+| [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md) | April 29, 2024 |
 
 <!--
 
