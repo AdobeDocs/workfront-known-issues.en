@@ -12,3 +12,5 @@ When a user attempts to delete a goal in [!DNL Workfront Goals], the goal is not
 "[!UICONTROL Error: Unable to commit against JDBC Connection; nested exception is org.hibernate.TransactionException: Unable to commit against JDBC Connection]"
 
 _First reported on March 26, 2024._
+
+
