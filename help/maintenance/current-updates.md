@@ -14,6 +14,20 @@ The following maintenance updates have been made in 2024.
 
 For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in May 2024
+
++++**Maintenance Update on May 2, 2024**
+
+### Maintenance Update on May 2, 2024
+
+#### Logging time
+
+**Cannot edit hours on tasks or issues**
+
+When a user attempts to edit hours on a task or issue, the changes are not saved.
+
++++
+
 ## Updates in April 2024
 
 +++**Maintenance Update on April 25, 2024**
