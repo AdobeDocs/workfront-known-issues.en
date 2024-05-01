@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projects: Error when sharing a project](known-issues-workfront/wf-projects-error-when-sharing-project.md) | May 1, 2024 |
 | [Proofs: Cannot make decisions on private workflow stage](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | May 1, 2024 |
 | [Integrations: Filename is "null" when sent to AEM via integration](known-issues-workfront/wf-integrations-aem-filename-null.md) | April 24, 2024 |
 | [Users: Cannot modify user's access level](known-issues-workfront/wf-users-cannot-modify-access-level.md) | April 24, 2024 |
@@ -38,7 +39,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md) | April 29, 2024 |
 | [Boards: Workfront native fields do not display on card](known-issues-workfront/wf-boards-native-fields-not-display.md) | April 23, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | April 23, 2024 |
-| [Boards: Card briefly returns to original column](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | April 22, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | April 22, 2024 |
 | [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md) | April 18, 2024 |
 | [Boards: Checklist totals are not accurate](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | April 18, 2024 |
