@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Cannot make decisions on private workflow stage](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | May 1, 2024 |
 | [Integrations: Filename is "null" when sent to AEM via integration](known-issues-workfront/wf-integrations-aem-filename-null.md) | April 24, 2024 |
 | [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | April 22, 2024 |
 
