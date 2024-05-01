@@ -7,6 +7,10 @@ exl-id: 39135352-ec7e-4385-adca-8a6677a7150c
 ---
 # Boards: Card briefly returns to original column
 
+>[!NOTE]
+>
+>This issue was fixed on April 30, 2024.
+
 When a user moves a card to a different column on a board, the card briefly returns to the original column before moving to the desired column.
 
 _First reported on March 20, 2024._

@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Error when sharing a project](known-issues-workfront/wf-projects-error-when-sharing-project.md)
         + [Proofs: Cannot make decisions on private workflow stage](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
         + [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md)
         + [Integrations: Filename is "null" when sent to AEM via integration](known-issues-workfront/wf-integrations-aem-filename-null.md)
