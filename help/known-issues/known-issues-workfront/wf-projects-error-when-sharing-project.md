@@ -7,6 +7,10 @@ exl-id: 8c6c6089-1015-400e-9eec-e62318cc9e07
 ---
 # Projects: Error when sharing a project
 
+>[!NOTE]
+>
+>This issue was fixed on May 2, 2024.
+
 When a user attempts to share a project, the project is not shared, and the user sees the following message:
 
 "You do not have sufficient access to delete this project"

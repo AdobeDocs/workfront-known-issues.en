@@ -7,6 +7,10 @@ exl-id: 49adcc1d-1ad0-4d22-b910-2f7ddc768f45
 ---
 # Boards: Workfront native fields do not display on card
 
+>[!NOTE]
+>
+>This issue was fixed on May 2, 2024.
+
 When a user is viewing a card that is configured to display native (non-custom) fields, those fields are not visible on the card.
 
 **Workaround**
