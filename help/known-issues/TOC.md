@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Tagging a user with @ in Summary panel is ineffective](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+        + [Projects: Project created with template does not match template's priority](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
         + [Boards: Checklist item does not stay checked](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
         + [Projects: Error when sharing a project](known-issues-workfront/wf-projects-error-when-sharing-project.md)
         + [Proofs: Cannot make decisions on private workflow stage](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)

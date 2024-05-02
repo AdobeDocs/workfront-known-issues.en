@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projects: Project created with template does not match template's priority](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | May 2, 2024 |
 | [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | May 2, 2024 |
 | [Boards: Checklist item does not stay checked](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | May 2, 2024 |
 | [Proofs: Cannot make decisions on private workflow stage](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | May 1, 2024 |
@@ -35,6 +36,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Updates: Tagging a user with @ in Summary panel is ineffective](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | May 2, 2024 |
 | [Users: Cannot modify user's access level](known-issues-workfront/wf-users-cannot-modify-access-level.md) | May 2, 2024 |
 | [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md) | April 29, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | April 23, 2024 |
