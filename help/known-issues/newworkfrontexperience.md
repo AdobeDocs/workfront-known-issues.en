@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Setup: "Logged in as" banner does not appear when logged in as another user.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
 | [Boards: Advanced filter does not return expected cards](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | May 7, 2024 |
-| [Projects: Project created with template does not match template's priority](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | May 2, 2024 |
 | [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | May 2, 2024 |
 | [Boards: Checklist item does not stay checked](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | May 2, 2024 |
 | [Proofs: Cannot make decisions on private workflow stage](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | May 1, 2024 |
@@ -46,7 +45,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | April 23, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | April 22, 2024 |
 | [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md) | April 18, 2024 |
-| [Requests: Error when opening draft](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | April 12, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
 | [Requests: Calculated field does not update when filling out request](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | April 9, 2024 |
 | [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | April 5, 2024 |

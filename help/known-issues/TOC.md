@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: Advanced filter does not return expected cards](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
         + [Setup: "Logged in as" banner does not appear when logged in as another user.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
         + [Proof moderators are unable to edit permissions](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
         + [Boards: User cannot see board that team is assigned to](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
