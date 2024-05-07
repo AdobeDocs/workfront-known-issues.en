@@ -61,6 +61,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: Pinned timesheet goes to blank page](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | May 7, 2024, 2024 |
 | [Reports: Report filter does not return expected results](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | April 1, 2024 |
 | [Setup: Cannot use [!UICONTROL Kick-Starts] to set up groupings](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | November 30, 2023 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |
