@@ -13,6 +13,10 @@ When a user attempts to tag another user by using @ in the Updates area of a Sum
 
 Tag the user again. The second attempt works as expected.
 
+Or
+
+Select the user using the Enter/Return key.
+
 _First reported on March 18, 2024._
 
 

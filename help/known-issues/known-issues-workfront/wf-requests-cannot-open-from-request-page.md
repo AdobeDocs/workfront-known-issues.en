@@ -7,6 +7,10 @@ exl-id: 802753e8-0e8e-42b1-917e-95185567c95a
 ---
 # Requests: Error when opening draft
 
+>[!NOTE]
+>
+>This issue was fixed on May 2, 2024.
+
 When a user is creating a new request, and there are drafts related to that request queue displayed, clicking to open a draft does not open the draft, and the user sees the following error:
 
 "An error has occurred, and we are actively working to resolve it."
