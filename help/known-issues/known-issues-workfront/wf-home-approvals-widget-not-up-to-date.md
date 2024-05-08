@@ -7,11 +7,13 @@ exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
 ---
 # Home: Approvals widget is not accurate
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on May 2, 2024.
 
-<!-- WF, WFP-->
+ WF, WFP-->
 
 The Awaiting My Approvals widget in the new Home experience does not accurately display the approvals.
 

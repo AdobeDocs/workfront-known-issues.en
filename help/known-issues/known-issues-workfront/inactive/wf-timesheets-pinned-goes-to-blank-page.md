@@ -9,7 +9,7 @@ feature: Timesheets
 
 When a user clicks a pin in Workfront that is intended to go to their timesheet, the pin instead goes to a blank page.
 
-This is because the URL of the timesheet has changed. the `/own` at the end of the URL is no longer the correct URL. If the user has pinned a URL that includes `/own`, that pin leads to a blank page.
+This is because the URL of the timesheet has changed. The `/own` at the end of the URL is no longer the correct URL. If the user has pinned a URL that includes `/own`, that pin leads to a blank page.
 
 **Workaround**
 
