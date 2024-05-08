@@ -19,7 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Setup: "Logged in as" banner does not appear when logged in as another user.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
+| [Projects: Project created from an issue using a template does not reflect priority set in template](known-issues-workfront/wf-projects-priority-not-transfer.md) | May 8, 2024 |
+| [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
 | [Boards: Advanced filter does not return expected cards](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | May 7, 2024 |
 | [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | May 2, 2024 |
 | [Boards: Checklist item does not stay checked](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | May 2, 2024 |

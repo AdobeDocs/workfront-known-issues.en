@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Project created from an issue using a template does not reflect priority set in template](known-issues-workfront/wf-projects-priority-not-transfer.md)
         + [Boards: Advanced filter does not return expected cards](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
         + [Timesheets: Pinned timesheet goes to blank page](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
         + [Setup: "Logged in as" banner does not appear when logged in as another user.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
