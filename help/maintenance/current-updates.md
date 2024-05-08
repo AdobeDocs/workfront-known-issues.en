@@ -22,7 +22,6 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
 
-
 +++
 
 +++**Maintenance Update on May 2, 2024**
