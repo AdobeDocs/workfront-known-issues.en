@@ -41,7 +41,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Proof moderators are unable to edit permissions](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | May 7, 2024 |
 | [Boards: User cannot see board that team is assigned to](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | May 7, 2024 |
 | [Updates: Tagging a user with @ in Summary panel is ineffective](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | May 2, 2024 |
-| [Users: Cannot modify user's access level](known-issues-workfront/wf-users-cannot-modify-access-level.md) | May 2, 2024 |
 | [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md) | April 29, 2024 |
 | [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | April 23, 2024 |
 | [Users: Cannot delete users](known-issues-workfront/wf-users-unable-to-delete-users.md) | April 18, 2024 |
