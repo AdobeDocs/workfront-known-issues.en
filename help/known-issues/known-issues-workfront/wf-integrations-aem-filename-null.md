@@ -7,6 +7,10 @@ exl-id: c2d15424-ae04-414f-9384-a7b083212313
 ---
 # Integrations: Filename is "null" when sent to document integration
 
+>[!NOTE]
+>
+>This issue was fixed on May 8, 2024.
+
 When a large file (over 100 MB) is sent to a document provider via a Workfront integration, the filename in the document provider is "null." 
 
 This has been reported with both ZIP and TIF files.

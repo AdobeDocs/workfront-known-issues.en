@@ -7,6 +7,10 @@ exl-id: f60b7fe8-7a1f-418b-9ca7-00fc2e2653f6
 ---
 # Proofs: Cannot make decisions on private workflow stage
 
+>[!NOTE]
+>
+>This issue was fixed on May 9, 2024.
+
 When an automated workflow stage is private, users are unable to make proof decisions from the Document Details > Proof Workflow Stage.
 
 Proof decisions in the proofing viewer function as expected.
