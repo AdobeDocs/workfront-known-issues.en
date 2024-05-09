@@ -7,9 +7,13 @@ feature: Updates and Notifications
 
 # Updates: Link in comment goes to blank screen
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on April 25, 2024.
+
+-->
 
 When a user clicks on a link that is in a comment, the link directs the user to a blank screen.
 

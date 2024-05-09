@@ -20,13 +20,10 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | May 8, 2024 |
-| [Projects: Project created from an issue using a template does not reflect priority set in template](known-issues-workfront/wf-projects-priority-not-transfer.md) | May 8, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
 | [Boards: Advanced filter does not return expected cards](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | May 7, 2024 |
 | [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | May 2, 2024 |
 | [Boards: Checklist item does not stay checked](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | May 2, 2024 |
-| [Proofs: Cannot make decisions on private workflow stage](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | May 1, 2024 |
-| [Integrations: Filename is "null" when sent to document provider via integration](known-issues-workfront/wf-integrations-aem-filename-null.md) | April 24, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
 | [Proofs: GIFs render as static proofs](known-issues-workfront/wf-proofs-gif-static-image.md) | January 23, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | January 9, 2024 |
@@ -39,6 +36,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | May 9, 2024 |
+| [Projects: Project created from an issue using a template does not reflect priority set in template](known-issues-workfront/wf-projects-priority-not-transfer.md) | May 9, 2024 |
 | [Proof moderators are unable to edit permissions](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | May 7, 2024 |
 | [Boards: User cannot see board that team is assigned to](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | May 7, 2024 |
 | [Updates: Tagging a user with @ in Summary panel is ineffective](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | May 2, 2024 |
