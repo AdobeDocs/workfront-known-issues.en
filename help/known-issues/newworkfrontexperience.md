@@ -36,8 +36,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Updates: Copying and pasting a mention does not notify the mentioned user](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | May 10, 2024 |
 | [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | May 9, 2024 |
-| [Projects: Project created from an issue using a template does not reflect priority set in template](known-issues-workfront/wf-projects-priority-not-transfer.md) | May 9, 2024 |
 | [Proof moderators are unable to edit permissions](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | May 7, 2024 |
 | [Boards: User cannot see board that team is assigned to](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | May 7, 2024 |
 | [Updates: Tagging a user with @ in Summary panel is ineffective](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | May 2, 2024 |
