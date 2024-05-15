@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrations: Users get wrong request error when using SSO](known-issues/known-issues-workfront/wf-outlook-wrong-request.md) | May 14, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | May 8, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
 | [Boards: Advanced filter does not return expected cards](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | May 7, 2024 |
