@@ -16,6 +16,24 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2024
 
++++**Maintenance Update on May 16, 2024**
+
+### Maintenance Update on May 16, 2024
+
+#### Setup
+
+**Default issue statuses missing from some issue types in Setup**
+
+When a user is viewing issue statuses in Setup, they see that the default statuses for issues (New, In Progress, and Complete) are missing from some types of issues. Default statuses do not have the option to change the issue type, so the user cannot reconfigure the statuses to display for the affected issue types. 
+
+#### Users
+
+**Cannot delete users**
+
+When a user attempts to delete users, the users are not deleted. This has been reported in organizations that have migrated to the Adobe Admin Console.
+
++++
+
 +++**Maintenance Update on May 9, 2024**
 
 ### Maintenance Update on May 9, 2024
