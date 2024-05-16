@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Requests: Cannot Access Dashboards on Request Page ("../submitted" URL)](known-issues-workfront/wf-requests-cannot-access-dashboards-on-request-page.md) | May 16, 2024 |
+| [Requests: Cannot Access Dashboards on Request Page ("../submitted" URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | May 16, 2024 |
 | [Integrations: Users get wrong request error when using SSO](known-issues-workfront/wf-outlook-wrong-request.md) | May 14, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | May 8, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
