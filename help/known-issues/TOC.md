@@ -11,7 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience}
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + [Requests: Cannot Access Dashboards on Request Page ("../submitted" URL)](known-issues-workfront/wf-requests-Cannot-access-dashboards-on-request-page.md)
+        + [Requests: Cannot Access Dashboards on Request Page ("../submitted" URL)](known-issues-workfront/wf-requests-cannot-access-dashboards-on-request-page.md)
         + [Integrations: Users get wrong request error when using SSO](known-issues-workfront/wf-outlook-wrong-request.md)
         + [Updates: Copying and pasting a mention does not notify the mentioned user](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
         + [Projects: Project created from an issue using a template does not reflect priority set in template](known-issues-workfront/wf-projects-priority-not-transfer.md)
