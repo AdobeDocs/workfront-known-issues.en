@@ -8,7 +8,7 @@ role: User
 
 + [Overview](overview.md)
 
-+ [!DNL Adobe Workfront] {#new-workfront-experience}
++ [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
         + [Requests: Cannot Access Dashboards on Request Page ("../submitted" URL)](known-issues-workfront/wf-requests-cannot-access-dashboards-on-request-page.md)
