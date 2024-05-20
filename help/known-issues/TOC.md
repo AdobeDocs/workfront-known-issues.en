@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: Error screen when downloading or previewing asset](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+        + [Users: User attributes are not mapped from SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+        + [Programs: All access to program is lost when user access to program is updated](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+        + [Documents: UNK file extension when linking documents from integration](known-issues-workfront/wf-documents-unk-file-extension.md)
         + [Requests: Cannot Access Dashboards on Request Page ("../submitted" URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
         + [Integrations: Users get wrong request error when using SSO](known-issues-workfront/wf-outlook-wrong-request.md)
         + [Updates: Copying and pasting a mention does not notify the mentioned user](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
