@@ -10,3 +10,4 @@ feature: Get Started with Workfront
 When a user adds a Planned Hours column to a widget in the new home experience, the planned hours display in minutes.
 
 _First reported on May 1, 2024._
+
