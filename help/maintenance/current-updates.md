@@ -16,6 +16,22 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2024
 
++++ **(Planned) Maintenance Update on May 23, 2024**
+
+### (Planned) Maintenance Update on May 23, 2024
+
+#### Updates
+
+**Tagged user cannot see who tagged them**
+
+When a user is tagged in an update, they cannot see who tagged them. This occurs when the setting "People in other companies should only view users from..." is set to "Their company." 
+
+**Tagging a user with @ in Summary panel is ineffective**
+
+When a user attempts to tag another user by using @ in the Updates area of a Summary panel, clicking on the user's name in the dropdown is ineffective. Attempting to tag the user a second time works as expected.
+
++++
+
 +++**Maintenance Update on May 16, 2024**
 
 ### Maintenance Update on May 16, 2024
