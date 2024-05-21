@@ -1,0 +1,12 @@
+---
+title: "Home: Planned hours display in minutes"
+description: "When a user adds a Planned Hours column to a widget in the new home experience, the planned hours display in minutes."
+hidefromtoc: yes
+feature: Get Started with Workfront
+---
+
+# Home: Planned hours display in minutes
+
+When a user adds a Planned Hours column to a widget in the new home experience, the planned hours display in minutes.
+
+_First reported on May 1, 2024._

@@ -7,6 +7,10 @@ exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
 ---
 # Proof moderators are unable to edit permissions
 
+>[!NOTE]
+>
+>This issue has been closed because it could not be reproduced.
+
 If a user who is a proof moderator attempts to edit user permissions on a workflow, the ability to select or deselect permissions is disabled.
 
 This has been reported with the following permissions:
