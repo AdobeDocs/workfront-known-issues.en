@@ -20,6 +20,16 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ### (Planned) Maintenance Update on May 23, 2024
 
+#### Reports
+
+When a user is viewing a report and clicks the browser's Back button, one of the following may occur:
+
+* The user remains on the Report page.
+* The user is directed to the browser's landing page.
+* The user is directed to the Login page.
+
+This has been reported with the Chrome browser.
+
 #### Updates
 
 **Tagged user cannot see who tagged them**
