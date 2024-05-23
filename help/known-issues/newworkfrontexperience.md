@@ -34,7 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [Home: Planned hours display in minutes](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | May 21, 2024 |
+| [Groups: Cannot add subgroup](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | May 23, 2024 |
 | [Documents: Error screen when downloading or previewing asset](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | May 20, 2024 |
 | [Users: Cannot modify user's access level](known-issues-workfront/wf-users-cannot-modify-access-level.md) | May 20, 2024 |
 | [Updates: Copying and pasting a mention does not notify the mentioned user](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | May 10, 2024 |
