@@ -9,6 +9,10 @@ exl-id: ec37dbaa-4776-423d-abeb-a88691d92d16
 
 <!--WF and WFP-->
 
+>[!NOTE]
+>
+>This issue has been closed because it is not a Workfront issue.
+
 When a user links a document from a document integration, the document appears in Workfront with a UNK file extension.
 
 _First reported on May 12, 2024._

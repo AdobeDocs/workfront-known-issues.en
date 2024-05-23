@@ -7,13 +7,9 @@ exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 ---
 # Project: Cannot convert issue to project if document is attached
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 18, 2024.
-
--->
+>This issue was fixed on May 23, 2024.
 
 When an issue has a document, and a user attempts to convert that issue to a project, the conversion fails and the project is not created. The user sees the following error:
 
