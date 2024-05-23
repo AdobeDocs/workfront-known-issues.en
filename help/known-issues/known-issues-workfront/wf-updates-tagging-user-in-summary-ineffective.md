@@ -7,6 +7,10 @@ feature: Updates and Notifications
 
 # Updates: Tagging a user with @ in Summary panel is ineffective
 
+>[!NOTE]
+>
+>This issue was fixed on May 23, 2024.
+
 When a user attempts to tag another user by using @ in the Updates area of a Summary panel, clicking on the user's name in the dropdown is ineffective. Attempting to tag the user a second time works as expected.
 
 **Workaround**

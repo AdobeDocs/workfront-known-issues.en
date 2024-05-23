@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documents: UNK file extension when linking documents from integration](known-issues-workfront/wf-documents-unk-file-extension.md) | May 20, 2024 |
 | [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | April 22, 2024 |
 
 {style="table-layout:auto"}
