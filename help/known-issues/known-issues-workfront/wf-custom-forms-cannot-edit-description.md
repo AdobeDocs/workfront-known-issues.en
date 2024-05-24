@@ -1,10 +1,10 @@
 ---
-title: "Custom forms: Error when editing descriptive text fields"
-description: "When a user attempts to edit the descriptive text on a custom form, the text does not save, and the user sees an error. A workaround is available."
+title: 'Custom forms: Error when editing descriptive text fields'
+description: When a user attempts to edit the descriptive text on a custom form, the text does not save, and the user sees an error. A workaround is available.
 hidefromtoc: yes
 feature: Custom Forms
+exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
 ---
-
 # Custom forms: Error when editing descriptive text fields
 
 When a user attempts to edit the descriptive text on a custom form, the text does not save, and the user sees the following error:
