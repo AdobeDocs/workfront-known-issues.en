@@ -34,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 24, 2024 |
 | [Custom forms: Error when editing descriptive text fields](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | May 24, 2024 |
 | [Groups: Cannot add subgroup](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | May 23, 2024 |
 | [Documents: Error screen when downloading or previewing asset](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | May 20, 2024 |
@@ -42,7 +43,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | May 9, 2024 |
 | [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md) | April 29, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
-| [Requests: Calculated field does not update when filling out request](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | April 9, 2024 |
 | [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | April 5, 2024 |
 | [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
 | [Updates: Requestor users cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | March 8, 2024 |
