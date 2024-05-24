@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Error when editing descriptive text fields](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
         + [Groups: Cannot add subgroup](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
         + [Updates: Tagged user cannot see who tagged them](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
         + [Home: Planned hours display in minutes](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
