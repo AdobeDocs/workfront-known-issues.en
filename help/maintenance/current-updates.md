@@ -16,6 +16,28 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in May 2024
 
++++ **(Planned) Maintenance Update on May 30, 2024**
+
+### (Planned) Maintenance Update on May 30, 2024
+
+#### Custom forms
+
+Error when editing descriptive text fields
+
+When a user attempts to edit the descriptive text on a custom form, the text does not save, and the user sees the following error:
+
+"Duplicate key value violates unique constraint"
+
+This has been reported in the legacy form builder.
+
+#### Updates
+
+**Copying and pasting a mention does not notify the mentioned user**
+
+When a user copies a comment that includes a mention in @ format, then pastes that comment into the Updates area of another object, the mentioned user is not notified about the pasted comment.
+
++++
+
 +++ **Maintenance Update on May 23, 2024**
 
 ### Maintenance Update on May 23, 2024
