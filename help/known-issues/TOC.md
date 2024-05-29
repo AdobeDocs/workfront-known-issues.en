@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Tasks: Job role does not disappear from list when user is assigned to task](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
         + [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
         + [Custom forms: Error when editing descriptive text fields](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
         + [Groups: Cannot add subgroup](known-issues-workfront/wf-groups-cannot-add-subgroup.md)

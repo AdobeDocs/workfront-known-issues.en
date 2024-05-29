@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tasks: Job role does not disappear from list when user is assigned to task](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | May 29, 2024 |
 | [Programs: All access to program is lost when user access to program is updated](known-issues-workfront/wf-programs-permissions-not-inherited.md) | May 20, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
 | [Tasks: Creating or duplicating tasks causes task list to display in wrong order](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | February 26, 2024 |
@@ -33,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Project: Cannot convert issue to project if document is attacheds](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
 | [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | May 28, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 24, 2024 |
 | [Custom forms: Error when editing descriptive text fields](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | May 24, 2024 |
