@@ -37,11 +37,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Project: Cannot convert issue to project if document is attacheds](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
 | [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | May 28, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 24, 2024 |
-| [Custom forms: Error when editing descriptive text fields](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | May 24, 2024 |
 | [Groups: Cannot add subgroup](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | May 23, 2024 |
 | [Documents: Error screen when downloading or previewing asset](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | May 20, 2024 |
 | [Users: Cannot modify user's access level](known-issues-workfront/wf-users-cannot-modify-access-level.md) | May 20, 2024 |
-| [Updates: Copying and pasting a mention does not notify the mentioned user](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | May 10, 2024 |
 | [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | May 9, 2024 |
 | [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md) | April 29, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
