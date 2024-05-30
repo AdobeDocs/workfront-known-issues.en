@@ -7,6 +7,10 @@ feature: Updates and Notifications
 
 # Updates: Copying and pasting a mention does not notify the mentioned user
 
+>[!NOTE]
+>
+>This issue was fixed on May 30, 2024.
+
 When a user copies a comment that includes a mention in @ format, then pastes that comment into the Updates area of another object, the mentioned user is not notified about the pasted comment.
 
 **Workaround**
