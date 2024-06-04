@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Public links to a report are not working](known-issues-workfront/wf-reports-public-link-not-working.md) | June 4, 2024 |
 | [Tasks: Job role does not disappear from list when user is assigned to task](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | May 29, 2024 |
 | [Programs: All access to program is lost when user access to program is updated](known-issues-workfront/wf-programs-permissions-not-inherited.md) | May 20, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
@@ -34,9 +35,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [Project: Cannot convert issue to project if document is attacheds](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
+| [[!UICONTROL Resource Planner]: Cannot share filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | June 4, 2024 |
+| [Actual Completion Date shows as N/A](known-issues-workfront/wf-projects-completion-date-is-na.md) | June 4, 2024 |
+| [Updates: Tagged user cannot see who tagged them](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | June 4, 2024 |
+| [Project: Cannot convert issue to project if document is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
 | [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | May 28, 2024 |
-| [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 24, 2024 |
 | [Groups: Cannot add subgroup](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | May 23, 2024 |
 | [Documents: Error screen when downloading or previewing asset](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | May 20, 2024 |
 | [Users: Cannot modify user's access level](known-issues-workfront/wf-users-cannot-modify-access-level.md) | May 20, 2024 |
