@@ -5,7 +5,11 @@ hidefromtoc: yes
 feature: System Setup and Administration
 exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
 ---
-# Setup: "Logged in as" banner does not appear when logged in as another user.
+# Setup: "Logged in as" banner does not appear when logged in as another user
+
+>[!NOTE]
+>
+>This issue was fixed on May 30, 2024.
 
 When an admin is logged in as another user, the "Logged in as" banner does not appear. The user is not reminded that they are logged in as another user, and cannot log out of that user's account.
 

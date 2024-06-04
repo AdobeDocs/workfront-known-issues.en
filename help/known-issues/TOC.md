@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Public links to a report are not working](known-issues-workfront/wf-reports-public-link-not-working.md)
+        + [[!UICONTROL Resource Planner]: Cannot share filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
+        + [Actual Completion Date shows as N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
         + [Tasks: Job role does not disappear from list when user is assigned to task](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
         + [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
         + [Custom forms: Error when editing descriptive text fields](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
