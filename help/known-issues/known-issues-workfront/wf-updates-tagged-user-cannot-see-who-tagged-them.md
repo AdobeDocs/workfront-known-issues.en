@@ -7,13 +7,9 @@ feature: Updates and Notifications
 
 # Updates: Tagged user cannot see who tagged them
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 23, 2024.
-
--->
+>This issue was fixed on June 5, 2024.
 
 When a user is tagged in an update, they cannot see who tagged them. This occurs when the setting "People in other companies should only view users from..." is set to "Their company." 
 

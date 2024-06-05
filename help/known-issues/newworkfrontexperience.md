@@ -35,9 +35,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md) | June 5, 2024 |
+| [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | June 5, 2024 |
+| [Projects: Sharing menu does not load ](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | June 5, 2024 |
 | [[!UICONTROL Resource Planner]: Cannot share filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | June 4, 2024 |
 | [Actual Completion Date shows as N/A](known-issues-workfront/wf-projects-completion-date-is-na.md) | June 4, 2024 |
-| [Updates: Tagged user cannot see who tagged them](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | June 4, 2024 |
 | [Project: Cannot convert issue to project if document is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
 | [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | May 28, 2024 |
 | [Groups: Cannot add subgroup](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | May 23, 2024 |

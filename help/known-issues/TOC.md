@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md)
+        + [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+        + [Projects: Sharing menu does not load ](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
         + [Reports: Public links to a report are not working](known-issues-workfront/wf-reports-public-link-not-working.md)
         + [[!UICONTROL Resource Planner]: Cannot share filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
         + [Actual Completion Date shows as N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
