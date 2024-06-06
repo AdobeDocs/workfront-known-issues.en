@@ -7,13 +7,9 @@ feature: People Teams and Groups
 
 # Users: Cannot modify user's access level
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 9, 2024.
-
--->
+>This issue was fixed on June 6, 2024.
 
 When a group administrator attempts to modify the access level of a user in the group, the access level field is disabled, and the group administrator cannot change the user's access level.
 

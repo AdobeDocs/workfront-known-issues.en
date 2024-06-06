@@ -18,7 +18,13 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 +++ **Maintenance Update on June 6, 2024**
 
-This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
+### Maintenance Update on June 6, 2024
+
+#### Custom forms
+
+**Limitation on native fields in the form designer**
+
+Multiple native fields are now supported on custom forms created in the form designer. Previously the limit was one native field per form.
 
 +++
 

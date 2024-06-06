@@ -37,14 +37,12 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 |----------------------------------| ----------------- |
 | [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md) | June 5, 2024 |
 | [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | June 5, 2024 |
-| [Projects: Sharing menu does not load ](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | June 5, 2024 |
 | [[!UICONTROL Resource Planner]: Cannot share filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | June 4, 2024 |
 | [Actual Completion Date shows as N/A](known-issues-workfront/wf-projects-completion-date-is-na.md) | June 4, 2024 |
 | [Project: Cannot convert issue to project if document is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
 | [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | May 28, 2024 |
 | [Groups: Cannot add subgroup](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | May 23, 2024 |
 | [Documents: Error screen when downloading or previewing asset](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | May 20, 2024 |
-| [Users: Cannot modify user's access level](known-issues-workfront/wf-users-cannot-modify-access-level.md) | May 20, 2024 |
 | [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | May 9, 2024 |
 | [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md) | April 29, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
