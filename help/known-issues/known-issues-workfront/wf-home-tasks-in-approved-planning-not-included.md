@@ -7,6 +7,10 @@ exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
 ---
 # Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List
 
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
+
 Tasks from projects that have the status Approved or Planning are not displayed in the following areas:
 
 * Classic Home: Work List

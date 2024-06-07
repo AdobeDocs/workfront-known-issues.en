@@ -7,9 +7,13 @@ exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 ---
 # Proofs: Proof prevents conversion of task or issue to project
 
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
+
 When a user attempts to convert a task or issue that includes a web generated proof to a project, the project is not created and the user sees the following message:
 
-"[!UICONTROL There was a problem copying the file] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Please remove the file or contact support and try again.]"
+"[!UICONTROL There was a problem copying the file] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Please remove the file or contact support and try again.]"
 
 **Workaround**s
 
