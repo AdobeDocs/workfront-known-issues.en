@@ -7,6 +7,10 @@ exl-id: cd9ce9c4-cdba-4805-86a3-2fc616db75cc
 ---
 # Actual Completion Date shows as N/A
 
+>[!NOTE]
+>
+>This issue has been closed because it is not an issue.
+
 When a project is completed, the Actual Completion Date shows as N/A instead of the date the project was completed.
 
 The missing Actual Completion Dates can cause incorrect reports.
