@@ -19,7 +19,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [[!DNL Workfront Goals]: Cannot delete goal](known-issues-workfront/wf-goals-cannot-delete-goal.md) | April 29, 2024 |
+| None |  |
 
 <!--
 

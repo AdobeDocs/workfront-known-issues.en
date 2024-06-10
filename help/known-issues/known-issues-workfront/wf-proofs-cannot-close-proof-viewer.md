@@ -9,13 +9,12 @@ exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 
 When a user is viewing a proof in the proofing viewer and attempts to close the proof by clicking the X in the upper-right corner, the proof does not close.
 
-This has been reported when accessing a proof through a link in an email.
-
 **Workaround**
 
 Try one of the following:
 
-* Click the document name in the email to go to the document, then open the proof from there. This will allow the X to work as expected.
+* Click the document name in the email to go to the document, then open the proof from there. This may allow the X to work as expected.
+* Retry closing the proof.
 * Close the proof by closing the browser tab.
 
 _First reported on May 31, 2024._
