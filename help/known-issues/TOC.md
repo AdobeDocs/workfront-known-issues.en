@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md)
         + [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md)
         + [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
         + [Projects: Sharing menu does not load ](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
