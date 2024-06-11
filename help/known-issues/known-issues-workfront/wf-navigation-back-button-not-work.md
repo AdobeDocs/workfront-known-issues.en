@@ -1,0 +1,15 @@
+---
+title: "Navigation: Back button does not go back to previous page"
+description: "When a user in Workfront clicks the Back button of their browser, it does not function as expected."
+hidefromtoc: yes
+feature: Get Started with Workfront
+---
+
+# Navigation: Back button does not go back to previous page
+
+When a user in Workfront clicks the Back button of their browser, one of the following may occur.
+
+* The name of the browser tab changes, but the page does not change. Clicking the back button again may resolve the issue.
+* The user is taken to their browser landing page.
+
+_First reported on June 3, 2024._

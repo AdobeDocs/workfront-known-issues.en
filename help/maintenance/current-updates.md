@@ -16,6 +16,18 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in June 2024
 
++++**(Planned) Maintenance Update on June 13, 2024**
+
+### **(Planned) Maintenance Update on June 13, 2024**
+
+#### Groups
+
+**Cannot add subgroup**
+
+When a user attempts to add an existing subgroup to a group, the Save button is ineffective, and the subgroup is not added.
+
++++
+
 +++ **Maintenance Update on June 6, 2024**
 
 ### Maintenance Update on June 6, 2024
