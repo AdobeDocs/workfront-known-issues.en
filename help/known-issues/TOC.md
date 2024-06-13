@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Statuses: Cannot reuse previously deleted status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
         + [Home: Cannot remove Mentions widget](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
         + [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md)
         + [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md)
