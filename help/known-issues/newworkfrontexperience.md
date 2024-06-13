@@ -50,6 +50,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: Cannot remove Mentions widget](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | June 12, 2024 |
 | [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | June 7, 2024 |
 | [Updates: Requestor users cannot add images to updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | June 7, 2024 |
 | [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | June 7, 2024 |
