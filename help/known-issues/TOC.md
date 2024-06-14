@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Resource planning: [!UICONTROL More] button is not visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
         + [Statuses: Cannot reuse previously deleted status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
         + [Home: Cannot remove Mentions widget](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
         + [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md)

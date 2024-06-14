@@ -7,6 +7,10 @@ feature: Work Management, Projects, Tasks
 
 # Statuses: Cannot reuse previously deleted status
 
+>[!NOTE]
+>
+>This issue was fixed on June 13, 2024.
+
 When a user attempts to create a status with the same status key as a previously deleted status, the status is not created, and the user sees the following message:
 
 "Please make sure the status key as unique value"
