@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
         + [Resource planning: [!UICONTROL More] button is not visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
         + [Statuses: Cannot reuse previously deleted status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
         + [Home: Cannot remove Mentions widget](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
