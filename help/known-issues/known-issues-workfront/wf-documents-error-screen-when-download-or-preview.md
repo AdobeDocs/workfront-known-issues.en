@@ -7,9 +7,12 @@ exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
 ---
 # Documents: Error screen when downloading or previewing asset
 
+
+<!--
 >[!NOTE]
 >
 >This issue was fixed on June 13, 2024.
+-->
 
 When a user attempts to download or preview an asset in Workfront, they are instead directed to an error screen.
 
