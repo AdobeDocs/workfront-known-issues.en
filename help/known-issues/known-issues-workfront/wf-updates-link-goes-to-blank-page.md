@@ -1,10 +1,10 @@
 ---
-title: "Updates: Link in comment goes to blank screen"
-description: "When a user clicks on a link that is in a comment, the link directs the user to a blank screen. A workaround is available."
+title: 'Updates: Link in comment goes to blank screen'
+description: When a user clicks on a link that is in a comment, the link directs the user to a blank screen. A workaround is available.
 hidefromtoc: yes
 feature: Updates and Notifications
+exl-id: db510b1b-84ff-4e77-b028-7acc55ce9832
 ---
-
 # Updates: Link in comment goes to blank screen
 
 <!--
@@ -22,5 +22,3 @@ When a user clicks on a link that is in a comment, the link directs the user to 
 Copy the link and paste it into the URL bar of a separate page.
 
 _First reported on April 18, 2024._
-
-

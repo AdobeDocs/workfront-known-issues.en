@@ -2,6 +2,7 @@
 title: Workfront Maintenance Updates in 2023
 description: Maintenance Updates for [!DNL Adobe Workfront]
 feature: Get Started with Workfront
+exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
 ---
 # [!DNL Workfront] Maintenance Updates in 2023
 

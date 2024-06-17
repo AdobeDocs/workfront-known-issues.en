@@ -1,10 +1,10 @@
 ---
-title: "Updates: Document comments do not appear in updates of parent object"
-description: "When a user makes a comment on a document, that comment does not immediately appear in the Updates area of the document's parent object."
+title: 'Updates: Document comments do not appear in updates of parent object'
+description: When a user makes a comment on a document, that comment does not immediately appear in the Updates area of the document's parent object.
 hidefromtoc: yes
 feature: Updates and Notifications
+exl-id: a49b13cf-eddc-4cca-8c5a-2bda1cb1cc5e
 ---
-
 # Updates: Document comments do not appear in updates of parent object
 
 >[!NOTE]

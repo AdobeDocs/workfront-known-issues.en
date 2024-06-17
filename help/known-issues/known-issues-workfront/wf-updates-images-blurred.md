@@ -1,10 +1,10 @@
 ---
-title: "Updates: Preview of image in updates is blurry"
-description: "When a user is viewing updates and clicks the magnifying glass on an image to preview the image, the preview that opens is extremely pixelated blurry."
+title: 'Updates: Preview of image in updates is blurry'
+description: When a user is viewing updates and clicks the magnifying glass on an image to preview the image, the preview that opens is extremely pixelated blurry.
 hidefromtoc: yes
 feature: Updates and Notifications
+exl-id: d040ee5d-749c-4376-8aac-b054bde09147
 ---
-
 # Updates: Preview of image in updates is blurry
 
 >[!NOTE]
@@ -17,4 +17,3 @@ When a user is viewing updates and clicks the magnifying glass on an image to pr
 If the user downloads the image, the image appears at the expected resolution.
 
 _First reported on March 27, 2024._
-

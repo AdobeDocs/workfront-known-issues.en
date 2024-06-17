@@ -1,10 +1,10 @@
 ---
-title: "Integrations: Issues with Dropbox integration"
-description: "Issues have been reported regarding the Dropbox integration."
+title: 'Integrations: Issues with Dropbox integration'
+description: Issues have been reported regarding the Dropbox integration.
 hidefromtoc: yes
 feature: Workfront Integrations and Apps, Digital Content and Documents
+exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
 ---
-
 # Integrations: Issues with Dropbox integration
 
 The following issues have been reported regarding the Dropbox integration:

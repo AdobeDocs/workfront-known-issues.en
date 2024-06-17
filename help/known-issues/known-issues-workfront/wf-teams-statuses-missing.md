@@ -1,10 +1,10 @@
 ---
-title: "Teams: Issues with setting team statuses for Done button "
-description: "Issues have been reported regarding statuses for the [!UICONTROL Done] button when editing or creating a team. A Workaround is available."
+title: 'Teams: Issues with setting team statuses for Done button '
+description: Issues have been reported regarding statuses for the [!UICONTROL Done] button when editing or creating a team. A Workaround is available.
 hidefromtoc: yes
 feature: People Teams and Groups
+exl-id: b5d1ed7c-02af-49d0-ac0e-284f615f4daa
 ---
-
 # Teams: Issues with setting team statuses for [!UICONTROL Done] button 
 
 >[!NOTE]

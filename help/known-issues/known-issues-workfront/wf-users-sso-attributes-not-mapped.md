@@ -1,10 +1,10 @@
 ---
-title: "Users: User attributes are not mapped from SSO"
-description: "Attributes from SSO are not appearing in Workfront, even though they have been configured correctly in Setup."
+title: 'Users: User attributes are not mapped from SSO'
+description: Attributes from SSO are not appearing in Workfront, even though they have been configured correctly in Setup.
 hidefromtoc: yes
 feature: People Teams and Groups, System Setup and Administration
+exl-id: c221d721-48ee-42f4-a12e-44ec6982ff89
 ---
-
 # Users: User attributes are not mapped from SSO
 
 >[!NOTE]

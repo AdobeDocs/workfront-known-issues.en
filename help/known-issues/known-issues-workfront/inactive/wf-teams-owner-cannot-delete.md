@@ -1,10 +1,10 @@
 ---
-title: "Teams: Cannot view team owner or delete team"
-description: "These actions are unavailable to Group Administrators."
+title: 'Teams: Cannot view team owner or delete team'
+description: These actions are unavailable to Group Administrators.
 hidefromtoc: yes
 feature: People Teams and Groups
+exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
 ---
-
 # Teams: Cannot view team owner or delete team
 
 >[!NOTE]
@@ -19,4 +19,3 @@ The following actions are unavailable to Group Administrators
 This occurs even though the group administrator has all permissions related to teams and users.
 
 _First reported on March 15, 2024._
-

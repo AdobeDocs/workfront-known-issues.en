@@ -1,10 +1,10 @@
 ---
-title: "Navigation: Back button does not go back to previous page"
-description: "When a user in Workfront clicks the Back button of their browser, it does not function as expected."
+title: 'Navigation: Back button does not go back to previous page'
+description: When a user in Workfront clicks the Back button of their browser, it does not function as expected.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
 ---
-
 # Navigation: Back button does not go back to previous page
 
 When a user in Workfront clicks the Back button of their browser, one of the following may occur.

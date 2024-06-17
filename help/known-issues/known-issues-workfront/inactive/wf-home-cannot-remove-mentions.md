@@ -1,10 +1,10 @@
 ---
-title: "Home: Cannot remove Mentions widget"
-description: "If a user in the new Home wants to remove the Mentions widget, they cannot remove it."
+title: 'Home: Cannot remove Mentions widget'
+description: If a user in the new Home wants to remove the Mentions widget, they cannot remove it.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: 57defe2f-47df-43ce-a9c7-e6f3a3e79ff5
 ---
-
 # Home: Cannot remove Mentions widget
 
 If a user in the new Home wants to remove the Mentions widget, they cannot remove it.

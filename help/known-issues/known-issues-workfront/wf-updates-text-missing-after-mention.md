@@ -1,10 +1,10 @@
 ---
-title: "Updates: Text is not preserved when navigating away and back to comment"
-description: "When a user is writing a comment that includes an @mention, then navigates away from and back to the comment before submitting it, any text that was entered after the @mention is missing from the comment draft."
+title: 'Updates: Text is not preserved when navigating away and back to comment'
+description: When a user is writing a comment that includes an @mention, then navigates away from and back to the comment before submitting it, any text that was entered after the @mention is missing from the comment draft.
 hidefromtoc: yes
 feature: Updates and Notifications
+exl-id: 7e9e85ae-fb7d-409e-8c5b-ede8c12bd159
 ---
-
 # Updates: Text is not preserved when navigating away and back to comment
 
 >[!NOTE]
@@ -16,4 +16,3 @@ When a user is writing a comment that includes an @mention, then navigates away 
 This has been reported in the new commenting experience.
 
 _First reported on March 21, 2024._
-
