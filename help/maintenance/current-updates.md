@@ -16,6 +16,27 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in June 2024
 
++++**(Planned) Maintenance Update on June 20, 2024**
+
+### (Planned) Maintenance Update on June 20, 2024
+
+#### Navigation
+
+**Back button does not go back to previous page**
+
+When a user in Workfront clicks the Back button of their browser, one of the following may occur.
+
+* The name of the browser tab changes, but the page does not change. Clicking the back button again may resolve the issue.
+* The user is taken to their browser landing page.
+
+#### Proofs
+
+**Cannot close proof viewer**
+
+When a user is viewing a proof in the proofing viewer and attempts to close the proof by clicking the X in the upper-right corner, the proof does not close.
+
++++
+
 +++**Maintenance Update on June 13, 2024**
 
 ### **Maintenance Update on June 13, 2024**
