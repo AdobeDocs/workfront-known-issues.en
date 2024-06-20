@@ -2,7 +2,7 @@
 title: "Approvals: Too many redirects"
 description: "When a user receives an approval notification email and clicks the Make Approval Decision button, the user is not directed to the object that needs approval. Instead, the user sees an error."
 hidefromtoc: yes
-feature: Emails and Notifications
+feature: Updates and Notifications
 ---
 
 # Approvals: Too many redirects
