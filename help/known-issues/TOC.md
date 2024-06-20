@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: My Issues widget does not display closed or completed issues](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
         + [Approvals: Too many redirects](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
         + [Updates: Copied link does not paste correctly](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
         + [Reports: "No data to display" when grouping name has a forward or back slash](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
