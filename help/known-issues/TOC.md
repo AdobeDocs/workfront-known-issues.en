@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Approvals: Too many redirects](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
         + [Updates: Copied link does not paste correctly](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
         + [Reports: "No data to display" when grouping name has a forward or back slash](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
         + [Integrations: Issues with Dropbox integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
