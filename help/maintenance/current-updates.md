@@ -16,9 +16,9 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in June 2024
 
-+++**(Planned) Maintenance Update on June 20, 2024**
++++**Maintenance Update on June 20, 2024**
 
-### (Planned) Maintenance Update on June 20, 2024
+### Maintenance Update on June 20, 2024
 
 #### Navigation
 
