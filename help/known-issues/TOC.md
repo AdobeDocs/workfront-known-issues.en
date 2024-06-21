@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Report does not load when default currency is USD](known-issues-workfront/wf-reports-default-currency-error.md)
+        + [Boards: Board does not display as user when using [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md)
         + [Home: My Issues widget does not display closed or completed issues](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
         + [Approvals: Too many redirects](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
         + [Updates: Copied link does not paste correctly](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
