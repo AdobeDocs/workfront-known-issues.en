@@ -17,6 +17,6 @@ This is a known [!DNL SharePoint] issue that occurs when the site has an "@" sym
 
 **Workaround**
 
-[!DNL SharePoint] recommends generating a short url, and using that for the link.
+[!DNL SharePoint] recommends generating a short URL, and using that for the link.
 
 _First reported on March 14, 2023._
