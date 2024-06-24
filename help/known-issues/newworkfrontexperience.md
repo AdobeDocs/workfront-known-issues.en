@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | June 24, 2024 |
+| [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | June 24, 2024 |
 | [Proofs: Clicking proof name leads to blank screen](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | June 21, 2024 |
 | [Boards: Board does not display as user when using [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | June 21, 2024 |
 | [Reports: "No data to display" when grouping name has a forward or back slash](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | June 18, 2024 |
