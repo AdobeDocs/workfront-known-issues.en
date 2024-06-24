@@ -8,7 +8,7 @@ feature: Workfront Proof
 # Proofs: Proof is not shared to users on the Proof Workflow
 
 <!--This issue is on the WF and WFP TOCs-->
-<!--Requested article-->
+<!--Requested article, live for workaround-->
 
 >[!NOTE]
 >
