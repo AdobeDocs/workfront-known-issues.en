@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Closing a proof leads to Product Documents page](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
         + [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
         + [Proofs: Clicking proof name leads to blank screen](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
         + [Reports: Report does not load when default currency is USD](known-issues-workfront/wf-reports-default-currency-error.md)
