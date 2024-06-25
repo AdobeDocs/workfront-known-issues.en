@@ -16,6 +16,26 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in June 2024
 
++++**(Planned) Maintenance Update on June 27, 2024**
+
+### (Planned) Maintenance Update on June 27, 2024
+
+#### Reports
+
+**Report does not load when default currency is USD**
+
+When a user attempts to view a report that has the default currency as USD, the report does not load.
+
+#### Updates
+
+**Copied link does not paste correctly**
+
+If a user copies a link from an update by right-clicking and selecting "[!UICONTROL Copy link address]", then pastes the link in an update, the link does not paste correctly. Only the first part of the link is a link, and the rest of the URL is ignored.
+
+Copying the link using a method other "[!UICONTROL Copy link address]" allows the link to paste as expected.
+
++++
+
 +++**Maintenance Update on June 20, 2024**
 
 ### Maintenance Update on June 20, 2024

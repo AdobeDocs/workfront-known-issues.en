@@ -9,7 +9,7 @@ exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
 
 If a user copies a link from an update by right-clicking and selecting "[!UICONTROL Copy link address]", then pastes the link in an update, the link does not paste correctly. Only the first part of the link is a link, and the rest of the URL is ignored.
 
-Copying the link using a method other "[!UICONTROL Copy link address]" allows the link to paste as expected.
+Copying the link using a method other than "[!UICONTROL Copy link address]" allows the link to paste as expected.
 
 **Workaround**
 
