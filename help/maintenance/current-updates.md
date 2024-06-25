@@ -34,6 +34,14 @@ If a user copies a link from an update by right-clicking and selecting "[!UICONT
 
 Copying the link using a method other "[!UICONTROL Copy link address]" allows the link to paste as expected.
 
+#### Users
+
+**Users missing when making bulk assignments**
+
+When a user attempts to make bulk assignments, and a job role is assigned to the task, users with that job role do not appear in the list, and the assigning user cannot select them. 
+
+This behavior has also been reported in the Workload Balancer.
+
 +++
 
 +++**Maintenance Update on June 20, 2024**
