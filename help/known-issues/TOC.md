@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Error when bulk editing projects](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
+        + [Tasks: Searching for first name in task assignment does not return users](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
         + [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
         + [Proofs: Closing a proof leads to Product Documents page](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
         + [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
