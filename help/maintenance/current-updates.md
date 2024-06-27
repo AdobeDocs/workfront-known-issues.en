@@ -16,9 +16,9 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in June 2024
 
-+++**(Planned) Maintenance Update on June 27, 2024**
++++**Maintenance Update on June 27, 2024**
 
-### (Planned) Maintenance Update on June 27, 2024
+### Maintenance Update on June 27, 2024
 
 #### Reports
 
@@ -33,14 +33,6 @@ When a user attempts to view a report that has the default currency as USD, the 
 If a user copies a link from an update by right-clicking and selecting "[!UICONTROL Copy link address]", then pastes the link in an update, the link does not paste correctly. Only the first part of the link is a link, and the rest of the URL is ignored.
 
 Copying the link using a method other "[!UICONTROL Copy link address]" allows the link to paste as expected.
-
-#### Users
-
-**Users missing when making bulk assignments**
-
-When a user attempts to make bulk assignments, and a job role is assigned to the task, users with that job role do not appear in the list, and the assigning user cannot select them. 
-
-This behavior has also been reported in the Workload Balancer.
 
 +++
 
