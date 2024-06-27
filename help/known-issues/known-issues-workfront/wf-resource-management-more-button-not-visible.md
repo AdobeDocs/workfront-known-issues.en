@@ -7,6 +7,10 @@ exl-id: 7aa5a227-cdbe-4131-921a-78a87235879a
 ---
 # Resource planning: [!UICONTROL More] button is not visible
 
+>[!NOTE]
+>
+>This issue was closed June 27, 2024.
+
 When a user is viewing the resource planner and attempts to click the [!UICONTROL More] button, the button is not visible.
 
 **Workaround**
