@@ -27,7 +27,6 @@ These recently reported issues are currently under review.
 | [Reports: "No data to display" when grouping name has a forward or back slash](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | June 18, 2024 |
 | [Integrations: Issues with Dropbox integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | June 14, 2024 |
 | [Reports: Error when viewing report details that are grouped by custom date](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | June 14, 2024 |
-| [Resource planning: [!UICONTROL More] button is not visible](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | June 14, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
 
 {style="table-layout:auto"}
@@ -38,7 +37,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [Documents: Error screen when downloading or previewing asset](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | June 17, 2024 |
 | [Tasks: Job role does not disappear from list when user is assigned to task](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | June 7, 2024 |
 | [Project: Cannot convert issue to project if document is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
 | [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | May 28, 2024 |
