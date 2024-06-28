@@ -19,12 +19,13 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |
+| [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md) | June 28, 2024 |
 | [Projects: Error when bulk editing projects](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | June 27, 2024 |
 | [Tasks: Searching for first name in task assignment does not return users](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | June 27, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 | [Proofs: Closing a proof leads to Product Documents page](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | June 24, 2024 |
 | [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | June 24, 2024 |
-| [Proofs: Clicking proof name leads to blank screen](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | June 21, 2024 |
 | [Boards: Board does not display as user when using [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | June 21, 2024 |
 | [Reports: "No data to display" when grouping name has a forward or back slash](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | June 18, 2024 |
 | [Integrations: Issues with Dropbox integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | June 14, 2024 |
