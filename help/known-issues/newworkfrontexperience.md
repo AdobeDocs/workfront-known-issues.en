@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Billing records: Add more billing records button is missing](known-issues-workfront/wf-billing-records-new-button-missing.md) | June 28, 2024 |
 | [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |
 | [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md) | June 28, 2024 |
 | [Projects: Error when bulk editing projects](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | June 27, 2024 |
