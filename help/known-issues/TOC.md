@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Billing records: Add more billing records button is missing](known-issues-workfront/wf-billing-records-new-button-missing.md)
         + [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md)
         + [Projects: Error when bulk editing projects](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
         + [Tasks: Searching for first name in task assignment does not return users](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
