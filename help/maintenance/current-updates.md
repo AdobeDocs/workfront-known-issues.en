@@ -20,6 +20,12 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ### Maintenance Update on June 27, 2024
 
+#### Boards
+
+**Only board owner can update configuration filters**
+
+For security reasons, only the owner of a board can change the board filters in the Configure panel.
+
 #### Reports
 
 **Report does not load when default currency is USD**
