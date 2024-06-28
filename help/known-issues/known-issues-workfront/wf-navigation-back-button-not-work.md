@@ -7,9 +7,13 @@ exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
 ---
 # Navigation: Back button does not go back to previous page
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on June 20, 2024.
+
+-->
 
 When a user in Workfront clicks the Back button of their browser, one of the following may occur.
 
