@@ -15,7 +15,7 @@ role: User
         + [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
         + [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
         + [Issues: Error when making an advanced assignment to an issue](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-        + [Portfolios: User cannot set portfolio](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+        + [Portfolios: User cannot set portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
         + [Workfront: Custom terminology is not applied](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
         + [Time: Filtered hour type is not the default when logging time](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
         + [Billing records: Add more billing records button is missing](known-issues-workfront/wf-billing-records-new-button-missing.md)

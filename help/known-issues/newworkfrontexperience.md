@@ -45,8 +45,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
 | [Issues: Error when making an advanced assignment to an issue](known-issues-workfront/wf-issues-error-when-making-assignment.md) | July 8, 2024 |
-| [Portfolios: User cannot set portfolio](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | July 8, 2024 |
-| [Workfront: Custom terminology is not applied](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | July 8, 2024 |
+| [Portfolios: User cannot set portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | July 8, 2024 |
+| [Workfront: Custom terminology is not applied](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | July 8, 2024 |
 | [Time: Filtered hour type is not the default when logging time](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | July 8, 2024 |
 | [Tasks: Job role does not disappear from list when user is assigned to task](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | June 7, 2024 |
 | [Project: Cannot convert issue to project if document is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
