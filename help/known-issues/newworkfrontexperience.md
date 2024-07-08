@@ -19,6 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: Cannot open items from [!UICONTROL Home Calendar] or [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | July 8, 2024 |
+| [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
+| [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 8, 2024 |
 | [Billing records: Add more billing records button is missing](known-issues-workfront/wf-billing-records-new-button-missing.md) | June 28, 2024 |
 | [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |
 | [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md) | June 28, 2024 |
@@ -41,6 +44,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Issues: Error when making an advanced assignment to an issue](known-issues-workfront/wf-issues-error-when-making-assignment.md) | July 8, 2024 |
+| [Portfolios: User cannot set portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | July 8, 2024 |
+| [Workfront: Custom terminology is not applied](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | July 8, 2024 |
+| [Time: Filtered hour type is not the default when logging time](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | July 8, 2024 |
 | [Tasks: Job role does not disappear from list when user is assigned to task](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | June 7, 2024 |
 | [Project: Cannot convert issue to project if document is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
 | [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | May 28, 2024 |

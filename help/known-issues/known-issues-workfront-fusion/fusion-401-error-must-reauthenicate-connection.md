@@ -7,6 +7,10 @@ feature: Workfront Fusion
 ---
 # [!DNL Workfront Fusion]: "Failed to verify connection" error
 
+>[!NOTE]
+>
+>This issue has been resolved.
+
 <!--This article is live by request for the workaround-->
 
 [!UICONTROL Workfront Fusion] connections to a [!DNL Workfront] account may fail authentication, causing scenarios to throw the following error: 
