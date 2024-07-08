@@ -11,6 +11,13 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: Cannot open items from [!UICONTROL Home Calendar] or [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+        + [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+        + [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+        + [Issues: Error when making an advanced assignment to an issue](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+        + [Portfolios: User cannot set portfolio](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+        + [Workfront: Custom terminology is not applied](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+        + [Time: Filtered hour type is not the default when logging time](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
         + [Billing records: Add more billing records button is missing](known-issues-workfront/wf-billing-records-new-button-missing.md)
         + [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md)
         + [Projects: Error when bulk editing projects](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
