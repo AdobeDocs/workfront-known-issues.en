@@ -14,6 +14,56 @@ The following maintenance updates have been made in 2024.
 
 For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in July 2024
+
++++**(Planned) Maintenance Update on July 11, 2024**
+
+### (Planned) Maintenance Update on July 11, 2024
+
+#### Issues
+
+**Error when making an advanced assignment to an issue**
+
+When a user attempts to make an advanced assignment to an issue in Workfront, the issue is not assigned, and the user sees the following error message:
+
+"[!UICONTROL APIModel INTERNAL does not support field duration (OpTask)]"
+
+#### Reports
+
+**Whoops error when setting matrix settings on Hour report**
+
+When a user attempts to set the matrix settings on an Hour report, they cannot set the settings, and they see the following error:
+
+* "[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
+
+
++++
+
++++**Maintenance Update on July 4, 2024**
+
+### Maintenance Update on July 4, 2024
+
+#### Home
+
+**Three dot menu is ineffective**
+
+When a user clicks the three-dot More menu in the legacy Home Worlkist, no action is triggered.
+
+#### Reports
+
+**"No data to display" when grouping name has forward or back slash**
+
+When a user is viewing a chart in a report and clicks a grouping on the chart, and that grouping has a / or \ in the name, the details that open do not display the items in the grouping, and the user sees a "No data to display" message.
+
+#### Tasks
+
+**Job role does not disappear from list when user is assigned to task**
+
+When a job role is assigned to a task, and that task is assigned to a user that has the job role, the job role does not disappear from the list of assignments.
+
+
++++
+
 ## Updates in June 2024
 
 +++**Maintenance Update on June 27, 2024**
