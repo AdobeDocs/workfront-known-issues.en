@@ -31,7 +31,6 @@ These recently reported issues are currently under review.
 | [Proofs: Closing a proof leads to Product Documents page](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | June 24, 2024 |
 | [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | June 24, 2024 |
 | [Boards: Board does not display as user when using [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | June 21, 2024 |
-| [Reports: "No data to display" when grouping name has a forward or back slash](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | June 18, 2024 |
 | [Integrations: Issues with Dropbox integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | June 14, 2024 |
 | [Reports: Error when viewing report details that are grouped by custom date](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | June 14, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
@@ -44,11 +43,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | July 9, 2024 |
 | [Issues: Error when making an advanced assignment to an issue](known-issues-workfront/wf-issues-error-when-making-assignment.md) | July 8, 2024 |
 | [Portfolios: User cannot set portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | July 8, 2024 |
 | [Workfront: Custom terminology is not applied](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | July 8, 2024 |
 | [Time: Filtered hour type is not the default when logging time](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | July 8, 2024 |
-| [Tasks: Job role does not disappear from list when user is assigned to task](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | June 7, 2024 |
 | [Project: Cannot convert issue to project if document is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | May 29, 2024 |
 | [Users: Users missing when making bulk assignments](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | May 28, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |

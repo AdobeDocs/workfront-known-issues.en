@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: Cannot open proofs](known-issues-workfront/wf-mobile-proofs-not-open.md) | July 9, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 8, 2024 |
 | [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |

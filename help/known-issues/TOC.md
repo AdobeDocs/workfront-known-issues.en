@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Workfront Mobile: Cannot open proofs](known-issues-workfront/wf-mobile-proofs-not-open.md)
         + [Home: Cannot open items from [!UICONTROL Home Calendar] or [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
         + [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
         + [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
