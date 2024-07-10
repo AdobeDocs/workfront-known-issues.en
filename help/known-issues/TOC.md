@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Agile: Story board goes blank when adding a subtask](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+        + [Users: User profile page loads continuously](known-issues-workfront/wf-users-profile-continuously-reloads.md)
         + [Workfront Mobile: Cannot open proofs](known-issues-workfront/wf-mobile-proofs-not-open.md)
         + [Home: Cannot open items from [!UICONTROL Home Calendar] or [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
         + [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
