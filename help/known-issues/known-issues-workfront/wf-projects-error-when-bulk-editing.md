@@ -7,6 +7,10 @@ feature: Projects
 
 # Projects: Error when bulk editing projects
 
+>[!NOTE]
+>
+>This issue was fixed on July 8, 2024.
+
 When a user attempts to bulk edit projects, the edit window is blank, and the user sees the following error:
 
 "An unexpected error occurred"
