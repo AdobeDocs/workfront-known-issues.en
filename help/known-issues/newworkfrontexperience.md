@@ -45,7 +45,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 |----------------------------------| ----------------- |
 | [Users: User profile page loads continuously](known-issues-workfront/wf-users-profile-continuously-reloads.md) | July 10, 2024 |
 | [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | July 9, 2024 |
-| [Issues: Error when making an advanced assignment to an issue](known-issues-workfront/wf-issues-error-when-making-assignment.md) | July 8, 2024 |
 | [Portfolios: User cannot set portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | July 8, 2024 |
 | [Workfront: Custom terminology is not applied](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | July 8, 2024 |
 | [Time: Filtered hour type is not the default when logging time](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | July 8, 2024 |
