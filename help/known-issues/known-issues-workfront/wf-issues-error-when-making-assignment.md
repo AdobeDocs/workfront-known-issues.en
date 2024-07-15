@@ -7,10 +7,6 @@ feature: Work Management
 
 # Issues: Error when making an advanced assignment to an issue
 
->[!NOTE]
->
->This issue was fixed on July 11, 2024.
-
 When a user attempts to make an advanced assignment to an issue in Workfront, the issue is not assigned, and the user sees the following error message:
 
 "[!UICONTROL APIModel INTERNAL does not support field duration (OpTask)]"
