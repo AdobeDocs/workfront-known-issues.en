@@ -7,6 +7,10 @@ feature: Timesheets, Work Management
 
 # Time: Filtered hour type is not the default when logging time
 
+>[!NOTE]
+>
+>This issue was fixed on July 9, 2024.
+
 When a user is logging time, the preselected hour type is "[!UICONTROL Task time]" instead of the filtered hour type for that project.
 
 The user can select the correct hour type from the hour type dropdown, but this is an extra step.

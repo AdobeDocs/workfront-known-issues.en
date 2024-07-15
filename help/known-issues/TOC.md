@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md)
         + [Agile: Story board goes blank when adding a subtask](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
         + [Users: User profile page loads continuously](known-issues-workfront/wf-users-profile-continuously-reloads.md)
         + [Workfront Mobile: Cannot open proofs](known-issues-workfront/wf-mobile-proofs-not-open.md)
