@@ -16,6 +16,45 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in July 2024
 
+
+
++++**(Planned) Maintenance Update on July 18, 2024**
+
+### (Planned) Maintenance Update on July 18, 2024
+
+#### Agile
+
+**Story board goes blank when adding a subtask**
+
+When a user attempts to add a subtask to a story board while a filter is selected, the screen goes blank, and the user cannot add the subtask.
+
+#### Home
+
+**Cannot open items from [!UICONTROL Home Calendar] or [!UICONTROL Work List]**
+
+When a user attempts to open a work item or proof from their [!UICONTROL Home Calendar] or [!UICONTROL Home Work List], the item does not open.
+
+#### Proofs
+
+**Closing a proof leads to Product Documents page**
+
+When a user is viewing a proof and closes the proof, the user is directed to the Project Documents page instead of the page that the proof was opened from.
+
+#### Workfront
+
+**Custom terminology is not applied**
+
+Custom terminology set in the layout template does not appear in some areas of Workfront. Instead, the default non-custom terminology appears. 
+
+This has been reported in the following areas:
+
+* Menu tabs
+* Page headers
+* Descriptions where projects are listed
+
+
++++
+
 +++**Maintenance Update on July 11, 2024**
 
 ### Maintenance Update on July 11, 2024
