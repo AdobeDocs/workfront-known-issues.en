@@ -9,4 +9,8 @@ feature: Workfront Integrations and Apps, Digital Content and Documents
 
 When a user links a folder in [!DNL Google Drive] to Workfront, the assets in that folder are not linked. The number of assets in the folder displays as 0.
 
+**Workaround**
+
+Reauthenticate your Google connection.
+
 _First reported on June 1, 2024._
