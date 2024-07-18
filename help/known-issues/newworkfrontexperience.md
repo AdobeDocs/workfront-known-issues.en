@@ -19,6 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Users: Cannot modify user's access level](known-issues-workfront/wf-users-cannot-modify-access-level.md) | July 18, 2024 |
+| [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md) | July 18, 2024 |
+| [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | July 18, 2024 |
 | [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |
 | [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md) | June 28, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
@@ -36,6 +39,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Projects: Currency symbol is incorrect when exporting](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | July 18, 2024 |
+| [Custom forms: Dropdown closes when selecting multiple values](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | July 18, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 18, 2024 |
 | [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 18, 2024 |
 | [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md) | July 15, 2024 |

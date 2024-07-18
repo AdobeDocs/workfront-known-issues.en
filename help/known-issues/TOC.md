@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Currency symbol is incorrect when exporting](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+        + [Custom forms: Dropdown closes when selecting multiple values](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+        + [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md)
+        + [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
         + [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md)
         + [Agile: Story board goes blank when adding a subtask](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
         + [Users: User profile page loads continuously](known-issues-workfront/wf-users-profile-continuously-reloads.md)

@@ -18,9 +18,9 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 
 
-+++**(Planned) Maintenance Update on July 18, 2024**
++++**Maintenance Update on July 18, 2024**
 
-### (Planned) Maintenance Update on July 18, 2024
+### Maintenance Update on July 18, 2024
 
 #### Agile
 
@@ -33,6 +33,10 @@ When a user attempts to add a subtask to a story board while a filter is selecte
 **Cannot open items from [!UICONTROL Home Calendar] or [!UICONTROL Work List]**
 
 When a user attempts to open a work item or proof from their [!UICONTROL Home Calendar] or [!UICONTROL Home Work List], the item does not open.
+
+**Admin's own Home displays when logged in as another user**
+
+When an admin is logged in as another user and views that user's Home, the admin's own Home displays.
 
 #### Proofs
 
