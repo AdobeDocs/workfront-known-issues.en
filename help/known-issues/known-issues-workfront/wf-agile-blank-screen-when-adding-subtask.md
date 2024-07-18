@@ -7,6 +7,10 @@ feature: Agile
 
 # Agile: Story board goes blank when adding a subtask
 
+>[!NOTE]
+>
+>This issue was fixed on July 18, 2024.
+
 When a user attempts to add a subtask to a story board while a filter is selected, the screen goes blank, and the user cannot add the subtask.
 
 **Workaround**

@@ -7,6 +7,10 @@ feature: Work Management
 
 # Workfront: Custom terminology is not applied
 
+>[!NOTE]
+>
+>This issue was fixed on July 18, 2024
+
 Custom terminology set in the layout template does not appear in some areas of Workfront. Instead, the default non-custom terminology appears. 
 
 This has been reported in the following areas:

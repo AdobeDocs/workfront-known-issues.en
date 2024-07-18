@@ -7,6 +7,10 @@ feature: Get Started with Workfront
 
 # Home: Cannot open items from [!UICONTROL Home Calendar] or [!UICONTROL Work List]
 
+>[!NOTE]
+>
+>This issue was fixed on July 18, 2024.
+
 When a user attempts to open a work item or proof from their [!UICONTROL Home Calendar] or [!UICONTROL Home Work List], the item does not open.
 
 **Workaround**
