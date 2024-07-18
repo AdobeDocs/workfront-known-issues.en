@@ -7,6 +7,10 @@ feature: Tasks, People Teams and Groups
 
 # Tasks: Searching for first name in task assignment does not return users
 
+>[!NOTE]
+>
+>This issue has been closed because it could not be reproduced.
+
 When a user is making a task assignment and attempts to search for the assignee by first name, the search does not return any users, and the user sees the message "No results found."
 
 **Workaround**

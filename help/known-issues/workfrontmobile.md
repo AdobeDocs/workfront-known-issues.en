@@ -13,17 +13,11 @@ This page contains issues currently identified in [!DNL Adobe Workfront] Mobile 
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
-<!--**There are currently no known issues for [!DNL Workfront Mobile]**
+**There are currently no known issues for [!DNL Workfront Mobile]**
 
 
 
-## Current Issues
-
-|Issue  |Last Modified   | 
-|---|---|
-|Issue text  | YYYY/MM/DD  | 
-
--->
+<!--
 
 ## New
 
@@ -31,4 +25,11 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Mobile: Cannot open proofs](known-issues-workfront/wf-mobile-proofs-not-open.md) | July 9, 2024 |
+|Issue text  | YYYY/MM/DD  | 
+
+## Current Issues
+
+|Issue  |Last Modified   | 
+|---|---|
+|Issue text  | YYYY/MM/DD  | 
+-->
