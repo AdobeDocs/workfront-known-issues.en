@@ -19,8 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Mobile: Cannot open proofs](known-issues-workfront/wf-mobile-proofs-not-open.md) | July 9, 2024 |
-| [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 8, 2024 |
 | [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
@@ -36,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md) | July 15, 2024 |
 | [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md) | June 5, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | May 8, 2024 |

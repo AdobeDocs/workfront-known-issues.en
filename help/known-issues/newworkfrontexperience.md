@@ -19,11 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
-| [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 8, 2024 |
 | [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |
 | [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md) | June 28, 2024 |
-| [Tasks: Searching for first name in task assignment does not return users](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | June 27, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 | [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | June 24, 2024 |
 | [Boards: Board does not display as user when using [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | June 21, 2024 |
@@ -39,8 +36,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 18, 2024 |
+| [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 18, 2024 |
 | [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md) | July 15, 2024 |
-| [Users: User profile page loads continuously](known-issues-workfront/wf-users-profile-continuously-reloads.md) | July 10, 2024 |
 | [Portfolios: User cannot set portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | July 8, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
 | [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
