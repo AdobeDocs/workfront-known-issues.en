@@ -7,6 +7,10 @@ feature: Work Management
 
 # Billing records: Add more billing records button is missing
 
+>[!NOTE]
+>
+>This issue was fixed on July 18, 2024.
+
 When a user is viewing a list of billing records and attempts to add a new one, they see that the Add new billing record button is missing from the top of the page.
 
 **Workaround**
