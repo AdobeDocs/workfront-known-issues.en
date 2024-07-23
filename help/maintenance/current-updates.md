@@ -22,6 +22,28 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ### Maintenance Update on July 18, 2024
 
+#### Custom forms
+
+**Dropdown closes when selecting multiple values**
+
+When a user attempts to select multiple values on a custom form field, the dropdown closes after the first value is selected. 
+
+This occurs when the field is associated with display logic in the custom form.
+
+#### Notifications
+
+**Thumbnails not visible in email notifications**
+
+When a user views an email notification regarding a document approval, the document thumbnail is not visible in the email.
+
+This has been reported in Gmail.
+
++++
+
++++**Maintenance Update on July 18, 2024**
+
+### Maintenance Update on July 18, 2024
+
 #### Agile
 
 **Story board goes blank when adding a subtask**
