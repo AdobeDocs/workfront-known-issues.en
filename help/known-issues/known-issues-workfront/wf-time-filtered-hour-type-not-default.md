@@ -1,10 +1,10 @@
 ---
-title: "Time: Filtered hour type is not the default when logging time"
-description: "When a user is logging time, the preselected hour type is Task time instead of the filtered hour type for that project."
+title: 'Time: Filtered hour type is not the default when logging time'
+description: When a user is logging time, the preselected hour type is Task time instead of the filtered hour type for that project.
 hidefromtoc: yes
 feature: Timesheets, Work Management
+exl-id: 35ce305b-994f-42ee-a911-14f922ad9c39
 ---
-
 # Time: Filtered hour type is not the default when logging time
 
 >[!NOTE]

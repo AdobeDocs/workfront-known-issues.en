@@ -1,10 +1,10 @@
 ---
-title: "Tasks: Searching for first name in task assignment does not return users"
-description: "When a user is making a task assignment and attempts to search for the assignee by first name, the search does not return any users, and the user sees the message No results found. A workaround is available."
+title: 'Tasks: Searching for first name in task assignment does not return users'
+description: When a user is making a task assignment and attempts to search for the assignee by first name, the search does not return any users, and the user sees the message No results found. A workaround is available.
 hidefromtoc: yes
 feature: Tasks, People Teams and Groups
+exl-id: 0c31d1e4-7025-45a7-96ed-a7f9a4447eca
 ---
-
 # Tasks: Searching for first name in task assignment does not return users
 
 >[!NOTE]

@@ -1,10 +1,10 @@
 ---
-title: "Billing records: Add more billing records button is missing"
-description: "When a user is viewing a list of billing records and attempts to add a new one, they see that the Add new billing record button is missing from the top of the page."
+title: 'Billing records: Add more billing records button is missing'
+description: When a user is viewing a list of billing records and attempts to add a new one, they see that the Add new billing record button is missing from the top of the page.
 hidefromtoc: yes
 feature: Work Management
+exl-id: 131ac94b-af89-4e41-acba-e8eeacd290af
 ---
-
 # Billing records: Add more billing records button is missing
 
 >[!NOTE]

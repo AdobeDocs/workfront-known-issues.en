@@ -1,10 +1,10 @@
 ---
-title: "Integrations: Cannot add new version of a document from [!DNL Google Drive]"
-description: "If a user is viewing a document list, and attempts to add a new version of a document from [!DNL Google Drive], they see a message. A workaround is available."
+title: 'Integrations: Cannot add new version of a document from [!DNL Google Drive]'
+description: If a user is viewing a document list, and attempts to add a new version of a document from [!DNL Google Drive], they see a message. A workaround is available.
 hidefromtoc: yes
 feature: Workfront Integrations and Apps, Digital Content and Documents
+exl-id: f3158228-7df2-4063-99f9-5d01a224ada4
 ---
-
 # Integrations: Cannot add new version of a document from [!DNL Google Drive]
 
 If a user is viewing a document list, and attempts to add a new version of a document from [!DNL Google Drive], they see the message:

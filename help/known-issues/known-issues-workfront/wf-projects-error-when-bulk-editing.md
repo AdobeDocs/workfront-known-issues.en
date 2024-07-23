@@ -1,10 +1,10 @@
 ---
-title: "Projects: Error when bulk editing projects"
-description: "When a user attempts to bulk edit projects, the edit window is blank, and the user sees an error."
+title: 'Projects: Error when bulk editing projects'
+description: When a user attempts to bulk edit projects, the edit window is blank, and the user sees an error.
 hidefromtoc: yes
 feature: Projects
+exl-id: dd41e8b8-42af-425a-815f-29c3f303b27f
 ---
-
 # Projects: Error when bulk editing projects
 
 >[!NOTE]

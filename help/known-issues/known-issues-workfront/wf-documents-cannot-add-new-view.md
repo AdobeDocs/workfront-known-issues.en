@@ -1,10 +1,10 @@
 ---
-title: "Cannot create view for Documents list"
-description: "When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. "
+title: Cannot create view for Documents list
+description: 'When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. '
 hidefromtoc: yes
 feature: Digital Content and Documents, Work Management
+exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
 ---
-
 # Cannot create view for Documents list
 
 When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. 

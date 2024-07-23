@@ -1,10 +1,10 @@
 ---
-title: "Users: User profile page loads continuously"
-description: "When a user attempts to view a user profile page, the page appears to be loading, but does not fully load."
+title: 'Users: User profile page loads continuously'
+description: When a user attempts to view a user profile page, the page appears to be loading, but does not fully load.
 hidefromtoc: yes
 feature: People Teams and Groups
+exl-id: fd7787f4-e446-4cf5-843c-deb2d1468975
 ---
-
 # Users: User profile page loads continuously
 
 >[!NOTE]
