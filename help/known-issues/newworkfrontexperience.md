@@ -40,8 +40,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
 | [Projects: Currency symbol is incorrect when exporting](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | July 18, 2024 |
-| [Custom forms: Dropdown closes when selecting multiple values](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | July 18, 2024 |
-| [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 18, 2024 |
 | [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 18, 2024 |
 | [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md) | July 15, 2024 |
 | [Portfolios: User cannot set portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | July 8, 2024 |
