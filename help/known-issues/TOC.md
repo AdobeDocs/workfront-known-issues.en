@@ -11,6 +11,11 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Users are not notified of directed updates](known-issues-workfront/wf-updates-users-not-getting-email.md)
+        + [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md)
+        + [Log in as: Home and pins display inaccurately when logging out of "Log in as"](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+        + [Tasks: Tasks are missing inherited permissions](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+        + [Access Levels: Duplicate access levels in Setup area](known-issues-workfront/wf-access-duplicate-level.md)
         + [Projects: Currency symbol is incorrect when exporting](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
         + [Custom forms: Dropdown closes when selecting multiple values](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
         + [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md)
