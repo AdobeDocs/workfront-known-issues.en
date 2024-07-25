@@ -7,12 +7,10 @@ exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
 ---
 # Users: Cannot modify user's access level
 
-
-<!--
 >[!NOTE]
 >
 >This issue was fixed on June 6, 2024.
--->
+
 
 When a group administrator attempts to modify the access level of a user in the group, the access level field is disabled, and the group administrator cannot change the user's access level.
 
