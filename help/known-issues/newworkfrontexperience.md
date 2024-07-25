@@ -21,12 +21,9 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | July 25, 2024 |
 | [Log in as: Home and pins display inaccurately when logging out of "Log in as"](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | July 25, 2024 |
-| [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | July 23 2024 |
 | [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md) | July 18, 2024 |
-| [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |
 | [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md) | June 28, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
-| [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | June 24, 2024 |
 | [Boards: Board does not display as user when using [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | June 21, 2024 |
 | [Integrations: Issues with Dropbox integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | June 14, 2024 |
 | [Reports: Error when viewing report details that are grouped by custom date](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | June 14, 2024 |
@@ -40,6 +37,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | July 25 2024 |
 | [Updates: Users are not notified of directed updates](known-issues-workfront/wf-updates-users-not-getting-email.md) | July 25, 2024 |
 | [Tasks: Tasks are missing inherited permissions](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | July 25, 2024 |
 | [Access Levels: Duplicate access levels in Setup area](known-issues-workfront/wf-access-duplicate-level.md) | July 25, 2024 |

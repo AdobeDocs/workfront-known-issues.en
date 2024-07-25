@@ -7,6 +7,10 @@ exl-id: f3158228-7df2-4063-99f9-5d01a224ada4
 ---
 # Integrations: Cannot add new version of a document from [!DNL Google Drive]
 
+>[!NOTE]
+>
+>This issue was closed on July 25, 2024.
+
 If a user is viewing a document list, and attempts to add a new version of a document from [!DNL Google Drive], they see the message:
 
 `There was an error accessing your documents, You need to reauthorize Workfront for access your Google Drive files. Press the "Reauthorize Google Drive" button to continue.`
