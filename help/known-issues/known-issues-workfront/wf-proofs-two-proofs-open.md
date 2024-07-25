@@ -9,7 +9,7 @@ feature: Digital Content and Documents
 
 When a user opens a proof, two browser tabs open with the same proof. 
 
-This has been reported when using Unified Shell
+This has been reported when using Unified Shell.
 
 **Workaround**
 
