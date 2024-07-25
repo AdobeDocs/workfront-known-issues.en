@@ -2,7 +2,7 @@
 title: "Tasks: Tasks are missing inherited permissions"
 description: ""
 hidefromtoc: yes
-feature: 
+feature: Tasks
 ---
 
 # Tasks: Tasks are missing inherited permissions
