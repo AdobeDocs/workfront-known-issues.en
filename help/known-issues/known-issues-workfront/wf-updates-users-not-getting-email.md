@@ -1,10 +1,10 @@
 ---
-title: "Updates: Users are not notified of directed updates"
-description: "When a user is making a comment and mentions or tags another user, the tagged user does not receive an email or in-app notification about the comment."
+title: 'Updates: Users are not notified of directed updates'
+description: When a user is making a comment and mentions or tags another user, the tagged user does not receive an email or in-app notification about the comment.
 hidefromtoc: yes
 feature: Updates and Notifications
+exl-id: aa250248-a9a3-4ea5-8ddf-d9ab2cd24762
 ---
-
 # Updates: Users are not notified of directed updates
 
 When a user is making a comment and mentions or tags another user, the tagged user does not receive an email or in-app notification about the comment.

@@ -1,10 +1,10 @@
 ---
-title: "Log in as: Home and pins display inaccurately when logging out of Log in as"
-description: "When a user who is logged in as another user logs out as that user, they see the following issues on their Home screen."
+title: 'Log in as: Home and pins display inaccurately when logging out of Log in as'
+description: When a user who is logged in as another user logs out as that user, they see the following issues on their Home screen.
 hidefromtoc: yes
 feature: System Setup and Administration, Get Started with Workfront
+exl-id: 3614563d-7f53-4632-b09f-2874133aa217
 ---
-
 # Log in as: Home and pins display inaccurately when logging out of "Log in as"
 
 When a user who is logged in as another user logs out as that user, they see the following:
