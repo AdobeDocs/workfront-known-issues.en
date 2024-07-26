@@ -22,9 +22,7 @@ These recently reported issues are currently under review.
 | [Agile: Story board goes blank when adding a subtask](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | July 26, 2024 |
 | [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | July 25, 2024 |
 | [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 8, 2024 |
-| [Documents: Document count is inaccurate](known-issues-workfront/wf-documents-count-only-root-folder.md) | June 28, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
-| [Integrations: Cannot add new version of a document from [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | June 24, 2024 |
 | [Integrations: Issues with Dropbox integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | June 14, 2024 |
 | [Notifications: Notifications from document approvals beta not formatted correctly](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | April 22, 2024 |
 
