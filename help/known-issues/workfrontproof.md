@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Story board goes blank when adding a subtask](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | July 26, 2024 |
 | [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | July 25, 2024 |
 | [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 8, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
