@@ -14,9 +14,34 @@ The following maintenance updates have been made in 2024.
 
 For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
+## Updates in August 2024
+
++++**(Planned) Maintenance Update on August 1, 2024**
+
+### (Planned) Maintenance Update on August 1, 2024
+
+## Documents
+
+**Cannot create view for Documents list**
+
+When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. 
+
+Existing views work as expected.
+
+#### Integrations
+
+**Issues with Dropbox integration**
+
+The following issues have been reported regarding the Dropbox integration:
+
+* When a user attempts to search for a file in the Dropbox file selector, they see an authorization error message, and the file selector does not retrieve the file from Dropbox.
+* When a user attempts to open a linked folder, the user sees an error stating that the files or folder no longer exist in Dropbox.
+
+These issues are due to issues with Dropbox, not Workfront.
+
++++
+
 ## Updates in July 2024
-
-
 
 +++**Maintenance Update on July 25, 2024**
 
