@@ -7,6 +7,10 @@ exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
 ---
 # Documents: Cannot create view for Documents list
 
+>[!NOTE]
+>
+>This issue was fixed on August 1, 2024.
+
 When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. 
 
 Existing views work as expected.
