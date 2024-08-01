@@ -20,6 +20,10 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ### (Planned) Maintenance Update on August 1, 2024
 
+This update includes only minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
+
+<!--
+
 #### Documents
 
 **Cannot create view for Documents list**
@@ -38,6 +42,8 @@ The following issues have been reported regarding the Dropbox integration:
 * When a user attempts to open a linked folder, the user sees an error stating that the files or folder no longer exist in Dropbox.
 
 These issues are due to issues with Dropbox, not Workfront.
+
+-->
 
 +++
 
