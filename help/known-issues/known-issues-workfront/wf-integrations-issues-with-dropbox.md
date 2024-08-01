@@ -7,6 +7,10 @@ exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
 ---
 # Integrations: Issues with Dropbox integration
 
+>[!NOTE]
+>
+>This issue was fixed on August 1, 2024.
+
 The following issues have been reported regarding the Dropbox integration:
 
 * When a user attempts to search for a file in the Dropbox file selector, they see an authorization error message, and the file selector does not retrieve the file from Dropbox.
