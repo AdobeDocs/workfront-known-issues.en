@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None | |
+| [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | August 5, 2024 |
 
 {style="table-layout:auto"}
 

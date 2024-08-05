@@ -11,6 +11,17 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md)
+        + [Custom forms: Browser crashes when building large forms](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+        + [Reports: Reports deliveries are delayed or missing](known-issues-workfront/wf-reports-not-delivered.md)
+        + [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+        + [Custom forms: Form builder crashes when entering display logic](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+        + [Documents: Clicking a document name leads to blank page](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+        + [Custom forms: Cannot scroll external lookup field](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+        + [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+        + [Workfront Fusion: Cannot authenticate a connection using Workfront Log in as functionality](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+        + [Setup: "Log in as" leads to blank screen](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+        + [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md)
         + [Updates: Users are not notified of directed updates](known-issues-workfront/wf-updates-users-not-getting-email.md)
         + [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md)
         + [Log in as: Home and pins display inaccurately when logging out of "Log in as"](known-issues-workfront/wf-login-as-displays-when-logged-out.md)

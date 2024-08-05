@@ -7,9 +7,13 @@ exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
 ---
 # Boards: Issues regarding duplicate cards
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on May 2, 2024.
+
+-->
 
 The following issues have been reported regarding duplicate cards in Boards:
 

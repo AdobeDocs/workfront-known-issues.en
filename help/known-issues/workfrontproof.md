@@ -34,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Clicking a document name leads to blank page](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | August 5 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md) | July 15, 2024 |
 | [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md) | June 5, 2024 |
