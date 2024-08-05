@@ -2,7 +2,7 @@
 title: "Custom forms: Cannot scroll external lookup field"
 description: "When a user attempts to view the options in an external lookup field, the options dropdown does not scroll, and the user cannot see the entire list of options"
 hidefromtoc: yes
-feature: Custom forms
+feature: Custom Forms
 ---
 
 # Custom forms: Cannot scroll external lookup field

@@ -2,7 +2,7 @@
 title: "Custom forms: Form builder crashes when entering display logic"
 description: "When a user is attempting to build a custom form and enters display logic, the form builder crashes, and the user sees a message."
 hidefromtoc: yes
-feature: Custom forms
+feature: Custom Forms
 ---
 
 # Custom forms: Form builder crashes when entering display logic

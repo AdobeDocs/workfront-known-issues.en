@@ -2,7 +2,7 @@
 title: "Custom forms: Browser crashes when building large forms"
 description: "When a user is building or editing a large form in the form designer, the browser may crash, and the user cannot create or edit the form."
 hidefromtoc: yes
-feature: Custom forms
+feature: Custom Forms
 ---
 
 # Custom forms: Browser crashes when building large forms

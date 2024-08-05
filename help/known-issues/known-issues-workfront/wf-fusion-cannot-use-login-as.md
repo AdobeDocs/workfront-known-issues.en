@@ -2,7 +2,7 @@
 title: "Workfront Fusion: Cannot authenticate a connection using Workfront Log in as functionality"
 description: "When creating a connection in Workfront Fusion, a user cannot authenticate the connection while logged in as another user."
 hidefromtoc: yes
-feature: 
+feature: Workfront Fusion
 ---
 
 # Workfront Fusion: Cannot authenticate a connection using Workfront Log in as functionality
