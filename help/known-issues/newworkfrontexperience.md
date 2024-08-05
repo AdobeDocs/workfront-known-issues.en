@@ -36,6 +36,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | July 25 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | July 25 2024 |
 | [Access Levels: Duplicate access levels in Setup area](known-issues-workfront/wf-access-duplicate-level.md) | July 25, 2024 |
 | [Projects: Currency symbol is incorrect when exporting](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | July 18, 2024 |
