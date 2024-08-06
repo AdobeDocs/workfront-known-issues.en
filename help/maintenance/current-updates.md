@@ -16,6 +16,30 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2024
 
++++**(Planned) Maintenance Update on August 8, 2024**
+
+### (Planned) Maintenance Update on August 8, 2024
+
+#### Boards
+
+**Card does not include subtasks**
+
+When a user is viewing a card for a task that is a parent task, the subtasks of that parent task do not display on the card. Instead, the card shows that there are 0 subtasks.
+
+### Reports
+
+**Report deliveries are delayed or missing**
+
+Reports with scheduled deliveries are not being delivered as expected. They may be late, or they may not be delivered at all.
+
+#### Setup
+
+**"Log in as" leads to blank screen**
+
+When an admin logs in as another user, instead of seeing that user's account, the admin sees a blank screen.
+
++++
+
 +++**Maintenance Update on August 1, 2024**
 
 ### Maintenance Update on August 1, 2024
