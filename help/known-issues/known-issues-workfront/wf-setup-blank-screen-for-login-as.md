@@ -7,6 +7,10 @@ feature: System Setup and Administration
 
 # Setup: "Log in as" leads to blank screen
 
+>[!NOTE]
+>
+>This issue was fixed on August 8, 2024.
+
 When an admin logs in as another user, instead of seeing that user's account, the admin sees a blank screen.
 
 **Workaround**
