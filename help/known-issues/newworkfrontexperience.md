@@ -40,6 +40,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
 | [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | August 5, 2024 |
+| [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | August 8 2024 |
 | [Custom forms: Browser crashes when building large forms](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | August 5 2024 |
 | [Custom forms: Form builder crashes when entering display logic](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | August 5 2024 |
 | [Documents: Clicking a document name leads to blank page](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | August 5 2024 |
