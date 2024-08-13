@@ -16,9 +16,9 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2024
 
-+++**Maintenance Update on August 15, 2024**
++++**(Planned) Maintenance Update on August 15, 2024**
 
-### Maintenance Update on August 15, 2024
+### (Planned) Maintenance Update on August 15, 2024
 
 #### Boards
 
