@@ -16,6 +16,41 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2024
 
++++**Maintenance Update on August 15, 2024**
+
+### Maintenance Update on August 15, 2024
+
+#### Boards
+
+**Issues regarding duplicate cards**
+
+The following issues have been reported regarding duplicate cards in Boards:
+
+* A card displays twice. This may be resolved by refreshing the page.
+* If a user deletes one of the duplicate cards, all instances of that duplicated card are deleted.
+
+#### Notifications
+
+**Whoops error when setting notification preferences**
+
+When a user attempts to view notification preferences, they see the following error:
+
+"[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
+
+This has been reported in the following areas:
+
+* Notification settings on a user profile
+* Event Notifications area in Setup
+
+#### Projects
+
+**Currency symbol is incorrect when exporting** 
+
+When a user exports an issue, the currency symbol in the export does not match the currency set in the project or the issue.
+
+
++++
+
 +++**Maintenance Update on August 8, 2024**
 
 ### Maintenance Update on August 8, 2024
