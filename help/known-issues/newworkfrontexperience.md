@@ -44,7 +44,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
 | [Reports: Cannot click on a report from Custom Fields area of Setup](known-issues-workfront/wf-reports-cannot-click-on-report.md) | August 14, 2024 |
-| [Integrations: Error when creating a request from Outlook](known-issues-workfront/wf-notifications-whoops-error.md) | August 14, 2024 |
+| [Integrations: Error when creating a request from Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | August 14, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
 | [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md) | August 8, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | August 8, 2024 |
