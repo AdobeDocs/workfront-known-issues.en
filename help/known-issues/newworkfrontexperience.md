@@ -19,6 +19,12 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | August 14, 2024 |
+| [Requests: User can change status despite lack of permissions](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | August 14, 2024 |
+| [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | August 14, 2024 |
+| [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | August 14, 2024 |
+| [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | August 14, 2024 |
+| [Users: Email locale setting for user is not saving](known-issues-workfront/wf-users-email-locale-not-saving.md) | August 14, 2024 |
 | [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | August 5, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | August 5, 2024 |
 | [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | July 25, 2024 |
@@ -37,6 +43,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Reports: Cannot click on a report from Custom Fields area of Setup](known-issues-workfront/wf-reports-cannot-click-on-report.md) | August 14, 2024 |
+| [Integrations: Error when creating a request from Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | August 14, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
 | [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md) | August 8, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | August 8, 2024 |

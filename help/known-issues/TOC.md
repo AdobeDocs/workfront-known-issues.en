@@ -11,6 +11,14 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+        + [Reports: Cannot click on a report from Custom Fields area of Setup](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+        + [Requests: User can change status despite lack of permissions](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+        + [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+        + [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+        + [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md)
+        + [Users: Email locale setting for user is not saving](known-issues-workfront/wf-users-email-locale-not-saving.md)
+        + [Integrations: Error when creating a request from Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
         + [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md)
         + [Custom forms: Browser crashes when building large forms](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
         + [Reports: Reports deliveries are delayed or missing](known-issues-workfront/wf-reports-not-delivered.md)

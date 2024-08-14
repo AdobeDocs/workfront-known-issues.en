@@ -48,6 +48,12 @@ This has been reported in the following areas:
 
 When a user exports an issue, the currency symbol in the export does not match the currency set in the project or the issue.
 
+#### Proofs
+
+**Proof markups are inaccurate**
+
+Proof markups are misaligned on PDF printouts received via email from the Proof Print feature.
+
 
 +++
 
