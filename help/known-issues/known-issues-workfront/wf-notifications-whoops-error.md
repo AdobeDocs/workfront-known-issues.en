@@ -7,6 +7,10 @@ feature: Updates and Notifications
 
 # Notifications: Whoops error when setting notification preferences
 
+>[!NOTE]
+>
+>This issue was fixed on August 15, 2024.
+
 When a user attempts to view notification preferences, they see the following error:
 
 "[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"

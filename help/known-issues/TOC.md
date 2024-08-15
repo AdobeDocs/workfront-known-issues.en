@@ -11,6 +11,12 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md)
+        + [Documents: Cannot preview documents with preview link](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+        + [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+        + [Custom forms: Cannot edit fields on field list page](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+        + [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md)
+        + [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
         + [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
         + [Reports: Cannot click on a report from Custom Fields area of Setup](known-issues-workfront/wf-reports-cannot-click-on-report.md)
         + [Requests: User can change status despite lack of permissions](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
