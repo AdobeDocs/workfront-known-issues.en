@@ -7,13 +7,13 @@ exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
 ---
 # Notifications: Thumbnails not visible in email notifications
 
-<!--
-
 >[!NOTE]
 >
 >This issue was fixed on July 29, 2024.
 
--->
+>[!IMPORTANT]
+>
+>Thumbnails are not supported in Gmail.
 
 When a user views an email notification regarding a document approval, the document thumbnail is not visible in the email.
 
