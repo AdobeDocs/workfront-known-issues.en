@@ -7,6 +7,10 @@ exl-id: 26a131ae-91c9-4f81-baf5-7571213bcffc
 ---
 # Access Levels: Duplicate access levels in Setup area
 
+>[!NOTE]
+>
+>This issue was fixed on August 8, 2024.
+
 When a user views the list of access levels in the Setup area, they see that some access levels are duplicated. This applies only to built-in levels.
 
 This has been reported after modifications to an organization's licenses.
