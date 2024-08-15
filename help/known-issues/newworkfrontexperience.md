@@ -48,7 +48,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
 | [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md) | August 8, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | August 8, 2024 |
-| [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | August 5, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | August 8 2024 |
 | [Custom forms: Browser crashes when building large forms](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | August 5 2024 |
 | [Custom forms: Form builder crashes when entering display logic](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | August 5 2024 |
@@ -56,7 +55,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Custom forms: Cannot scroll external lookup field](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | August 5 2024 |
 | [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | August 5 2024 |
 | [Access Levels: Duplicate access levels in Setup area](known-issues-workfront/wf-access-duplicate-level.md) | July 25, 2024 |
-| [Projects: Currency symbol is incorrect when exporting](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | July 18, 2024 |
 | [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 18, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
 | [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
