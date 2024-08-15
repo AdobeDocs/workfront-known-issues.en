@@ -2,7 +2,7 @@
 title: "Custom forms: Cannot edit fields on field list page"
 description: "When a user attempts to adit a large field on the field list page, the page crashes with an error. A workaround is available."
 hidefromtoc: yes
-feature: Custom forms
+feature: Custom Forms
 ---
 
 # Custom forms: Cannot edit fields on field list page
