@@ -44,6 +44,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md) | August 19, 2024 |
+| [Boards: Card does not include subtasks](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 19, 2024 |
 | [Documents: Cannot preview documents with preview link](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 15, 2024 |
 | [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | August 15, 2024 |
 | [Custom forms: Cannot edit fields on field list page](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | August 15, 2024 |

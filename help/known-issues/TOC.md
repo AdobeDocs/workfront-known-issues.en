@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md)
         + [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md)
         + [Documents: Cannot preview documents with preview link](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
         + [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
