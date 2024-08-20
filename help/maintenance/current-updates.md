@@ -16,6 +16,18 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 ## Updates in August 2024
 
++++**Maintenance Update on August 22, 2024**
+
+### Maintenance Update on August 22, 
+
+#### Reports
+
+**Cannot click on a report from Custom Fields area of Setup**
+
+When a user is viewing the Custom Forms > Fields area of setup, and the view includes the native Reports field, links to the reports are not working. The user should be able to click on the name of a report and be taken to the report, but clicking the name of the report is ineffective.
+
++++
+
 +++**Maintenance Update on August 15, 2024**
 
 ### Maintenance Update on August 15, 2024
