@@ -12,7 +12,7 @@ role: User
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
         + [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-        + | [Home: "widget.list.view" created when user moves columns in Home widget](known-issues-workfront/wf-home-widget-list-view.md)
+        + [Home: "widget.list.view" created when user moves columns in Home widget](known-issues-workfront/wf-home-widget-list-view.md)
         + [Documents: Proof comments not displayed on document updates](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
         + [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md)
         + [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md)
