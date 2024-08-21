@@ -6,13 +6,17 @@ feature: Get Started with Workfront
 ---
 # [!DNL Workfront] Maintenance Updates
 
-The following maintenance updates have been made in 2024.
-
 >[!NOTE]
 >
->These updates also include other minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
+>For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/).
+
+This page describes the issues fixed in the weekly Workfront updates.
+
+These updates also include other minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
 
 For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previous-maintenance-updates)
+
+The following maintenance updates have been made in 2024.
 
 ## Updates in August 2024
 
