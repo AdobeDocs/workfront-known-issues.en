@@ -8,7 +8,7 @@ feature: Get Started with Workfront
 
 >[!NOTE]
 >
->For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](status.adobe.com).
+>For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/).
 
 This page describes the issues fixed in the weekly Workfront updates.
 
