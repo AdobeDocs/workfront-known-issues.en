@@ -19,6 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | August 21, 2024 |
+| [Home: "widget.list.view" created when user moves columns in Home widget](known-issues-workfront/wf-home-widget-list-view.md) | August 21, 2024 |
+| [Documents: Proof comments not displayed on document updates](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | August 21, 2024 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | August 15, 2024 |
 | [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | August 15, 2024 |
 | [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
