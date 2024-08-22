@@ -23,7 +23,6 @@ These recently reported issues are currently under review.
 | [Documents: Proof comments not displayed on document updates](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | August 21, 2024 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | August 15, 2024 |
 | [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | August 15, 2024 |
-| [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
 | [Requests: User can change status despite lack of permissions](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | August 14, 2024 |
 | [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | August 14, 2024 |
 | [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | August 14, 2024 |
@@ -46,6 +45,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 22, 2024 |
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
 | [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md) | August 19, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 19, 2024 |
