@@ -20,7 +20,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | August 21, 2024 |
-| [Home: "widget.list.view" created when user moves columns in Home widget](known-issues-workfront/wf-home-widget-list-view.md) | August 21, 2024 |
 | [Documents: Proof comments not displayed on document updates](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | August 21, 2024 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | August 15, 2024 |
 | [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | August 15, 2024 |
@@ -47,13 +46,12 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
 | [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md) | August 19, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 19, 2024 |
 | [Documents: Cannot preview documents with preview link](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 15, 2024 |
 | [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | August 15, 2024 |
-| [Custom forms: Cannot edit fields on field list page](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | August 15, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
-| [Reports: Cannot click on a report from Custom Fields area of Setup](known-issues-workfront/wf-reports-cannot-click-on-report.md) | August 14, 2024 |
 | [Integrations: Error when creating a request from Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | August 14, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
 | [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md) | August 8, 2024 |
