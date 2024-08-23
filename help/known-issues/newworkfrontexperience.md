@@ -23,7 +23,6 @@ These recently reported issues are currently under review.
 | [Documents: Proof comments not displayed on document updates](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | August 21, 2024 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | August 15, 2024 |
 | [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | August 15, 2024 |
-| [Requests: User can change status despite lack of permissions](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | August 14, 2024 |
 | [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | August 14, 2024 |
 | [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | August 14, 2024 |
 | [Users: Email locale setting for user is not saving](known-issues-workfront/wf-users-email-locale-not-saving.md) | August 14, 2024 |
