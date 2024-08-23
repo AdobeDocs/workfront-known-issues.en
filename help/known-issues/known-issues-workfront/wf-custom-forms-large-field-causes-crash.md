@@ -7,6 +7,10 @@ feature: Custom Forms
 
 # Custom forms: Cannot edit fields on field list page
 
+>[!NOTE]
+>
+>This issue was fixed on August 22, 2024.
+
 When a user attempts to adit a large field on the field list page, the page crashes with the following error:
 
 "[!UICONTROL Aww Snap, something went wrong displaying this page. Error code 5]"
