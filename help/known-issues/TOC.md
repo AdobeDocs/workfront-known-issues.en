@@ -12,6 +12,7 @@ role: User
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
         + [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md)
+        + [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md)
         + [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
         + [Home: "widget.list.view" created when user moves columns in Home widget](known-issues-workfront/wf-home-widget-list-view.md)
         + [Documents: Proof comments not displayed on document updates](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
@@ -131,7 +132,6 @@ role: User
         + [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
         + [[!UICONTROL Setup]: Cannot export audit logs](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
         + [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md)
-        + [Document integrations: Cannot see all folders in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
         + [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
         + [Custom forms: "[!UICONTROL Whoops]" error when setting up a calculated field](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
         + [Proofs: [!UICONTROL Proof Activity] tab opens [!UICONTROL Proof Details]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -195,7 +195,6 @@ role: User
         + [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
         + [Cannot add user to proof by tagging the user in a comment](known-issues-workfront-proof/cannot-add-user-to-proof.md)
         + [[!UICONTROL Reply in Proof] button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
-        + [Automatic access to proofs are delayed](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
         + [[!UICONTROL Proof Approval] report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
         + [[!UICONTROL Home]: Completed proofs stuck in the [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
         + [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
