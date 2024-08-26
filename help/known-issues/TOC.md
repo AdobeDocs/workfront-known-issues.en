@@ -11,7 +11,6 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + [Reports: Report deliveries are delayed or missing](known-issues-workfront/wf-reports-not-delivered.md)
         + [Users: Cannot reactivate user](known-issues-workfront/wf-users-reactivate-user.md)
         + [Assignments: Time off icon does not appear when assigning tasks](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
         + [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md)
