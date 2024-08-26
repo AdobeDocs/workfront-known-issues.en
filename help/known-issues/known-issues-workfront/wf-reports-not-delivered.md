@@ -7,9 +7,13 @@ feature: Reports and Dashboards
 
 # Reports: Report deliveries are delayed or missing
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on August 8, 2024.
+
+-->
 
 Reports with scheduled deliveries are not being delivered as expected. They may be late, or they may not be delivered at all.
 
