@@ -8,11 +8,9 @@ exl-id: 0c5381a9-7a1f-4a60-9793-2cc902e83d9b
 # Updates: Comments attached to system updates are not displayed
 
 <!--
-
 >[!NOTE]
 >
 >This issue has been closed because it is working as designed.
-
 -->
 
 >[!NOTE]
