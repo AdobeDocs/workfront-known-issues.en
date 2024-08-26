@@ -1,6 +1,6 @@
 ---
 title: "Users: Cannot reactivate user"
-description: "When a user attempts to reactivate a user using the "Reactivate user" option in the More menu, they can select an access level for the user, but the change is not save. Instead, the user sees an error. A workaround is available."
+description: "When a user attempts to reactivate a user using the Reactivate user option in the More menu, they can select an access level for the user, but the change is not save. Instead, the user sees an error. A workaround is available."
 hidefromtoc: yes
 feature: People Teams and Groups
 ---
