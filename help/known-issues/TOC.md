@@ -121,7 +121,6 @@ role: User
         + [Documents: Cannot access [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
         + [Dashboard: Large blank margin when printing dashboard to PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
         + [Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
-        + [Updates: Comments attached to system updates are not displayed](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
         + [[!DNL Workfront]: Branding is not applied](known-issues-workfront/inactive/wf-workfront-branding-not-applied.md)
         + [Proofs: Completed proofs remain on [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
         + [Proofs: Error when sharing proof from email link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
