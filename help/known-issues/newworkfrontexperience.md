@@ -79,6 +79,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | August 27, 2024 |
 | [Home: My Issues widget does not display closed or completed issues](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | June 20, 2024 |
 | [Home: Cannot remove Mentions widget](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | June 12, 2024 |
 | [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | June 7, 2024 |
