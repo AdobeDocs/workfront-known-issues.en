@@ -20,9 +20,33 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in August 2024
 
++++**(Planned) Maintenance Update on August 29, 2024**
+
+### (Planned) Maintenance Update on August 29, 2024
+
+#### Custom forms
+
+**Forms defaults to Project forms**
+
+When a user is creating a custom form and selects an object type for the form, the object type is ignored, and the form is created as a Project custom form.
+
+#### Documents
+
+**Clicking a document name leads to blank page**
+
+When a user attempts to view document details by clicking the document's name in a document list, the list disappears, and the user is not directed to the document details.
+
+#### Home
+
+**Pending approvals widget shows deleted documents**
+
+When a user is viewing their Home Pending approvals widget, they see documents that have been deleted. If the user clicks on one of these documents, they are taken to a blank page.
+
++++
+
 +++**Maintenance Update on August 22, 2024**
 
-### Maintenance Update on August 22, 
+### Maintenance Update on August 22, 2024
 
 #### Reports
 
