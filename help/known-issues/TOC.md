@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Groups: Subgroups do not display correctly](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
         + [Workfront: Cannot use SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
         + [Users: Cannot reactivate user](known-issues-workfront/wf-users-reactivate-user.md)
         + [Assignments: Time off icon does not appear when assigning tasks](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
