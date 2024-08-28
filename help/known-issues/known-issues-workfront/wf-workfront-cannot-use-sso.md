@@ -9,8 +9,8 @@ feature: System Setup and Administration
 
 >[!NOTE]
 >
->* This has been reported in the Preview Sandbox environment.
->* This has been reported for organization that use Legacy (non-Adobe) SSO
+>* This has been reported in the Preview Sandbox environment and the Custom Refresh Sandbox environment.
+>* This has been reported for organization that use Legacy (non-Adobe) SSO.
 
 Workfront functionality that uses SSO returns the following error:
 
