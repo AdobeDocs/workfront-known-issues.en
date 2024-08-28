@@ -42,6 +42,14 @@ When a user attempts to view document details by clicking the document's name in
 
 When a user is viewing their Home Pending approvals widget, they see documents that have been deleted. If the user clicks on one of these documents, they are taken to a blank page.
 
+#### Users
+
+**The user profile Email Locale field has been disabled**
+
+For organizations on IMS, language preferences are stored in each user's Adobe Experience Cloud profile. The Email Locale field in the Workfront user profile has been disabled (for IMS organizations only) and a tooltip on that field provides instructions on how to access language settings in the Adobe profile.
+
+This addresses an issue that when an admin attempts to change the Email locale setting for a user, it reverts to English.
+
 +++
 
 +++**Maintenance Update on August 22, 2024**
