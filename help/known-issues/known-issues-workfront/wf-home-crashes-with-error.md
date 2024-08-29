@@ -7,10 +7,6 @@ exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
 ---
 # Home: Home crashes with "Out of memory" error
 
->[!NOTE]
->
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
-
 When a user attempts to view the new Home, the site crashes with the following error message:
 
 "Something went wrong while presenting this page! Error code: Out of memory"

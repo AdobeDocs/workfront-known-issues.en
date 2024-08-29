@@ -20,9 +20,9 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in August 2024
 
-+++**(Planned) Maintenance Update on August 29, 2024**
++++**Maintenance Update on August 29, 2024**
 
-### (Planned) Maintenance Update on August 29, 2024
+### Maintenance Update on August 29, 2024
 
 #### Custom forms
 

@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Agile: Story board goes blank when adding a subtask](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | July 26, 2024 |
 | [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | July 25, 2024 |
-| [Custom forms: Custom form is not deleted from document](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | July 8, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 | [Integrations: Issues with Dropbox integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | June 14, 2024 |
 
@@ -34,7 +33,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documents: Cannot preview documents with preview link](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 15, 2024 |
-| [Documents: Clicking a document name leads to blank page](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | August 5 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md) | July 15, 2024 |
 | [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md) | June 5, 2024 |
