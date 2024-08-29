@@ -1,10 +1,10 @@
 ---
-title: "Notifications: Whoops error when setting notification preferences"
-description: "When a user attempts to view notification preferences, they see an error."
+title: 'Notifications: Whoops error when setting notification preferences'
+description: When a user attempts to view notification preferences, they see an error.
 hidefromtoc: yes
 feature: Updates and Notifications
+exl-id: 6258c5e6-e16b-4bf6-92e8-c4ab3d3866ce
 ---
-
 # Notifications: Whoops error when setting notification preferences
 
 >[!NOTE]

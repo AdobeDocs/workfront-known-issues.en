@@ -1,10 +1,10 @@
 ---
-title: "Setup: Log in as leads to blank screen"
-description: "When an admin logs in as another user, instead of seeing that user's account, the admin sees a blank screen."
+title: 'Setup: Log in as leads to blank screen'
+description: When an admin logs in as another user, instead of seeing that user's account, the admin sees a blank screen.
 hidefromtoc: yes
 feature: System Setup and Administration
+exl-id: 53068b8c-b5f8-45b1-8e03-43c7a7a51eef
 ---
-
 # Setup: "Log in as" leads to blank screen
 
 >[!NOTE]

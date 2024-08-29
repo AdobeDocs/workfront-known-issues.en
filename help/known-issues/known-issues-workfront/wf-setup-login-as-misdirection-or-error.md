@@ -1,10 +1,10 @@
 ---
-title: "Setup: Issues when logging out as another user"
-description: "When an admin is logged in as another user and attempts to log out, issues may occur."
+title: 'Setup: Issues when logging out as another user'
+description: When an admin is logged in as another user and attempts to log out, issues may occur.
 hidefromtoc: yes
 feature: System Setup and Administration
+exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
 ---
-
 # Setup: Issues when logging out as another user
 
 When an admin is logged in as another user and attempts to log out, the following issues may occur:

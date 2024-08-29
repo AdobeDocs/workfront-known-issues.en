@@ -1,10 +1,10 @@
 ---
-title: "Integrations: Error when creating a request from Outlook"
-description: "When a user attempts to create a request from the Workfront for Outlook integration, and adds an attachment. The user sees the message Something went wrong. Try again later."
+title: 'Integrations: Error when creating a request from Outlook'
+description: When a user attempts to create a request from the Workfront for Outlook integration, and adds an attachment. The user sees the message Something went wrong. Try again later.
 hidefromtoc: yes
 feature: Workfront Integrations and Apps, Work Management
+exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
 ---
-
 # Integrations: Error when creating a request from Outlook
 
 When a user attempts to create a request from the Workfront for Outlook integration, and adds an attachment. The user sees the message "Something went wrong. Try again later."

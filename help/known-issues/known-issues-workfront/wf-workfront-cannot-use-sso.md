@@ -1,10 +1,10 @@
 ---
-title: "Workfront: Cannot use SSO"
-description: "Workfront functionality that uses SSO returns a Whoops  error."
+title: 'Workfront: Cannot use SSO'
+description: Workfront functionality that uses SSO returns a Whoops  error.
 hidefromtoc: yes
 feature: System Setup and Administration
+exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 ---
-
 # Workfront: Cannot use SSO
 
 >[!NOTE]

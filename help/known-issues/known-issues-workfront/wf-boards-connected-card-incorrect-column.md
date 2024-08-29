@@ -1,10 +1,10 @@
 ---
-title: "Boards: Connected card is in incorrect column"
-description: "Issues have been reported regarding connected cards in the wrong column."
+title: 'Boards: Connected card is in incorrect column'
+description: Issues have been reported regarding connected cards in the wrong column.
 hidefromtoc: yes
 feature: Agile
+exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
 ---
-
 # Boards: Connected card is in incorrect column
 
 >[!NOTE]

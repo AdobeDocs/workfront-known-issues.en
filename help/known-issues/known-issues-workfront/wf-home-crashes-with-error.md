@@ -1,10 +1,10 @@
 ---
-title: "Home: Home crashes with Out of memory error"
-description: "When a user attempts to view the new Home, the site crashes with an error message. A workaround is available."
+title: 'Home: Home crashes with Out of memory error'
+description: When a user attempts to view the new Home, the site crashes with an error message. A workaround is available.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
 ---
-
 # Home: Home crashes with "Out of memory" error
 
 >[!NOTE]

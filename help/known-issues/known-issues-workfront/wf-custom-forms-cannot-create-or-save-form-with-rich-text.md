@@ -1,10 +1,10 @@
 ---
-title: "Custom forms: Display type conversions error on custom forms"
-description: "Rich text fields are causing an error to appear on custom forms."
+title: 'Custom forms: Display type conversions error on custom forms'
+description: Rich text fields are causing an error to appear on custom forms.
 hidefromtoc: yes
 feature: Custom Forms
+exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
 ---
-
 # Custom forms: Display type conversions error on custom forms
 
 Rich text fields are causing the following error to appear on custom forms:

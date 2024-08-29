@@ -1,10 +1,10 @@
 ---
-title: "Reports: Error when exporting report"
-description: "When a user attempts to export a report, the report does not export, and the user sees an error."
+title: 'Reports: Error when exporting report'
+description: When a user attempts to export a report, the report does not export, and the user sees an error.
 hidefromtoc: yes
 feature: Reports and Dashboards
+exl-id: 864081d8-177c-422f-a46c-10ebac5c9fa1
 ---
-
 # Reports: Error when exporting report
 
 When a user attempts to export a report, the report does not export, and the user sees the following error:
