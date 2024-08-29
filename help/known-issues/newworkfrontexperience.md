@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | August 28, 2024 |
 | [Notifications: Contributor users do not receive email notifications ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | August 28, 2024 |
 | [Workfront: Cannot use SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | August 26, 2024 |
 | [Reports: Report deliveries are delayed or missing](known-issues-workfront/wf-reports-not-delivered.md) | August 26, 2024 |

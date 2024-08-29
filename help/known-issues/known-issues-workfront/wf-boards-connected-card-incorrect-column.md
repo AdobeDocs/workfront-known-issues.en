@@ -7,9 +7,13 @@ exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
 ---
 # Boards: Connected card is in incorrect column
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on August 15, 2024.
+
+-->
 
 The following issues have been reported regarding connected cards in the wrong column:
 
