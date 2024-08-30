@@ -7,6 +7,10 @@ exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
 ---
 # Documents: Cannot preview documents with preview link
 
+>[!NOTE]
+>
+>This issue was fixed on August 29, 2024.
+
 Users cannot view a document preview by:
 
 * Right clicking and opening the link in a new tab or window

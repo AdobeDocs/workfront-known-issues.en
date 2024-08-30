@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Workfront: Date displays in incorrect format](known-issues-workfront/wf-home-crashes-with-error.md)
         + [Notifications: Contributor users do not receive email notifications ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
         + [Groups: Subgroups do not display correctly](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
         + [Workfront: Cannot use SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
