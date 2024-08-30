@@ -49,14 +49,14 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Workfront: Date displays in incorrect format](known-issues-workfront/wf-home-crashes-with-error.md) | August 30, 2024 |
+| [Documents: Clicking a document name leads to blank pager](known-issues-workfront/wf-home-crashes-with-error.md) | August 30, 2024 |
 | [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | August 29, 2024 |
 | [Groups: Subgroups do not display correctly](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | August 28, 2024 |
 | [Users: Cannot reactivate user](known-issues-workfront/wf-users-reactivate-user.md) | August 26, 2024 |
-| [Boards: Issues regarding duplicate cards](known-issues-workfront/wf-boards-some-cards-duplicated.md) | August 26, 2024 |
 | [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 22, 2024 |
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 19, 2024 |
-| [Documents: Cannot preview documents with preview link](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 15, 2024 |
 | [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | August 15, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
 | [Integrations: Error when creating a request from Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | August 14, 2024 |
