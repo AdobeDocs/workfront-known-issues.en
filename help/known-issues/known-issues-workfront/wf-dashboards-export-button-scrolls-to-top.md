@@ -2,7 +2,7 @@
 title: "Dashboards: Selecting Export button in a report scrolls to top of page"
 description: "When clicking the Export button for a report in a dashboard, the window scrolls to the top of the page and requires scrolling back down to find the opened export options menu."
 hidefromtoc: yes
-feature: Dashboards
+feature: Reports and Dashboards
 ---
 
 # Dashboards: Selecting Export button in a report scrolls to top of page
