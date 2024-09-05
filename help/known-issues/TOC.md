@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: Cannot preview or download documents from card](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
         + [Mobile: Unable to log out and missing user profile information](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
         + [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
         + [Dashboards: Selecting Export button in a report scrolls to top of page](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)

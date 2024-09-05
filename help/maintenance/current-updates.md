@@ -18,6 +18,30 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2024.
 
+## Updates in September 2024
+
++++**Maintenance Update on September 5, 2024**
+
+### Maintenance Update on September 5, 2024
+
+#### Groups
+
+**Subgroups do not display correctly**
+
+When a user is viewing the Groups list in the Setup area, they see that subgroups are not listed correctly under the parent group. The subgroup is correctly saved under the parent group, but the list may cause confusion.
+
+If the user opens the subgroup, they can see in the breadcrumbs that the subgroup is saved correctly under the parent group.
+
+#### Users
+
+**Cannot reactivate user**
+
+When a user attempts to reactivate a user using the "Reactivate user" option in the More menu, they can select an access level for the user, but the change is not save. Instead, the user sees the following error:
+
+"homeGroupID cannot be null"
+
++++
+
 ## Updates in August 2024
 
 +++**Maintenance Update on August 29, 2024**
