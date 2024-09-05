@@ -7,6 +7,10 @@ exl-id: 771c1393-ed95-4556-b053-e3e91348f5ac
 ---
 # Users: Cannot reactivate user
 
+>[!NOTE] 
+>
+>This article was fixed on September 5, 2024.
+
 When a user attempts to reactivate a user using the "Reactivate user" option in the More menu, they can select an access level for the user, but the change is not save. Instead, the user sees the following error:
 
 "homeGroupID cannot be null"
