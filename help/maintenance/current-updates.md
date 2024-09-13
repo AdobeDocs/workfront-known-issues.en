@@ -20,6 +20,20 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in September 2024
 
++++**Maintenance Update on September 12, 2024**
+
+### Maintenance Update on September 12, 2024
+
+#### Integrations
+
+**Error when creating a request from Outlook**
+
+When a user attempts to create a request from the Workfront for Outlook integration, and adds an attachment. The user sees the message "Something went wrong. Try again later."
+
+The request is created, and there is a folder for email attachments in the request, but the folder is empty, and the attachment was not added to the request.
+
++++
+
 +++**Maintenance Update on September 5, 2024**
 
 ### Maintenance Update on September 5, 2024
