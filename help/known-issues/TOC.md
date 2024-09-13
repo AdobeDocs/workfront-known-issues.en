@@ -11,7 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + [Assignments: Task assignment fails and inherited permissions removed](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+        + [Assignments: Task assignment fails and inherited permissions removed](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
         + [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md)
         + [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-SQL-error.md)
         + [Agile: Add to Iteration option listed twice when assigning scrum team](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
