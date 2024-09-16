@@ -3,7 +3,6 @@ user-guide-title: Known Issues
 user-guide-description: Known Issues for [!DNL Adobe Workfront]
 role: User
 ---
-
 # Known Issues {#issues}
 
 + [Overview](overview.md)

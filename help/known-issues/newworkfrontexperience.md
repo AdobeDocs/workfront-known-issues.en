@@ -47,7 +47,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| 
 | [Assignments: Task assignment fails and inherited permissions removed](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | September 12, 2024 |
 | [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md) | September 12, 2024 |
 | [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md) | September 12, 2024 |
