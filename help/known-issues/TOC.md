@@ -1,4 +1,4 @@
----
+l---
 user-guide-title: Known Issues
 user-guide-description: Known Issues for [!DNL Adobe Workfront]
 role: User
@@ -11,12 +11,17 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Assignments: Task assignment fails and inherited permissions removed](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+        + [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+        + [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+        + [Agile: Add to Iteration option listed twice when assigning scrum team](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+        + [Proofs: Active users appear as deactivated](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
         + [Boards: Cannot preview or download documents from card](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
         + [Mobile: Unable to log out and missing user profile information](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
         + [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
         + [Dashboards: Selecting Export button in a report scrolls to top of page](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
         + [Workfront: Date displays in incorrect format](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-        + [Notifications: Contributor users do not receive email notifications ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+        + [Notifications: Contributor users do not receive email notifications ](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
         + [Groups: Subgroups do not display correctly](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
         + [Workfront: Cannot use SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
         + [Users: Cannot reactivate user](known-issues-workfront/wf-users-reactivate-user.md)

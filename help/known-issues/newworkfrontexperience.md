@@ -19,6 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
+| [Agile: Add to Iteration option listed twice when assigning scrum team](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | September 12, 2024 |
+| [Proofs: Active users appear as deactivated](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | September 12, 2024 |
 | [Boards: Cannot preview or download documents from card](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | September 5, 2024 |
 | [Mobile: Unable to log out and missing user profile information](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | September 3, 2024 |
 | [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | September 3, 2024 |
@@ -32,7 +35,6 @@ These recently reported issues are currently under review.
 | [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | August 14, 2024 |
 | [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | August 14, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | August 5, 2024 |
-| [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | July 25, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 | [Reports: Error when viewing report details that are grouped by custom date](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | June 14, 2024 |
 | [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
@@ -45,19 +47,21 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| 
+| [Assignments: Task assignment fails and inherited permissions removed](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | September 12, 2024 |
+| [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md) | September 12, 2024 |
+| [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md) | September 12, 2024 |
+| [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | September 12, 2024 |
 | [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | August 30, 2024 |
-| [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | August 29, 2024 |
 | [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | August 22, 2024 |
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
 | [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | August 19, 2024 |
 | [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | August 15, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
-| [Integrations: Error when creating a request from Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | August 14, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
 | [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md) | August 8, 2024 |
 | [Custom forms: Browser crashes when building large forms](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | August 5 2024 |
 | [Custom forms: Form builder crashes when entering display logic](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | August 5 2024 |
-| [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | August 5 2024 |
 | [Access Levels: Duplicate access levels in Setup area](known-issues-workfront/wf-access-duplicate-level.md) | July 25, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
 | [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
@@ -71,6 +75,8 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | September 12, 2024 |
+| [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | September 12, 2024 |
 | [Boards: Board does not display as user when using [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | August 30, 2024 |
 | [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md) | August 30, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | August 27, 2024 |

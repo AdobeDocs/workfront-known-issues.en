@@ -7,6 +7,10 @@ exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
 ---
 # Proofs: Opening a proof opens multiple copies
 
+>[!NOTE]
+>
+>This issue was fixed on September 10, 2024.
+
 When a user opens a proof, two browser tabs open with the same proof. 
 
 This has been reported when using Unified Shell.
