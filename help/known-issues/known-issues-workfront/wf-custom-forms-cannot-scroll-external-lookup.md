@@ -7,6 +7,10 @@ exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
 ---
 # Custom forms: Cannot scroll external lookup field
 
+>[!NOTE]
+>
+>This issue was fixed on September 5, 2024.
+
 When a user attempts to view the options in an external lookup field, the options dropdown does not scroll, and the user cannot see the entire list of options
 
 **Workaround**
