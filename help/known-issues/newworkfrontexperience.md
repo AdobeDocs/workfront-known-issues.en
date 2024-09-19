@@ -19,13 +19,12 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | September 19, 2024 |
 | [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
 | [Agile: Add to Iteration option listed twice when assigning scrum team](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | September 12, 2024 |
 | [Proofs: Active users appear as deactivated](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | September 12, 2024 |
 | [Boards: Cannot preview or download documents from card](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | September 5, 2024 |
-| [Mobile: Unable to log out and missing user profile information](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | September 3, 2024 |
 | [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | September 3, 2024 |
-| [Dashboards: Selecting Export button in a report scrolls to top of page](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | September 3, 2024 |
 | [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | August 28, 2024 |
 | [Workfront: Cannot use SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | August 26, 2024 |
 | [Reports: Report deliveries are delayed or missing](known-issues-workfront/wf-reports-not-delivered.md) | August 26, 2024 |
@@ -73,6 +72,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Unable to scroll to see entire chart report](known-issues-workfront/wf-reports-unable-to-scroll.md) | September 19, 2024 |
 | [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | September 18, 2024 |
 | [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | September 12, 2024 |
 | [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | September 12, 2024 |

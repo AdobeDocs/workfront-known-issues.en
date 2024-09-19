@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+        + [Reports: Unable to scroll to see entire chart report](known-issues-workfront/wf-reports-unable-to-scroll.md)
         + [Assignments: Task assignment fails and inherited permissions removed](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
         + [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md)
         + [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -192,6 +194,7 @@ role: User
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Workfront Proof: Content pastes incorrectly in Updates section of the Desktop Proofing Viewer](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
         + [[!UICONTROL Workfront Proof]: Cannot reorder assets when creating a proof](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
         + [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
         + [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
