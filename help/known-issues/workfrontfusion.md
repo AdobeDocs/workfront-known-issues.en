@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Webhook queue not processing](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | September 19, 2024 |
 | [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | August 27, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | August 5, 2024 |
 

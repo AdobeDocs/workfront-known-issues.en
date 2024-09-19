@@ -7,6 +7,10 @@ exl-id: 1713c576-5df6-424a-a90e-d615c38c751a
 ---
 # Mobile: Unable to log out and missing user profile information
 
+>[!NOTE]
+>
+>This issue was fixed on September 19, 2024.
+
 The log out option in the mobile application does not allow some users to successfully log out. Their user profile pages also appear blank and generate an error message.
 
 _First reported on July 18, 2024._
