@@ -221,7 +221,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
-        + | [Workfront Fusion: Cannot add or delete users from Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | September 24, 2024 |
+        + [Workfront Fusion: Cannot add or delete users from Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
         + [Workfront Fusion: Webhook queue not processing](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
         + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
         + [Workfront Fusion: Field is missing from module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
