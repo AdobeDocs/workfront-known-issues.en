@@ -21,13 +21,11 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | September 19, 2024 |
 | [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
-| [Agile: Add to Iteration option listed twice when assigning scrum team](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | September 12, 2024 |
 | [Proofs: Active users appear as deactivated](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | September 12, 2024 |
 | [Boards: Cannot preview or download documents from card](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | September 5, 2024 |
 | [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | September 3, 2024 |
 | [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | August 28, 2024 |
 | [Workfront: Cannot use SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | August 26, 2024 |
-| [Reports: Report deliveries are delayed or missing](known-issues-workfront/wf-reports-not-delivered.md) | August 26, 2024 |
 | [Assignments: Time off icon does not appear when assigning tasks](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | August 26, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | August 21, 2024 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | August 15, 2024 |
@@ -47,13 +45,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
-| [Assignments: Task assignment fails and inherited permissions removed](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | September 12, 2024 |
 | [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md) | September 12, 2024 |
 | [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md) | September 12, 2024 |
 | [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | September 12, 2024 |
 | [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | August 30, 2024 |
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
-| [Boards: Card does not include subtasks](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | August 19, 2024 |
 | [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | August 15, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |

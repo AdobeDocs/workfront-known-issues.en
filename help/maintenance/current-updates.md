@@ -20,6 +20,30 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in September 2024
 
++++**Maintenance Update on September 26, 2024**
+
+### Maintenance Update on September 26, 2024
+
+#### Agile
+
+**Add to Iteration option listed twice when assigning scrum team**
+
+When assigning a task or issue to an agile scrum team, the "Add to Iteration" option appears twice in the More menu. This does not impact the ability to assign the team, and does not appear for non-scrum agile teams. 
+
+#### Custom Forms
+
+**Calculation Editor field list limited to 200 items**
+
+In the Calculation Editor for calculated fields on custom forms, the field list for an object is now limited to 200 items to improve system performance. If you know the field name, you can search for it using the typeahead option instead of scrolling through the list.
+
+#### Reports
+
+**Report deliveries are delayed or missing**
+
+Reports with scheduled deliveries are not being delivered as expected. They may be late, or they may not be delivered at all. 
+
++++
+
 +++**Maintenance Update on September 19, 2024**
 
 ### Maintenance Update on September 19, 2024
