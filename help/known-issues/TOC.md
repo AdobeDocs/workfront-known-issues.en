@@ -221,6 +221,8 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [Workfront Fusion: Data store issues](known-issues-workfront-fusion/fusion-data-store-issues.md)
+        + [Workfront Fusion: Execution details display as processing](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
         + [Workfront Fusion: Cannot add or delete users from Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
         + [Workfront Fusion: Webhook queue not processing](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
         + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
