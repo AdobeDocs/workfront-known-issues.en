@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Login As redirects to login or causes error](known-issues-workfront/wf-login-as-redirects-to-login.md)
+        + [Home: "Mark as Done" closes the summary pane for My Issues widget](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+        + [Projects: Cannot share projects due to "access to delete" error](known-issues-workfront/wf-projects-sharing-access-error.md)
+        + [Proofs: Create proof fails for documents linked from AEM through Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
         + [Boards: Error when moving cards or assigning users](known-issues-workfront/wf-boards-error-moving-cards.md)
         + [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
         + [Reports: Unable to scroll to see entire chart report](known-issues-workfront/wf-reports-unable-to-scroll.md)

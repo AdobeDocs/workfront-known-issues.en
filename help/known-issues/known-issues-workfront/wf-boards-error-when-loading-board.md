@@ -7,6 +7,10 @@ exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
 ---
 # Boards: Error when loading a board
 
+>[!NOTE]
+>
+>This article was fixed on October 3, 2024.
+
 When a user attempts to load a board, the board does not load, and the user sees the following message:
 
 "[!UICONTROL Error loading board]"

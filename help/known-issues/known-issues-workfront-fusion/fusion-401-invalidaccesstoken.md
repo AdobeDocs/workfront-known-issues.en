@@ -7,6 +7,10 @@ exl-id: dfdb001d-813e-434c-be82-d2141994952b
 ---
 # Workfront Fusion: 401 InvalidAccessTokenError
 
+>[!NOTE]
+>
+>This issue has been resolved.
+
 Scenarios are encountering `401 InvalidAccessTokenError` errors. These errors are intermittent.
 
 _First reported on August 1, 2024._

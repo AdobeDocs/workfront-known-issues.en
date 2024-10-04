@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Create proof fails for documents linked from AEM through Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | October 3, 2024 |
 | [Agile: Story board goes blank when adding a subtask](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | July 26, 2024 |
 | [Proofs: Opening a proof opens multiple copies](known-issues-workfront/wf-proofs-two-proofs-open.md) | July 25, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
@@ -32,7 +33,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof: Content pastes incorrectly in Updates section of the Desktop Proofing Viewer](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | September 19, 2024 |
 | [Documents: Cannot preview documents with preview link](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 15, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md) | July 15, 2024 |
