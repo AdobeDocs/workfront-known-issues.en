@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | September 19, 2024 |
 | [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
-| [Proofs: Active users appear as deactivated](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | September 12, 2024 |
 | [Boards: Cannot preview or download documents from card](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | September 5, 2024 |
 | [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | September 3, 2024 |
 | [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | August 28, 2024 |
@@ -44,17 +43,19 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Login As redirects to login or causes error](known-issues-workfront/wf-login-as-redirects-to-login.md) | October 3, 2024 |
+| [Home: "Mark as Done" closes the summary pane for My Issues widget](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | October 3, 2024 |
+| [Projects: Cannot share projects due to "access to delete" error](known-issues-workfront/wf-projects-sharing-access-error.md) | October 3, 2024 |
+| [Proofs: Create proof fails for documents linked from AEM through Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | October 3, 2024 |
+| [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | October 3, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
 | [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md) | September 12, 2024 |
 | [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md) | September 12, 2024 |
-| [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | September 12, 2024 |
 | [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | August 30, 2024 |
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
-| [Custom forms: Display type conversions error on custom forms](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | August 15, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
 | [Boards: Error when loading a board](known-issues-workfront/wf-boards-error-when-loading-board.md) | August 8, 2024 |
-| [Custom forms: Browser crashes when building large forms](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | August 5 2024 |
 | [Custom forms: Form builder crashes when entering display logic](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | August 5 2024 |
 | [Access Levels: Duplicate access levels in Setup area](known-issues-workfront/wf-access-duplicate-level.md) | July 25, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |

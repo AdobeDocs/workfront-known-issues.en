@@ -18,6 +18,47 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2024.
 
+## Updates in October 2024
+
++++**Maintenance Update on October 3, 2024**
+
+### Maintenance Update on October 3, 2024
+
+#### Boards
+
+**Archived connected cards not synced**
+
+To address performance issues, connected cards that are archived are no longer synced. Changes made to the Workfront task or issue are not reflected on the archived cards. If you restore a card, it will sync again.
+
+#### Custom forms
+
+**Display type conversions error on custom forms**
+
+Rich text fields are causing the following error to appear on custom forms:
+
+"Error: Display Type conversions between Text to Rich Text are not allowed."
+
+This can occur in the following conditions:
+
+* The user begins to edit the forms but clicks Apply without making any changes.
+* The user is creating a custom form.
+
+In both cases, rich text fields are causing the issues.
+
+#### Notifications
+
+**Contributor users do not receive email notifications**
+
+Users with a Contributor license are not receiving notification emails. This can affect both instant notification emails and Daily Digest emails.
+
+#### Proofs
+
+**Electronic signatures cannot be added when using SSO for Proof**
+
+When using SSO to log into Proof, users cannot set a proof to require electronic signatures.
+
++++
+
 ## Updates in September 2024
 
 +++**Maintenance Update on September 26, 2024**

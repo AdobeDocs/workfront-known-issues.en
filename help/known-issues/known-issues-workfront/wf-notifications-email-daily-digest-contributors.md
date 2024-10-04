@@ -9,7 +9,7 @@ exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
 
 >[!NOTE]
 >
->This issue has been closed because it is working as designed.
+>This article was fixed on October 3, 2024.
 
 Users with a Contributor license are not receiving notification emails. This can affect both instant notification emails and Daily Digest emails. 
 

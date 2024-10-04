@@ -7,6 +7,10 @@ feature: Workfront Fusion
 
 # Workfront Fusion: Data store issues
 
+>[!NOTE]
+>
+>This article was fixed on September 26, 2024.
+
 The following issues have been reported regarding boolean fields in data stores:
 
 * Data stores are returning no value for fields that have the value EMPTY.
