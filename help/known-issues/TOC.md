@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: Cannot move documents from object Documents tab](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+        + [Boards: Duplicate status options for tasks and issues](known-issues-workfront/wf-boards-duplicate-status-options.md)
+        + [Home: Deleted custom fields persist in project, task, and issue widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+        + [Priorities: Groupings prevent sorting and inline editing](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
         + [Login As redirects to login or causes error](known-issues-workfront/wf-login-as-redirects-to-login.md)
         + [Home: "Mark as Done" closes the summary pane for My Issues widget](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
         + [Projects: Cannot share projects due to "access to delete" error](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -199,6 +203,7 @@ role: User
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
         + [Workfront Proof: Content pastes incorrectly in Updates section of the Desktop Proofing Viewer](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
         + [[!UICONTROL Workfront Proof]: Cannot reorder assets when creating a proof](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
         + [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)

@@ -19,6 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Cannot move documents from object Documents tab](known-issues-workfront/wf-documents-cannot-move-from-object.md) | October 9, 2024 |
+| [Boards: Duplicate status options for tasks and issues](known-issues-workfront/wf-boards-duplicate-status-options.md) | October 9, 2024 |
+| [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | September 19, 2024 |
 | [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
 | [Boards: Cannot preview or download documents from card](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | September 5, 2024 |
@@ -70,6 +73,8 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: Deleted custom fields persist in project, task, and issue widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | October 8, 2024 |
+| [Priorities: Groupings prevent sorting and inline editing](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | October 8, 2024 |
 | [Reports: Unable to scroll to see entire chart report](known-issues-workfront/wf-reports-unable-to-scroll.md) | September 19, 2024 |
 | [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | September 18, 2024 |
 | [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | September 12, 2024 |

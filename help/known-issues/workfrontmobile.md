@@ -13,18 +13,17 @@ This page contains issues currently identified in [!DNL Adobe Workfront] Mobile 
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
-**There are currently no known issues for [!DNL Workfront Mobile]**
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**-->
 
-
-<!--
 ## New
 
 These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
 
-
+<!--
 ## Current Issues
 
 |Issue  |Last Modified   | 
