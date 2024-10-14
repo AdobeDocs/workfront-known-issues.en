@@ -7,6 +7,10 @@ exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
 ---
 # Custom forms: Display type conversions error on custom forms
 
+>[!NOTE]
+>
+>This article was fixed on October 9, 2024.
+
 Rich text fields are causing the following error to appear on custom forms:
 
 "Error: Display Type conversions between Text to Rich Text are not allowed."

@@ -6,6 +6,10 @@ feature: Digital Content and Documents
 ---
 # Documents: Cannot move documents from object Documents tab
 
+>[!NOTE]
+>
+>This article was fixed on October 10, 2024.
+
 When trying to move a document from a project, task, or issue's Documents tab, users encounter the following error: "Error loading secondary content". 
 
 **Workaround**

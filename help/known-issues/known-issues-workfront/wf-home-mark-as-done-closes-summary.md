@@ -7,6 +7,10 @@ feature: Get Started with Workfront
 
 # Home: "Mark as Done" closes the summary pane for My Issues widget
 
+>[!NOTE]
+>
+>This article was fixed on October 10, 2024.
+
 When attempting to use the "Mark as Done" button in the summary pane of an issue opened through the My Issues widget, the summary pane unexpectedly closes.
 
 _First reported on September 25, 2024._

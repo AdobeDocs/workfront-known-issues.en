@@ -230,6 +230,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [Workfront Fusion: Start setting "From now on" processing all data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
         + [Workfront Fusion: Data store issues](known-issues-workfront-fusion/fusion-data-store-issues.md)
         + [Workfront Fusion: Execution details display as processing](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
         + [Workfront Fusion: Cannot add or delete users from Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
