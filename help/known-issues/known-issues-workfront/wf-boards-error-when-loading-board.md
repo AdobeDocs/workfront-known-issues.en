@@ -9,7 +9,7 @@ exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
 
 >[!NOTE]
 >
->This article was fixed on October 3, 2024.
+>This article was fixed on October 10, 2024.
 
 When a user attempts to load a board, the board does not load, and the user sees the following message:
 

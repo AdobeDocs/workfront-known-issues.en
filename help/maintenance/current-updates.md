@@ -20,6 +20,49 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in October 2024
 
++++**Maintenance Update on October 10, 2024**
+
+### Maintenance Update on October 10, 2024
+
+#### Boards
+
+**Error when moving cards or assigning users**
+
+When moving cards or assigning users, occasionally the action does not go through and instead produces the error "Response not successful: Received status code 502" after a delay.
+
+**Error when loading a board**
+
+When a user attempts to load a board, the board does not load, and the user sees the following message:
+
+"Error loading board"
+
+"Something went wrong while loading this board. Refresh the page to try again, or contact support with the error ID below if the problem persists."
+
+#### Home
+
+**"Mark as Done" closes the summary pane for My Issues widget**
+
+When attempting to use the "Mark as Done" button in the summary pane of an issue opened through the My Issues widget, the summary pane unexpectedly closes.
+
+**Layout Template widget settings fails to add column**
+
+When selecting a field to add to a widget through Layout Template widget settings, a field can be selected but the corresponding column does not appear in the widget.
+
+#### Tasks
+
+**Issues with timeline recalculation**
+
+The following issues have been reported regarding timeline recalculation:
+
+* When updating the duration of a timeline task, the system takes a significant amount of time to recalculate. 
+* When the recalculation is complete, the dates may remain disabled or become disabled, as if the timeline is still recalculating.
+
+**Task expenses not displayed**
+
+After adding an expense to a task, the expense dose not appear in the task information despite API confirmation it was entered.
+
++++
+
 +++**Maintenance Update on October 3, 2024**
 
 ### Maintenance Update on October 3, 2024
