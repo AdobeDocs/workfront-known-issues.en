@@ -24,7 +24,7 @@ The following maintenance updates have been made in 2024.
 
 ### (Planned) Maintenance Update on October 24, 2024
 
-#### Custom forms
+#### Custom forms 
 
 **Cannot update custom data in completed projects**
 
