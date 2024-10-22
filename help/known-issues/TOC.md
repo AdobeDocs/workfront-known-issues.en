@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Gantt chart is not accurate](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+        + [Projects: Cannot add issues to completed project](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
         + [Custom forms: Cannot update custom data in completed projects](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
         + [Home: Priorities area can be accessed when it has been disabled](known-issues-workfront/wf-home-priorities-accessible.md)
         + [Home: My Approvals widget not working](known-issues-workfront/wf-home-my-approval-not-working.md)
