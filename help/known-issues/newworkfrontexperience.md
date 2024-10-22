@@ -40,7 +40,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [Projects: Gantt chart is not accurate](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | October 22, 2024 |
+| [Projects: Gantt chart is not accurate](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | October 22, 2024 |
 | [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | October 22, 2024 |
 | [Projects: Cannot add issues to completed project](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | October 22, 2024 |
 | [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | October 22, 2024 |
