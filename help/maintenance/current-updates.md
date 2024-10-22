@@ -20,6 +20,51 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in October 2024
 
++++**(Planned) Maintenance Update on October 24, 2024**
+
+### (Planned) Maintenance Update on October 24, 2024
+
+#### Custom forms
+
+**Cannot update custom data in completed projects**
+
+When a user attempts to update custom data in a project that is complete, they cannot update the data, and they see the following message:
+
+"Unable to complete operation for a project of status Complete."
+
+#### Projects
+
+**Cannot add issues to completed project**
+
+When a user attempts to add an issue to a project in Complete status, the user cannot add the issue. This may occur even though the "Add and Edit Issues" option is enabled
+
+**Gantt chart is not accurate**
+
+When a user views the Gantt chart and switches views, the Gantt chart does not show accurate data, or may not show any data. 
+
++++
+
+
++++**Maintenance Update on October 17, 2024**
+
+### Maintenance Update on October 17, 2024
+
+#### Proofs
+
+**Proofs show inaccurate date**
+
+Dates listed in the documents list are showing the date that the first version of the document was created, instead of the date the newest version was created.
+
+### Timesheets
+
+When a user attempts to log time on a timesheet that is in Submitted or Closed status, they cannot log the time. 
+
+This is the expected behavior, and should not be considered an issue.
+
+Previously, users were able to log time on submitted or closed timesheets.
+
++++
+
 +++**Maintenance Update on October 10, 2024**
 
 ### Maintenance Update on October 10, 2024
