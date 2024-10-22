@@ -26,7 +26,6 @@ These recently reported issues are currently under review.
 | [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | August 28, 2024 |
 | [Workfront: Cannot use SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | August 26, 2024 |
 | [Assignments: Time off icon does not appear when assigning tasks](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | August 26, 2024 |
-| [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | August 21, 2024 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | August 15, 2024 |
 | [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | August 14, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
@@ -41,6 +40,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | October 22, 2024 |
+| [Custom forms: Cannot update custom data in completed projects](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | October 22, 2024 |
+| [Home: Priorities area can be accessed when it has been disabled](known-issues-workfront/wf-home-priorities-accessible.md) | October 22, 2024 |
+| [Home: My Approvals widget not working](known-issues-workfront/wf-home-my-approval-not-working.md) | October 22, 2024 |
+| [Proofs: Cannot create proofs in Preview environment](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | October 22, 2024 |
 | [Projects: Cannot share projects due to "access to delete" error](known-issues-workfront/wf-projects-sharing-access-error.md) | October 3, 2024 |
 | [Proofs: Create proof fails for documents linked from AEM through Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | October 3, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
