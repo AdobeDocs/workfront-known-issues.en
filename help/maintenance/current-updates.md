@@ -61,7 +61,7 @@ When a user attempts to log time on a timesheet that is in Submitted or Closed s
 
 This is the expected behavior, and should not be considered an issue.
 
-Previously, users were able to log time on submitted or closed timesheets.
+Previously, users were able to log time on submitted or closed timesheets through the Workfront API or Workfront Fusion.
 
 +++
 
