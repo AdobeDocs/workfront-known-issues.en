@@ -11,6 +11,12 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Projects: Gantt chart is not accurate](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+        + [Projects: Cannot add issues to completed project](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+        + [Custom forms: Cannot update custom data in completed projects](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+        + [Home: Priorities area can be accessed when it has been disabled](known-issues-workfront/wf-home-priorities-accessible.md)
+        + [Home: My Approvals widget not working](known-issues-workfront/wf-home-my-approval-not-working.md)
+        + [Proofs: Cannot create proofs in Preview environment](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
         + [Documents: Cannot move documents from object Documents tab](known-issues-workfront/wf-documents-cannot-move-from-object.md)
         + [Boards: Duplicate status options for tasks and issues](known-issues-workfront/wf-boards-duplicate-status-options.md)
         + [Home: Deleted custom fields persist in project, task, and issue widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
