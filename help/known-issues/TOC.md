@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Show filter / Hide filter option is missing](known-issues-workfront/wf-reports-show-filter-missing.md)
+        + [Home: Percent complete is cut off](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
         + [Projects: Gantt chart is not accurate](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
         + [Projects: Cannot add issues to completed project](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
         + [Custom forms: Cannot update custom data in completed projects](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)

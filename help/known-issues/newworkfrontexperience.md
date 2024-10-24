@@ -19,13 +19,14 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Show filter / Hide filter option is missing](known-issues-workfront/wf-reports-show-filter-missing.md) | October 24, 2024 |
+| [Home: Percent complete is cut off](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | October 24, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | September 19, 2024 |
 | [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
 | [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | September 3, 2024 |
 | [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | August 28, 2024 |
 | [Workfront: Cannot use SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | August 26, 2024 |
-| [Assignments: Time off icon does not appear when assigning tasks](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | August 26, 2024 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | August 15, 2024 |
 | [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | August 14, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
@@ -40,11 +41,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
-| [Projects: Gantt chart is not accurate](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | October 22, 2024 |
+| [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
 | [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | October 22, 2024 |
-| [Projects: Cannot add issues to completed project](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | October 22, 2024 |
 | [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | October 22, 2024 |
-| [Custom forms: Cannot update custom data in completed projects](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | October 22, 2024 |
 | [Home: Priorities area can be accessed when it has been disabled](known-issues-workfront/wf-home-priorities-accessible.md) | October 22, 2024 |
 | [Home: My Approvals widget not working](known-issues-workfront/wf-home-my-approval-not-working.md) | October 22, 2024 |
 | [Proofs: Cannot create proofs in Preview environment](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | October 22, 2024 |
