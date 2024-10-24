@@ -20,9 +20,15 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in October 2024
 
-+++**(Planned) Maintenance Update on October 24, 2024**
++++**Maintenance Update on October 24, 2024**
 
-### (Planned) Maintenance Update on October 24, 2024
+### Maintenance Update on October 24, 2024
+
+#### Assignments
+
+**Time off icon does not appear when assigning tasks**
+
+when a user is assigning a task and begins typing the name of the assignee who has time off scheduled during the task, the user icons under the Suggested Assignments area do not display the time off (airplane) icon. If the user continues typing so that the name displays under the Users and Teams area, the icon does display.
 
 #### Custom forms 
 
