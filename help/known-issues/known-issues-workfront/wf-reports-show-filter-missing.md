@@ -7,7 +7,11 @@ feature: Reports and Dashboards
 
 # Reports: Show filter / Hide filter option is missing
 
-When a user is viewing a report, the Show filter and Hide filter options ar not visible.
+>[!NOTE]
+>
+>This issue was fixed on October 24, 2024.
+
+When a user is viewing a report, the Show filter and Hide filter options are not visible.
 
 **Workaround**
 

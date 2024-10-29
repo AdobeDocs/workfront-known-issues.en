@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Start setting "From now on" processing all data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | October 14, 2024 | 
 | [Proofs: Create proof fails for documents linked from AEM through Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | October 3, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | August 5, 2024 |
 
@@ -41,6 +40,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Start setting "From now on" processing all data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | October 29, 2024 | 
 | [Workfront Fusion: Field is missing from module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | February 5, 2024 |
 | [Workfront Fusion: Output formatting for dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | January 31, 2024 |
 | [Workfront Fusion: Low memory error](known-issues-workfront-fusion/fusion-low-memory-error.md) | November 16, 2023 |

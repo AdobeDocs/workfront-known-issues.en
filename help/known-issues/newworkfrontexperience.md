@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Reports: Show filter / Hide filter option is missing](known-issues-workfront/wf-reports-show-filter-missing.md) | October 24, 2024 |
 | [Home: Percent complete is cut off](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | October 24, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | September 19, 2024 |
@@ -44,7 +43,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
 | [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | October 22, 2024 |
 | [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | October 22, 2024 |
-| [Home: Priorities area can be accessed when it has been disabled](known-issues-workfront/wf-home-priorities-accessible.md) | October 22, 2024 |
 | [Home: My Approvals widget not working](known-issues-workfront/wf-home-my-approval-not-working.md) | October 22, 2024 |
 | [Proofs: Cannot create proofs in Preview environment](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | October 22, 2024 |
 | [Projects: Cannot share projects due to "access to delete" error](known-issues-workfront/wf-projects-sharing-access-error.md) | October 3, 2024 |
@@ -55,7 +53,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
-| [Custom forms: Form builder crashes when entering display logic](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | August 5 2024 |
 | [Access Levels: Duplicate access levels in Setup area](known-issues-workfront/wf-access-duplicate-level.md) | July 25, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
 | [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | April 4, 2024 |
@@ -69,6 +66,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Document notification emails unable to display image previews](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | October 29, 2024 |
 | [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | October 14, 2024 |
 | [Home: Deleted custom fields persist in project, task, and issue widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | October 8, 2024 |
 | [Priorities: Groupings prevent sorting and inline editing](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | October 8, 2024 |
