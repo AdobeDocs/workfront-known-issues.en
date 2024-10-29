@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Notifications: Document notification emails unable to display image previews](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
         + [Reports: Show filter / Hide filter option is missing](known-issues-workfront/wf-reports-show-filter-missing.md)
         + [Home: Percent complete is cut off](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
         + [Projects: Gantt chart is not accurate](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
