@@ -19,6 +19,10 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Layout templates: Custom data fields not displaying when added to Task Summary through Layout Template](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | November 4, 2024 |
+| [Home: My Updates widget not working](known-issues-workfront/wf-home-my-updates-not-working.md) | November 4, 2024 |
+| [Documents: Approval options button missing on documents](known-issues-workfront/wf-documents-missing-approval-button.md) | November 4, 2024 |
+| [Home: To-Do widget errors for new and completed to-dos](known-issues-workfront/wf-home-to-do-new-complete-error.md) | November 4, 2024 |
 | [Home: Percent complete is cut off](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | October 24, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | September 19, 2024 |

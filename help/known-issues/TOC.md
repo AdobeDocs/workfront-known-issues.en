@@ -11,6 +11,11 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Layout templates: Custom data fields not displaying when added to Task Summary through Layout Template](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+        + [Home: My Updates widget not working](known-issues-workfront/wf-home-my-updates-not-working.md)
+        + [Documents: Approval options button missing on documents](known-issues-workfront/wf-documents-missing-approval-button.md)
+        + [Home: To-Do widget errors for new and completed to-dos](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+        + [Integrations: JumpSeat integrations fail for organizations on Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
         + [Notifications: Document notification emails unable to display image previews](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
         + [Reports: Show filter / Hide filter option is missing](known-issues-workfront/wf-reports-show-filter-missing.md)
         + [Home: Percent complete is cut off](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
