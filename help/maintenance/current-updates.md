@@ -20,6 +20,14 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in October 2024
 
++++**Maintenance Update on October 31, 2024**
+
+### Maintenance Update on October 31, 2024
+
+This update includes only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
 +++**Maintenance Update on October 24, 2024**
 
 ### Maintenance Update on October 24, 2024
@@ -49,7 +57,6 @@ When a user attempts to add an issue to a project in Complete status, the user c
 When a user views the Gantt chart and switches views, the Gantt chart does not show accurate data, or may not show any data. 
 
 +++
-
 
 +++**Maintenance Update on October 17, 2024**
 

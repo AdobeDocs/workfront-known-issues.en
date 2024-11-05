@@ -7,7 +7,6 @@ exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
 ---
 # Documents: Error screen when downloading or previewing asset
 
-
 >[!NOTE]
 >
 >This issue was fixed on June 27, 2024.
