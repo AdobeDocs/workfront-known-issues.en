@@ -1,8 +1,9 @@
 ---
-title: "Workfront Fusion: Cannot add or delete users from Workfront Fusion"
-description: "When a user attempts to add or delete a user in Workfront Fusion, they are unable to do so."
+title: 'Workfront Fusion: Cannot add or delete users from Workfront Fusion'
+description: When a user attempts to add or delete a user in Workfront Fusion, they are unable to do so.
 hidefromtoc: yes
 feature: Workfront Fusion
+exl-id: bd5eb99e-c9a5-470d-b58d-51097bbd9ea4
 ---
 # Workfront Fusion: Cannot add or delete users from Workfront Fusion
 
@@ -15,10 +16,3 @@ Users can be added or deleted through the Adobe Admin Console. Therefore, this i
 This issue is a temporary side effect of the process of migrating an organization to the Adobe Admin Console. When your organization is fully migrated, users can be managed in the Adobe Admin Console, and it will no longer be necessary to manage users in the Workfront Fusion application.
 
 <!--_First reported on June 1, 2024._ -->
-
-
-
-
-
-
-

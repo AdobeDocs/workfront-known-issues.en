@@ -1,8 +1,9 @@
 ---
-title: "Documents: Cannot move documents from object Documents tab"
+title: 'Documents: Cannot move documents from object Documents tab'
 description: "When trying to move a document from a project, task, or issue's Documents tab, users encounter the following error: Error loading secondary content."
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: fe5de4ce-dc30-41aa-96ba-aeb73851ef9f
 ---
 # Documents: Cannot move documents from object Documents tab
 

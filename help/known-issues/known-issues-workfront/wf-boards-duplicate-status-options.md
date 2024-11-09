@@ -3,6 +3,7 @@ title: 'Boards: Duplicate status options for tasks and issues'
 description: When updating the status of a task or issue on a board, a duplicate option appears for certain statuses.
 hidefromtoc: yes
 feature: Agile
+exl-id: 61f34f9e-6081-4ebc-bfcf-92bdd651a4db
 ---
 # Boards: Duplicate status options for tasks and issues
 

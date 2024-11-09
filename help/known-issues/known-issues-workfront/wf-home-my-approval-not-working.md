@@ -1,10 +1,10 @@
 ---
-title: "Home: My Approvals widget not working"
-description: "When a user attempts to view the My Approvals widget in home, the widget does not appear, and the user sees a message."
+title: 'Home: My Approvals widget not working'
+description: When a user attempts to view the My Approvals widget in home, the widget does not appear, and the user sees a message.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
 ---
-
 # Home: My Approvals widget not working
 
 When a user attempts to view the My Approvals widget in home, the widget does not appear, and the user sees the following message:

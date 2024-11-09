@@ -3,6 +3,7 @@ title: 'Integrations: JumpSeat integrations fail for organizations on Unified Sh
 description: When a user's organization is migrated onto Adobe Unified Shell, their existing JumpSeat integrations fail to work.
 hidefromtoc: yes
 feature: Workfront Integrations and Apps
+exl-id: 0476729e-4e25-4180-84b5-d6b59ae90de8
 ---
 # Integrations: JumpSeat integrations fail for organizations on Unified Shell
 

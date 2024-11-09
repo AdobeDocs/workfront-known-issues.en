@@ -1,10 +1,10 @@
 ---
-title: "Workfront Fusion: Execution details display as processing"
-description: "When a user attempts to view an execution's details, they see that the execution displays the processing badge long after the execution is completed."
+title: 'Workfront Fusion: Execution details display as processing'
+description: When a user attempts to view an execution's details, they see that the execution displays the processing badge long after the execution is completed.
 hidefromtoc: yes
 feature: Workfront Fusion
+exl-id: 6b7e25da-2ce8-4343-b0b4-973ed1e38bf0
 ---
-
 # Workfront Fusion: Execution details display as processing
 
 >[!NOTE]

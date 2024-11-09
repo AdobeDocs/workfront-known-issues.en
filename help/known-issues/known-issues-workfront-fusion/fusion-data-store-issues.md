@@ -1,10 +1,10 @@
 ---
-title: "Workfront Fusion: Data store issues"
-description: "The following issues have been reported regarding boolean fields in data stores: data stores are returning no value for fields that have the value EMPTY, and users cannot set values to FALSE directly in the data store."
+title: 'Workfront Fusion: Data store issues'
+description: 'The following issues have been reported regarding boolean fields in data stores: data stores are returning no value for fields that have the value EMPTY, and users cannot set values to FALSE directly in the data store.'
 hidefromtoc: yes
 feature: Workfront Fusion
+exl-id: 1e0c807c-dab0-46ab-bdfa-f0a99f5db986
 ---
-
 # Workfront Fusion: Data store issues
 
 >[!NOTE]

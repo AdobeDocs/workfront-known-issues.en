@@ -1,8 +1,9 @@
 ---
-title: "Priorities: Groupings prevent sorting and inline editing"
-description: "When the Priorities worklist has groupings applied it cannot be sorted, and inline editing does not work for fields in the worklist."
+title: 'Priorities: Groupings prevent sorting and inline editing'
+description: When the Priorities worklist has groupings applied it cannot be sorted, and inline editing does not work for fields in the worklist.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: 9b36df42-30ea-47d2-b791-114d59429480
 ---
 # Priorities: Groupings prevent sorting and inline editing
 
