@@ -1,0 +1,17 @@
+---
+title: 'Resource Planner: Cannot access the Resource Planner'
+description: When a user attempts to access the Resource Planner, the page fails to load and instead displays error boxes or an error message.
+hidefromtoc: yes
+feature: Resource Management
+---
+# Resource Planner: Cannot access the Resource Planner
+
+<!-->
+>[!NOTE]
+>
+>This issue was fixed on June 10, 2024.
+-->
+
+When a user attempts to access the Resource Planner, the page fails to load and instead displays error boxes or an error message.
+
+_First reported on November 7, 2024._

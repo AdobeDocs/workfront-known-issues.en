@@ -18,6 +18,16 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2024.
 
+## Updates in November 2024
+
++++**Maintenance Update on November 7, 2024**
+
+### Maintenance Update on November 7, 2024
+
+This update includes only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
 ## Updates in October 2024
 
 +++**Maintenance Update on October 31, 2024**
