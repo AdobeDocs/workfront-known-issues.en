@@ -6,7 +6,7 @@ feature: Resource Management
 ---
 # Resource Planner: Cannot access the Resource Planner
 
-<!-->
+<!--
 >[!NOTE]
 >
 >This issue was fixed on June 10, 2024.

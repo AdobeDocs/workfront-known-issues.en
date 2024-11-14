@@ -1,5 +1,5 @@
 ---
-title: 'Home: My Tasks widget won't load'
+title: 'Home: My Tasks widget wont load'
 description: When a user attempts to view the My Tasks widget in Home, the widget fails to display any content appears to be stuck loading.
 hidefromtoc: yes
 feature: Get Started with Workfront
