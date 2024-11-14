@@ -19,13 +19,25 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: Contributor users have a "Submit for approval" button](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | November 13, 2024 |
+| [Notifications: Email notifications for updates not being sent](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | November 13, 2024 |
+| [Custom forms: Cannot add "estimateByHours" or "hoursPerPoint" task fields](known-issues-workfront/wf-custom-forms-invalid-fields.md) | November 13, 2024 |
+| [Documents: Approval "quick add" does not include deadline entry for new versions](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | November 13, 2024 |
+| [Layout templates: Administrators unable to edit Home layout templates](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | November 13, 2024 |
+| [Users: "Unregistered" tag persists after login](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | November 13, 2024 |
+| [Workfront: Contributor users cannot access Programs or Portfolios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | November 13, 2024 |
+| [Approvals: "All" filter excludes personally submitted approvals](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | November 13, 2024 |
+| [Tasks: Elapsed Days duration incorrect for parent tasks with children](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | November 13, 2024 |
+| [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | November 13, 2024 |
+| [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
+| [Reports: Reports fail to load](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 12, 2024 |
+| [Resource Planner: Cannot access the Resource Planner](known-issues-workfront/wf-resource-planner-inaccessible.md) | November 12, 2024 |
+| [Home: My Tasks widget won't load](known-issues-workfront/wf-home-task-widget-wont-load.md) | November 12, 2024 |
 | [Layout templates: Custom data fields not displaying when added to Task Summary through Layout Template](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | November 4, 2024 |
 | [Home: My Updates widget not working](known-issues-workfront/wf-home-my-updates-not-working.md) | November 4, 2024 |
 | [Documents: Approval options button missing on documents](known-issues-workfront/wf-documents-missing-approval-button.md) | November 4, 2024 |
 | [Home: To-Do widget errors for new and completed to-dos](known-issues-workfront/wf-home-to-do-new-complete-error.md) | November 4, 2024 |
-| [Home: Percent complete is cut off](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | October 24, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
-| [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | September 19, 2024 |
 | [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
 | [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | September 3, 2024 |
 | [Boards: Connected card is in incorrect column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | August 28, 2024 |
@@ -45,15 +57,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
-| [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | October 22, 2024 |
-| [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | October 22, 2024 |
-| [Home: My Approvals widget not working](known-issues-workfront/wf-home-my-approval-not-working.md) | October 22, 2024 |
 | [Proofs: Cannot create proofs in Preview environment](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | October 22, 2024 |
 | [Projects: Cannot share projects due to "access to delete" error](known-issues-workfront/wf-projects-sharing-access-error.md) | October 3, 2024 |
-| [Proofs: Create proof fails for documents linked from AEM through Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | October 3, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
 | [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md) | September 12, 2024 |
-| [Home: Pending approvals widget shows deleted documents](known-issues-workfront/wf-home-deleted-documents.md) | September 12, 2024 |
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
@@ -70,6 +77,8 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | November 12, 2024 |
+| [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 12, 2024 |
 | [Notifications: Document notification emails unable to display image previews](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | October 29, 2024 |
 | [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | October 14, 2024 |
 | [Home: Deleted custom fields persist in project, task, and issue widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | October 8, 2024 |
