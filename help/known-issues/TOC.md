@@ -22,7 +22,6 @@ role: User
         + [Tasks: Elapsed Days duration incorrect for parent tasks with children](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
         + [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
         + [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-        + [Reports: Reports fail to load](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
         + [Resource Planner: Cannot access the Resource Planner](known-issues-workfront/wf-resource-planner-inaccessible.md)
         + [Home: My Tasks widget won't load](known-issues-workfront/wf-home-task-widget-wont-load.md)
         + [Layout templates: Custom data fields not displaying when added to Task Summary through Layout Template](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
