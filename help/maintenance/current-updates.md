@@ -20,6 +20,24 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in November 2024
 
++++**Maintenance Update on November 14, 2024**
+
+### Maintenance Update on November 14, 2024
+
+#### Home
+
+**To-Do widget errors for new and completed to-dos**
+
+When attempting to create a new to-do or completing an existing one in the Home To-Do widget, users encounter an error and are unable to create or complete the to-do.
+
+#### Users
+
+**"Send invite emails to these people" checkbox missing**
+
+When importing new users into Workfront, the "Send invite emails to these people" checkbox is missing from the dialog window.
+
++++
+
 +++**Maintenance Update on November 7, 2024**
 
 ### Maintenance Update on November 7, 2024
@@ -46,7 +64,7 @@ This update includes only minor or less prominent bug fixes. Workfront Support w
 
 **Time off icon does not appear when assigning tasks**
 
-when a user is assigning a task and begins typing the name of the assignee who has time off scheduled during the task, the user icons under the Suggested Assignments area do not display the time off (airplane) icon. If the user continues typing so that the name displays under the Users and Teams area, the icon does display.
+When a user is assigning a task and begins typing the name of the assignee who has time off scheduled during the task, the user icons under the Suggested Assignments area do not display the time off (airplane) icon. If the user continues typing so that the name displays under the Users and Teams area, the icon does display.
 
 #### Custom forms 
 
@@ -78,7 +96,7 @@ When a user views the Gantt chart and switches views, the Gantt chart does not s
 
 Dates listed in the documents list are showing the date that the first version of the document was created, instead of the date the newest version was created.
 
-### Timesheets
+#### Timesheets
 
 When a user attempts to log time on a timesheet that is in Submitted or Closed status, they cannot log the time. 
 

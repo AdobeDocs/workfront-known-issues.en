@@ -6,11 +6,9 @@ feature: Get Started with Workfront
 ---
 # Home: My Tasks widget won't load
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on October 24, 2024.
--->
+>This issue was fixed on November 14, 2024.
 
 When a user attempts to view the My Tasks widget in Home, the widget fails to display any content appears to be stuck loading.
 
