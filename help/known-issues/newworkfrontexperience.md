@@ -30,13 +30,9 @@ These recently reported issues are currently under review.
 | [Tasks: Elapsed Days duration incorrect for parent tasks with children](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | November 13, 2024 |
 | [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | November 13, 2024 |
 | [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
-| [Reports: Reports fail to load](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 12, 2024 |
-| [Resource Planner: Cannot access the Resource Planner](known-issues-workfront/wf-resource-planner-inaccessible.md) | November 12, 2024 |
-| [Home: My Tasks widget won't load](known-issues-workfront/wf-home-task-widget-wont-load.md) | November 12, 2024 |
 | [Layout templates: Custom data fields not displaying when added to Task Summary through Layout Template](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | November 4, 2024 |
 | [Home: My Updates widget not working](known-issues-workfront/wf-home-my-updates-not-working.md) | November 4, 2024 |
 | [Documents: Approval options button missing on documents](known-issues-workfront/wf-documents-missing-approval-button.md) | November 4, 2024 |
-| [Home: To-Do widget errors for new and completed to-dos](known-issues-workfront/wf-home-to-do-new-complete-error.md) | November 4, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
 | [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
 | [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | September 3, 2024 |
