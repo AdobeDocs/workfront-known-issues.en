@@ -73,6 +73,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: ZScalar settings can cause reduced performance](known-issues-workfront//wf-workfront-zscalar.md) | November 20, 2024 |
 | [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | November 12, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 12, 2024 |
 | [Notifications: Document notification emails unable to display image previews](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | October 29, 2024 |
