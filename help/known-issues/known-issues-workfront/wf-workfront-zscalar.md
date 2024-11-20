@@ -1,10 +1,10 @@
 ---
-title: "Workfront: ZScalar settings can cause reduced performance"
-description: "ZScalar's web service uses http/1.1 by default, which can cause reduced performance in Workfront."
+title: 'Workfront: ZScalar settings can cause reduced performance'
+description: ZScalar's web service uses http/1.1 by default, which can cause reduced performance in Workfront.
 hidefromtoc: yes
 feature: System Setup and Administration
+exl-id: 35588d30-3290-4522-b66f-a38a1f0d7237
 ---
-
 # Workfront: ZScalar settings can cause reduced performance
 
 >[!NOTE]
