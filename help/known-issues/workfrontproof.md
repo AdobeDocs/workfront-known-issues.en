@@ -33,7 +33,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Cannot create proofs in Preview environment](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | October 22, 2024 |
 | [Documents: Cannot preview documents with preview link](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | August 15, 2024 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Cannot create view for Documents list](known-issues-workfront/wf-documents-cannot-add-new-view.md) | July 15, 2024 |
