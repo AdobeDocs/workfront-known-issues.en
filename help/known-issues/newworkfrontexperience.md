@@ -28,11 +28,8 @@ These recently reported issues are currently under review.
 | [Workfront: Contributor users cannot access Programs or Portfolios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | November 13, 2024 |
 | [Approvals: "All" filter excludes personally submitted approvals](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | November 13, 2024 |
 | [Tasks: Elapsed Days duration incorrect for parent tasks with children](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | November 13, 2024 |
-| [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | November 13, 2024 |
 | [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
 | [Layout templates: Custom data fields not displaying when added to Task Summary through Layout Template](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | November 4, 2024 |
-| [Home: My Updates widget not working](known-issues-workfront/wf-home-my-updates-not-working.md) | November 4, 2024 |
-| [Documents: Approval options button missing on documents](known-issues-workfront/wf-documents-missing-approval-button.md) | November 4, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
 | [API: API call fails due to SQL error](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | September 12, 2024 |
 | [Boards: Card status doesn't match connected object and bypasses filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | September 3, 2024 |
@@ -52,8 +49,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 |----------------------------------| ----------------- |
+| [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
-| [Proofs: Cannot create proofs in Preview environment](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | October 22, 2024 |
 | [Projects: Cannot share projects due to "access to delete" error](known-issues-workfront/wf-projects-sharing-access-error.md) | October 3, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
 | [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md) | September 12, 2024 |

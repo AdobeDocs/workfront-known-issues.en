@@ -9,7 +9,7 @@ exl-id: 3cade5ee-e561-48d4-a570-6fc1cbf409f1
 
 >[!NOTE]
 >
->This issue has been reported in the Preview Sandbox environment only.
+>This issue has been closed because it could not be reproduced.
 
 When a user attempts to create a proof in a Preview Sandbox environment, the proof is not created, and the user sees a "Failed to generate" message.
 

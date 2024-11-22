@@ -20,6 +20,38 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in November 2024
 
++++**Maintenance Update on November 21, 2024**
+
+### Maintenance Update on November 21, 2024
+
+#### Dashboards
+
+**Cannot interact with bar chart report bars in dashboards**
+
+When attempting to click or mouseover a bar in a bar chart report within a dashboard, the details menu does not open or no tooltip is displayed, respectively.
+
+#### Projects
+
+**Projects fail to load**
+
+When navigating to a project, the page occasionally fails to load any content.
+
+#### Reports
+
+**Bulk editing in chart lists is unresponsive**
+
+When a user is viewing a chart in a report and selects multiple items in the list to bulk edit, the cursor disappears and the text boxes for the bulk edit become unresponsive.
+
+**Edit and Delete buttons unresponsive in timesheet reports**
+
+When attempting to click the Edit or Delete icons in a timesheet report, there is no response.
+
+**Reports containing typeahead fields fail to load**
+
+When opening a report that contains custom typeahead fields, the report occasionally fails to load and displays an error message.
+
++++
+
 +++**Maintenance Update on November 14, 2024**
 
 ### Maintenance Update on November 14, 2024
