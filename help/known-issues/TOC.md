@@ -11,7 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + [Workfront: ZScalar settings can cause reduced performance](known-issues-workfront//wf-workfront-zscalar.md)
+        + [Workfront: ZScaler settings can cause reduced performance](known-issues-workfront//wf-workfront-zscaler.md)
         + [Timesheets: Contributor users have a "Submit for approval" button](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
         + [Notifications: Email notifications for updates not being sent](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
         + [Custom forms: Cannot add "estimateByHours" or "hoursPerPoint" task fields](known-issues-workfront/wf-custom-forms-invalid-fields.md)
