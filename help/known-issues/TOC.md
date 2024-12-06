@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Approvals: Delegated approvals not appearing for delegates](known-issues-workfront/wf-approvals-delegation-not-working.md)
+        + [Documents: "Unsaved changes" error when adding a form to a document](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+        + [Tasks: Ready to Start field not updating despite completed predecessors](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+        + [Workfront: Date format changes throughout application](known-issues-workfront/wf-workfront-date-format-changing.md)
         + [Workfront: ZScaler settings can cause reduced performance](known-issues-workfront//wf-workfront-zscaler.md)
         + [Timesheets: Contributor users have a "Submit for approval" button](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
         + [Notifications: Email notifications for updates not being sent](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)

@@ -7,6 +7,10 @@ exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
 ---
 # Layout templates: Administrators unable to edit Home layout templates
 
+>[!NOTE]
+>
+>This issue was fixed on December 5, 2024.
+
 When an administrator attempts to edit a Home layout template for a user, the interface does not respond and changes cannot be saved.
 
 **Workaround**
