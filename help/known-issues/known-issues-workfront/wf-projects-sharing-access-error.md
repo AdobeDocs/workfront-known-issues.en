@@ -7,7 +7,7 @@ exl-id: 4eb533ed-babc-4ba8-8ac2-5c99e55b95b4
 ---
 # Projects: Cannot share projects due to "access to delete" error
 
->>[!NOTE]
+>[!NOTE]
 >
 >This article was fixed on November 28, 2024.
 
