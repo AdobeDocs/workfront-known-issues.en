@@ -18,7 +18,77 @@ For maintenance updates prior to 2024, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2024.
 
+## Updates in December 2024
+
++++**Maintenance Update on December 5, 2024**
+
+### Maintenance Update on December 5, 2024
+
+#### Custom forms
+
+**Cannot add "estimateByHours" or "hoursPerPoint" task fields**
+
+When a user attempts to add the fields "estimateByHours" or "hoursPerPoint" to a custom form in the form builder, an error message is displayed: "This is an invalid custom expression, please try again."
+
+**Display logic not working in custom forms**
+
+When a user is enter information into a custom form with display logic, fields that should appear based on the display logic do not appear.
+
+#### Home
+
+**Contributors shown nonfunctional "Work on it" button**
+
+Contributor users have access to a nonfunctional "Work on it" button in the My Work widget in Home.
+
+#### Reports
+
+**Custom quarters do not appear in report prompts**
+
+When a user is running a report with a date-based prompt, customized quarters do not appear in the list of selections for the prompt.
+
++++
+
 ## Updates in November 2024
+
++++**Maintenance Update on November 28, 2024**
+
+### Maintenance Update on November 28, 2024
+
+#### Projects
+
+**Cannot share projects due to "access to delete" error**
+
+When attempting to share a project, the user receives an error: "You do no have sufficient access to delete this project". This occurs despite the user not trying to delete the project, as well as the user being the Project Owner and having Sharing and Manage access to the project.
+
+#### Reports
+
+**Category Name field not linking to custom form**
+
+When viewing a list in a report containing a Category Name field, the contents of the Category Name column cannot be clicked to open the corresponding custom form.
+
+**Group custom colors in reports not working**
+
+When assigning a custom color to a group in the report builder, the color selection does not appear when running the report.
+
+**Long load times for reports**
+
+Reports take an extended amount of time to load. This affects viewing reports, and editing and creating reports in the report builder.
+
+**Time field missing for calculated Date/Time fields in report prompts**
+
+When running a report has a custom Date/Time field used as a prompt, the time selection field is missing from the prompt interface.
+
+**Unable to view shared reports/dashboards**
+
+When a user attempts to access a report or dashboard that has been shared with them, the report or dashboard cannot be accessed.
+
+#### Timesheets
+
+**Contributor users have a "Submit for approval" button**
+
+Despite being unable to enter hours in timesheets, users with the Contributor access level have a "Submit for approval" button that they can click.
+
++++
 
 +++**Maintenance Update on November 21, 2024**
 
