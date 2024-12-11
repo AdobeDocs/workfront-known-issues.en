@@ -11,6 +11,11 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Agile: Cannot bulk edit stories in an iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+        + [Proofs: Cannot add recipients to proof](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+        + [Proofs: Proof name does not appear on browser tab](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+        + [Tasks: Whoops error when adding personal tasks](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+        + [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
         + [Approvals: Delegated approvals not appearing for delegates](known-issues-workfront/wf-approvals-delegation-not-working.md)
         + [Documents: "Unsaved changes" error when adding a form to a document](known-issues-workfront/wf-documents-unsaved-changes-error.md)
         + [Tasks: Ready to Start field not updating despite completed predecessors](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)

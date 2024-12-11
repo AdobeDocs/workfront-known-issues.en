@@ -7,9 +7,12 @@ exl-id: 12bf8b0e-f31b-4320-b7f1-ea9964e86bf7
 ---
 # Proofs: Approved proofs appear in reports
 
+<!--
+
 >[!NOTE]
 >
 >This issue has been closed because it is not an issue.
+-->
 
 When a user is viewing a proof approval report, some approved proofs may appear in the report. This may occur even though the report is filtered to display only proofs that are awaiting approval.
 
