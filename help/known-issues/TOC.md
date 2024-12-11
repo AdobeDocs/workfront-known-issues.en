@@ -164,7 +164,7 @@ role: User
         + [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
         + [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
         + [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-        + [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+        + [Tasks: Database error when adding or deleting a task (previously Bizcontext error)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
         + [Layout template: Landing page is incorrect](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
         + [Reports: Report filter does not return expected results](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
         + [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
