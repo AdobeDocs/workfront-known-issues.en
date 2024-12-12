@@ -11,6 +11,12 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+        + [Agile: Cannot bulk edit stories in an iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+        + [Proofs: Cannot add recipients to proof](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+        + [Proofs: Proof name does not appear on browser tab](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+        + [Tasks: Whoops error when adding personal tasks](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+        + [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
         + [Approvals: Delegated approvals not appearing for delegates](known-issues-workfront/wf-approvals-delegation-not-working.md)
         + [Documents: "Unsaved changes" error when adding a form to a document](known-issues-workfront/wf-documents-unsaved-changes-error.md)
         + [Tasks: Ready to Start field not updating despite completed predecessors](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -164,7 +170,7 @@ role: User
         + [Updates: Link in comment goes to blank screen](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
         + [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
         + [Proofs: Proof prevents conversion of task or issue to project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-        + [Tasks: Bizcontext error when adding or deleting a task](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+        + [Tasks: Database error when adding or deleting a task (previously Bizcontext error)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
         + [Layout template: Landing page is incorrect](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
         + [Reports: Report filter does not return expected results](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
         + [Project: Cannot convert issue to project if web proof is attached](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
