@@ -1,6 +1,6 @@
 ---
-title: "Tasks: Whoops error when adding personal tasks"
-description: "When a user on the task list for their personal tasks attempts to create a new task by clicking the "Add More Tasks" button, they cannot create the task, and they see an error message. A workaround is available."
+title: 'Tasks: Whoops error when adding personal tasks'
+description: 'When a user on the task list for their personal tasks attempts to create a new task by clicking the "Add More Tasks" button, they cannot create the task, and they see an error message. A workaround is available.'
 hidefromtoc: yes
 feature: Tasks
 ---
