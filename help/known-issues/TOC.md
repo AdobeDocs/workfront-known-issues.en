@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
         + [Agile: Cannot bulk edit stories in an iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
         + [Proofs: Cannot add recipients to proof](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
         + [Proofs: Proof name does not appear on browser tab](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
