@@ -20,6 +20,36 @@ The following maintenance updates have been made in 2024.
 
 ## Updates in December 2024
 
++++**Maintenance Update on December 19, 2024**
+
+### Maintenance Update on December 19, 2024
+
+This update includes only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
++++**Maintenance Update on December 12, 2024**
+
+### Maintenance Update on December 12, 2024
+
+#### Dashboards
+
+**Column disappears when used for sorting in a dashboard report**
+
+When sorting a report placed in a dashboard by a column, the column disappears and the content is not sorted.
+
+#### Reports
+
+**Group column under chart option causes error**
+
+When enabling the "Group column under chart" option in a report with a chart, the following error message displays: "An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page."
+
+**Bulk Edit and Delete icons missing from reports**
+
+When attempting to edit or delete multiple report items in bulk, the Edit and Deletes icons occasionally do not appear.
+
++++
+
 +++**Maintenance Update on December 5, 2024**
 
 ### Maintenance Update on December 5, 2024

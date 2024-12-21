@@ -19,14 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Agile: Cannot bulk edit stories in an iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | December 5, 2024 |
-| [Approvals: Delegated approvals not appearing for delegates](known-issues-workfront/wf-approvals-delegation-not-working.md) | December 5, 2024 |
 | [Documents: "Unsaved changes" error when adding a form to a document](known-issues-workfront/wf-documents-unsaved-changes-error.md) | December 5, 2024 |
-| [Tasks: Ready to Start field not updating despite completed predecessors](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | December 3, 2024 |
-| [Workfront: Date format changes throughout application](known-issues-workfront/wf-workfront-date-format-changing.md) | December 3, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | December 3, 2024 |
 | [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | December 3, 2024 |
-| [Documents: Approval "quick add" does not include deadline entry for new versions](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | November 13, 2024 |
 | [Users: "Unregistered" tag persists after login](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | November 13, 2024 |
 | [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
@@ -48,11 +43,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Custom forms: Cannot add "estimateByHours" or "hoursPerPoint" task fields](known-issues-workfront/wf-custom-forms-invalid-fields.md) | December 20, 2024 |
 | [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | December 11, 2024 |
-| [Proofs: Cannot add recipients to proof](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | December 11, 2024 |
 | [Proofs: Proof name does not appear on browser tab](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | December 11, 2024 |
 | [Tasks: Whoops error when adding personal tasks](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | December 11, 2024 |
-| [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | December 11, 2024 |
 | [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | December 3, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
@@ -73,6 +67,9 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | December 20, 2024 |
+| [Workfront: Date format changes throughout application](known-issues-workfront/wf-workfront-date-format-changing.md) | December 20, 2024 |
+| [Approvals: Delegated approvals not appearing for delegates](known-issues-workfront/wf-approvals-delegation-not-working.md) | December 20, 2024 |
 | [Tasks: Database error when adding or deleting a task (previously Bizcontext error)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | December 10, 2024 |
 | [Layout templates: Custom data fields not displaying when added to Task Summary through Layout Template](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | November 4, 2024 |
 | [Notifications: Email notifications for updates not being sent](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | December 5, 2024 |
