@@ -7,7 +7,7 @@ exl-id: 018ad614-9ba8-43bf-8c0e-f90cd322e6ee
 ---
 # Custom forms: Cannot add "estimateByHours" or "hoursPerPoint" task fields
 
-<!-->[!NOTE]
+<!--[!NOTE]
 >
 >This article was fixed on December 5, 2024.-->
 
