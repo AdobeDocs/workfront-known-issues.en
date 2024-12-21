@@ -7,6 +7,10 @@ exl-id: 04c2b586-ffe9-4d85-ae57-899b9c5120d3
 ---
 # Approvals: Delegated approvals not appearing for delegates
 
+>[!NOTE]
+>
+>This issue has been closed because it is working as designed. Delegation is not yet supported for the new document approval experience.
+
 When a user delegates an approval to another user, the delegated user cannot see the approval and cannot make an approval decision.
 
 _First reported on November 22, 2024._
