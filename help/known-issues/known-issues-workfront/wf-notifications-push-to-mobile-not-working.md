@@ -1,10 +1,10 @@
 ---
-title: "Notifications: Push notifications to the Workfront Mobile app are not working"
-description: "When an event occurs that should trigger a push notification to the Workfront Mobile app, the notification is not received."
+title: 'Notifications: Push notifications to the Workfront Mobile app are not working'
+description: When an event occurs that should trigger a push notification to the Workfront Mobile app, the notification is not received.
 hidefromtoc: yes
 feature: Updates and Notifications
+exl-id: 5f2fab99-d825-4abf-ae4a-d03de6d10de2
 ---
-
 # Notifications: Push notifications to the Workfront Mobile app are not working
 
 When an event occurs that should trigger a push notification to the Workfront Mobile app, the notification is not received.

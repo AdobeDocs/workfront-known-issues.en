@@ -1,10 +1,10 @@
 ---
-title: "Documents: Documents area does not display all documents"
-description: "When a user is viewing the Documents area of an object, not all of the documents attached to the document are displayed. A workaround is available."
+title: 'Documents: Documents area does not display all documents'
+description: When a user is viewing the Documents area of an object, not all of the documents attached to the document are displayed. A workaround is available.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 3c208da4-4f75-44ef-824e-50aff523e5aa
 ---
-
 # Documents: Documents area does not display all documents
 
 When a user is viewing the Documents area of an object, not all of the documents attached to the document are displayed.
