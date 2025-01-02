@@ -11,6 +11,12 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Updates: Logged hours do not display on Log Time label in Updates area](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+        + [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+        + [Notifications: Push notifications to the Workfront Mobile app are not working](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+        + [Documents: Documents area does not display all documents](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+        + [Custom forms: Error when editing custom form through column](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+        + [Requests and issues: Error with Advanced User Assignments](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
         + [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
         + [Agile: Cannot bulk edit stories in an iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
         + [Proofs: Cannot add recipients to proof](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
