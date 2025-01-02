@@ -2,7 +2,7 @@
 title: "Documents: Documents area does not display all documents"
 description: "When a user is viewing the Documents area of an object, not all of the documents attached to the document are displayed. A workaround is available."
 hidefromtoc: yes
-feature: 
+feature: Digital Content and Documents
 ---
 
 # Documents: Documents area does not display all documents
