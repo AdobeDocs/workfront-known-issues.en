@@ -21,6 +21,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Push notifications to the Workfront Mobile app are not working](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | January 2, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
 
 <!--
