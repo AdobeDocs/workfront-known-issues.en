@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Boards: Cannot move card to different column](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+        + [Custom forms: "Invalid fields" message when editing a custom form](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+        + [Users: Bulk updating users is very slow](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+        + [Custom forms: Radio buttons are listed horizontally](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
         + [Updates: Logged hours do not display on Log Time label in Updates area](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
         + [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md)
         + [Notifications: Push notifications to the Workfront Mobile app are not working](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)

@@ -48,6 +48,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Boards: Cannot move card to different column](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | January 2, 2025 |
+| [Custom forms: "Invalid fields" message when editing a custom form](known-issues-workfront/wf-custom-forms-blank-required-field.md) | January 2, 2025 |
+| [Users: Bulk updating users is very slow](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | January 2, 2025 |
+| [Custom forms: Radio buttons are listed horizontally](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | January 2, 2025 |
 | [Requests and issues: Error with Advanced User Assignments](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | January 2, 2025 |
 | [Custom forms: Cannot add "estimateByHours" or "hoursPerPoint" task fields](known-issues-workfront/wf-custom-forms-invalid-fields.md) | December 20, 2024 |
 | [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | December 11, 2024 |
