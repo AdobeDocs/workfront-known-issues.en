@@ -1,10 +1,10 @@
 ---
-title: "Custom forms: Invalid fields message when editing a custom form"
-description: "When a user is editing custom forms in the Details area of an object, and one of the custom forms has a required field that is currently blank, The user cannot edit forms, and sees a message. A workaround is available."
+title: 'Custom forms: Invalid fields message when editing a custom form'
+description: When a user is editing custom forms in the Details area of an object, and one of the custom forms has a required field that is currently blank, The user cannot edit forms, and sees a message. A workaround is available.
 hidefromtoc: yes
 feature: Custom Forms
+exl-id: 8e812a51-617f-4aa7-be29-184f018e9baa
 ---
-
 # Custom forms: "Invalid fields" message when editing a custom form
 
 When a user is editing custom forms in the Details area of an object, and one of the custom forms has a required field that is currently blank, The user cannot edit forms, and sees the following message:

@@ -1,10 +1,10 @@
 ---
-title: "Billing record: Hours are not saved"
-description: "When a user attempts to add eligible hours to a business record, the hours are not saved, and the user sees a message."
+title: 'Billing record: Hours are not saved'
+description: When a user attempts to add eligible hours to a business record, the hours are not saved, and the user sees a message.
 hidefromtoc: yes
 feature: Work Management
+exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
 ---
-
 # Billing record: Hours are not saved
 
 When a user attempts to add eligible hours to a business record, the hours are not saved, and the user sees the following message:
