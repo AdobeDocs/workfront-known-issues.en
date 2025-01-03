@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Custom forms: Custom form appears in legacy format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | January 3, 2024 |
+| [Billing record: Hours are not saved](known-issues-workfront/wf-billing-record-hours-not-saved.md) | January 3, 2024 |
 | [Updates: Logged hours do not display on Log Time label in Updates area](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | January 2, 2024 |
 | [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md) | January 2, 2024 |
 | [Notifications: Push notifications to the Workfront Mobile app are not working](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | January 2, 2024 |
