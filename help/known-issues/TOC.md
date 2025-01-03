@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Custom form appears in legacy format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+        + [Billing record: Hours are not saved](known-issues-workfront/wf-billing-record-hours-not-saved.md)
         + [Boards: Cannot move card to different column](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
         + [Custom forms: "Invalid fields" message when editing a custom form](known-issues-workfront/wf-custom-forms-blank-required-field.md)
         + [Users: Bulk updating users is very slow](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
