@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: Approval buttons missing from Awaiting Approval widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+        + [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+        + [Projects: Late condition not applying as expected](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
         + [Custom forms: Custom form appears in legacy format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
         + [Billing record: Hours are not saved](known-issues-workfront/wf-billing-record-hours-not-saved.md)
         + [Boards: Cannot move card to different column](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)

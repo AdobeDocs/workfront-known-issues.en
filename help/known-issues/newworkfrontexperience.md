@@ -19,12 +19,13 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Home: Approval buttons missing from Awaiting Approval widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | January 9, 2025 |
+| [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | January 9, 2025 |
+| [Projects: Late condition not applying as expected](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | January 9, 2025 |
 | [Custom forms: Custom form appears in legacy format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | January 3, 2024 |
 | [Billing record: Hours are not saved](known-issues-workfront/wf-billing-record-hours-not-saved.md) | January 3, 2024 |
-| [Updates: Logged hours do not display on Log Time label in Updates area](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | January 2, 2024 |
 | [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md) | January 2, 2024 |
 | [Notifications: Push notifications to the Workfront Mobile app are not working](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | January 2, 2024 |
-| [Documents: Documents area does not display all documents](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | January 2, 2024 |
 | [Custom forms: Error when editing custom form through column](known-issues-workfront/wf-custom-forms-error-when-editing.md) | January 2, 2024 |
 | [Documents: "Unsaved changes" error when adding a form to a document](known-issues-workfront/wf-documents-unsaved-changes-error.md) | December 5, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | December 3, 2024 |
@@ -53,17 +54,13 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Boards: Cannot move card to different column](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | January 2, 2025 |
 | [Custom forms: "Invalid fields" message when editing a custom form](known-issues-workfront/wf-custom-forms-blank-required-field.md) | January 2, 2025 |
 | [Users: Bulk updating users is very slow](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | January 2, 2025 |
-| [Custom forms: Radio buttons are listed horizontally](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | January 2, 2025 |
 | [Requests and issues: Error with Advanced User Assignments](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | January 2, 2025 |
-| [Custom forms: Cannot add "estimateByHours" or "hoursPerPoint" task fields](known-issues-workfront/wf-custom-forms-invalid-fields.md) | December 20, 2024 |
 | [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | December 11, 2024 |
 | [Proofs: Proof name does not appear on browser tab](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | December 11, 2024 |
-| [Tasks: Whoops error when adding personal tasks](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | December 11, 2024 |
 | [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | December 3, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
-| [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md) | September 12, 2024 |
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
 | [Notifications: Whoops error when setting notification preferences](known-issues-workfront/wf-notifications-whoops-error.md) | August 8, 2024 |
