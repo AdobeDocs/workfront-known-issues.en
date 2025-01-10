@@ -1,6 +1,6 @@
 ---
 title: "Users: Duplicate account created when changing system administrator"
-description: 'When a systems primary administrator is changed to a different user, a duplicate of that user's account is created with the name "Admin User" and an identical email address.'
+description: 'When a systems primary administrator is changed to a different user, a duplicate of that users account is created with the name "Admin User" and an identical email address.'
 hidefromtoc: yes
 feature: People Teams and Groups
 ---
