@@ -3,6 +3,7 @@ title: 'Home: Approval buttons missing from Awaiting Approval widget'
 description: When using the Awaiting Approval widget in Home, the buttons for selecting an approval decision do not appear.
 hidefromtoc: yes
 feature: Get Started with Workfront
+exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
 ---
 # Home: Approval buttons missing from Awaiting Approval widget
 
