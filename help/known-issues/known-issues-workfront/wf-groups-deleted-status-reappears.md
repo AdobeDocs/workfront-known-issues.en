@@ -7,6 +7,10 @@ exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
 ---
 # Groups: Issues when deleting group status
 
+>[!NOTE]
+>
+>This issue has been closed because it could not be reproduced.
+
 The following issues have been reported regarding deleting group statuses:
 
 * After deleting a group's status, despite the group no longer displaying the status and the removal time appearing in the group's Updates, it eventually reappears without being modified by a user.
