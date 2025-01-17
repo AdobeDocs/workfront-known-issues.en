@@ -11,5 +11,4 @@ When a user is viewing a report, and clicks into the details, and the report is 
 
 "[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]"
 
-
 _First reported on June 14, 2024._
