@@ -19,15 +19,14 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Tasks: Logged hour remain on previous project once moved](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | January 16, 2025 |
+| [Reports: Hour report filters include incorrect dates](help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | January 16, 2025 |
+| [Timesheets: Incorrect total hours](help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | January 16, 2025 |
 | [Home: Approval buttons missing from Awaiting Approval widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | January 9, 2025 |
 | [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | January 9, 2025 |
 | [Projects: Late condition not applying as expected](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | January 9, 2025 |
-| [Custom forms: Custom form appears in legacy format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | January 3, 2024 |
 | [Billing record: Hours are not saved](known-issues-workfront/wf-billing-record-hours-not-saved.md) | January 3, 2024 |
-| [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md) | January 2, 2024 |
 | [Notifications: Push notifications to the Workfront Mobile app are not working](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | January 2, 2024 |
-| [Custom forms: Error when editing custom form through column](known-issues-workfront/wf-custom-forms-error-when-editing.md) | January 2, 2024 |
-| [Documents: "Unsaved changes" error when adding a form to a document](known-issues-workfront/wf-documents-unsaved-changes-error.md) | December 5, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | December 3, 2024 |
 | [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | December 3, 2024 |
 | [Users: "Unregistered" tag persists after login](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | November 13, 2024 |
@@ -52,11 +51,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
 | [Boards: Cannot move card to different column](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | January 2, 2025 |
-| [Custom forms: "Invalid fields" message when editing a custom form](known-issues-workfront/wf-custom-forms-blank-required-field.md) | January 2, 2025 |
 | [Users: Bulk updating users is very slow](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | January 2, 2025 |
-| [Requests and issues: Error with Advanced User Assignments](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | January 2, 2025 |
 | [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | December 11, 2024 |
-| [Proofs: Proof name does not appear on browser tab](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | December 11, 2024 |
 | [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | December 3, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
@@ -76,6 +72,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md) | January 16, 2024 |
 | [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | December 20, 2024 |
 | [Workfront: Date format changes throughout application](known-issues-workfront/wf-workfront-date-format-changing.md) | December 20, 2024 |
 | [Approvals: Delegated approvals not appearing for delegates](known-issues-workfront/wf-approvals-delegation-not-working.md) | December 20, 2024 |

@@ -7,6 +7,10 @@ exl-id: ee341bb6-49d4-4acb-ac70-fce43c617a7a
 ---
 # Proofs: Proof name does not appear on browser tab
 
+>[!NOTE]
+>
+>This issue was fixed on January 16, 2025.
+
 When a user is viewing a proof, the proof's name is not visible on the browser tab. Instead, the browser tab displays "Workfront."
 
 _First reported on December 9, 2024._

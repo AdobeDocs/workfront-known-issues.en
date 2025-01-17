@@ -1,0 +1,15 @@
+---
+title: 'Reports: Hour report filters include incorrect dates'
+description: When filtering an hour report to show only a specific date, a different adjacent date is actually included in the report. This issue appears to be related to timezone settings.
+hidefromtoc: yes
+feature: Reports and Dashboards
+---
+# Reports: Hour report filters include incorrect dates
+
+When filtering an hour report to show only a specific date, a different adjacent date is actually included in the report. This issue appears to be related to timezone settings.
+
+**Workaround**
+
+By using text mode to specify the date in the filter, the correct date is included in the report.
+
+_First reported on June 3, 2025._

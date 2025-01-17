@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Tasks: Logged hour remain on previous project once moved](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+        + [Reports: Hour report filters include incorrect dates](help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
+        + [Timesheets: Incorrect total hours](help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
         + [Home: Approval buttons missing from Awaiting Approval widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
         + [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
         + [Projects: Late condition not applying as expected](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
