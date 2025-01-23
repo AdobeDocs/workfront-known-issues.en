@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Custom typeahead fields in drill down not responsive](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+        + [Login as: Administrator's Home layout template is displayed](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+        + [Users: Editing cost rate error](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
         + [Tasks: Logged hour remain on previous project once moved](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
         + [Reports: Hour report filters include incorrect dates](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
         + [Timesheets: Incorrect total hours](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)

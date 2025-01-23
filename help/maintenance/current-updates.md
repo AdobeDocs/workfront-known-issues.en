@@ -20,6 +20,24 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in January 2025
 
++++**Maintenance Update on January 23, 2025**
+
+### Maintenance Update on January 23, 2025
+
+#### Reports
+
+**Custom currency fields cause report error**
+
+When a report view contains two or more custom currency fields, the report returns and error.
+
+#### Users
+
+**"Unregistered" tag persists after login**
+
+Despite successfully logging in at least once, the "unregistered" tag does not go away as expected for new users.
+
++++
+
 +++**Maintenance Update on January 16, 2025**
 
 ### Maintenance Update on January 16, 2025
