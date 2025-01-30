@@ -20,6 +20,24 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in January 2025
 
++++**Maintenance Update on January 30, 2025**
+
+### Maintenance Update on January 30, 2025
+
+#### Home
+
+**Approvals not appearing in Home widget**
+
+Approvals submitted by a user do not appear in their own My Approvals widget, even when filtered to specifically display them.
+
+#### Reports
+
+**Hour report filters include incorrect dates**
+
+When filtering an hour report to show only a specific date, a different adjacent date is actually included in the report. This issue appears to be related to timezone settings.
+
++++
+
 +++**Maintenance Update on January 23, 2025**
 
 ### Maintenance Update on January 23, 2025

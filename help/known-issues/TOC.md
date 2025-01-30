@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+        + [Tasks: Project-level filters and views available for tasks](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
         + [Reports: Custom typeahead fields in drill down not responsive](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
         + [Login as: Administrator's Home layout template is displayed](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
         + [Users: Editing cost rate error](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -167,7 +169,7 @@ role: User
         + [Statuses: Cannot reuse previously deleted status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
         + [Home: Cannot remove Mentions widget](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
         + [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md)
-        + [Documents: Error when using a public link to a document](known-issues-workfront/wf-documents-public-link-not-working.md)
+        + [Documents: Error when using a public link to a document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
         + [Proofs: Cannot close proof viewer](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
         + [Projects: Sharing menu does not load ](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
         + [Reports: Public links to a report are not working](known-issues-workfront/wf-reports-public-link-not-working.md)
