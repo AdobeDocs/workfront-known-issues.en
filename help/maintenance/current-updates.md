@@ -18,6 +18,20 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
+## Updates in February 2025
+
++++**Maintenance Update on February 6, 2025**
+
+### Maintenance Update on February 6, 2025
+
+#### Lists
+
+**Unable to edit task list after uploading proof**
+
+While uploading a proof to a project, the task list for that project cannot be edited inline until the page is refreshed or the proof finishes uploading.
+
++++
+
 ## Updates in January 2025
 
 +++**Maintenance Update on January 30, 2025**
