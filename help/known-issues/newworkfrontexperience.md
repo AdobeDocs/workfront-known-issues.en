@@ -24,7 +24,6 @@ These recently reported issues are currently under review.
 | [Documents: Cannot upload to AEM folder documents list](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | February 11, 2025 |
 | [Documents: Error when using a public link to a document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | January 30, 2025 |
 | [Tasks: Project-level filters and views available for tasks](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | January 30, 2025 |
-| [Reports: Custom typeahead fields in drill down not responsive](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | January 23, 2025 |
 | [Tasks: Logged hour remain on previous project once moved](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | January 16, 2025 |
 | [Timesheets: Incorrect total hours](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | January 16, 2025 |
 | [Home: Approval buttons missing from Awaiting Approval widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | January 9, 2025 |
@@ -53,7 +52,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
 | [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | February 11, 2025 |
-| [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | December 11, 2024 |
 | [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | December 3, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
 | [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
@@ -73,6 +71,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | February 13, 2025 |
 | [Login as: Administrator's Home layout template is displayed](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | January 23, 2025 |
 | [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md) | January 16, 2024 |
 | [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | December 20, 2024 |

@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
         + [Layout templates: Deleted views still available](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
         + [Custom forms: Companies missing from custom typeahead field](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
         + [Documents: Cannot upload to AEM folder documents list](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
