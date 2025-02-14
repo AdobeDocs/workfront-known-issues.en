@@ -50,6 +50,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | February 13, 2025 |
 | [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | December 20, 2024 |
 | [Proofs: Zipped proofs fail to generate](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | June 7, 2024 |
 | [Proofs: Error when sharing proof from email link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | November 16, 2023 |

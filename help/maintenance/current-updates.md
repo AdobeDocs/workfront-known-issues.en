@@ -20,6 +20,24 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in February 2025
 
++++**Maintenance Update on February 13, 2025**
+
+### Maintenance Update on February 13, 2025
+
+#### Custom forms
+
+**Custom data not shown in Summary panel**
+
+When a customer is viewing the Summary panel for a task, custom data that should appear in the Summary panel is not present. This may occur even though the layout template for tasks includes the custom fields.
+
+#### Reports
+
+**Prompt display issues**
+
+When accessing a prompted report with a large number of prompts, the prompt dialog does not allow scrolling to access all of the prompts or the Run Report button.
+
++++
+
 +++**Maintenance Update on February 6, 2025**
 
 ### Maintenance Update on February 6, 2025
