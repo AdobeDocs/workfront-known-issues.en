@@ -13,13 +13,14 @@ This page contains issues currently identified in [!DNL Adobe Workfront Fusion].
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
+<!--
 ## New
 
 These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | August 5, 2024 |
+-->
 
 {style="table-layout:auto"}
 

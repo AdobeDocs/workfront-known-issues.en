@@ -7,11 +7,9 @@ exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
 ---
 # API: Requests timing out
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 9, 2024.
--->
+>This issue was fixed on February 19, 2025.
 
 Requests made through the Workfront API are timing out.
 

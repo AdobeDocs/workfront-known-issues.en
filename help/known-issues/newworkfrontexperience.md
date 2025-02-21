@@ -19,17 +19,10 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Layout templates: Deleted views still available](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) |February 11, 2025 |
-| [Custom forms: Companies missing from custom typeahead field](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | February 11, 2025 |
+| [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
 | [Documents: Cannot upload to AEM folder documents list](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | February 11, 2025 |
-| [Documents: Error when using a public link to a document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | January 30, 2025 |
 | [Tasks: Project-level filters and views available for tasks](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | January 30, 2025 |
-| [Tasks: Logged hour remain on previous project once moved](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | January 16, 2025 |
-| [Timesheets: Incorrect total hours](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | January 16, 2025 |
-| [Home: Approval buttons missing from Awaiting Approval widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | January 9, 2025 |
 | [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | January 9, 2025 |
-| [Projects: Late condition not applying as expected](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | January 9, 2025 |
-| [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | December 3, 2024 |
 | [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | December 3, 2024 |
 | [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
 | [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
@@ -52,9 +45,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
 | [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | February 11, 2025 |
-| [Reports: Bulk editing in chart lists is unresponsive](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | December 3, 2024 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
-| [API: Requests timing out](known-issues-workfront/wf-api-request-timing-out.md) | October 24, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
 | [Custom forms: Forms defaults to Project forms](known-issues-workfront/wf-custom-forms-default-to-project.md) | August 22, 2024 |
 | [Setup: Issues when logging out as another user](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | August 15, 2024 |
@@ -71,6 +62,9 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | February 20, 2025 |
+| [Projects: Late condition not applying as expected](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | January 20, 2025 |
+| [Custom forms: Companies missing from custom typeahead field](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | February 20, 2025 |
 | [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | February 13, 2025 |
 | [Login as: Administrator's Home layout template is displayed](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | January 23, 2025 |
 | [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md) | January 16, 2024 |

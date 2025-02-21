@@ -20,6 +20,30 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in February 2025
 
++++**Maintenance Update on February 20, 2025**
+
+### Maintenance Update on February 20, 2025
+
+#### Notifications
+
+**Email and in-app notification delays**
+
+When an event occurs that should trigger email or in-app notifications, the notifications are not sent at the time of the event and instead take upwards of a few hours to be sent.
+
+#### Tasks
+
+**Logged hour remain on previous project once moved**
+
+After tasks have been moved to a new project, the project hours total for the original project includes hours for the moved tasks. The tasks still properly retain their logged hours in the new project.
+
+#### Timesheets
+
+**Incorrect total hours**
+
+Timesheets total hours calculation occasionally shows an incorrect sum.
+
++++
+
 +++**Maintenance Update on February 13, 2025**
 
 ### Maintenance Update on February 13, 2025

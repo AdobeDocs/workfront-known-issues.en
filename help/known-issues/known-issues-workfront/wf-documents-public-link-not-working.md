@@ -7,10 +7,9 @@ exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
 ---
 # Documents: Error when using a public link to a document
 
-<!--
 >[!NOTE]
 >
->This issue has been resolved.-->
+>This issue was fixed February 14, 2025.
 
 When a user clicks a public link to go to a document in Workfront, they see the following error: "That document no longer exists".
 
