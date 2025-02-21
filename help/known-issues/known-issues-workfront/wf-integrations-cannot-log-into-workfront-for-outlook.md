@@ -7,11 +7,9 @@ exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
 ---
 # Integrations: Cannot log in to Workfront for Outlook
 
-<!--
 >[!NOTE]
 >
->This issue was resolved on October 21, 2024.
--->
+>This issue has been closed because it could not be reproduced.
 
 When a user attempts to log in to Workfront for Outlook, the button is unresponsive and the user cannot log in.
 

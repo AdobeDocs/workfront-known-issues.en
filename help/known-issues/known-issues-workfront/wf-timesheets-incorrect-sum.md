@@ -7,6 +7,10 @@ exl-id: 7e35b7c5-4db0-448a-805c-fe2b39ff61a8
 ---
 # Timesheets: Incorrect total hours
 
+>[!NOTE]
+>
+>This issue was fixed on February 20, 2025.
+
 Timesheets total hours calculation occasionally shows an incorrect sum.
 
 _First reported on January 9, 2025._
