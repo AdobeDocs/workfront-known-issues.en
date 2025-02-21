@@ -20,9 +20,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
--->
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 ## In Progress
 
