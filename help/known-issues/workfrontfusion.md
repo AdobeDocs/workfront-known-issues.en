@@ -13,15 +13,15 @@ This page contains issues currently identified in [!DNL Adobe Workfront Fusion].
 >
 >For information regarding server uptime or outages, see [status.adobe.com](https://status.adobe.com). For information about issues that were recently fixed, see [[!DNL Workfront] Maintenance Updates](../maintenance/current-updates.md).
 
-<!--
 ## New
 
 These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Scenario connection error](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | February 24, 2025 |
 
-{style="table-layout:auto"}-->
+{style="table-layout:auto"}
 
 ## In Progress
 
