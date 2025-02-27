@@ -20,9 +20,7 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Layout template: Custom iterations section inaccessible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | February 24, 2025 |
-| [Notifications: Duplicate emails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | February 24, 2025 |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
-| [Documents: Cannot upload to AEM folder documents list](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | February 11, 2025 |
 | [Tasks: Project-level filters and views available for tasks](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | January 30, 2025 |
 | [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | January 9, 2025 |
 | [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | December 3, 2024 |
@@ -46,6 +44,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Home: Approval buttons missing from Awaiting Approval widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | February 27, 2025 |
 | [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | February 11, 2025 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
@@ -64,6 +63,8 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifications: Duplicate emails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | February 27, 2025 |
+| [Documents: Cannot upload to AEM folder documents list](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | February 27, 2025 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | February 20, 2025 |
 | [Projects: Late condition not applying as expected](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | January 20, 2025 |
 | [Custom forms: Companies missing from custom typeahead field](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | February 20, 2025 |

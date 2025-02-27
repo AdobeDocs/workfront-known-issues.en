@@ -7,6 +7,10 @@ exl-id: 0cc4c326-0e84-40ac-80ab-c3eeeae68595
 ---
 # Documents: Cannot upload to AEM folder documents list
 
+>[!NOTE]
+>
+>This issue was closed because it could nto be reproduced.
+
 Users cannot drag and drop files onto the main documents list area within an AEM folder.
 
 **Workaround**
