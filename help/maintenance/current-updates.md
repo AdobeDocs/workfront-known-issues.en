@@ -20,6 +20,18 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in February 2025
 
++++**Maintenance Update on February 27, 2025**
+
+### Maintenance Update on February 27, 2025
+
+#### Groups
+
+**Cannot share administrator access level**
+
+When attempting to share the administrator access level to a group, the box to check each group does not respond and the group does not gain the expected access level.
+
++++
+
 +++**Maintenance Update on February 20, 2025**
 
 ### Maintenance Update on February 20, 2025
