@@ -1,8 +1,8 @@
 ---
 title: "Integrations: outlookIdentityToken error when using Workfront for Outlook"
-description: ""
+description: "When a user is using the Workfront for Outlook integration, they may see an error."
 hidefromtoc: yes
-feature: 
+feature: Workfront Integrations and Apps
 ---
 
 # Integrations: outlookIdentityToken error when using Workfront for Outlook
