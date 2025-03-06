@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Login as: Group administrators cannot log in as another user](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
         + [Integrations: outlookIdentityToken error when using Workfront for Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
         + [Layout template: Custom iterations section inaccessible](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
         + [Notifications: Duplicate emails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
