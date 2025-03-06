@@ -18,6 +18,16 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
+## Updates in March 2025
+
++++**Maintenance Update on March 6, 2025**
+
+### Maintenance Update on March 6, 2025
+
+This update includes only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
 ## Updates in February 2025
 
 +++**Maintenance Update on February 27, 2025**
