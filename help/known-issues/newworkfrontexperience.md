@@ -37,7 +37,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | ---------------------------------- | ----------------- |
 | [Login as: Group administrators cannot log in as another user](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | March 6, 2025 |
 | [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | February 11, 2025 |
-| [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | April 11, 2024 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | August 2 2022 |
