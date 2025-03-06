@@ -20,8 +20,8 @@ This page contains issues currently identified in [!DNL Adobe Workfront] Mobile 
 These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- ||
-| [Workfront Mobile: Proof email links won't open on iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | October 9, 2024 |
+| -----------------------------------------------------------------| ----------------- |
+| None |  |
 
 <!--
 ## Current Issues

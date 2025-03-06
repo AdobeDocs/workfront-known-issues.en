@@ -9,8 +9,9 @@ exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 
 >[!NOTE]
 >
+>* This issue was fixed on September 5, 2024.
 >* This has been reported in the Preview Sandbox environment and the Custom Refresh Sandbox environment.
->* This has been reported for organization that use Legacy (non-Adobe) SSO.
+>* This has been reported for organizations that use Legacy (non-Adobe) SSO.
 
 Workfront functionality that uses SSO returns the following error:
 
