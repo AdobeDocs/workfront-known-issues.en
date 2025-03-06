@@ -30,7 +30,6 @@ These recently reported issues are currently under review.
 | [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | August 14, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 | [Reports: Error when viewing report details that are grouped by custom date](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | June 14, 2024 |
-| [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
 
 {style="table-layout:auto"}
 
