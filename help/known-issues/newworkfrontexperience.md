@@ -30,7 +30,6 @@ These recently reported issues are currently under review.
 | [Workfront Mobile: Cannot sign in without using SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | August 14, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 | [Reports: Error when viewing report details that are grouped by custom date](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | June 14, 2024 |
-| [Setup: "Logged in as" banner does not appear when logged in as another user](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | May 7, 2024 |
 
 {style="table-layout:auto"}
 
@@ -40,6 +39,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Login as: Group administrators cannot log in as another user](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | March 6, 2025 |
 | [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | February 11, 2025 |
 | [Reports: Long report builder loading times](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | November 21, 2024 |
 | [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | September 24, 2024 |
