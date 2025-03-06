@@ -9,7 +9,7 @@ exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
 
 >[!NOTE]
 >
->This issue has been closed because it could not be reproduced.
+>This issue was fixed on October 12, 2024.
 
 When a user attempts to log in to Workfront for Outlook, the button is unresponsive and the user cannot log in.
 
