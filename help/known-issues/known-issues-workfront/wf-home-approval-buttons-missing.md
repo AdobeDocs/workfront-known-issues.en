@@ -7,11 +7,11 @@ exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
 ---
 # Home: Approval buttons missing from Awaiting Approval widget
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on February 13, 2025.
--->
+>This issue was fixed on March 4, 2025.
+
 
 When using the Awaiting Approval widget in Home, the buttons for selecting an approval decision do not appear.
 
