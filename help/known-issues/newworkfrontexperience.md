@@ -71,6 +71,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | October 14, 2024 |
 | [Home: Deleted custom fields persist in project, task, and issue widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | October 8, 2024 |
 | [Priorities: Groupings prevent sorting and inline editing](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | October 8, 2024 |
+| [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | September 5, 2024 |
 | [Reports: Unable to scroll to see entire chart report](known-issues-workfront/wf-reports-unable-to-scroll.md) | September 19, 2024 |
 | [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | September 18, 2024 |
 | [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | September 12, 2024 |
@@ -131,9 +132,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Email Notifications: Emails are not formatting correctly in [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) | March 30, 2021 |
 | [[!UICONTROL Home]: Unable to view the document image in the [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md) | November 9, 2020 |
 | [Lists: Display name is not being applied to custom field grouping](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | November 9, 2020 |
-| [Home: Approval delegation dates changing after the refresh and sending out 2 emails](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | November 9, 2020 |
 | [Calendar: Tasks not displaying](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | November 9, 2020 |
-| [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | September 5, 2024 |
 
 {style="table-layout:auto"}
 

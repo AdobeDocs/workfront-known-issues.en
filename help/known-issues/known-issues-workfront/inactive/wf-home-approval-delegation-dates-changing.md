@@ -9,7 +9,7 @@ feature: Approvals
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
+>The functionality related to this issue has been deprecated.
 
 When a user delegates approvals to a user in a different timezone, the delegation appears to save successfully and the delegated user receives an email notification with the correct dates. However, if they refresh the page, they see that the [!UICONTROL Start Date] has shifted back 1 day and the [!UICONTROL End Date] has shifted forward 1 day, and the user also receives another email notification with the shifted dates.
 
