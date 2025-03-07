@@ -11,7 +11,7 @@ feature: Get Started with Workfront, Digital Content and Documents
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
+>The functionality related to this issue has been deprecated.
 
 When a user clicks a [!UICONTROL .docx] thumbnail to view a preview of the document, a video player opens and they are unable to see the document.
 

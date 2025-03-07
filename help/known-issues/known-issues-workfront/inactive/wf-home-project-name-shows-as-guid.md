@@ -11,7 +11,7 @@ feature: Get Started with Workfront, Projects
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
+>The functionality related to this issue has been deprecated.
 
 When a user is asked to approve a proof they do not have access to and they their [!UICONTROL Work List] in [!UICONTROL Home] is sorted by [!UICONTROL Project Name], the user is unable to see the project name and the GUID displays instead.
 
