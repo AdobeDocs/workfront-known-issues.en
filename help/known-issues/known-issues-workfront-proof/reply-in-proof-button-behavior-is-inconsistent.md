@@ -11,7 +11,7 @@ feature: Workfront Proof
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>The functionality related to this issue has been deprecated.
 
 When a user in the new [!DNL Adobe Workfront] experience is viewing a proof in the right panel in [!UICONTROL Home], then they click [!UICONTROL Reply in proof] on a comment, a text box displays where they can leave an update in the document [!UICONTROL Updates] area instead of being directed to the [!UICONTROL Proofing Viewer] as intended.
 
