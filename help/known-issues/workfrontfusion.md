@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Scenario connection error](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | February 24, 2025 |
+| None |  |
 
 {style="table-layout:auto"}
 

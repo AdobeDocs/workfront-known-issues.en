@@ -1073,13 +1073,12 @@ As a result of those bug fixes, the email address that is used to send proof not
 
 Previously, proof email addresses contained your organization's subdomain. For example, notifications@[company domain].my.workfront.com
 
-Now, proofiing email addresses no longer contain an organization subdomain. All proof email notifications will come from the following address: notification@my.workfront.com
+Now, proofiing email addresses no longer contain an organization subdomain. All proof email notifications will come from the following address: `notification@my.workfront.com`
 
 As a result, we recommend you take the following actions if you haven't already:
 
-* Update your spam filters to accept emails from notification@my.workfront.com
-* Update your allowlists to accept emails from notification@my.workfront.com
-
+* Update your spam filters to accept emails from `notification@my.workfront.com`
+* Update your allowlists to accept emails from `notification@my.workfront.com`
 **User options cannot be modified after initial configuration in Workflow Templates**
 
 *[!DNL Workfront Proof]*
