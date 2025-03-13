@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | ----------------------------------------------------------------- | ----------------- |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
 | [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | January 9, 2025 |
-| [Tasks: Issues with timeline recalculation](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | December 3, 2024 |
 | [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | August 15, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
