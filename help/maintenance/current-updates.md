@@ -24,7 +24,11 @@ The following maintenance updates have been made in 2025.
 
 ### Maintenance Update on March 13, 2025
 
-This update includes only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+#### Reports
+
+**Count of items in chart is inaccurate**
+
+In a dashboard report, clicking on a chart result with more than 15 items and selecting to display only 15 works as expected. However, if you open the same report outside of the dashboard and click on the same chart result, it indicates that all items are being displayed, but only 15 actually appear.
 
 +++
 
