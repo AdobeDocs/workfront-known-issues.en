@@ -20,6 +20,18 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in March 2025
 
++++**Maintenance Update on March 13, 2025**
+
+### Maintenance Update on March 13, 2025
+
+#### Reports
+
+**Count of items in chart is inaccurate**
+
+In a dashboard report, clicking on a chart result with more than 15 items and selecting to display only 15 works as expected. However, if you open the same report outside of the dashboard and click on the same chart result, it indicates that all items are being displayed, but only 15 actually appear.
+
++++
+
 +++**Maintenance Update on March 6, 2025**
 
 ### Maintenance Update on March 6, 2025
