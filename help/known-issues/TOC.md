@@ -12,7 +12,7 @@ role: User
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
         + [Updates: Updates are delayed](known-issues-workfront/wf-updates-delay-in-updates.md)
-        + [Proofs: Proof generation is slow](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
+        + [Proofs: Proof generation is slow](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
         + [Requests: Request queue not available](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
         + [Projects: Project progress status does not automatically update to Late](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
         + [Updates: Some users cannot see images or documents attached to comments](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
