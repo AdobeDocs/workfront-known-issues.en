@@ -20,7 +20,6 @@ These recently reported issues are currently under review.
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Proofs: Proof generation is slow](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | March 17, 2025 |
-| [Projects: Project progress status does not automatically update to Late](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | March 13, 2025 |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
 | [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | January 9, 2025 |
 | [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
