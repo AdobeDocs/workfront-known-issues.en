@@ -29,6 +29,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Scenario is not running](known-issues-workfront-fusion/fusion-scenario-not-running.md) | March 19, 2024 |
 | [Workfront Fusion: Cannot add or delete users from Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | September 24, 2024 |
 
 {style="table-layout:auto"}
