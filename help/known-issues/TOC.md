@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Filters: Dropdown disappears when clicking on scrollbar](known-issues-workfront/wf-filter-scroll-bar.md)
         + [Home: Cannot send replies from Mentions widget](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
         + [Updates: Updates are delayed](known-issues-workfront/wf-updates-delay-in-updates.md)
         + [Proofs: Proof generation is slow](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
