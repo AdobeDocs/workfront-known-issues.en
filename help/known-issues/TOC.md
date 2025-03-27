@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        = [Requests: Embedded code URLs do not load the request queue correctly](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+        + [Reports: Users in different time zones get different report results](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+        + [Users: Group administrators cannot deactivate users](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
         + [Filters: Dropdown disappears when clicking on scrollbar](known-issues-workfront/wf-filter-scroll-bar.md)
         + [Home: Cannot send replies from Mentions widget](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
         + [Updates: Updates are delayed](known-issues-workfront/wf-updates-delay-in-updates.md)
