@@ -14,3 +14,4 @@ When a group administrator attempts to deactivate a user in their home group, th
 Uncheck the "Is active" setting for the user.
 
 _First reported on March 3, 2025._
+
