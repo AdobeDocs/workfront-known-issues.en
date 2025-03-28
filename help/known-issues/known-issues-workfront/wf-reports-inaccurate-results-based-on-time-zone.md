@@ -14,3 +14,4 @@ Users in different time zones who use the date picker to get a report for a cert
 Use a date wildcard or a relative date for the report, instead of the date picker.
 
 _First reported on March 13, 2025._
+
