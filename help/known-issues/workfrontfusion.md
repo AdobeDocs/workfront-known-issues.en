@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| None |  |
+| [Workfront Fusion: Workfront Event Subscription verson 2 options not available when connecting to a Sandbox environment](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | April 3, 2025 |
 
 {style="table-layout:auto"}
 

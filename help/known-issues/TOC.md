@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Dashboards: Custom dashboard does not open](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
         + [Requests: Embedded code URLs do not load the request queue correctly](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
         + [Reports: Users in different time zones get different report results](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
         + [Users: Group administrators cannot deactivate users](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -219,6 +220,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [Workfront Fusion: Workfront Event Subscription verson 2 options not available when connecting to a Sandbox environment](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
         + [Workfront Fusion: Scenario is not running](known-issues-workfront-fusion/fusion-scenario-not-running.md)
         + [Workfront Fusion: Start setting "From now on" processing all data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
         + [Workfront Fusion: Cannot add or delete users from Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
