@@ -100,7 +100,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [[!UICONTROL Setup]: Cannot export audit logs](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | July 20, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
-| [Documents: [!UICONTROL Proofing Activities] options lead to login page](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | April 21, 2023 |
 | [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | April 11, 2023 |
 | [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
 | [Documents: 404 error when accessing document linked from [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | March 23, 2023 |

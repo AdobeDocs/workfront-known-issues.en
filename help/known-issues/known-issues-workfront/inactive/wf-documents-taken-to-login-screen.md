@@ -12,7 +12,7 @@ exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue has been resolved.
 
 When a user is viewing the [!UICONTROL Document Details] page and clicks on an optikon in the [!UICONTROL Proofing Activities] menu, the user is directed to a login page instead of the intended destination page.
 
