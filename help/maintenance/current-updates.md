@@ -20,6 +20,24 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in April 2025
 
++++**(Planned) Maintenance Update on April 10, 2025**
+
+### **(Planned) Maintenance Update on April 10, 2025**
+
+#### Dashboards
+
+**Custom dashboard does not open**
+
+When a user is viewing an object and attempts to open a custom dashboard attached to the object, the dashboard does not open.
+
+#### Reports
+
+**Users in different time zones get different report results**
+
+Users in different time zones who use the date picker to get a report for a certain date get different results for that report. 
+
++++
+
 +++**Maintenance Update on April 3, 2025**
 
 ### Maintenance Update on April 3, 2025
