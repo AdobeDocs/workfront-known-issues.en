@@ -7,6 +7,10 @@ exl-id: bd9f5a8a-0cbd-47ff-8d95-f06640a3b84b
 ---
 # Workfront Fusion: Scenario is not running
 
+>[!NOTE]
+>
+>This issue has been resolved.
+
 If a scenario is no longer running, it may be due to an issue with Daylight Savings Time.
 
 **Workaround**
