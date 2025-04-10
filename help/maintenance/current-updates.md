@@ -20,9 +20,9 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in April 2025
 
-+++**(Planned) Maintenance Update on April 10, 2025**
++++**Maintenance Update on April 10, 2025**
 
-### **(Planned) Maintenance Update on April 10, 2025**
+### **Maintenance Update on April 10, 2025**
 
 #### Dashboards
 

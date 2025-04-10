@@ -19,9 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Dashboards: Custom dashboard does not open](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | April 3, 2025  |
 | [Requests: Embedded code URLs do not load the request queue correctly](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | March 27, 2025  |
-| [Reports: Users in different time zones get different report results](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | March 27, 2025 |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
 | [Users: Duplicate account created when changing system administrator](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | January 9, 2025 |
 | [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
