@@ -7,6 +7,10 @@ exl-id: 56e1c820-0199-4fe6-9d81-c518ae0d4309
 ---
 # Reports: Users in different time zones get different report results
 
+>[!NOTE]
+>
+>This issue was resolved on April 10. 2025.
+
 Users in different time zones who use the date picker to get a report for a certain date get different results for that report. 
 
 **Workaround**
