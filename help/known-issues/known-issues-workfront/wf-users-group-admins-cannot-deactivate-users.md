@@ -7,6 +7,10 @@ exl-id: e8ddb19d-a9fd-4acf-b92e-6d5a227317c0
 ---
 # Users: Group administrators cannot deactivate users
 
+>[!NOTE]
+>
+>This issue was fixed on April 10, 2025.
+
 When a group administrator attempts to deactivate a user in their home group, the user is not deactivated, and the group administrator sees the message "You don't have sufficient access to perform that operation." 
 
 **Workaround**
