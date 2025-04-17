@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md)
         + [Templates: Cannot share with Contribute access](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
         + [Dashboards: Custom dashboard does not open](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
         + [Requests: Embedded code URLs do not load the request queue correctly](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)

@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
 | [Login as: Group administrators cannot log in as another user](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | March 6, 2025 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | August 2 2022 |
 
