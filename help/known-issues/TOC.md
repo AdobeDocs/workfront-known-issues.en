@@ -50,7 +50,6 @@ role: User
         + [Reports: Report prompts load slowly](known-issues-workfront/wf-reports-prompts-load-slowly.md)
         + [Notifications: Push notifications to the Workfront Mobile app are not working](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
         + [Custom forms: Custom data not shown in Summary panel](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-        + [Proofs: Proof name does not appear on browser tab](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
         + [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
         + [Approvals: Delegated approvals not appearing for delegates](known-issues-workfront/wf-approvals-delegation-not-working.md)
         + [Workfront: Date format changes throughout application](known-issues-workfront/wf-workfront-date-format-changing.md)
