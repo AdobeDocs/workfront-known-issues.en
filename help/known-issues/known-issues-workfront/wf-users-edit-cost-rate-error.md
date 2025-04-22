@@ -9,7 +9,7 @@ exl-id: ec7464c7-2952-4a4a-8fa1-594405a3ea84
 
 >[!NOTE]
 >
->This article was fixed on January 18, 2025.
+>This issue was fixed on January 18, 2025.
 
 When attempting to edit the cost rate for a user, the following error is displayed: "Let's try that again. To inline edit dates, please define more than 1 rate for the role".
 

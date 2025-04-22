@@ -9,7 +9,7 @@ exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
 
 >[!NOTE]
 >
->This article was fixed on January 29, 2025.
+>This issue was fixed on January 29, 2025.
 
 When a user attempts to add eligible hours to a business record, the hours are not saved, and the user sees the following message:
 

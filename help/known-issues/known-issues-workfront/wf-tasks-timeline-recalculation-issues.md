@@ -9,7 +9,7 @@ exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
 
 >[!NOTE]
 >
->This article was fixed on March 10, 2025.
+>This issue was fixed on March 10, 2025.
 
 The following issues have been reported regarding timeline recalculation:
 

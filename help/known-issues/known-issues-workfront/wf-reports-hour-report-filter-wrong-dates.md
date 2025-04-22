@@ -9,7 +9,7 @@ exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
 
 >[!NOTE]
 >
->This article was fixed on January 30, 2025.
+>This issue was fixed on January 30, 2025.
 
 When filtering an hour report to show only a specific date, a different adjacent date is actually included in the report. This issue appears to be related to timezone settings.
 
