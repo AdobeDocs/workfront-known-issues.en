@@ -9,7 +9,7 @@ exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
 
 >[!NOTE]
 >
->The Product team is currently evaluating this issue resolution. When this issue is resolved, it will be communicated in the Product Announcements and not with the Maintenance Updates.
+>This issue was fixed on November 4, 2024.
 
 When a user attempts to export a large number of audit logs, the logs do not export. There is no indication that the export has failed.
 

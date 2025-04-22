@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | ----------------------------------------------------------------- | ----------------- |
 | [Templates: Cannot share with Contribute access](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | April 11, 2025 |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
-| [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | November 12, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}
@@ -44,6 +43,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: Browser tabs left open fail to load](known-issues-workfront/wf-workfront-browser-tabs-error.md) | April 22, 2025 |
 | [Filters: Dropdown disappears when clicking on scrollbar](known-issues-workfront/wf-filter-scroll-bar.md) | March 26, 2025 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | March 13, 2025 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | March 13, 2025 |
@@ -72,7 +72,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | September 5, 2024 |
 | [Reports: Unable to scroll to see entire chart report](known-issues-workfront/wf-reports-unable-to-scroll.md) | September 19, 2024 |
 | [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | September 18, 2024 |
-| [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | September 12, 2024 |
 | [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md) | September 12, 2024 |
 | [Boards: Board does not display as user when using [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | August 30, 2024 |
 | [Navigation: Back button does not go back to previous page](known-issues-workfront/wf-navigation-back-button-not-work.md) | August 30, 2024 |
@@ -95,7 +94,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
 | [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
 | [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
-| [[!UICONTROL Setup]: Cannot export audit logs](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | July 20, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
 | [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | April 11, 2023 |
 | [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
