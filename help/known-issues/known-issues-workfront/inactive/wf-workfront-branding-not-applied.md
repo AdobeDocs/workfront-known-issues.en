@@ -1,6 +1,6 @@
 ---
 title: 'Workfront: Branding is Not Available'
-description: When a user uploads files to the Branding area of setup, the files appear to upload correctly. However, if a user views the Main Menu, they do not see the logo. Instead, they see the an error message.
+description: Branding is not available to organizations that have been migrated to the Adobe Admin Console, Adobe Unified Shell, or Adobe IMS (Identity Management System). 
 hidefromtoc: yes
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78

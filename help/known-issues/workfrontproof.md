@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Proof generation is slow](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | March 17, 2025 |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
-| [Documents: Documents area does not display all documents](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | January 2, 2024 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}

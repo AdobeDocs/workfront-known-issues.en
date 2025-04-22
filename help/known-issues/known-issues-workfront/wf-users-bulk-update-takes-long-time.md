@@ -9,7 +9,7 @@ exl-id: 937bf534-e401-4a2f-9193-af935cfa5337
 
 >[!NOTE] 
 >
->This article was fixed on January 21, 2025.
+>This issue was fixed on January 21, 2025.
 
 When a user attempts to bulk edit users, the edit window takes a very long time to open. This is true even with only two users, but more users take even more time.
 

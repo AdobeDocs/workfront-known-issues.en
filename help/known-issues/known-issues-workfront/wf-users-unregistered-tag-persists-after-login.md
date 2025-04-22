@@ -9,7 +9,7 @@ exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
 
 >[!NOTE] 
 >
->This article was fixed on January 23, 2025.
+>This issue was fixed on January 23, 2025.
 
 Despite successfully logging in at least once, the "unregistered" tag does not go away as expected for new users.
 
