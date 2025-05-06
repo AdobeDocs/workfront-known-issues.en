@@ -9,7 +9,7 @@ feature: Workfront Fusion
 
 >[!NOTE]
 >
->This issue was fixed on April 25, 2023.
+>This issue was fixed on May 5, 2025.
 
 Help links in [!DNL Workfront Fusion] do not currently lead to the intented help pages. Instead, all [!DNL Fusion] help links lead to the [!DNL Workfront] Documentation Home page. From this landing page, you can search for the information you need.
 

@@ -9,7 +9,7 @@ exl-id: f087353d-aec2-4f98-b74a-696d91e37d59
 
 >[!NOTE]
 >
->This issue has been reported for the Sandbox environment.
+>This issue wsa fixed on May 5, 2025.
 
 When a user is configuring a Workfront module that watches events in a Workfront Sandbox environment, criteria based on Version 2 of the Workfront event subscription service are not available.
 
