@@ -43,6 +43,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Closing proof redirects to documents list](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | May 14, 2025 |
 | [Filters: Dropdown disappears when clicking on scrollbar](known-issues-workfront/wf-filter-scroll-bar.md) | March 26, 2025 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | March 13, 2025 |
 | [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md) | March 13, 2025 |
