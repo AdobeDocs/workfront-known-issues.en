@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Closing proof redirects to documents list"
-description: "When a user is viewing a proof and clicks the X icon to close it, the user is redirected to the documents list instead of the document details."
+title: 'Proofs: Closing proof redirects to documents list'
+description: When a user is viewing a proof and clicks the X icon to close it, the user is redirected to the documents list instead of the document details.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 53c2c273-0677-4b31-8e19-6688505a085e
 ---
-
 # Proofs: Closing proof redirects to documents list
 
 When a user is viewing a proof and clicks the X icon to close it, the user is redirected to the documents list instead of the document details.
