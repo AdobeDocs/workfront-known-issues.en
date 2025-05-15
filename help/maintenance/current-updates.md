@@ -20,6 +20,18 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in May 2025
 
++++**Maintenance Update on May 15, 2025**
+
+### Maintenance Update on May 15, 2025
+
+#### Reports
+
+**Error when viewing a report with a milestone view**
+
+When a user attempts to view a report that has a milestone view available to enable, the report does not load and displays an error.
+
++++
+
 +++**Maintenance Update on May 8, 2025**
 
 ### Maintenance Update on May 8, 2025
