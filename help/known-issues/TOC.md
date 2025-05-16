@@ -218,8 +218,6 @@ role: User
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
     + [Known Issues in [!DNL Workfront Goals]](workfrontgoals.md)
-+ [!DNL Workfront Library] {#library}
-    + [Known Issues in [!DNL Workfront Library]](workfrontlibrary.md)
 + [!DNL Workfront] Mobile App {#mobile}
     + [Known Issues in [!DNL Workfront] Mobile App](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
