@@ -1,10 +1,10 @@
 ---
-title: "Resource Planner: Export button is disabled"
-description: "When a user attempts to export from the Resource Planner, the button is disabled (greyed out) and the user cannot export."
+title: 'Resource Planner: Export button is disabled'
+description: When a user attempts to export from the Resource Planner, the button is disabled (greyed out) and the user cannot export.
 hidefromtoc: yes
 feature: Resource Management
+exl-id: cafaefa6-f0f5-4366-88e8-6c433c98280e
 ---
-
 # Resource Planner: Export button is disabled
 
 When a user attempts to export from the Resource Planner, the button is disabled (greyed out) and the user cannot export.
