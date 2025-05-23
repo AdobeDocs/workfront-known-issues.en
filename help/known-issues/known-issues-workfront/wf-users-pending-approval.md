@@ -1,8 +1,8 @@
 ---
 title: "Users: Pending approval badge displays on new users"
-description: ""
+description: "New users in Workfront may display in the user list with a Pending approval badge. The badge persists for more than a few minutes, and is still present when the page is refreshed."
 hidefromtoc: yes
-feature: 
+feature: People Teams and Groups
 ---
 
 # Users: "Pending approval" badge displays on new users
