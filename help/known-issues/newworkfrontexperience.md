@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Resource Planner: Export button is disabled](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | May 22, 2025 |
+| [Search: Advanced Search does not return expected results](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | May 29, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}
@@ -30,6 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Resource Planner: Export button is disabled](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | May 29, 2025 |
 | [Users: "Pending approval" badge displays on new users](known-issues-workfront/wf-users-pending-approval.md) | May 23, 2025 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | August 2 2022 |

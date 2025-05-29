@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Search: Advanced Search does not return expected results](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
         + [Users: "Pending approval" badge displays on new users](known-issues-workfront/wf-users-pending-approval.md)
         + [Resource Planner: Export button is disabled](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
         + [Proofs: Closing proof redirects to documents list](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
