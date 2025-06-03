@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Search: Advanced Search does not return expected results](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | May 29, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}
