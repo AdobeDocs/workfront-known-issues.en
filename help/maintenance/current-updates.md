@@ -18,6 +18,20 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
+## Updates in June 2025
+
++++**Maintenance Updates on June 2-6, 2025**
+
+### Maintenance Update on June 2-6, 2025
+
+### Search
+
+**Advanced Search does not return expected results**
+
+When a user uses Advanced Search, the expected results are not returned. This may occur even when there are no filters applied to the Advanced Search.
+
++++
+
 ## Updates in May 2025
 
 +++**Maintenance Updates on May 26-30, 2025**
