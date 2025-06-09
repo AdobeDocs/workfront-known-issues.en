@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Reports: Chart drilldown includes inaccurate results](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | June 9, 2025 |
 | [Timesheets: Timesheets not correctly generated](known-issues-workfront/wf-timesheets-one-week-created.md) | June 3, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
