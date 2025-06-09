@@ -31,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Cannot open proof from direct link](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | June 9, 2025 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
 | [Updates: Some users cannot see images or documents attached to comments](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | March 10, 2025 |
 | [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | February 11, 2025 |
