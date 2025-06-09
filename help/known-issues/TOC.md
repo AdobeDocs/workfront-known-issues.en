@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Cannot open proof from direct link](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
+        + [Reports: Chart drilldown includes inaccurate results](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
         + [Timesheets: Timesheets not correctly generated](known-issues-workfront/wf-timesheets-one-week-created.md)
         + [Search: Advanced Search does not return expected results](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
         + [Users: "Pending approval" badge displays on new users](known-issues-workfront/wf-users-pending-approval.md)

@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Reports: Chart drilldown includes inaccurate results](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | June 9, 2025 |
 | [Timesheets: Timesheets not correctly generated](known-issues-workfront/wf-timesheets-one-week-created.md) | June 3, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -30,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Proofs: Cannot open proof from direct link](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | June 9, 2025 |
 | [Resource Planner: Export button is disabled](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | May 29, 2025 |
 | [Users: "Pending approval" badge displays on new users](known-issues-workfront/wf-users-pending-approval.md) | May 23, 2025 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
