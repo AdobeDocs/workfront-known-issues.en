@@ -20,9 +20,27 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in June 2025
 
-+++**Maintenance Updates on June 2-6, 2025**
++++**Maintenance Updates week of June 9-13, 2025**
 
-### Maintenance Update on June 2-6, 2025
+### Maintenance Update week of June 9-13, 2025
+
+#### Resource Planner
+
+**Export button is disabled**
+
+When a user attempts to export from the Resource Planner, the button is disabled (greyed out) and the user cannot export.
+
+#### Timesheets
+
+**Timesheets not correctly generated**
+
+When a user attempts to generate timesheets, and the generation is set to "Every other week," only one week is generated.
+
++++
+
++++**Maintenance Updates week of June 2-6, 2025**
+
+### Maintenance Update week of June 2-6, 2025
 
 ### Search
 
@@ -34,9 +52,9 @@ When a user uses Advanced Search, the expected results are not returned. This ma
 
 ## Updates in May 2025
 
-+++**Maintenance Updates on May 26-30, 2025**
++++**Maintenance Updates week of May 26-30, 2025**
 
-### Maintenance Update on May 26-30, 2025
+### Maintenance Update week of May 26-30, 2025
 
 Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
 
