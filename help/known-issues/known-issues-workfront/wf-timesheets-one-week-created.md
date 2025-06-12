@@ -7,6 +7,10 @@ exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
 ---
 # Timesheets: Timesheets not correctly generated
 
+>[!NOTE]
+>
+>This issue was fixed on June 10, 2025.
+
 When a user attempts to generate timesheets, and the generation is set to "Every other week," only one week is generated.
 
 **Workaround**
