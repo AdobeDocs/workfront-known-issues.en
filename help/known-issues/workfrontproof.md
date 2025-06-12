@@ -34,7 +34,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Proofs: Cannot open proof from direct link](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | June 9, 2025 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
 | [Updates: Some users cannot see images or documents attached to comments](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | March 10, 2025 |
-| [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | February 11, 2025 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | May 8, 2024 |
 
@@ -54,7 +53,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
 | [Workfront Proof: Dashboard data not always accurate](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | September 19, 2023 |
 | [Workfront Proof: Search data not always accurate](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | September 19, 2023 |
-| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | June 9, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | May 25, 2023 |
@@ -70,7 +68,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Proofs: Proof is not shared to users on the Proof Workflow](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | September 18, 2022 |
 | [Proofs: [!UICONTROL Active Proof Stages] field is blank](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | September 14, 2022 |
 | [[!DNL Workfront Proof]: Cannot add user to proof by tagging the user in a comment](known-issues-workfront-proof/cannot-add-user-to-proof.md) | March 23, 2022 |
-| [[!UICONTROL Home]: [!UICONTROL Reply in Proof] button behavior is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | June 21, 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] report can't accurately determine deadlines](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | April 21, 2021 |
 | [Documents: Proof workflow icon is not displaying](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | March 5, 2021 |
 

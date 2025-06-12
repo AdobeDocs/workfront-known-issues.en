@@ -50,7 +50,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Integrations: outlookIdentityToken error when using Workfront for Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | March 4, 2025 |
 | [Notifications: Duplicate emails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | February 27, 2025 |
 | [Documents: Cannot upload to AEM folder documents list](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | February 27, 2025 |
-| [Integrations: Cannot log in to Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | February 20, 2025 |
 | [Projects: Late condition not applying as expected](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | January 20, 2025 |
 | [Custom forms: Companies missing from custom typeahead field](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | February 20, 2025 |
 | [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | February 13, 2025 |
@@ -64,7 +63,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Notifications: Email notifications for updates not being sent](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | December 5, 2024 |
 | [Workfront: Contributor users cannot access Programs or Portfolios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | December 5, 2024 |
 | [Workfront: ZScaler settings can cause reduced performance](known-issues-workfront//wf-workfront-zscaler.md) | November 20, 2024 |
-| [Notifications: Contributor users do not receive email notifications](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | November 12, 2024 |
 | [Notifications: Document notification emails unable to display image previews](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | October 29, 2024 |
 | [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | October 14, 2024 |
 | [Home: Deleted custom fields persist in project, task, and issue widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | October 8, 2024 |
@@ -93,7 +91,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
 | [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
 | [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
-| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
 | [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | April 11, 2023 |
 | [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
