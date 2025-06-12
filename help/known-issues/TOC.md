@@ -68,7 +68,6 @@ role: User
         + [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md)
         + [Custom forms: Calculated field showing incorrect value](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
         + [Workfront Fusion: Cannot authenticate a connection using Workfront Log in as functionality](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
-        + [Proofs: Approved proofs appear in reports](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
         + [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
         + [Portfolios: User cannot set portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
         + [Tasks: Searching for first name in task assignment does not return users](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
