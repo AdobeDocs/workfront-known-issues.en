@@ -95,7 +95,6 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md) | October 25, 2023 |
 | [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | September 25, 2023 |
 | [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | September 7, 2023 |
-| [Proofs: Proofs are not showing in reports as approved](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | August 3, 2023 |
 | [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | June 8, 2023 |
 | [Filters: Cannot share a filter from a report on a dashboard](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | April 11, 2023 |
 | [Proofs: Measuring tool does not accept decimal points](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | March 27, 2023 |
