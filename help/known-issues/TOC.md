@@ -11,7 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + [Users: Deactivated or deleted users appear as active in Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
+        + [Workfront: Objects out of sync between Workfront and Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
         + [Proofs: Cannot add users to a proof by name in the Preview environmentt](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
         + [Proofs: Cannot open proof from direct link](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
         + [Reports: Chart drilldown includes inaccurate results](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)

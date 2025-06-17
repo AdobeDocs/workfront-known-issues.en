@@ -1,12 +1,12 @@
 ---
-title: "Users: Deactivated or deleted users appear as active in Snowflake"
-description: "Users who have been deactivated or deleted in Workfront may appear as active in Snowflake. "
+title: "Workfront: Objects out of sync between Workfront and Snowflake"
+description: "Objects within Workfront may become out of sync with Snowflake. This means the count of objects may be different between Workfront and Snowflake, and that queries to Snowflake may not return the same objects as a search or report in Workfront. "
 hidefromtoc: yes
 feature: People Teams and Groups
 ---
 
-# Users: Deactivated or deleted users appear as active in Snowflake
+# Workfront: Objects out of sync between Workfront and Snowflake
 
-Users who have been deactivated or deleted in Workfront may appear as active in Snowflake. 
+Objects within Workfront may become out of sync with Snowflake. This means the count of objects may be different between Workfront and Snowflake, and that queries to Snowflake may not return the same objects as a search or report in Workfront.
 
 _First reported on April 22, 2025._
