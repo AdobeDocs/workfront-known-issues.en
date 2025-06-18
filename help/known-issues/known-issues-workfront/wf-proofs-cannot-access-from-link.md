@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Cannot open proof from direct link"
-description: "When a user attempts to open a proof from a direct link, the proof does not open. This may occur even though the user is on a workflow for the proof, or the user is a Workfront administrator."
+title: 'Proofs: Cannot open proof from direct link'
+description: When a user attempts to open a proof from a direct link, the proof does not open. This may occur even though the user is on a workflow for the proof, or the user is a Workfront administrator.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 3ae84ebe-8c5b-4977-9417-f003c503c074
 ---
-
 # Proofs: Cannot open proof from direct link
 
 When a user attempts to open a proof from a direct link, the proof does not open. This may occur even though the user is on a workflow for the proof, or the user is a Workfront administrator.
