@@ -20,9 +20,17 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in June 2025
 
-+++**Maintenance Updates week of June 9-13, 2025**
++++**Maintenance Updates week of June 15-21, 2025**
 
-### Maintenance Update week of June 9-13, 2025
+### Maintenance Update week of June 15-21, 2025
+
+Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
++++**Maintenance Updates week of June 8-14, 2025**
+
+### Maintenance Update week of June 8-14, 2025
 
 #### Resource Planner
 
@@ -38,9 +46,9 @@ When a user attempts to generate timesheets, and the generation is set to "Every
 
 +++
 
-+++**Maintenance Updates week of June 2-6, 2025**
++++**Maintenance Updates week of June 1-7, 2025**
 
-### Maintenance Update week of June 2-6, 2025
+### Maintenance Update week of June 1-7, 2025
 
 ### Search
 
@@ -52,9 +60,9 @@ When a user uses Advanced Search, the expected results are not returned. This ma
 
 ## Updates in May 2025
 
-+++**Maintenance Updates week of May 26-30, 2025**
++++**Maintenance Updates week of May 25-31, 2025**
 
-### Maintenance Update week of May 26-30, 2025
+### Maintenance Update week of May 25-31, 2025
 
 Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
 
