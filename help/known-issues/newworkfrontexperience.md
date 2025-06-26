@@ -32,7 +32,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | ---------------------------------- | ----------------- |
 | [Projects: Cannot move project to specified program](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | June 20, 2025 |
 | [Workfront: Objects out of sync between Workfront and Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | June 17, 2025 |
-| [Proofs: Cannot open proof from direct link](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | June 9, 2025 |
 | [Users: "Pending approval" badge displays on new users](known-issues-workfront/wf-users-pending-approval.md) | May 23, 2025 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] support case on Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | August 2 2022 |
