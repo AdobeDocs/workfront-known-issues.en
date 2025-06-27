@@ -1,0 +1,12 @@
+---
+title: "Tasks: Approvals area disappears from left navigation"
+description: "When a user is viewing a task, the Approvals area may disappear from the left navigation."
+hidefromtoc: yes
+feature: Tasks
+---
+
+# Tasks: Approvals area disappears from left navigation
+
+When a user is viewing a task, the Approvals area may disappear from the left navigation. Removing and adding the Approvals area to the Layout Template resolves the issue, but the issue may reoccur.
+
+_First reported on June 18, 2025._
