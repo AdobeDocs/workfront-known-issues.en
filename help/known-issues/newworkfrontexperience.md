@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Reports: Chart drilldown includes inaccurate results](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | June 9, 2025 |
+| [Tasks: Approvals area disappears from left navigation](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | June 27, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}

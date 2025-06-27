@@ -30,6 +30,14 @@ The following maintenance updates have been made in 2025.
 
 When a user attempts to open a proof from a direct link, the proof does not open. This may occur even though the user is on a workflow for the proof, or the user is a Workfront administrator.
 
+#### Reports
+
+**Chart drilldown includes inaccurate results**
+
+When a user is viewing a chart report and attempts to drilldown into a specific grouping, the details include results that are not in the selected grouping.
+
+This has been reported in reports grouped by date.
+
 +++
 
 +++**Maintenance Updates week of June 15-21, 2025**
