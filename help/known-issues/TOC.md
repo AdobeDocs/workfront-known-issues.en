@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Setup: Cannot log in as another user](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
+        + [Integrations: Issues with the Workfront for Slack integration](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
         + [Tasks: Approvals area disappears from left navigation](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
         + [Projects: Cannot move project to specified program](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
         + [Workfront: Objects out of sync between Workfront and Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
