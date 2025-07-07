@@ -2,7 +2,7 @@
 title: "Setup: Cannot log in as another user"
 description: "When a Workfront administrator attempts to log in as another user using the Login as functionality, they are not logged in as the other user, and they see an error message."
 hidefromtoc: yes
-feature: Administration and Setup
+feature: System Setup and Administration, People Teams and Groups
 ---
 
 # Setup: Cannot log in as another user
