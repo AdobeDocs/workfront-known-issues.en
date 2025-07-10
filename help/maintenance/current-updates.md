@@ -18,6 +18,20 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
+## Updates in July 2025
+
++++**Maintenance Updates week of July 6-12, 2025**
+
+### Maintenance Updates week of July 6-12
+
+### Projects
+
+**Cannot move project to specified program**
+
+When a user attempts to move a project to a program, the project does not move. This may occur even though the user received a  message that said the project was successfully moved.
+
++++
+
 ## Updates in June 2025
 
 +++**Maintenance Updates week of June 22-27, 2025**
