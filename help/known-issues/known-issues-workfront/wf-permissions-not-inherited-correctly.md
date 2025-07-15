@@ -1,8 +1,8 @@
 ---
-title: ""
-description: ""
+title: "Permissions: Object permissions are not inherited correctly"
+description: "Inherited permissions are not correctly being applied to objects. This may occur because of the complexity of the inherited permissions."
 hidefromtoc: yes
-feature: 
+feature: Projects, Tasks, Work Management
 ---
 
 # Permissions: Object permissions are not inherited correctly
@@ -18,6 +18,6 @@ Inherited permissions are not correctly being applied to objects. This may occur
 
 **Workaround**
 
-Limiting the size or complexity of the objects can help avoid this issue. We recommend grouping data in smaller aggregate pieces.
+Limiting the size or complexity of the objects can help avoid this issue. We recommend that you have no more than 10,000 child objects under any parent object.
 
 _First reported on March 21, 2025._
