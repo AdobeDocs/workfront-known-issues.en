@@ -1,10 +1,10 @@
 ---
-title: "Permissions: Object permissions are not inherited correctly"
-description: "Inherited permissions are not correctly being applied to objects. This may occur because of the complexity of the inherited permissions."
+title: 'Permissions: Object permissions are not inherited correctly'
+description: Inherited permissions are not correctly being applied to objects. This may occur because of the complexity of the inherited permissions.
 hidefromtoc: yes
 feature: Projects, Tasks, Work Management
+exl-id: 589733a7-2bd6-4b73-afb8-a14cc1f5076a
 ---
-
 # Permissions: Object permissions are not inherited correctly
 
 >[!NOTE]
