@@ -46,7 +46,8 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Cannot add users to a proof by name in the Preview environmentt](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | June 16, 2025 |
+| [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | July 15, 2025 |
+| [Proofs: Cannot add users to a proof by name in the Preview environment](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | June 16, 2025 |
 | [Proofs: Closing proof redirects to documents list](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | May 14, 2025 |
 | [Filters: Dropdown disappears when clicking on scrollbar](known-issues-workfront/wf-filter-scroll-bar.md) | March 26, 2025 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | March 13, 2025 |

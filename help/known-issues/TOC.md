@@ -11,13 +11,14 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
         + [Projects: Error when adding a project to a program](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
         + [Setup: Cannot log in as another user](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
         + [Integrations: Issues with the Workfront for Slack integration](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
         + [Tasks: Approvals area disappears from left navigation](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
         + [Projects: Cannot move project to specified program](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
         + [Workfront: Objects out of sync between Workfront and Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
-        + [Proofs: Cannot add users to a proof by name in the Preview environmentt](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
+        + [Proofs: Cannot add users to a proof by name in the Preview environment](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
         + [Proofs: Cannot open proof from direct link](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
         + [Reports: Chart drilldown includes inaccurate results](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
         + [Timesheets: Timesheets not correctly generated](known-issues-workfront/wf-timesheets-one-week-created.md)
