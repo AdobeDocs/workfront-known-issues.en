@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | July 16, 2025 |
 | [Setup: Cannot log in as another user](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | July 7, 2025 |
 | [Integrations: Issues with the Workfront for Slack integration](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | July 7, 2025 |
 | [Tasks: Approvals area disappears from left navigation](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | June 27, 2025 |
