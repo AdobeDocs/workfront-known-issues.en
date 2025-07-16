@@ -9,7 +9,8 @@ exl-id: ab49361b-ceb7-46dc-9b0d-39f866b85d5b
 
 >[!NOTE]
 >
->This issue has been reported in the Preview Sandbox environment.
+>* This issue was fixed on Ju;y 3, 2025.
+>* This issue has been reported in the Preview Sandbox environment.
 
 When a Workfront administrator attempts to log in as another user using the "Login as" functionality, they are not logged in as the other user, and they see the following message:
 
