@@ -7,6 +7,10 @@ exl-id: 6c3d7e68-f174-4672-a68d-c4e71438349e
 ---
 # Integrations: Issues with the Workfront for Slack integration
 
+>[!NOTE]
+>
+>This issue was fixed on Ju;y 16, 2025.
+
 The following issues have been reported regarding the Workfront for Slack integration:
 
 * Users are not notified in Slack when updates are made in Workfront.
