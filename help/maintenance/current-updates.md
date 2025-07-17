@@ -20,6 +20,22 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in July 2025
 
++++**Maintenance Updates week of July 13-19, 2025**
+
+### Maintenance Updates week of July 13-192
+
+### Integrations
+
+**ssues with the Workfront for Slack integration**
+
+The following issues have been reported regarding the Workfront for Slack integration:
+
+* Users are not notified in Slack when updates are made in Workfront.
+* Users cannot log in to Workfront from Slack.
+* Other commands in the Workfront for Slack integration are not working as expected.
+
++++
+
 +++**Maintenance Updates week of July 6-12, 2025**
 
 ### Maintenance Updates week of July 6-12
