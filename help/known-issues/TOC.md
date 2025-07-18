@@ -11,7 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        + [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
+        + [Proofs: Cannot tag users in proof comments](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
         + [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
         + [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
         + [Projects: Error when adding a project to a program](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
