@@ -184,12 +184,8 @@ role: User
         + [[!DNL Workfront Fusion]: [!DNL Fusion] module returns 404 error with no further information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
         + [[!DNL Workfront Fusion] in-app help links do not lead to specific help pages](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront Goals] {#goals}
-    + [Known Issues in [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront] Mobile App {#mobile}
     + [Known Issues in [!DNL Workfront] Mobile App](workfrontmobile.md)
-+ [!DNL Workfront Scenario Planner] {#scenarioplanner}
-    + [Known Issues in [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
 
 <!--
 
