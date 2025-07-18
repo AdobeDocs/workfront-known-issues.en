@@ -18,3 +18,5 @@ When a user attempts to approve a proof in the [!UICONTROL Desktop Proofing View
 Approve the document from the [!UICONTROL Document Details] page in [!DNL Workfront].
 
 _First reported on June 12, 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

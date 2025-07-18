@@ -14,3 +14,6 @@ exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
 When creating a Workfront connection in Workfront Fusion, a user cannot authenticate the connection while logged in as another user.
 
 _First reported on July 18, 2024._
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
+

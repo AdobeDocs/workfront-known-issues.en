@@ -16,3 +16,5 @@ When a user moves a card to a different column and then refreshes or returns to 
 This occurs when the column that the card is moved to has a custom status. Columns based on system statuses are not affected by this issue.
 
 _First reported on November 10, 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
