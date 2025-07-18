@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Cannot tag users in proof comments"
-description: "When a user attempts to tag another user in a proof comment and begins typing the user's name, the user does not appear in the list, and cannot be selected to be tagged. A workaround is available."
+title: 'Proofs: Cannot tag users in proof comments'
+description: When a user attempts to tag another user in a proof comment and begins typing the user's name, the user does not appear in the list, and cannot be selected to be tagged. A workaround is available.
 hidefromtoc: yes
 feature: Digital Content and Documents, People Teams and Groups
+exl-id: 5d31e7d5-147d-4a85-a832-5981a7135db4
 ---
-
 # Proofs: Cannot tag users in proof comments
 
 When a user attempts to tag another user in a proof comment and begins typing the user's name, the user does not appear in the list, and cannot be selected to be tagged.
