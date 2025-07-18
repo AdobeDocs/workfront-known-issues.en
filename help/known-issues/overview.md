@@ -11,6 +11,4 @@ For information on issues currently identified in the [!DNL Workfront] product, 
 * [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
 * [Known Issues in [!DNL Workfront] Proof](workfrontproof.md)
 * [Known Issues in Workfront Fusion](workfrontfusion.md)
-* [Known Issues in [!DNL Workfront Goals]](workfrontgoals.md)
 * [Known Issues in the [!DNL Workfront] Mobile App](workfrontmobile.md)
-* [Known Issues in [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
