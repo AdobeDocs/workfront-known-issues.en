@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proofs: Proof generation is slow](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | March 17, 2025 |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -32,7 +31,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
-| [Updates: Some users cannot see images or documents attached to comments](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | March 10, 2025 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | May 8, 2024 |
 
