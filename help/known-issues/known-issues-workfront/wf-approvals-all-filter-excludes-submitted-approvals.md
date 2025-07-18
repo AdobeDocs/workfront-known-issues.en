@@ -14,3 +14,5 @@ exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
 When viewing approvals in either the My Approvals widget in Home or on the My Updates page, the list does not include approvals submitted by the user even when the filter is set to "All".
 
 _First reported on October 16, 2024._
+
+<!--CHECK ME--1 view April-June 2025-->

@@ -24,3 +24,7 @@ When a user moves a document to a different project, the document does not inher
 Alternatively, you can make note of the document's ID (found in the URL of the [!UICONTROL Document Details] page) and contact [!DNL Workfront] customer support.
 
 _First reported on January 6, 2023._
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
