@@ -34,7 +34,7 @@ Updates this week include only minor or less prominent bug fixes. Workfront Supp
 
 ### Integrations
 
-**ssues with the Workfront for Slack integration**
+**Issues with the Workfront for Slack integration**
 
 The following issues have been reported regarding the Workfront for Slack integration:
 
