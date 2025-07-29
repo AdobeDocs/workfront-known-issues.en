@@ -24,7 +24,11 @@ The following maintenance updates have been made in 2025.
 
 ### Maintenance Update week of July 20-26, 2025
 
-Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+#### Proofs
+
+**Cannot tag users in proof comments**
+
+When a user attempts to tag another user in a proof comment and begins typing the user's name, the user does not appear in the list, and cannot be selected to be tagged.
 
 +++
 

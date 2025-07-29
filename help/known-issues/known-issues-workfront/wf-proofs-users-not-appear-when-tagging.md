@@ -7,6 +7,10 @@ exl-id: 5d31e7d5-147d-4a85-a832-5981a7135db4
 ---
 # Proofs: Cannot tag users in proof comments
 
+>[!NOTE]
+>
+>This issue was fixed on July 25, 2025.
+
 When a user attempts to tag another user in a proof comment and begins typing the user's name, the user does not appear in the list, and cannot be selected to be tagged.
 
 **Workaround**
