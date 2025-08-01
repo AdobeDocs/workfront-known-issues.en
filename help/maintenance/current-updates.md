@@ -24,6 +24,18 @@ The following maintenance updates have been made in 2025.
 
 ### Maintenance Update week of July 20-26, 2025
 
+#### Projects
+
+**Warning now displays when timeline has not recalculated**
+
+Users will now see a warning icon when the project's timeline has not been recalculated. When hovering over this icon, the user sees the following message:
+
+"The project's timeline is incorrect. Project managers might need to manually recalculate the timeline."
+
+Occasionally, timelines may not recalculate because a project is extremely complex. For example, a project that has multiple dependencies, a large number of tasks, several cross-project predecessors, or multiple task indentations may be affected.
+
+Previously, there was no indication that a timeline had not recalculated.
+
 #### Proofs
 
 **Cannot tag users in proof comments**
