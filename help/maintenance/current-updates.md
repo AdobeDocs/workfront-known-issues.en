@@ -18,11 +18,11 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
-## Updates in July 2025
+## Updates in August 2025
 
-+++**Maintenance Updates week of July 20-26, 2025**
++++**Maintenance Updates week of July 27-August 3, 2025**
 
-### Maintenance Update week of July 20-26, 2025
+### Maintenance Updates week of July 27-August 3, 2025
 
 #### Projects
 
@@ -35,6 +35,14 @@ Users will now see a warning icon when the project's timeline has not been recal
 Occasionally, timelines may not recalculate because a project is extremely complex. For example, a project that has multiple dependencies, a large number of tasks, several cross-project predecessors, or multiple task indentations may be affected.
 
 Previously, there was no indication that a timeline had not recalculated.
+
++++
+
+## Updates in July 2025
+
++++**Maintenance Updates week of July 20-26, 2025**
+
+### Maintenance Updates week of July 20-26, 2025
 
 #### Proofs
 
