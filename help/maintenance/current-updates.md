@@ -20,9 +20,9 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in August 2025
 
-+++**Maintenance Updates week of July 27-August 3, 2025**
++++**Maintenance Updates week of July 27-August 2, 2025**
 
-### Maintenance Updates week of July 27-August 3, 2025
+### Maintenance Updates week of July 27-August 2, 2025
 
 #### Projects
 
@@ -35,6 +35,12 @@ Users will now see a warning icon when the project's timeline has not been recal
 Occasionally, timelines may not recalculate because a project is extremely complex. For example, a project that has multiple dependencies, a large number of tasks, several cross-project predecessors, or multiple task indentations may be affected.
 
 Previously, there was no indication that a timeline had not recalculated.
+
+#### Tasks
+
+**Approvals area disappears from left navigation**
+
+When a user is viewing a task, the Approvals area may disappear from the left navigation. Removing and adding the Approvals area to the Layout Template resolves the issue, but the issue may reoccur.
 
 +++
 
