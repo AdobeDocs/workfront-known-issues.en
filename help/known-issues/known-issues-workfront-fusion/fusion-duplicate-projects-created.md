@@ -13,6 +13,6 @@ exl-id: 95cb41ab-aa1c-41a8-ad3d-bdc99f54e241
 >
 >The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
 
-When a Create Project module is used during a scenario execution, two identical projects are created. This may cause confusion when using the projects in Workfront.
+When a Create Project module is used  or an Issue is converted to a Project during a scenario execution, two identical projects are created. This may cause confusion when using the projects in Workfront.
 
 _First reported on October 11, 2023._
