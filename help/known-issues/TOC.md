@@ -171,6 +171,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        +[Workfront Fusion: Updates to webhook do not autosave](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
         + [Workfront Fusion: Scenario is not running](known-issues-workfront-fusion/fusion-scenario-not-running.md)
         + [Workfront Fusion: Start setting "From now on" processing all data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
         + [Workfront Fusion: Cannot add or delete users from Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
