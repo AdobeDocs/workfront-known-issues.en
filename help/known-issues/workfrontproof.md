@@ -30,6 +30,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documents: Users added as approvers after approval is complete are not notified](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | August 12, 2025 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | May 8, 2024 |
