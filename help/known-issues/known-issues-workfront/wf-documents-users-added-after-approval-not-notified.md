@@ -1,10 +1,10 @@
 ---
-title: "Documents: Users added as approvers after approval is complete are not notified"
-description: "When a user has approved a document, and then more users are added as approvers, the newly added approvers do not receive in-app or email notifications of the approval request."
+title: 'Documents: Users added as approvers after approval is complete are not notified'
+description: When a user has approved a document, and then more users are added as approvers, the newly added approvers do not receive in-app or email notifications of the approval request.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: b636c6ea-7c31-47f1-8b15-4e62c593ed07
 ---
-
 # Documents: Users added as approvers after approval is complete are not notified
 
 When a user has approved a document, and then more users are added as approvers, the newly added approvers do not receive in-app or email notifications of the approval request.
