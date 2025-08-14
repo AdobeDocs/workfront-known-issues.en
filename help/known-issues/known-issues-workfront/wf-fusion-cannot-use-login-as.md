@@ -15,5 +15,5 @@ When creating a Workfront connection in Workfront Fusion, a user cannot authenti
 
 _First reported on July 18, 2024._
 
-<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025 (June 23 and Aug 13)-->
 

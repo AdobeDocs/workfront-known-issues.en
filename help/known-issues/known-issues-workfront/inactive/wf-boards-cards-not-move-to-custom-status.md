@@ -17,4 +17,4 @@ This occurs when the column that the card is moved to has a custom status. Colum
 
 _First reported on November 10, 2023._
 
-<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025(July 21 and 25)-->

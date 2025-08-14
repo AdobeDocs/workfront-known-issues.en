@@ -102,7 +102,6 @@ role: User
         + [Proofs: Error when sharing proof from email link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
         + [[!UICONTROL Home]: New [!UICONTROL Home] widget preview does not display correct name of object](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
         + [[!UICONTROL Home]: [!UICONTROL Requests] widget does not display all assigned teams](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
-        + [Layout templates: Layout templates causing inconsistencies in reports](known-issues-workfront/inactive/wf-layout-templates-classic.md)
         + [[!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
         + [[!UICONTROL Setup]: Cannot export audit logs](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
         + [Proofs: Proofs are created slowly in the Preview environment](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
