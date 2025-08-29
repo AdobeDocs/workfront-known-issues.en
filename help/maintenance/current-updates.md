@@ -20,6 +20,40 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in August 2025
 
++++**Maintenance Updates week of August 17-23, 2025**
+
+### Maintenance Update week of August 17-25, 2025
+
+#### Projects
+
+**Error when adding a project to a program**
+
+When a user attempts to add an existing project to a program, the project is not added, and the user sees the following error message:
+
+"Error loading secondary content..."
+
+**Exported projects contain inaccurate Actual Hours**
+
+When a user exports a project to Excel, the Actual Hours column does not display the correct data.
+
++++
+
++++**Maintenance Updates week of August 10-16, 2025**
+
+### Maintenance Update week of August 10-16, 2025
+
+Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
++++**Maintenance Updates week of August 3-9, 2025**
+
+### Maintenance Update week of August 3-9, 2025
+
+Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
 +++**Maintenance Updates week of July 27-August 2, 2025**
 
 ### Maintenance Updates week of July 27-August 2, 2025

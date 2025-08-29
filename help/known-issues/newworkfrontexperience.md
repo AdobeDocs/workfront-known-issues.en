@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | July 16, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}
@@ -94,6 +93,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | [Workfront: Date format changes throughout application](known-issues-workfront/wf-workfront-date-format-changing.md) | December 20, 2024 |
 | [Approvals: Delegated approvals not appearing for delegates](known-issues-workfront/wf-approvals-delegation-not-working.md) | December 20, 2024 |
 | [Tasks: Database error when adding or deleting a task (previously Bizcontext error)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | December 10, 2024 |
+| [Layout templates: Custom data fields not displaying when added to Task Summary through Layout Template](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | November 4, 2024 |
 | [Notifications: Email notifications for updates not being sent](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | December 5, 2024 |
 | [Workfront: Contributor users cannot access Programs or Portfolios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | December 5, 2024 |
 | [Reports: Error when exporting report](known-issues-workfront/wf-reports-error-cache-content.md) | October 14, 2024 |
