@@ -15,4 +15,4 @@ hidefromtoc: yes
 
 The number that displays for [!UICONTROL Completed Points] on the Story Board sometimes doesn't match the actual number of points completed for the stories in an iteration
 
-_First reported on April 13, 2021._
+ _First reported on April 13, 2021._
