@@ -18,11 +18,33 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
+## Updates in Septemner 2025
+
++++**Maintenance Updates week of August 31-September 6, 2025**
+
+### Maintenance Update week of August 31-September 6, 2025
+
+#### API
+
+**New guardrails to avoid overloading Event Subscriptions**
+
+Event Subscriptions is designed to provide reliable delivery of events for all users. To ensure this, safeguards have been put into place to prevent excessive event production from a single user that could cause potential service quality issues for all users. As a result, a user that is producing too many events at a high rate within a short timeframe may experience sandboxing and event delivery delays.
+
++++
+
 ## Updates in August 2025
+
++++**Maintenance Updates week of August 24-30, 2025**
+
+### Maintenance Update week of August 24-30, 2025
+
+Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
 
 +++**Maintenance Updates week of August 17-23, 2025**
 
-### Maintenance Update week of August 17-25, 2025
+### Maintenance Update week of August 17-23, 2025
 
 #### Projects
 
