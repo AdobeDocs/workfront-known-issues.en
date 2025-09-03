@@ -18,7 +18,7 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
-## Updates in Septemner 2025
+## Updates in September 2025
 
 +++**Maintenance Updates week of August 31-September 6, 2025**
 
