@@ -30,6 +30,12 @@ The following maintenance updates have been made in 2025.
 
 Event Subscriptions is designed to provide reliable delivery of events for all users. To ensure this, safeguards have been put into place to prevent excessive event production from a single user that could cause potential service quality issues for all users. As a result, a user that is producing too many events at a high rate within a short timeframe may experience sandboxing and event delivery delays.
 
+#### Documents
+
+**Users added as approvers after approval is complete are not notified**
+
+When a user has approved a document, and then more users are added as approvers, the newly added approvers do not receive in-app or email notifications of the approval request.
+
 +++
 
 ## Updates in August 2025
