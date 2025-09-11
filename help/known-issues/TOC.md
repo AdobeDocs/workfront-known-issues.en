@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Proofs: Cannot generate a proof from a PowerPoint file](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
+        + [Users: Cannot edit notifications settings for another user](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
+        + [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md)
         + [Users: Cannot edit a user's Federation ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
         + [Documents: Users added as approvers after approval is complete are not notified](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
         + [Proofs: Cannot tag users in proof comments](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
