@@ -1,10 +1,10 @@
 ---
-title: "Users: Cannot change access level of a user"
-description: "When an admin attempts to change the access level of a user, the access level is not changes, and the admin sees an error message."
+title: 'Users: Cannot change access level of a user'
+description: When an admin attempts to change the access level of a user, the access level is not changes, and the admin sees an error message.
 hidefromtoc: yes
 feature: People Teams and Groups
+exl-id: 095c6c6b-609d-4197-a76b-0f84782517fd
 ---
-
 # Users: Cannot change access level of a user
 
 >[!NOTE]

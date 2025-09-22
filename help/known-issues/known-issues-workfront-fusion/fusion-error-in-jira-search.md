@@ -1,10 +1,10 @@
 ---
-title: "Workfront Fusion: Jira Search module returns an error"
-description: "The search module used by the legacy Jira connector may result in an error. A workaround is available"
+title: 'Workfront Fusion: Jira Search module returns an error'
+description: The search module used by the legacy Jira connector may result in an error. A workaround is available
 hidefromtoc: yes
 feature: Workfront Fusion
+exl-id: 9502ffb3-f287-47b2-9b35-1a906345e924
 ---
-
 # Workfront Fusion: Jira Search module returns an error
 
 >[!NOTE]
@@ -28,4 +28,3 @@ Note that:
 If you encounter this error, you can replace the search module of the legacy Jira connector with the search module of the new connector. Note that the new connector allows you to select the API version used. Be sure to select **V3** in the **API Version** field when creating the connection.
 
 _First reported on September 15, 2025._
-
