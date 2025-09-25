@@ -20,6 +20,28 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in September 2025
 
++++**Maintenance Updates week of September 21-27, 2025**
+
+### Maintenance Updates week of September 21-27, 2025
+
+#### Users
+
+**Cannot edit notifications settings for another user**
+
+When a user attempts to edit the notidication settings for another user, they can not edit the settings, and they see the following message:
+
+"You do not have sufficient access to edit financial data."
+
++++
+
++++**Maintenance Updates week of September 14-20, 2025**
+
+### Maintenance Updates week of September 14-20, 2025
+
+Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
 +++**Maintenance Updates week of September 7-13, 2025**
 
 ### Maintenance Updates week of September 7-13, 2025
