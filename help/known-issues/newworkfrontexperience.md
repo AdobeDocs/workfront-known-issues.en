@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Programs: Cannot save when editing a program](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | September 30, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -31,7 +32,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
 | [Approvals: Approval dislays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |
-| [Users: Cannot edit a user's Federation ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | September 9, 2025 |
 | [Documents: Users added as approvers after approval is complete are not notified](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | August 12, 2025 |
 | [Proofs: Cannot tag users in proof comments](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | July 10, 2025 |
 | [Workfront: Objects out of sync between Workfront and Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | June 17, 2025 |
@@ -47,6 +47,7 @@ Fixes for these issues are not currently on the roadmap, but workarounds are ava
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Approvals: Approval decision buttons not displaying in Proof Viewer](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | September 30, 2025 |
 | [Proofs: Cannot generate a proof from a PowerPoint file](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | September 11, 2025 |
 | [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | July 15, 2025 |
 | [Filters: Dropdown disappears when clicking on scrollbar](known-issues-workfront/wf-filter-scroll-bar.md) | March 26, 2025 |
