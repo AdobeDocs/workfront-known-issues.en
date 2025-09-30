@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Approvals: Approval decision buttons not displaying in Proof Viewer](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
         + [Approvals: Approval dislays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
         + [Proofs: Cannot generate a proof from a PowerPoint file](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
         + [Users: Cannot edit notifications settings for another user](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
