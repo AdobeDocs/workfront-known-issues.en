@@ -18,6 +18,20 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
+## Updates in October 2025
+
++++**Maintenance Updates week of September 28-October 4, 2025**
+
+### Maintenance Updates week of September 28-October 4, 2025
+
+#### Programs
+
+**Cannot save when editing a program**
+
+When a user is editing a program and attempts to save the changes, the changes are not saved.
+
++++
+
 ## Updates in September 2025
 
 +++**Maintenance Updates week of September 21-27, 2025**

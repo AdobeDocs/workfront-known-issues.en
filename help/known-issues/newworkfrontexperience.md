@@ -19,7 +19,6 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Programs: Cannot save when editing a program](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | September 30, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -51,7 +50,6 @@ Fixes for these issues are not currently on the roadmap, but workarounds are ava
 | [Proofs: Cannot generate a proof from a PowerPoint file](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | September 11, 2025 |
 | [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | July 15, 2025 |
 | [Filters: Dropdown disappears when clicking on scrollbar](known-issues-workfront/wf-filter-scroll-bar.md) | March 26, 2025 |
-| [Integrations: outlookIdentityToken error when using Workfront for Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | March 4, 2025 |
 | [Documents: Cannot upload to AEM folder documents list](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | February 27, 2025 |
 | [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | February 13, 2025 |
 | [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | December 20, 2024 |
