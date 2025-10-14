@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Users: Cannot use advanced options when creating users](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+        + [Custom forms: Field display logic is not followed correctly](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+        + [Proofs: Cannot close proof viewer](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
         + [Programs: Cannot save when editing a program](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
         + [Approvals: Approval decision buttons not displaying in Proof Viewer](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
         + [Approvals: Approval dislays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
