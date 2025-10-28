@@ -20,6 +20,40 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in October 2025
 
++++**Maintenance Updates week of October 19-25, 2025**
+
+### Maintenance Updates week of October 19-25, 2025
+
+#### Custom forms
+
+**Field display logic is not followed correctly**
+
+When a user is filling out a custom form that includes display logic (where some fields are displayed or not based on the values in other fields), the fields are not displayed in a way that follows that field logic.
+
+#### Proofs
+
+**Cannot close proof viewer**
+
+When a user is viewing a proof in the proofing viewer and attempts to close the proof by clicking the X in the upper-right corner, the proof does not close.
+
++++
+
++++**Maintenance Updates week of October 12-18, 2025**
+
+### Maintenance Update week of October 12-18, 2025
+
+Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
++++**Maintenance Updates week of October 5-11, 2025**
+
+### Maintenance Update week of October 5-11, 2025
+
+Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
 +++**Maintenance Updates week of September 28-October 4, 2025**
 
 ### Maintenance Updates week of September 28-October 4, 2025
