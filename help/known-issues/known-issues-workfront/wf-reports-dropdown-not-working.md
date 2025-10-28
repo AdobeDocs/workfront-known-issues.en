@@ -2,7 +2,7 @@
 title: "Reports: Issues regarding dropdowns in charts"
 description: "Issues have been reported regarding dropdowns in charts."
 hidefromtoc: yes
-feature: Reports
+feature: Reports and Dashboards
 ---
 
 # Reports: Issues regarding dropdowns in charts
