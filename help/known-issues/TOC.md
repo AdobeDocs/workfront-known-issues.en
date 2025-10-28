@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reports: Issues regarding dropdowns in charts](known-issues-workfront/wf-reports-dropdown-not-working.md)
         + [Users: Cannot use advanced options when creating users](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
         + [Custom forms: Field display logic is not followed correctly](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
         + [Proofs: Cannot close proof viewer](known-issues-workfront/wf-cannot-close-proofing-viewer.md)

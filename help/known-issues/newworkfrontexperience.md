@@ -19,8 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Custom forms: Field display logic is not followed correctly](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | October 14, 2025 |
-| [Proofs: Cannot close proof viewer](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | October 14, 2025 |
+| [Reports: Issues regarding dropdowns in charts](known-issues-workfront/wf-reports-dropdown-not-working.md) | October 28, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
