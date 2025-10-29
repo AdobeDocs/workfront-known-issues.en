@@ -34,7 +34,7 @@ When a user is filling out a custom form that includes display logic (where some
 
 **Cannot close proof viewer**
 
-When a user is viewing a proof in the proofing viewer and attempts to close the proof by clicking the X in the upper-right corner, the proof does not close.
+When a user is viewing a proof in the proofing viewer and attempts to close the proof by clicking the X in the upper-right corner, the proof does not close. 
 
 +++
 
