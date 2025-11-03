@@ -7,6 +7,10 @@ feature: People Teams and Groups
 
 # Users: Cannot use advanced options when creating users
 
+>[!NOTE]
+>
+>This issue was fixed on October 27, 2025.
+
 When a Workfront administrator is creating a user and attempts to use the advanced option, they cannot use the options, and they see the following message:
 
 ```
