@@ -7,6 +7,10 @@ feature: Reports and Dashboards
 
 # Reports: Issues regarding dropdowns in charts
 
+>[!NOTE]
+>
+>This issue was fixed on October 29, 2025.
+
 The following issues have been reported regarding dropdowns in charts:
 
 * When a user is viewing a report with a dropdown column, and is using the Chart feature, the drop down in the Chart window does not work.

@@ -18,6 +18,39 @@ For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2025.
 
+
+
+## Updates in November 2025
+
++++**Maintenance Updates week of October 26-November 1, 2025**
+
+### Maintenance Updates week of October 26-November 1, 2025
+
+#### Reports
+
+**Issues regarding dropdowns in charts**
+
+The following issues have been reported regarding dropdowns in charts:
+
+* When a user is viewing a report with a dropdown column, and is using the Chart feature, the drop down in the Chart window does not work.
+* When a user attempts to assign users from a report, using a dropdown, the assignment is not saved.
+
+#### Users
+
+**Cannot use advanced options when creating users**
+
+When a Workfront administrator is creating a user and attempts to use the advanced option, they cannot use the options, and they see the following message:
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
+
 ## Updates in October 2025
 
 +++**Maintenance Updates week of October 19-25, 2025**
