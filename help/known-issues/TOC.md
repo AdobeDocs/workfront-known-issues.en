@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Approvals: Links to approvals not available](known-issues-workfront/wf-approvals-link-not-appearing.md)
+        + [Requests: Request form creator does not have access to form](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
         + [Users: Can only search job roles by first word](known-issues-workfront/wf-users-job-role-first-word.md)
         + [Reports: Issues regarding dropdowns in charts](known-issues-workfront/wf-reports-dropdown-not-working.md)
         + [Users: Cannot use advanced options when creating users](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
