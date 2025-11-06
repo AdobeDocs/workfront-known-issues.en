@@ -22,6 +22,14 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in November 2025
 
++++**Maintenance Updates week of November 2-8, 2025**
+
+### Maintenance Updates week of November 2-8, 2025
+
+Updates this week include only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
 +++**Maintenance Updates week of October 26-November 1, 2025**
 
 ### Maintenance Updates week of October 26-November 1, 2025
