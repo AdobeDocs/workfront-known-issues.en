@@ -22,6 +22,18 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in November 2025
 
++++**Maintenance Updates week of November 9-15, 2025**
+
+### Maintenance Updates week of November 9-15, 2025
+
+#### Tasks
+
+**Adding predecessors is no longer dependent upon the Tasks' Edit sub-settings in the access level**
+
+Users can add predecessors to tasks when the Edit access is enabled for Tasks in their access level, regardless of what sub-settings you have selected. This is now consistent with the existing API functionality.
+
++++
+
 +++**Maintenance Updates week of November 2-8, 2025**
 
 ### Maintenance Updates week of November 2-8, 2025
