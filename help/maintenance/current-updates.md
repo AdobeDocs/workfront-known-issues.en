@@ -28,7 +28,7 @@ The following maintenance updates have been made in 2025.
 
 #### Record types
 
-**Adding predecessors is no longer dependent upon the Tasks' Edit sub-settings in the access level**
+**The Edits and Settings options have been removed from the More menu in a record type**
 
 We have removed the Edit and Settings options from the More menu of a global record type which was added to a secondary workspace from an existing global record type. Prior to this update, the menus were dimmed and not functional.
 
