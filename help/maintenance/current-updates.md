@@ -22,6 +22,18 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in November 2025
 
++++**Workfront Planning Maintenance Updates week of November 9-15, 2025**
+
+### Workfront Planning Maintenance Updates week of November 9-15, 2025
+
+#### Record types
+
+**Adding predecessors is no longer dependent upon the Tasks' Edit sub-settings in the access level**
+
+We have removed the Edit and Settings options from the More menu of a global record type which was added to a secondary workspace from an existing global record type. Prior to this update, the menus were dimmed and not functional.
+
++++
+
 +++**Maintenance Updates week of November 9-15, 2025**
 
 ### Maintenance Updates week of November 9-15, 2025
