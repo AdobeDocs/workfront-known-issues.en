@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Timesheets: Timesheets not generated](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
         + [Tasks: "Insufficient access" message when inline editing tasks](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
         + [Approvals: Links to approvals not available](known-issues-workfront/wf-approvals-link-not-appearing.md)
         + [Requests: Request form creator does not have access to form](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)

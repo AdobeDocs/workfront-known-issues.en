@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Tasks: "Insufficient access" message when inline editing tasks](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | November 13, 2025 |
+| [Timesheets: Timesheets not generated](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | November 17, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -31,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Tasks: "Insufficient access" message when inline editing tasks](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | November 17, 2025 |
 | [Users: Can only search job roles by first word](known-issues-workfront/wf-users-job-role-first-word.md) | November 13, 2025 |
 | [Approvals: Links to approvals not available](known-issues-workfront/wf-approvals-link-not-appearing.md) | November 13, 2025 |
 | [Requests: Request form creator does not have access to form](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | November 4, 2025 |
