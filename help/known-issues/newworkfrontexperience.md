@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Timesheets: Timesheets not generated](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | November 17, 2025 |
+| [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md) | November 17, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
