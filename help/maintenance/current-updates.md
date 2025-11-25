@@ -22,6 +22,20 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in November 2025
 
++++**Workfront Planning Maintenance Updates week of November 16-22, 2025**
+
+### Workfront Planning Maintenance Updates week of November 16-22, 2025
+
+#### Custom Forms
+
+**Active/inactive indicator added to list of custom forms where a field is used**
+
+In the custom form designer, you can select a field and click **View Related Forms** to view a list of all the other forms where the field is used. This shows you which other forms will be affected if you edit the field.
+
+An enhancement to this list is an active/inactive indicator for each form. You can see at a glance whether the field is currently used on active or inactive forms.
+
++++
+
 +++**Workfront Planning Maintenance Updates week of November 9-15, 2025**
 
 ### Workfront Planning Maintenance Updates week of November 9-15, 2025
