@@ -50,7 +50,7 @@ Fixes for these issues are not currently on the roadmap. In some cases, these is
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
 | [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | February 13, 2025 |
-| [Workfront Fusion: Start setting "From now on" processing all data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | October 29, 2024 | 
+| [Workfront Fusion: Start setting "From now on" processing all data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | October 29, 2024 |
 | [Workfront Fusion: Output formatting for dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | January 31, 2024 |
 | [Workfront Fusion: Duplicate projects created from single module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | October 24, 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] through API or [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | May 25, 2023 |
