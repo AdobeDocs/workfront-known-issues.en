@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+        + [Schedules: Permissions to schedule revoked for a group](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+        + [Assignments: Team assignments are not saved](known-issues-workfront/wf-assignments-not-saved.md)
+        + [Tasks: Planned hours not saved when creating task](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
         + [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md)  
         + [Tasks: "Insufficient access" message when inline editing tasks](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
         + [Approvals: Links to approvals not available](known-issues-workfront/wf-approvals-link-not-appearing.md)
