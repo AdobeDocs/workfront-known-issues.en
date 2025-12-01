@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Users: Issues with changes to Proof Profile](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)  | December 1, 2025 |
 | [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md)  | November 17, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
@@ -31,12 +32,12 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | December 1, 2025 |
 | [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md) | November 25, 2025 |
 | [Assignments: Team assignments are not saved](known-issues-workfront/wf-assignments-not-saved.md) | November 25, 2025 |
 | [Schedules: Permissions to schedule revoked for a group](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | November 25, 2025 |
 | [Tasks: Planned hours not saved when creating task](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | November 25, 2025 |
 | [Approvals: Links to approvals not available](known-issues-workfront/wf-approvals-link-not-appearing.md) | November 13, 2025 |
-| [Requests: Request form creator does not have access to form](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | November 4, 2025 |
 | [Approvals: Approval dislays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |
 | [Documents: Users added as approvers after approval is complete are not notified](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | August 12, 2025 |
 | [Proofs: Cannot tag users in proof comments](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | July 10, 2025 |
