@@ -9,7 +9,8 @@ feature: Requests
 
 >[!NOTE]
 >
->This issue relates to functionality only available in Workfront Planning.
+>* This issue was fixed on November 26, 2025.
+>* This issue relates to functionality only available in Workfront Planning.
 
 When a user creates a request form in Workfront Planning, and then attempts to access the form, they cannot access it, and they see the message "You don't have access to this form."
 
