@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Requests: Cannot upload document to request from GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
         + [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
         + [Users: Issues with changes to Proof Profile](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
         + [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md)
