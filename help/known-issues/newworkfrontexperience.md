@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Requests: Cannot upload document to request from GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | December 2, 2025 |
 | [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | December 1, 2025 |
 | [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md) | November 25, 2025 |
 | [Assignments: Team assignments are not saved](known-issues-workfront/wf-assignments-not-saved.md) | November 25, 2025 |
