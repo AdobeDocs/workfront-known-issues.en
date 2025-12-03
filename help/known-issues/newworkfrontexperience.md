@@ -37,7 +37,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md) | November 25, 2025 |
 | [Assignments: Team assignments are not saved](known-issues-workfront/wf-assignments-not-saved.md) | November 25, 2025 |
 | [Schedules: Permissions to schedule revoked for a group](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | November 25, 2025 |
-| [Tasks: Planned hours not saved when creating task](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | November 25, 2025 |
 | [Approvals: Links to approvals not available](known-issues-workfront/wf-approvals-link-not-appearing.md) | November 13, 2025 |
 | [Approvals: Approval dislays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |
 | [Documents: Users added as approvers after approval is complete are not notified](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | August 12, 2025 |
