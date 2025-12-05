@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Tasks: Inline edits to a task do not save](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
         + [Users: Bulk editing users removes resource pools and direct reports](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
         + [Requests: Cannot upload document to request from GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
         + [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
