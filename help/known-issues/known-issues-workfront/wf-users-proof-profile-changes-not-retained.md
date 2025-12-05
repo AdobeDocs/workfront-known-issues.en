@@ -7,6 +7,10 @@ feature: People Teams and Groups, Digital Content and Documents
 
 # Users: Issues with changes to Proof Profile 
 
+>[!NOTE]
+>
+>This issue was fixed on December 5, 2025.
+
 The following issues have been reported in regards to making changes to a user's Proof Profile:
 
 * When a user assigns a different Proof Profile to a user and saves, the change is not saved, and the user retains the previous Proof Profile.

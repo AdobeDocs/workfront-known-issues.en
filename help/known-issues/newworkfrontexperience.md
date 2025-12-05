@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Users: Issues with changes to Proof Profile](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)  | December 1, 2025 |
+| [Tasks: Inline edits to a task do not save](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)  | December 5, 2025 |
 | [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md)  | November 17, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
