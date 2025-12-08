@@ -31,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proofs: Proof status changes are delayed](known-issues-workfront/wf-proof-status-sync-delayed.md) | December 8, 2025 |
 | [Requests: Cannot upload document to request from GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | December 2, 2025 |
 | [Documents: Users added as approvers after approval is complete are not notified](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | August 12, 2025 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
