@@ -11,6 +11,10 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Cannot edit rich text fields](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+        + [Users: Error when opening Users page](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+        + [Tasks: Cannot select user role when creating a task](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+        + [Proofs: Proof status changes are delayed](known-issues-workfront/wf-proof-status-sync-delayed.md)
         + [Tasks: Inline edits to a task do not save](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
         + [Users: Bulk editing users removes resource pools and direct reports](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
         + [Requests: Cannot upload document to request from GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
