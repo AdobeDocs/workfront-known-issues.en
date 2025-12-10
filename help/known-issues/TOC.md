@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Users: Option to automatically generate proofs is missing from user profile](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
         + [Custom forms: Cannot edit rich text fields](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
         + [Users: Error when opening Users page](known-issues-workfront/wf-users-cannot-open-user-tab.md)
         + [Tasks: Cannot select user role when creating a task](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
