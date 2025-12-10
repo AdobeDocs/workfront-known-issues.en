@@ -20,6 +20,20 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in December 2025
 
++++**Maintenance Updates week of December 7-13, 2025**
+
+### Maintenance Updates week of December 7-13, 2025
+
+#### Users
+
+**Bulk editing users removes resource pools and direct reports**
+
+When a user is bulk editing users, clicks into the Resource Pools field, and does not enter a value, Resource Pools for all the edited users are removed.
+
+Bulk editing may also remove direct reports from the edited users.
+
++++
+
 +++**Maintenance Updates week of November 30-December 6, 2025**
 
 ### Maintenance Updates week of November 30-December 6, 2025
