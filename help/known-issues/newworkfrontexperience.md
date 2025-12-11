@@ -22,7 +22,6 @@ These recently reported issues are currently under review.
 | [Custom forms: Cannot edit rich text fields](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)  | December 8, 2025 |
 | [Tasks: Cannot select user role when creating a task](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)  | December 8, 2025 |
 | [Tasks: Inline edits to a task do not save](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)  | December 5, 2025 |
-| [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md)  | November 17, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -34,6 +33,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md)  | December 11, 2025 |
 | [Users: Option to automatically generate proofs is missing from user profile](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | December 10, 2025 |
 | [Users: Error when opening Users page](known-issues-workfront/wf-users-cannot-open-user-tab.md) | December 8, 2025 |
 | [Proofs: Proof status changes are delayed](known-issues-workfront/wf-proof-status-sync-delayed.md) | December 8, 2025 |
