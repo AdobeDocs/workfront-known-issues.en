@@ -37,9 +37,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Users: Issues with changes to Proof Profile](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)  | December 12, 2025 |
 | [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md)  | December 11, 2025 |
 | [Users: Option to automatically generate proofs is missing from user profile](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | December 10, 2025 |
-| [Users: Error when opening Users page](known-issues-workfront/wf-users-cannot-open-user-tab.md) | December 8, 2025 |
 | [Proofs: Proof status changes are delayed](known-issues-workfront/wf-proof-status-sync-delayed.md) | December 8, 2025 |
-| [Requests: Cannot upload document to request from GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | December 2, 2025 |
 | [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | December 1, 2025 |
 | [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md) | November 25, 2025 |
 | [Assignments: Team assignments are not saved](known-issues-workfront/wf-assignments-not-saved.md) | November 25, 2025 |
