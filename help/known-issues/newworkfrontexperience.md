@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Workfront Planning: Error when removing connected field](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)  | December 12, 2025 |
 | [Custom forms: Cannot edit rich text fields](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)  | December 8, 2025 |
 | [Tasks: Cannot select user role when creating a task](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)  | December 8, 2025 |
 | [Tasks: Inline edits to a task do not save](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)  | December 5, 2025 |
@@ -33,6 +34,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Users: Issues with changes to Proof Profile](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)  | December 12, 2025 |
 | [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md)  | December 11, 2025 |
 | [Users: Option to automatically generate proofs is missing from user profile](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | December 10, 2025 |
 | [Users: Error when opening Users page](known-issues-workfront/wf-users-cannot-open-user-tab.md) | December 8, 2025 |
