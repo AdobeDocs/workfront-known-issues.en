@@ -9,7 +9,8 @@ feature: Requests, Digital Content and Documents
 
 >[!NOTE]
 >
->This issue affects the new requesting experience.
+>* This issue affects the new requesting experience.
+>* This issue was fixed on December 12, 2025.
 
 When a user is creating a request in the new requesting experience and attempts to upload a document from GDrive, the GDrive window is unresponsive. The user cannot select a file or close the window.
 

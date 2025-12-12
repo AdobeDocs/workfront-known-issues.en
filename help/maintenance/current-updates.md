@@ -24,6 +24,13 @@ The following maintenance updates have been made in 2025.
 
 ### Maintenance Updates week of December 7-13, 2025
 
+#### Requests
+
+**Cannot upload document to request from GDrive**
+
+When a user is creating a request in the new requesting experience and attempts to upload a document from GDrive, the GDrive window is unresponsive. The user cannot select a file or close the window.
+
+
 #### Users
 
 **Bulk editing users removes resource pools and direct reports**
@@ -31,6 +38,12 @@ The following maintenance updates have been made in 2025.
 When a user is bulk editing users, clicks into the Resource Pools field, and does not enter a value, Resource Pools for all the edited users are removed.
 
 Bulk editing may also remove direct reports from the edited users.
+
+**Error when opening Users page**
+
+When a user attempts to open the Users page from the Main Menu, the page does not open, and the user sees the following message:
+
+"An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page."
 
 +++
 
