@@ -9,7 +9,8 @@ feature: Tasks
 
 >[!NOTE]
 >
->This issue applies to the legacy task experience.
+>* This issue was fixed on December 15, 2025.
+>* This issue applies to the legacy task experience.
 
 When a user makes inline changes to a task in the legacy task experience and saves, the changes are not saved.
 

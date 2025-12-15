@@ -22,7 +22,6 @@ These recently reported issues are currently under review.
 | [Workfront Planning: Error when removing connected field](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)  | December 12, 2025 |
 | [Custom forms: Cannot edit rich text fields](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)  | December 8, 2025 |
 | [Tasks: Cannot select user role when creating a task](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)  | December 8, 2025 |
-| [Tasks: Inline edits to a task do not save](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)  | December 5, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -34,13 +33,12 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)  | December 15, 2025 |
 | [Users: Issues with changes to Proof Profile](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)  | December 12, 2025 |
-| [Timesheets: Timesheets not generated](known-issues-workfront/wf-timesheets-not-generated.md)  | December 11, 2025 |
 | [Users: Option to automatically generate proofs is missing from user profile](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | December 10, 2025 |
 | [Proofs: Proof status changes are delayed](known-issues-workfront/wf-proof-status-sync-delayed.md) | December 8, 2025 |
 | [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | December 1, 2025 |
 | [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md) | November 25, 2025 |
-| [Assignments: Team assignments are not saved](known-issues-workfront/wf-assignments-not-saved.md) | November 25, 2025 |
 | [Schedules: Permissions to schedule revoked for a group](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | November 25, 2025 |
 | [Approvals: Links to approvals not available](known-issues-workfront/wf-approvals-link-not-appearing.md) | November 13, 2025 |
 | [Approvals: Approval dislays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |

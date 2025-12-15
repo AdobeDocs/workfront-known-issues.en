@@ -20,6 +20,30 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in December 2025
 
++++**Maintenance Updates week of December 14-20, 2025**
+
+### Maintenance Updates week of December 14-20, 2025
+
+#### Assignments
+
+**Team assignments are not saved**
+
+When a user assigns a team to a work item in Workfront, the team assignment is not saved, and the team is not notified of the work.
+
+#### Tasks
+
+**Inline edits to a task do not save**
+
+When a user makes inline changes to a task in the legacy task experience and saves, the changes are not saved.
+
+#### Timesheets
+
+**Timesheets not generated**
+
+Timesheets are not generated automatically as expected. This may occur even though timesheet profiles are accurate, and timesheets for other weeks are generated correctly.
+
++++
+
 +++**Maintenance Updates week of December 7-13, 2025**
 
 ### Maintenance Updates week of December 7-13, 2025
