@@ -31,6 +31,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
+| [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)  | December 15, 2025 |
 | [Users: Option to automatically generate proofs is missing from user profile](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | December 10, 2025 |
 | [Proofs: Proof status changes are delayed](known-issues-workfront/wf-proof-status-sync-delayed.md) | December 8, 2025 |
 | [Documents: Users added as approvers after approval is complete are not notified](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | August 12, 2025 |
