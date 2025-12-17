@@ -33,9 +33,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ---------------------------------- | ----------------- |
+| [Workfront Planning: Cannot add a field to a view](known-issues-workfront/wf-planning-cannot-add-field.md)  | December 15, 2025 |
 | [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)  | December 15, 2025 |
-| [Users: Issues with changes to Proof Profile](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)  | December 12, 2025 |
-| [Users: Option to automatically generate proofs is missing from user profile](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | December 10, 2025 |
 | [Proofs: Proof status changes are delayed](known-issues-workfront/wf-proof-status-sync-delayed.md) | December 8, 2025 |
 | [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | December 1, 2025 |
 | [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md) | November 25, 2025 |
