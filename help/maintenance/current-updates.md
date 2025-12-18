@@ -42,6 +42,20 @@ When a user makes inline changes to a task in the legacy task experience and sav
 
 Timesheets are not generated automatically as expected. This may occur even though timesheet profiles are accurate, and timesheets for other weeks are generated correctly.
 
+#### Users
+
+**Issues with changes to Proof Profile** 
+
+The following issues have been reported in regards to making changes to a user's Proof Profile:
+
+* When a user assigns a different Proof Profile to a user and saves, the change is not saved, and the user retains the previous Proof Profile.
+* A user's Proof Profile may display as the incorrect Proof Profile, even if the correct Proof Profile is assigned.
+* When other changes are made to a user, their Proof permissions may also change.
+
+**Option to automatically generate proofs is missing from user profile**
+
+When a user is viewing a user profile, the option "Automatically generate proofs when uploading documents" is not available. This may occur even though all prerequisites to the option have been met.
+
 +++
 
 +++**Maintenance Updates week of December 7-13, 2025**
