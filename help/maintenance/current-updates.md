@@ -30,6 +30,13 @@ The following maintenance updates have been made in 2025.
 
 When a user assigns a team to a work item in Workfront, the team assignment is not saved, and the team is not notified of the work.
 
+#### Schedules
+
+**Permissions to schedule revoked for a group**
+
+When a Workfront group administrator adds a date exception to a schedule and saves the changes, the permissions to that schedule are removed from the group, and the Workfront administrator must grant access for the group.
+
+
 #### Tasks
 
 **Inline edits to a task do not save**
