@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reporting: Users can see financial data in Canvas Dashboard visualizations](known-issues-workfront/wf-reporting-users-can-see-financial-date.md)
         + [Workfront Planning: Cannot add a field to a view](known-issues-workfront/wf-planning-cannot-add-field.md)
         + [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
         + [Workfront Planning: Error when removing connected field](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
