@@ -5,7 +5,7 @@ hidefromtoc: yes
 feature: Reports and Dashboards
 ---
 
-# Reporting: Users can see financial data in Canvas Dashboard visualizations
+# Reporting: Users can see financial data in Canvas Dashboard visualizations 
 
 Users with View or Edit access to Financial Data in their access level can see financial data in Canvas Dashboard visualizations, even if the View finance permission is removed at the task or project level.
 
