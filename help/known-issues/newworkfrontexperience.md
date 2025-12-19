@@ -18,10 +18,10 @@ This page contains issues currently identified in [!DNL Adobe Workfront].
 These recently reported issues are currently under review. 
 
 | **Issue** | **Last Modified** |
-| ----------------------------------------------------------------- | ----------------- |
-| [Workfront Planning: Error when removing connected field](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)  | December 12, 2025 |
-| [Custom forms: Cannot edit rich text fields](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)  | December 8, 2025 |
-| [Tasks: Cannot select user role when creating a task](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)  | December 8, 2025 |
+| --- | --- |
+| [Workfront Planning: Error when removing connected field](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | December 12, 2025 |
+| [Custom forms: Cannot edit rich text fields](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | December 8, 2025 |
+| [Tasks: Cannot select user role when creating a task](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | December 8, 2025 |
 | [Users: Cannot change access level of a user](known-issues-workfront/wf-users-cannot-change-access-level.md) | September 11, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -32,13 +32,12 @@ These recently reported issues are currently under review.
 Fixes for these issues are currently in progress, or are scheduled for the near future.
 
 | **Issue** | **Last Modified** |
-| ---------------------------------- | ----------------- |
-| [Workfront Planning: Cannot add a field to a view](known-issues-workfront/wf-planning-cannot-add-field.md)  | December 15, 2025 |
-| [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)  | December 15, 2025 |
+| --- | --- |
+| [Workfront Planning: Cannot add a field to a view](known-issues-workfront/wf-planning-cannot-add-field.md) | December 15, 2025 |
+| [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | December 15, 2025 |
 | [Proofs: Proof status changes are delayed](known-issues-workfront/wf-proof-status-sync-delayed.md) | December 8, 2025 |
 | [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | December 1, 2025 |
 | [Requests: Permissions not inherited when creating a request](known-issues-workfront/wf-requests-permissions-not-inherited.md) | November 25, 2025 |
-| [Approvals: Links to approvals not available](known-issues-workfront/wf-approvals-link-not-appearing.md) | November 13, 2025 |
 | [Approvals: Approval dislays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |
 | [Documents: Users added as approvers after approval is complete are not notified](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | August 12, 2025 |
 | [Proofs: Cannot tag users in proof comments](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | July 10, 2025 |
@@ -54,7 +53,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 Fixes for these issues are not currently on the roadmap, but workarounds are available and described in the article for each issue.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [Approvals: Approval decision buttons not displaying in Proof Viewer](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | September 30, 2025 |
 | [Proofs: Cannot generate a proof from a PowerPoint file](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | September 11, 2025 |
 | [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | July 15, 2025 |
@@ -92,7 +91,7 @@ Fixes for these issues are not currently on the roadmap, but workarounds are ava
 Fixes for these issues are not currently on the roadmap. In some cases, these issues will be fixed by new features or feature updates.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [Proofs: Cannot add users to a proof by name in the Preview environment](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | June 16, 2025 |
 | [Proofs: Closing proof redirects to documents list](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | May 14, 2025 |
 | [Teams: Cannot view team owner or delete team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | March 13, 2025 |

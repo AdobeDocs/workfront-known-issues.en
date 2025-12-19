@@ -24,6 +24,12 @@ The following maintenance updates have been made in 2025.
 
 ### Maintenance Updates week of December 14-20, 2025
 
+#### Approvals
+
+**Links to approvals not available**
+
+When a user is assigned as an approver to an object, the link to that object does not appear in the My Updates area or the My Approvals widget in Home.
+
 #### Assignments
 
 **Team assignments are not saved**
