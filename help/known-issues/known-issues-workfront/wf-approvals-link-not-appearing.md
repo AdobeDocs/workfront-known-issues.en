@@ -7,6 +7,10 @@ feature: Digital Content and Documents, Get Started with Workfront, Updates and 
 
 # Approvals: Links to approvals not available
 
+>[!NOTE]
+>
+>This issue was fixed on December 19, 2025.
+
 When a user is assigned as an approver to an object, the link to that object does not appear in the My Updates area or the My Approvals widget in Home.
 
 _First reported on October 27, 2025._
