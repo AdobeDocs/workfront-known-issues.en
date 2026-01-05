@@ -18,7 +18,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
-| [Workfront Planning: Error when removing connected field](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | December 12, 2025 |
+| None | |
 
 {style="table-layout:auto"}
 
@@ -28,7 +28,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
-| [Workfront Planning: Cannot add a field to a view](known-issues-workfront/wf-planning-cannot-add-field.md) | December 15, 2025 |
+| None | |
 
 {style="table-layout:auto"}
 

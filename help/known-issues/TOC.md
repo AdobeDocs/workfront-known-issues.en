@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Requests: Requests queues appear multiple times](known-issues-workfront/wf-requests-queues-duplicated.md)
+        + [Users: Cannot update user access](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+        + [Reports: Data Lake query does not return expected results](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
         + [Reporting: Users can see financial data in Canvas Dashboard visualizations](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
         + [Workfront Planning: Cannot add a field to a view](known-issues-workfront/wf-planning-cannot-add-field.md)
         + [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
