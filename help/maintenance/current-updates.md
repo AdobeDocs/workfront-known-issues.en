@@ -20,6 +20,50 @@ The following maintenance updates have been made in 2025.
 
 ## Updates in December 2025
 
++++**Workfront Planning Maintenance Updates week of December 21-27, 2025**
+
+### Workfront Planning Maintenance Updates week of December 21-27, 2025
+
+#### Error when removing connected field
+
+When a user attempts to remove a connected field in Workfront Planning, they cannot remove the field, and they see the message "Unable to delete the field. Try again."
+
++++
+
++++**Maintenance Updates week of December 21-27, 2025**
+
+### Maintenance Updates week of December 21-27, 2025
+
+#### Custom forms
+
+**Cannot edit rich text fields**
+
+When a user attempts to edit a rich text field on a custom form, the changes do not save, and the field does not update to reflect the changes.
+
+#### Tasks
+
+**Cannot select user role when creating a task**
+
+When a user is creating a task and attempts to assign a user role, the option to assign the role is not present, and the user cannot assign a user role.
+
++++
+
++++**Workfront Planning Maintenance Updates week of December 14-20, 2025**
+
+### Workfront Planning Maintenance Updates week of December 14-20, 2025
+
+#### Cannot add a field to a view
+
+>[!NOTE]
+>
+>* This issue has been reported in the Custom Refresh Sandbox.
+
+When a user attempts to add a field to a view in Workfront Planning, the field is not added, and the user sees the following message:
+
+"Unable to create the field column. Try again."
+
++++
+
 +++**Maintenance Updates week of December 14-20, 2025**
 
 ### Maintenance Updates week of December 14-20, 2025
@@ -35,6 +79,12 @@ When a user is assigned as an approver to an object, the link to that object doe
 **Team assignments are not saved**
 
 When a user assigns a team to a work item in Workfront, the team assignment is not saved, and the team is not notified of the work.
+
+#### Requests
+
+**Permissions not inherited when creating a request**
+
+When a user creates a request, that request does not inherit permissions. This means that users may not be able to access the request.
 
 #### Schedules
 
