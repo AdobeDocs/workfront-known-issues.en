@@ -191,6 +191,7 @@ role: User
 + [!DNL Adobe Workfront Fusion] {#fusion}
     + [Known Issues in Workfront Fusion](workfrontfusion.md)
     + Current Issues in [!DNL Workfront Fusion] {#fusion-current}
+        + [Workfront Fusion: Missing header error on AWS modules](known-issues-workfront-fusion/fusion-missing-header-aws.md)
         + [Workfront Fusion: Jira Search module returns an error](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
         + [Workfront Fusion: Updates to webhook do not autosave](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
         + [Workfront Fusion: Scenario is not running](known-issues-workfront-fusion/fusion-scenario-not-running.md)

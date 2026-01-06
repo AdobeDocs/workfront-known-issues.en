@@ -18,8 +18,8 @@ This page contains issues currently identified in [!DNL Adobe Workfront Fusion].
 These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
-| None |  |
+| ----------------------------------------------------------------- | ----------------- |
+| [Workfront Fusion: Missing header error on AWS modules](known-issues-workfront-fusion/fusion-missing-header-aws.md) | January 6, 2026 |
 
 {style="table-layout:auto"}
 
@@ -28,7 +28,7 @@ These recently reported issues are currently under review.
 Fixes for these issues are currently in progress, or are scheduled for the near future.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Workfront Fusion: Cannot add or delete users from Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | September 24, 2024 |
 
 {style="table-layout:auto"}
@@ -38,7 +38,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 Fixes for these issues are not currently on the roadmap, but workarounds are available and described in the article for each issue.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Workfront Fusion: Jira Search module returns an error](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | September 16, 2025 |
 | [Workfront Fusion: Field is missing from module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | February 5, 2024 |
 | [Workfront Fusion: Updates to webhook do not autosave](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | August 6, 2025 |
@@ -48,7 +48,7 @@ Fixes for these issues are not currently on the roadmap, but workarounds are ava
 Fixes for these issues are not currently on the roadmap. In some cases, these issues will be fixed by new features or feature updates.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | February 13, 2025 |
 | [Workfront Fusion: Start setting "From now on" processing all data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | October 29, 2024 |
 | [Workfront Fusion: Output formatting for dates](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | January 31, 2024 |
