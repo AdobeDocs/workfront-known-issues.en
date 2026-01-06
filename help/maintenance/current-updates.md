@@ -14,9 +14,9 @@ This page describes the issues fixed in the weekly Workfront updates.
 
 These updates also include other minor or less prominent bug fixes. [!DNL Workfront] Support will notify you when an issue you submitted is fixed.
 
-For maintenance updates prior to 2025, see [Previous Maintenance Updates](#previous-maintenance-updates)
+For maintenance updates prior to 2026, see [Previous Maintenance Updates](#previous-maintenance-updates)
 
-The following maintenance updates have been made in 2025.
+The following maintenance updates have been made in 2026.
 
 ## Updates in January 2026
 
