@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Users: Users are not correctly provisioned on the Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | January 7, 2026 |
 | [Requests: Requests queues appear multiple times](known-issues-workfront/wf-requests-queues-duplicated.md) | January 5, 2026 |
 | [Users: Cannot update user access](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | January 5, 2026 |
 | [Reports: Data Lake query does not return expected results](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | January 5, 2026 |
@@ -32,6 +33,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Requests: Issues with drafts in the new requesting experience](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 7, 2026 |
 | [Reporting: Users can see financial data in Canvas Dashboard visualizations](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | December 19, 2025 |
 | [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | December 15, 2025 |
 | [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | December 1, 2025 |

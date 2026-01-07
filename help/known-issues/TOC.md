@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Users: Users are not correctly provisioned on the Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+        + [Requests: Issues with drafts in the new requesting experience](known-issues-workfront/wf-requests-issues-with-drafts.md)
         + [Requests: Requests queues appear multiple times](known-issues-workfront/wf-requests-queues-duplicated.md)
         + [Users: Cannot update user access](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
         + [Reports: Data Lake query does not return expected results](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
