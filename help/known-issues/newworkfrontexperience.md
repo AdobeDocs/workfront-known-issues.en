@@ -19,9 +19,9 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
-| [Requests: Requests queues appear multiple times](known-issues-workfront/wf-requests-queues-duplicated.md) | Jenuary 5, 2026 |
-| [Users: Cannot update user access](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | Jenuary 5, 2026 |
-| [Reports: Data Lake query does not return expected results](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | Jenuary 5, 2026 |
+| [Requests: Requests queues appear multiple times](known-issues-workfront/wf-requests-queues-duplicated.md) | January 5, 2026 |
+| [Users: Cannot update user access](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | January 5, 2026 |
+| [Reports: Data Lake query does not return expected results](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | January 5, 2026 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}
