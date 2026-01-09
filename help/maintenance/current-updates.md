@@ -20,6 +20,18 @@ The following maintenance updates have been made in 2026.
 
 ## Updates in January 2026
 
++++**Workfront Fusion Maintenance Updates week of January 4-10, 2026**
+
+### Maintenance Updates week of January 4-10, 202
+
+**Missing header error on AWS modules**
+
+AWS modules are failing with the following error:
+
+"Missing required header for this request"
+
++++
+
 +++**Maintenance Updates week of January 4-10, 2026**
 
 ### Maintenance Updates week of January 4-10, 202

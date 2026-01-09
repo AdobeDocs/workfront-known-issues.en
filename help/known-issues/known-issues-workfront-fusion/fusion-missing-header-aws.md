@@ -7,6 +7,10 @@ feature: Workfront Fusion
 
 # Fusion: Missing header error on AWS modules
 
+>[!NOTE]
+>
+>This issue was fixed on January 8, 2026.
+
 AWS modules are failing with the following error:
 
 "Missing required header for this request"

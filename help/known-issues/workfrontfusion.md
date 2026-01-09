@@ -19,7 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion: Missing header error on AWS modules](known-issues-workfront-fusion/fusion-missing-header-aws.md) | January 6, 2026 |
+| None | |
 
 {style="table-layout:auto"}
 
