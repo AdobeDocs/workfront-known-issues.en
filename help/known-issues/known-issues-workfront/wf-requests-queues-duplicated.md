@@ -9,7 +9,8 @@ feature: Requests
 
 >[!NOTE]
 >
->This issue has been reported in the legacy reporting experience.
+>* This issue was fixed on January 8, 2026.
+>* This issue has been reported in the legacy reporting experience.
 
 When a user begins creating a request and is selecting a request queue, the same request queue appears multiple times in the dropdown list.
 
