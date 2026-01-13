@@ -22,7 +22,7 @@ The following maintenance updates have been made in 2026.
 
 +++**Workfront Fusion Maintenance Updates week of January 4-10, 2026**
 
-### Maintenance Updates week of January 4-10, 202
+### Maintenance Updates week of January 4-10, 2026
 
 **Missing header error on AWS modules**
 
@@ -34,13 +34,26 @@ AWS modules are failing with the following error:
 
 +++**Maintenance Updates week of January 4-10, 2026**
 
-### Maintenance Updates week of January 4-10, 202
+### Maintenance Updates week of January 4-10, 2026
+
+#### Approvals
+
+**My Approvals widget shows completed approvals**
+
+When a user is viewing their My Approvals widget in Home, the widget includes proofs that have already been approved.
 
 #### Proofs
 
 **Proof status changes are delayed**
 
 When a decision is made on a proof, that decision is not displayed in a project's Documents area for up to 24 hours. This may cause confusion, because the status still displays as Pending or another outdated status, even though a decision has been made. 
+
+#### Requests
+
+**Requests queues appear multiple times**
+
+When a user begins creating a request and is selecting a request queue, the same request queue appears multiple times in the dropdown list.
+
 
 +++
 
