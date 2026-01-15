@@ -9,7 +9,8 @@ feature: Tasks
 
 >[!NOTE]
 >
->This issue applies to the legacy task experience.
+>* This issue applies to the legacy task experience.
+>* The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
 
 When a user makes changes to the Edits section of a task in the legacy task dialog and saves, the changes are not saved.
 

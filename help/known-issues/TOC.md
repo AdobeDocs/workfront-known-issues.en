@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-draft-created-with-request.md)
+        + [Requests: "You must be a system admin" error when copying requests](known-issues-workfront/wf-requests-error-when-copying.md)
         + [Users: Users are not correctly provisioned on the Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
         + [Requests: Issues with drafts in the new requesting experience](known-issues-workfront/wf-requests-issues-with-drafts.md)
         + [Requests: Requests queues appear multiple times](known-issues-workfront/wf-requests-queues-duplicated.md)

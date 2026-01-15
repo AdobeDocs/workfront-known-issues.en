@@ -7,9 +7,13 @@ feature: Digital Content and Documents
 
 # Approvals: My Approvals widget shows completed approvals
 
+<!--
+
 >[!NOTE]
 >
 >This issue was fixed on January 8, 2026.
+
+-->
 
 When a user is viewing their My Approvals widget in Home, the widget includes proofs that have already been approved.
 
