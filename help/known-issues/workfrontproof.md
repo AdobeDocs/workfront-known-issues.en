@@ -18,7 +18,7 @@ This page contains issues currently identified in [!DNL Adobe Workfront Proof].
 These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -29,8 +29,8 @@ These recently reported issues are currently under review.
 Fixes for these issues are currently in progress, or are scheduled for the near future.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
-| [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)  | December 15, 2025 |
+| ----------------------------------------------------------------- | ----------------- |
+| [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | January 15, 2026 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
 | [Home: Approvals widget is not accurate](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | May 8, 2024 |
@@ -42,9 +42,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 Fixes for these issues are not currently on the roadmap. In some cases, these issues will be fixed by new features or feature updates.
 
 | **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Approvals: Approval decision buttons not displaying in Proof Viewer](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | September 30, 2025 |
-| [Proofs: Cannot add users to a proof by name in the Preview environmentt](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | June 16, 2025 |
+| [Proofs: Cannot add users to a proof by name in the Preview environment](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | June 16, 2025 |
 | [Proofs: Closing proof redirects to documents list](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | May 14, 2025 |
 | [Proofs: Cannot create proofs for videos linked from AEM through Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | February 13, 2025 |
 | [Proofs: Webcapture proofs do not generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | December 20, 2024 |

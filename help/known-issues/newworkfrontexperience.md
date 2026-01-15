@@ -32,9 +32,11 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-draft-created-with-request.md) | January 15, 2026 |
+| [Requests: "You must be a system admin" error when copying requests](known-issues-workfront/wf-requests-error-when-copying.md) | January 15, 2026 |
+| [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | January 15, 2026 |
 | [Requests: Issues with drafts in the new requesting experience](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 7, 2026 |
 | [Reporting: Users can see financial data in Canvas Dashboard visualizations](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | December 19, 2025 |
-| [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | December 1, 2025 |
 | [Approvals: Approval displays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |
 | [Workfront: Objects out of sync between Workfront and Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | June 17, 2025 |
 | [Users: "Pending approval" badge displays on new users](known-issues-workfront/wf-users-pending-approval.md) | May 23, 2025 |
@@ -49,6 +51,7 @@ Fixes for these issues are not currently on the roadmap, but workarounds are ava
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Tasks: Edits to Assignments section of a task do not save](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | January 15, 2026 |
 | [Approvals: Approval decision buttons not displaying in Proof Viewer](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | September 30, 2025 |
 | [Proofs: Cannot generate a proof from a PowerPoint file](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | September 11, 2025 |
 | [Permissions: Object permissions are not inherited correctly](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | July 15, 2025 |
