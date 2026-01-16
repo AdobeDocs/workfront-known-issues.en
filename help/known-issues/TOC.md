@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
         + [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-draft-created-with-request.md)
         + [Requests: "You must be a system admin" error when copying requests](known-issues-workfront/wf-requests-error-when-copying.md)
         + [Users: Users are not correctly provisioned on the Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
@@ -171,6 +172,7 @@ role: User
 + [!DNL Workfront Proof] {#proof}
     + [Known Issues in [!DNL Workfront Proof]](workfrontproof.md)
     + Current Issues in [!DNL Workfront Proof] {#proof-current}
+        + [Workfront Proof: Proofs do not appear in folderss](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
         + [[!UICONTROL Workfront Proof]: Cannot reorder assets when creating a proof](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
         + [[!DNL Workfront Proof]: Inaccurate timestamp on [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
         + [[!DNL Workfront Proof]: Cannot expand workflow](known-issues-workfront-proof/proof-cannot-view-workflow.md)
