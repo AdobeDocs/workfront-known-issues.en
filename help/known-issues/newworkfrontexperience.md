@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Requests: "You do not have sufficient access" error when copying requests](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | January 20, 2026 |
 | [Schedules: Cannot see exceptions from previous years](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | January 20, 2026 |
 | [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | January 16, 2026 |
 | [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |

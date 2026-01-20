@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Requests: "You do not have sufficient access" error when copying requests](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
         + [Schedules: Cannot see exceptions from previous years](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
         + [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md)
         + [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
