@@ -11,7 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
-        [Schedules: Cannot see exceptions from previous years](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
+        + [Schedules: Cannot see exceptions from previous years](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
         + [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md)
         + [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
         + [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-draft-created-with-request.md)
