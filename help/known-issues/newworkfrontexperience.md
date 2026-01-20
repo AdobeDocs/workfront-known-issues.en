@@ -32,6 +32,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Schedules: Cannot see exceptions from previous years](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | January 20, 2026 |
 | [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | January 16, 2026 |
 | [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |
 | [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-draft-created-with-request.md) | January 15, 2026 |
