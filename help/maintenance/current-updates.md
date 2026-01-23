@@ -20,6 +20,35 @@ The following maintenance updates have been made in 2026.
 
 ## Updates in January 2026
 
++++**Maintenance Update week of January 18-24, 2026**
+
+### Maintenance Update week of January 18-24, 2026
+
+#### Requests
+
+**Issues with drafts in the new requesting experience**
+
+The following issues have been reported regarding drafts in the new requesting experience:
+
+* Requests created as a draft and then submitted show only the first letter of the subject in the Requests list.
+* Discarded drafts are not removed from the requests list, 
+
+#### Schedules
+
+**Cannot see exceptions from previous years**
+
+When a user is viewing the exception calendar and attempts to view previous years, they cannot view the previous years.
+
++++
+
++++**Maintenance Update week of January 11-17, 2026**
+
+### Maintenance Update week of January 11-17, 2026
+
+This update includes only minor or less prominent bug fixes. Workfront Support will notify you when an issue you submitted is fixed.
+
++++
+
 +++**Workfront Fusion Maintenance Updates week of January 4-10, 2026**
 
 ### Maintenance Updates week of January 4-10, 2026
