@@ -34,10 +34,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | --- | --- |
 | [Documents: Summary panel is blank](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | January 21, 2026 |
 | [Requests: "You do not have sufficient access" error when copying requests](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | January 20, 2026 |
-| [Schedules: Cannot see exceptions from previous years](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | January 20, 2026 |
 | [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | January 16, 2026 |
 | [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |
-| [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-draft-created-with-request.md) | January 15, 2026 |
 | [Requests: "You must be a system admin" error when copying requests](known-issues-workfront/wf-requests-error-when-copying.md) | January 15, 2026 |
 | [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | January 15, 2026 |
 | [Requests: Issues with drafts in the new requesting experience](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 7, 2026 |
