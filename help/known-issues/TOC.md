@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Workload Balancer: Hours per user are not calculated correctly](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
         + [Documents: Summary panel is blank](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
         + [Requests: "You do not have sufficient access" error when copying requests](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
         + [Schedules: Cannot see exceptions from previous years](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
