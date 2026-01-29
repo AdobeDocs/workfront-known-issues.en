@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Custom forms: Display logic is not displaying correctly on request form](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
+        + [Login: Workfront does not load after login](known-issues-workfront/wf-login-wf-does-not-load.md)
         + [Workload Balancer: Hours per user are not calculated correctly](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
         + [Documents: Summary panel is blank](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
         + [Requests: "You do not have sufficient access" error when copying requests](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
