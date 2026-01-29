@@ -20,6 +20,18 @@ The following maintenance updates have been made in 2026.
 
 ## Updates in January 2026
 
++++**Maintenance Update week of January 25-31, 2026**
+
+### Maintenance Update week of January 25-31, 2026
+
+#### Approvals
+
+**My Approvals widget shows completed approvals**
+
+When a user is viewing their My Approvals widget in Home, the widget includes proofs that have already been approved.
+
++++
+
 +++**Maintenance Update week of January 18-24, 2026**
 
 ### Maintenance Update week of January 18-24, 2026
