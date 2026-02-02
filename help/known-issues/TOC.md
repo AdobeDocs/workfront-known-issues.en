@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Requests: "No subject" displays in request list](known-issues-workfront/wf-requests-no-subject.md)
         + [Custom forms: Display logic is not displaying correctly on request form](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
         + [Login: Workfront does not load after login](known-issues-workfront/wf-login-wf-does-not-load.md)
         + [Workload Balancer: Hours per user are not calculated correctly](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
