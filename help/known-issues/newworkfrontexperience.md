@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Custom forms: Display logic is not displaying correctly on request form](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | January 29, 2026 |
 | [Login: Workfront does not load after login](known-issues-workfront/wf-login-wf-does-not-load.md) | January 29, 2026 |
 | [Workload Balancer: Hours per user are not calculated correctly](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | January 29, 2026 |
 | [Users: Users are not correctly provisioned on the Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | January 7, 2026 |
@@ -34,6 +35,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Requests: "No subject" displays in request list](known-issues-workfront/wf-requests-no-subject.md) | February 2, 2026 |
 | [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 29, 2026 |
 | [Documents: Summary panel is blank](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | January 21, 2026 |
 | [Requests: "You do not have sufficient access" error when copying requests](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | January 20, 2026 |
