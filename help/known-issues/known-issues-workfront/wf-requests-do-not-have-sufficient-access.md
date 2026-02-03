@@ -7,6 +7,10 @@ feature: Requests
 
 # Requests: "You do not have sufficient access" error when copying requests
 
+>[!NOTE]
+>
+>This issue was fixed on February 2, 2026.
+
 When a user attempts to copy a request via the request page, the request is not copied, and the user sees the following error:
 
 "You do not have sufficient access to edit this issue."

@@ -7,6 +7,10 @@ feature: Requests
 
 # Requests: "You must be a system admin" error when copying requests
 
+>[!NOTE]
+>
+>This issue was fixed on February 3, 2026.
+
 When a user is copying a request and attempts to save, the request does not save, and the user sees the following message:
 
 "You must be a system admin to change this custom data parameter value."

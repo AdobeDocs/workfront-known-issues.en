@@ -18,6 +18,34 @@ For maintenance updates prior to 2026, see [Previous Maintenance Updates](#previ
 
 The following maintenance updates have been made in 2026.
 
+## Updates in February 2026
+
++++**Maintenance Update week of February 1-7, 2026**
+
+### Maintenance Update week of February 1-7, 2026
+
+#### Requests
+
+**"You do not have sufficient access" error when copying requests**
+
+When a user attempts to copy a request via the request page, the request is not copied, and the user sees the following error:
+
+"You do not have sufficient access to edit this issue."
+
+**"You must be a system admin" error when copying requests**
+
+When a user is copying a request and attempts to save, the request does not save, and the user sees the following message:
+
+"You must be a system admin to change this custom data parameter value."
+
+#### Users
+
+**Users are not correctly provisioned on the Adobe Admin Console**
+
+If a user already exists on an Adobe Admin Console, and is then auto-provisioned to a Console that includes Workfront, that user is not correctly provisioned to the new Console.
+
++++
+
 ## Updates in January 2026
 
 +++**Maintenance Update week of January 25-31, 2026**
