@@ -1,10 +1,10 @@
 ---
-title: "Users: Users are not correctly provisioned on the Adobe Admin Console"
-description: "If a user already exists on an Adobe Admin Console, and is then auto-provisioned to a Console that includes Workfront, that user is not correctly provisioned to the new Console."
+title: 'Users: Users are not correctly provisioned on the Adobe Admin Console'
+description: If a user already exists on an Adobe Admin Console, and is then auto-provisioned to a Console that includes Workfront, that user is not correctly provisioned to the new Console.
 hidefromtoc: yes
 feature: People Teams and Groups
+exl-id: 790d34a7-ac16-453c-ade9-3583aca5d3d3
 ---
-
 # Users: Users are not correctly provisioned on the Adobe Admin Console
 
 >[!NOTE]

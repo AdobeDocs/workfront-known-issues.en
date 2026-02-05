@@ -1,10 +1,10 @@
 ---
-title: "Users: Bulk editing users removes resource pools and direct reports"
-description: "When a user is bulk editing users, clicks into the Resource Pools field, and does not enter a value, Resource Pools for all the edited users are removed. Bulk editing may also remove direct reports from the edited users."
+title: 'Users: Bulk editing users removes resource pools and direct reports'
+description: When a user is bulk editing users, clicks into the Resource Pools field, and does not enter a value, Resource Pools for all the edited users are removed. Bulk editing may also remove direct reports from the edited users.
 hidefromtoc: yes
 feature: People Teams and Groups
+exl-id: 838b142d-9245-465d-a22c-883641215ef7
 ---
-
 # Users: Bulk editing users removes resource pools and direct reports
 
 >[!NOTE]

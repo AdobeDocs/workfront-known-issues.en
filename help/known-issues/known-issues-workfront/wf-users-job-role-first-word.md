@@ -1,10 +1,10 @@
 ---
-title: "Users: Can only search job roles by first word"
-description: "When an admin is creating or editing a user and searches job roles, the search returns only job roles beginning with the search term, not all job roles that include the search term."
+title: 'Users: Can only search job roles by first word'
+description: When an admin is creating or editing a user and searches job roles, the search returns only job roles beginning with the search term, not all job roles that include the search term.
 hidefromtoc: yes
 feature: People Teams and Groups
+exl-id: e79f8710-8315-4028-95f8-7cbce0f8aa6a
 ---
-
 # Users: Can only search job roles by first word
 
 >[!NOTE]

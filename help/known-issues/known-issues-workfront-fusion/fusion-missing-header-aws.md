@@ -1,10 +1,10 @@
 ---
-title: "Fusion: Missing header error on AWS modules"
-description: "AWS modules are failing with the error: Missing required header for this request"
+title: 'Fusion: Missing header error on AWS modules'
+description: 'AWS modules are failing with the error: Missing required header for this request'
 hidefromtoc: yes
 feature: Workfront Fusion
+exl-id: 4819cea6-9525-4c18-a20e-36199407fbe5
 ---
-
 # Fusion: Missing header error on AWS modules
 
 >[!NOTE]

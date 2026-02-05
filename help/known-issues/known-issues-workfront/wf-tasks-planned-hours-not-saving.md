@@ -1,10 +1,10 @@
 ---
-title: "Tasks: Planned hours not saved when creating task"
-description: ""
+title: 'Tasks: Planned hours not saved when creating task'
+description: ''
 hidefromtoc: yes
 feature: Tasks
+exl-id: 7551659e-b87e-4288-b9db-819bb852239b
 ---
-
 # Tasks: Planned hours not saved when creating task
 
 >[!NOTE]

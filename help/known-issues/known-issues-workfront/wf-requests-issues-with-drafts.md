@@ -1,10 +1,10 @@
 ---
-title: "Requests: Issues with drafts in the new requesting experience"
-description: "Multiple have been reported regarding drafts in the new requesting experience."
+title: 'Requests: Issues with drafts in the new requesting experience'
+description: Multiple have been reported regarding drafts in the new requesting experience.
 hidefromtoc: yes
 feature: Requests
+exl-id: 951ea13c-774d-484d-99fd-ca119d258870
 ---
-
 # Requests: Issues with drafts in the new requesting experience
 
 The following issues have been reported regarding drafts in the new requesting experience:

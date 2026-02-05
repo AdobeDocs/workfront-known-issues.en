@@ -1,10 +1,10 @@
 ---
-title: "Reports: Issues regarding dropdowns in charts"
-description: "Issues have been reported regarding dropdowns in charts."
+title: 'Reports: Issues regarding dropdowns in charts'
+description: Issues have been reported regarding dropdowns in charts.
 hidefromtoc: yes
 feature: Reports and Dashboards
+exl-id: daa55482-0816-4dae-9cb3-1fbde4978c9e
 ---
-
 # Reports: Issues regarding dropdowns in charts
 
 >[!NOTE]

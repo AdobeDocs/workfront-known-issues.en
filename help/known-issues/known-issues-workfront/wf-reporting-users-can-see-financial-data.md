@@ -1,10 +1,10 @@
 ---
-title: "eporting: Users can see financial data in Canvas Dashboard visualizations"
-description: "Users with View or Edit access to Financial Data in their access level can see financial data in Canvas Dashboard visualizations, even if the View finance permission is removed at the task or project level."
+title: 'eporting: Users can see financial data in Canvas Dashboard visualizations'
+description: Users with View or Edit access to Financial Data in their access level can see financial data in Canvas Dashboard visualizations, even if the View finance permission is removed at the task or project level.
 hidefromtoc: yes
 feature: Reports and Dashboards
+exl-id: 603d12f4-152e-45b9-aa7b-4dd42ad87c69
 ---
-
 # Reporting: Users can see financial data in Canvas Dashboard visualizations 
 
 Users with View or Edit access to Financial Data in their access level can see financial data in Canvas Dashboard visualizations, even if the View finance permission is removed at the task or project level.

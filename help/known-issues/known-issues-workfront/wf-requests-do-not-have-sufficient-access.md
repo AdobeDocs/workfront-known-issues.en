@@ -1,10 +1,10 @@
 ---
-title: "Requests: You do not have sufficient access error when copying requests"
-description: "When a user attempts to copy a request via the request page, the request is not copied, and the user sees an error."
+title: 'Requests: You do not have sufficient access error when copying requests'
+description: When a user attempts to copy a request via the request page, the request is not copied, and the user sees an error.
 hidefromtoc: yes
 feature: Requests
+exl-id: e4cd4aff-a39d-4d45-81f9-f32da3fa471f
 ---
-
 # Requests: "You do not have sufficient access" error when copying requests
 
 >[!NOTE]

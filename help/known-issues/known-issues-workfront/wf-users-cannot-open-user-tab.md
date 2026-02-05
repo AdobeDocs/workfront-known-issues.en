@@ -1,10 +1,10 @@
 ---
-title: "Users: Error when opening Users page"
-description: "When a user attempts to open the Users page from the Main Menu, the page does not open, and the user sees an error message."
+title: 'Users: Error when opening Users page'
+description: When a user attempts to open the Users page from the Main Menu, the page does not open, and the user sees an error message.
 hidefromtoc: yes
 feature: People Teams and Groups
+exl-id: 6efb4f4c-f096-49c3-ae89-62d5ee3f9aaa
 ---
-
 # Users: Error when opening Users page
 
 >[!NOTE]

@@ -1,10 +1,10 @@
 ---
-title: "Workfront Planning: Error when removing connected field"
-description: "When a user attempts to remove a connected field in Workfront Planning, they cannot remove the field, and they see the message Unable to delete the field. Try again."
+title: 'Workfront Planning: Error when removing connected field'
+description: When a user attempts to remove a connected field in Workfront Planning, they cannot remove the field, and they see the message Unable to delete the field. Try again.
 hidefromtoc: yes
 feature: Workfront Planning
+exl-id: 1528907f-f584-4b64-8e8e-55beb591b6a5
 ---
-
 # Workfront Planning: Error when removing connected field
 
 >[!NOTE]

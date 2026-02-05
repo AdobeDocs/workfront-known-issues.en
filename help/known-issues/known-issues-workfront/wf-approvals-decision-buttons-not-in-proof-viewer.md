@@ -1,10 +1,10 @@
 ---
-title: "Approvals: Approval decision buttons not displaying in Proof Viewer for Teams"
-description: "When an approver is viewing a proof in the Proof Viewer and attempts to make a decision, the decision buttons are not available. A workaround is available."
+title: 'Approvals: Approval decision buttons not displaying in Proof Viewer for Teams'
+description: When an approver is viewing a proof in the Proof Viewer and attempts to make a decision, the decision buttons are not available. A workaround is available.
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: 27221d44-b4c8-4ae7-a28a-0ed8d4db0ea8
 ---
-
 # Approvals: Approval decision buttons not displaying in Proof Viewer for Teams
 
 When an approver is viewing a proof in the Proof Viewer and attempts to make a decision, the decision buttons are not available.

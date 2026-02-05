@@ -1,10 +1,10 @@
 ---
-title: "Proofs: Proof status changes are delayed"
+title: 'Proofs: Proof status changes are delayed'
 description: "When a decision is made on a proof, that decision is not displayed in a project's Documents area for up to 24 hours. This may cause confusion, because the status still displays as Pending or another outdated status, even though a decision has been made. "
 hidefromtoc: yes
 feature: Digital Content and Documents
+exl-id: d8d0f04b-4503-4070-a615-75b6b1b57019
 ---
-
 # Proofs: Proof status changes are delayed
 
 >[!NOTE]

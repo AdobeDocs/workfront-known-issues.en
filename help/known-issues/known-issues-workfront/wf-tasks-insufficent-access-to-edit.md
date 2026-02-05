@@ -1,10 +1,10 @@
 ---
-title: "Tasks: Insufficient access message when inline editing tasks"
-description: "When a user attempts to inline edit a task in a list or report, they cannot edit the task, and they see the message You do not have sufficient access to make assignments to this task."
+title: 'Tasks: Insufficient access message when inline editing tasks'
+description: When a user attempts to inline edit a task in a list or report, they cannot edit the task, and they see the message You do not have sufficient access to make assignments to this task.
 hidefromtoc: yes
 feature: Tasks
+exl-id: 9da566ea-b765-4212-8ec4-a2a795a9c037
 ---
-
 # Tasks: "Insufficient access" message when inline editing tasks
 
 >[!NOTE]

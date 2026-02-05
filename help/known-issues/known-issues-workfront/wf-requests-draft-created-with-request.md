@@ -1,10 +1,10 @@
 ---
-title: "Requests: Draft created along with request causes issues"
-description: "When a user creates and submits a new request in the new requesting experience, a draft is also created. The draft shows only the first letter of the submitted request's name, and attempting to open it results in a Failed to retrieve error."
+title: 'Requests: Draft created along with request causes issues'
+description: When a user creates and submits a new request in the new requesting experience, a draft is also created. The draft shows only the first letter of the submitted request's name, and attempting to open it results in a Failed to retrieve error.
 hidefromtoc: yes
 feature: Requests
+exl-id: ab7288a4-dfff-4b1d-96d6-f05f0a2c14cb
 ---
-
 # Requests: Draft created along with request causes issues
 
 When a user creates and submits a new request in the new requesting experience, a draft is also created. The draft shows only the first letter of the submitted request's name, and attempting to open it results in a "Failed to retrieve" error.

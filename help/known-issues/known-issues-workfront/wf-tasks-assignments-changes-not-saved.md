@@ -1,10 +1,10 @@
 ---
-title: "Edits made in Edit dialog of a task do not save"
-description: "When a user makes changes to the Edits section of a task in the legacy task dialog and saves, the changes are not saved."
+title: Edits made in Edit dialog of a task do not save
+description: When a user makes changes to the Edits section of a task in the legacy task dialog and saves, the changes are not saved.
 hidefromtoc: yes
 feature: Tasks
+exl-id: c4b99e1c-1034-4638-8865-550f78b7ffa2
 ---
-
 # Tasks: Edits made in Edit dialog of a task do not save
 
 >[!NOTE]

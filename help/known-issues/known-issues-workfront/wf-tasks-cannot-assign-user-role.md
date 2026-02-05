@@ -1,10 +1,10 @@
 ---
-title: "Tasks: Cannot select user role when creating a task"
-description: "When a user is creating a task and attempts to assign a user role, the option to assign the role is not present, and the user cannot assign a user role. A workaround is available."
+title: 'Tasks: Cannot select user role when creating a task'
+description: When a user is creating a task and attempts to assign a user role, the option to assign the role is not present, and the user cannot assign a user role. A workaround is available.
 hidefromtoc: yes
 feature: Tasks
+exl-id: 11cb6538-708d-4004-9f8e-4bfd1053bb47
 ---
-
 # Tasks: Cannot select user role when creating a task
 
 >[!NOTE]
