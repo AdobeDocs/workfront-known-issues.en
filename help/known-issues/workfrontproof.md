@@ -31,7 +31,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Workfront Proof: Proofs do not appear in folders](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | February 6, 2026 |
-| [Documents: Summary panel is blank](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | January 21, 2026 |
 | [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | January 15, 2026 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
 | [Notifications: Thumbnails not visible in email notifications](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | July 8, 2024 |
