@@ -21,7 +21,6 @@ These recently reported issues are currently under review.
 | --- | --- |
 | [Custom forms: Display logic is not displaying correctly on request form](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | January 29, 2026 |
 | [Login: Workfront does not load after login](known-issues-workfront/wf-login-wf-does-not-load.md) | January 29, 2026 |
-| [Workload Balancer: Hours per user are not calculated correctly](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | January 29, 2026 |
 | [Users: Cannot update user access](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | January 5, 2026 |
 | [Reports: Data Lake query does not return expected results](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | January 5, 2026 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
@@ -36,7 +35,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | --- | --- |
 | [Requests: "No subject" displays in request list](known-issues-workfront/wf-requests-no-subject.md) | February 2, 2026 |
 | [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 29, 2026 |
-| [Documents: Summary panel is blank](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | January 21, 2026 |
 | [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | January 16, 2026 |
 | [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |
 | [Requests: Issues with drafts in the new requesting experience](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 7, 2026 |
