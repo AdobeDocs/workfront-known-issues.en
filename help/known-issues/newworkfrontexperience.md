@@ -33,7 +33,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
-| [Requests: "No subject" displays in request list](known-issues-workfront/wf-requests-no-subject.md) | February 2, 2026 |
 | [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 29, 2026 |
 | [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | January 16, 2026 |
 | [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |
