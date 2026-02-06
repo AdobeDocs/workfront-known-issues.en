@@ -24,7 +24,21 @@ The following maintenance updates have been made in 2026.
 
 ### Maintenance Update week of February 1-7, 2026
 
+#### Documents
+
+**Summary panel is blank**
+
+When a user is viewing a Documents list and clicks on a document, the Summary panel opens, but remains blank. The user is unable to close the Summary panel.
+
+If the user reloads the page, the Summary panel may populate as expected. However, if the user clicks on a different document, that document's summary panel is blank.
+
 #### Requests
+
+**"No subject" displays in request list**
+
+When a user is viewing the request list in the new requesting experience, some of the requests display "No subject" in the Subject column.
+
+If the user opens one of these requests, they see that the request does have a subject.
 
 **"You do not have sufficient access" error when copying requests**
 
@@ -43,6 +57,12 @@ When a user is copying a request and attempts to save, the request does not save
 **Users are not correctly provisioned on the Adobe Admin Console**
 
 If a user already exists on an Adobe Admin Console, and is then auto-provisioned to a Console that includes Workfront, that user is not correctly provisioned to the new Console.
+
+#### Workload Balancer
+
+**Hours per user are not calculated correctly**
+
+When a user is viewing a user's hours in the Workload Balancer, those hours may calculate incorrectly. For example, the week view may display one calculation of hours, but the 4 week view displays a different number of hours for that week.
 
 +++
 
