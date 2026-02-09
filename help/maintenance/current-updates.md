@@ -20,6 +20,18 @@ The following maintenance updates have been made in 2026.
 
 ## Updates in February 2026
 
++++**Maintenance Update week of February 8-14, 2026**
+
+### Maintenance Update week of February 8-14, 2026
+
+#### Reports
+
+**Data Lake query does not return expected results**
+
+When Data Lake is queried, it does not return all expected results.
+
++++
+
 +++**Maintenance Update week of February 1-7, 2026**
 
 ### Maintenance Update week of February 1-7, 2026
