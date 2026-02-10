@@ -7,6 +7,10 @@ exl-id: 951ea13c-774d-484d-99fd-ca119d258870
 ---
 # Requests: Issues with drafts in the new requesting experience
 
+>[!NOTE]
+>
+>This issue was fixed on February 9, 2026.
+
 The following issues have been reported regarding drafts in the new requesting experience:
 
 * Requests created as a draft and then submitted show only the first letter of the subject in the Requests list.

@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
         + [Requests: Cannot upload a document when filling out a request](known-issues-workfront/wf-request-cannot-submit-with-document.md)
         + [Requests: "No subject" displays in request list](known-issues-workfront/wf-requests-no-subject.md)
         + [Custom forms: Display logic is not displaying correctly on request form](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)

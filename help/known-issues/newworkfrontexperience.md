@@ -33,10 +33,10 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | February 10, 2026 |
 | [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 29, 2026 |
 | [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | January 16, 2026 |
 | [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |
-| [Requests: Issues with drafts in the new requesting experience](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 7, 2026 |
 | [Reporting: Users can see financial data in Canvas Dashboard visualizations](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | December 19, 2025 |
 | [Approvals: Approval displays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |
 | [Workfront: Objects out of sync between Workfront and Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | June 17, 2025 |
