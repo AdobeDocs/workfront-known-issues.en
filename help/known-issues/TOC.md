@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Reporting: Workfront Planning fields do not appear in Canvas Dashboards report builder](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
         + [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
         + [Requests: Cannot upload a document when filling out a request](known-issues-workfront/wf-request-cannot-submit-with-document.md)
         + [Requests: "No subject" displays in request list](known-issues-workfront/wf-requests-no-subject.md)

@@ -33,8 +33,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Reporting: Workfront Planning fields do not appear in Canvas Dashboards report builder ](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | February 11, 2026 |
 | [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | February 10, 2026 |
-| [Requests: Draft created along with request causes issues](known-issues-workfront/wf-requests-issues-with-drafts.md) | January 29, 2026 |
 | [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | January 16, 2026 |
 | [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |
 | [Reporting: Users can see financial data in Canvas Dashboard visualizations](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | December 19, 2025 |
