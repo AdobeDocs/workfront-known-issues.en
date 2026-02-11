@@ -29,7 +29,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
-| None | |
+| [Reporting: Workfront Planning fields do not appear in Canvas Dashboards report builder](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | February 11, 2026 |
 
 {style="table-layout:auto"}
 
