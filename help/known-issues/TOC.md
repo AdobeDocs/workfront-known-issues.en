@@ -11,6 +11,7 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Assignments: Cannot save advanced assignment change from a report](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
         + [Reporting: Workfront Planning fields do not appear in Canvas Dashboards report builder](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
         + [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
         + [Requests: Cannot upload a document when filling out a request](known-issues-workfront/wf-request-cannot-submit-with-document.md)
