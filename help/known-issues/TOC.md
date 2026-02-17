@@ -11,6 +11,11 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Home: Mentions from proofs do not appear in Mentions widget](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
+        + [Integrations: Slack notifications from Workfront are not triggering](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
+        + [Approvals: Cannot approve document from My Approvals widget in Home](known-issues-workfront/wf-approval-not-work-from-widget.md)
+        + [Workfront Planning: "Fail to submit request" error](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
+        + [Approvals: Approvals are locked automatically](known-issues-workfront/wf-approvals-are-locked.md)
         + [Assignments: Cannot save advanced assignment change from a report](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
         + [Reporting: Workfront Planning fields do not appear in Canvas Dashboards report builder](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
         + [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)

@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Approvals: Approvals are locked automatically](known-issues-workfront/wf-approvals-are-locked.md) | February 17, 2026 |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
@@ -30,6 +31,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Home: Mentions from proofs do not appear in Mentions widget](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | February 17, 2026 |
+| [Approvals: Cannot approve document from My Approvals widget in Home](known-issues-workfront/wf-approval-not-work-from-widget.md) | February 17, 2026 |
 | [Workfront Proof: Proofs do not appear in folders](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | February 6, 2026 |
 | [Approvals: My Approvals widget shows completed approvals](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | January 15, 2026 |
 | [Documents: Document thumbnails do not display](known-issues-workfront/wf-documents-thumbnails-not-display.md) | April 17, 2025 |
