@@ -19,10 +19,10 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Integrations: Slack notifications from Workfront are not triggering](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | February 17, 2026 |
+| [Approvals: Approvals are locked automatically](known-issues-workfront/wf-approvals-are-locked.md) | February 17, 2026 |
 | [Requests: Cannot upload a document when filling out a request](known-issues-workfront/wf-request-cannot-submit-with-document.md) | February 9, 2026 |
-| [Custom forms: Display logic is not displaying correctly on request form](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | January 29, 2026 |
 | [Login: Workfront does not load after login](known-issues-workfront/wf-login-wf-does-not-load.md) | January 29, 2026 |
-| [Users: Cannot update user access](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | January 5, 2026 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}
@@ -33,6 +33,8 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Home: Mentions from proofs do not appear in Mentions widget](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | February 17, 2026 |
+| [Approvals: Cannot approve document from My Approvals widget in Home](known-issues-workfront/wf-approval-not-work-from-widget.md) | February 17, 2026 |
 | [Assignments: Cannot save advanced assignment change from a report](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | February 12, 2026 |
 | [Reporting: Workfront Planning fields do not appear in Canvas Dashboards report builder ](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | February 11, 2026 |
 | [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | February 10, 2026 |

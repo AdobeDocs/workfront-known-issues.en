@@ -20,6 +20,18 @@ The following maintenance updates have been made in 2026.
 
 ## Updates in February 2026
 
++++**Maintenance Update week of February 15-21,2026**
+
+### Maintenance Update week of February 15-21,2026
+
+#### Custom forms
+
+**Display logic is not displaying correctly on request form**
+
+When a user is filling out a custom form connected to a request, the display logic is not followed, and some fields may not show as expected.
+
++++
+
 +++**Maintenance Update week of February 8-14, 2026**
 
 ### Maintenance Update week of February 8-14, 2026
