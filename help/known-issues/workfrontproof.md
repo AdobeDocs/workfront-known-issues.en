@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Approvals: My Approvals widget displays proofs that are not in the stage the user is assigned to](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | February 18, 2026 |
 | [Approvals: Approvals are locked automatically](known-issues-workfront/wf-approvals-are-locked.md) | February 17, 2026 |
 | [Proofs: Cannot tag certain users](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | February 20, 2025 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |

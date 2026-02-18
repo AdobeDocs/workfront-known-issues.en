@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Tasks: Large task list unexpectedly jumps to a different place in the list](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | February 18, 2026 |
+| [Approvals: My Approvals widget displays proofs that are not in the stage the user is assigned to](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | February 18, 2026 |
 | [Integrations: Slack notifications from Workfront are not triggering](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | February 17, 2026 |
 | [Approvals: Approvals are locked automatically](known-issues-workfront/wf-approvals-are-locked.md) | February 17, 2026 |
 | [Requests: Cannot upload a document when filling out a request](known-issues-workfront/wf-request-cannot-submit-with-document.md) | February 9, 2026 |
@@ -38,7 +40,6 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 | [Assignments: Cannot save advanced assignment change from a report](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | February 12, 2026 |
 | [Reporting: Workfront Planning fields do not appear in Canvas Dashboards report builder ](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | February 11, 2026 |
 | [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | February 10, 2026 |
-| [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | January 16, 2026 |
 | [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |
 | [Reporting: Users can see financial data in Canvas Dashboard visualizations](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | December 19, 2025 |
 | [Approvals: Approval displays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |
