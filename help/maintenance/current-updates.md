@@ -30,6 +30,13 @@ The following maintenance updates have been made in 2026.
 
 When a user is filling out a custom form connected to a request, the display logic is not followed, and some fields may not show as expected.
 
+#### Requests
+
+**"All" view does not show all requests**
+
+When a user is viewing the request list in the new requesting experience, and the view is set to show all requests, only some of the requests are displayed.
+
+
 +++
 
 +++**Maintenance Update week of February 8-14, 2026**
