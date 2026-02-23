@@ -20,6 +20,26 @@ The following maintenance updates have been made in 2026.
 
 ## Updates in February 2026
 
++++**Maintenance Update week of February 22-28, 2026**
+
+### Maintenance Update week of February 22-28, 2026
+
+#### Reporting
+
+Workfront Planning fields do not appear in Canvas Dashboards report builder 
+
+When a user is using the builder in Canvas Dashboards and attempts to reference fields from Workfront Planning, those fields do not display within the builder.
+
+#### Requests
+
+**Cannot upload a document when filling out a request**
+
+When a user is filling out a request and attempts to upload a document, the document is not uploaded, and the user sees the following error:
+
+"Upload Error: Try a smaller file or attach file after creation."
+
++++
+
 +++**Maintenance Update week of February 15-21,2026**
 
 ### Maintenance Update week of February 15-21,2026
