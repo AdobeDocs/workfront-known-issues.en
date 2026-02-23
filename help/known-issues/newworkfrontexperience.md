@@ -23,7 +23,6 @@ These recently reported issues are currently under review.
 | [Approvals: My Approvals widget displays proofs that are not in the stage the user is assigned to](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | February 18, 2026 |
 | [Integrations: Slack notifications from Workfront are not triggering](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | February 17, 2026 |
 | [Approvals: Approvals are locked automatically](known-issues-workfront/wf-approvals-are-locked.md) | February 17, 2026 |
-| [Login: Workfront does not load after login](known-issues-workfront/wf-login-wf-does-not-load.md) | January 29, 2026 |
 | [Integrations: Linking folder from [!DNL Google Drive] does not link assets in folder](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | June 25, 2024 |
 
 {style="table-layout:auto"}
@@ -34,11 +33,9 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
-| [Home: Mentions from proofs do not appear in Mentions widget](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | February 17, 2026 |
 | [Approvals: Cannot approve document from My Approvals widget in Home](known-issues-workfront/wf-approval-not-work-from-widget.md) | February 17, 2026 |
 | [Assignments: Cannot save advanced assignment change from a report](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | February 12, 2026 |
 | [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | February 10, 2026 |
-| [Custom forms: Calculated fields not displaying data for non-admins](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | January 16, 2026 |
 | [Reporting: Users can see financial data in Canvas Dashboard visualizations](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | December 19, 2025 |
 | [Approvals: Approval displays as "No deadline" when time is not included in deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | September 25, 2025 |
 | [Workfront: Objects out of sync between Workfront and Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | June 17, 2025 |

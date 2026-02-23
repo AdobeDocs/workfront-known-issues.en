@@ -7,6 +7,10 @@ exl-id: 0f64201f-9030-4e13-a058-9e602d9e6905
 ---
 # Login: Workfront does not load after login
 
+>[!NOTE]
+>
+>This issue was fixed on February 19, 2026.
+
 When a user logs in to Workfront, Workfront does not load. If the user refreshes the page, Workfront loads as expected.
 
 **Workaround**

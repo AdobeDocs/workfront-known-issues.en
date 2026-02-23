@@ -24,12 +24,6 @@ The following maintenance updates have been made in 2026.
 
 ### Maintenance Update week of February 22-28, 2026
 
-#### Reporting
-
-Workfront Planning fields do not appear in Canvas Dashboards report builder 
-
-When a user is using the builder in Canvas Dashboards and attempts to reference fields from Workfront Planning, those fields do not display within the builder.
-
 #### Requests
 
 **Cannot upload a document when filling out a request**
@@ -46,9 +40,33 @@ When a user is filling out a request and attempts to upload a document, the docu
 
 #### Custom forms
 
+**Calculated fields not displaying data for non-admins**
+
+When a user who is not a Workfront administrator views a custom form with fields that pull from data in an admin-only section of the form, that field does not display the calculated value. If the user runs Recalculate Expressions, the value displays but is lost on refresh.
+
+Workfront administrators can see the field values as expected.
+
 **Display logic is not displaying correctly on request form**
 
 When a user is filling out a custom form connected to a request, the display logic is not followed, and some fields may not show as expected.
+
+#### Home
+
+**Mentions from proofs do not appear in Mentions widget**
+
+When a user is mentioned in a comment on a proof, that mention is not included in the Mentions widget in Home.
+
+#### Login
+
+**Workfront does not load after login**
+
+When a user logs in to Workfront, Workfront does not load. If the user refreshes the page, Workfront loads as expected.
+
+#### Reporting
+
+Workfront Planning fields do not appear in Canvas Dashboards report builder 
+
+When a user is using the builder in Canvas Dashboards and attempts to reference fields from Workfront Planning, those fields do not display within the builder.
 
 #### Requests
 
