@@ -11,6 +11,8 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Programs: Inherited permissions do not work on programs](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
+        + [Boards: Duplicate cards display on board](known-issues-workfront/wf-boards-duplicate-cards.md)
         + [Tasks: Large task list unexpectedly jumps to a different place in the list](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
         + [Approvals: My Approvals widget displays proofs that are not in the stage the user is assigned to](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md)
         + [Home: Mentions from proofs do not appear in Mentions widget](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)

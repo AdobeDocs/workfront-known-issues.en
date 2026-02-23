@@ -7,6 +7,10 @@ exl-id: e73b00ef-b5ab-4458-a9be-49a4954b560e
 ---
 # Requests: Cannot upload a document when filling out a request
 
+>[!NOTE]
+>
+>This issue was fixed on February 23, 2023.
+
 When a user is filling out a request and attempts to upload a document, the document is not uploaded, and the user sees the following error:
 
 "Upload Error: Try a smaller file or attach file after creation."
