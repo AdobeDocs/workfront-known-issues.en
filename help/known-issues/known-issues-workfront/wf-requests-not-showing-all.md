@@ -10,7 +10,7 @@ exl-id: 38251fcd-4f6f-4e11-af09-cf21b287cd52
 >[!NOTE]
 >
 >* This issue has been reported in the new requesting experience.
->* This issue was fixed on February 18, 2026.
+
 
 When a user is viewing the request list in the new requesting experience, and the view is set to show all requests, only some of the requests are displayed.
 

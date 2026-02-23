@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Programs: Inherited permissions do not work on programs](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | February 23, 2026 |
+| [Boards: Duplicate cards display on board](known-issues-workfront/wf-boards-duplicate-cards.md) | February 23, 2026 |
 | [Tasks: Large task list unexpectedly jumps to a different place in the list](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | February 18, 2026 |
 | [Approvals: My Approvals widget displays proofs that are not in the stage the user is assigned to](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | February 18, 2026 |
 | [Integrations: Slack notifications from Workfront are not triggering](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | February 17, 2026 |
@@ -33,6 +35,7 @@ Fixes for these issues are currently in progress, or are scheduled for the near 
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Requests: "All" view does not show all requests](known-issues-workfront/wf-requests-not-showing-all.md) | February 17, 2026 |
 | [Approvals: Cannot approve document from My Approvals widget in Home](known-issues-workfront/wf-approval-not-work-from-widget.md) | February 17, 2026 |
 | [Assignments: Cannot save advanced assignment change from a report](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | February 12, 2026 |
 | [Users: Cannot remove direct reports](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | February 10, 2026 |
