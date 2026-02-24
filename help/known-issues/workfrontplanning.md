@@ -19,6 +19,7 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Workfront Planning: Request status displays as "In Progress" after request is approved](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | February 24, 2026 |
 | [Workfront Planning: "Fail to submit request" error](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | February 17, 2026 |
 
 {style="table-layout:auto"}
