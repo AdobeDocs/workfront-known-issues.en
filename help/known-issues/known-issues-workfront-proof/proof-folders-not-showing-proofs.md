@@ -7,11 +7,11 @@ exl-id: a288781d-ef63-4e88-ab6c-3ce33eac3259
 ---
 # Workfront Proof: Proofs do not appear in folders
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on February 4, 2026.
--->
+>This issue was fixed on February 23, 2026.
+
 
 When a user views a folder that should have assets in it, the folder does not display assets.
 

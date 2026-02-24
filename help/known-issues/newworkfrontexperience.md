@@ -19,6 +19,8 @@ These recently reported issues are currently under review.
 
 | **Issue** | **Last Modified** |
 | --- | --- |
+| [Users: Users removed from Adobe Admin Console are still active in Workfront](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | February 24, 2026 |
+| [Notifications: User does not receive expected notifications](known-issues-workfront/wf-notifications-user-not-receiving.md) | February 24, 2026 |
 | [Programs: Inherited permissions do not work on programs](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | February 23, 2026 |
 | [Boards: Duplicate cards display on board](known-issues-workfront/wf-boards-duplicate-cards.md) | February 23, 2026 |
 | [Tasks: Large task list unexpectedly jumps to a different place in the list](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | February 18, 2026 |

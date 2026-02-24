@@ -11,6 +11,9 @@ role: User
 + [!DNL Adobe Workfront] {#new-workfront-experience} 
     + [Known Issues in [!DNL Adobe Workfront]](newworkfrontexperience.md)
     + Current Issues in [!DNL Adobe Workfront] {#wf-current}
+        + [Users: Users removed from Adobe Admin Console are still active in Workfront](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md)
+        + [Workfront Planning: Request status displays as "In Progress" after request is approved](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md)
+        + [Notifications: User does not receive expected notifications](known-issues-workfront/wf-notifications-user-not-receiving.md)
         + [Programs: Inherited permissions do not work on programs](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
         + [Boards: Duplicate cards display on board](known-issues-workfront/wf-boards-duplicate-cards.md)
         + [Tasks: Large task list unexpectedly jumps to a different place in the list](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
