@@ -15,8 +15,6 @@ When a user attempts to create a webcapture proof, the proof is not generated su
 
 **Workaround**
 
-This issue is caused by long proof generation times for certain PDF files. To increase the generation timeout from the default 30 seconds, edit the below property in Processing settings on the account level in Proof Admin:
-
-`WebCaptureNavigationTimeout -> 120`
+This issue is caused by long proof generation times for certain PDF files. To increase the generation timeout from the default 30 seconds, contact customer support.
 
 _First reported on October 3, 2024._
