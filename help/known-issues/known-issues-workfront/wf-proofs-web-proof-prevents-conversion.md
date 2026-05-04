@@ -1,7 +1,6 @@
 ---
 title: 'Proofs: Proof prevents conversion of task or issue to project'
 description: When a user attempts to convert a task or issue that includes a web generated proof to a project, the project is not created and the user sees a message. A workaround is available.
-hidefromtoc: yes
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 ---

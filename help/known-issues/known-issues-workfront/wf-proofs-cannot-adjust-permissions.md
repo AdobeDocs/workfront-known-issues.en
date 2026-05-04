@@ -1,7 +1,6 @@
 ---
 title: Proof moderators are unable to edit permissions
 description: If a user who is a proof moderator attempts to edit user permissions on a workflow, the ability to select or deselect permissions is disabled.
-hidefromtoc: yes
 feature: Digital Content and Documents
 exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
 ---

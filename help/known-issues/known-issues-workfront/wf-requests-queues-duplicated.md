@@ -1,7 +1,6 @@
 ---
 title: 'Requests: Requests queues appear multiple times'
 description: When a user begins creating a request and is selecting a request queue, the same request queue appears multiple times in the dropdown list.
-hidefromtoc: yes
 feature: Requests
 exl-id: 3b88f48d-3a9c-4bfe-9de9-b02cdc5daa70
 ---

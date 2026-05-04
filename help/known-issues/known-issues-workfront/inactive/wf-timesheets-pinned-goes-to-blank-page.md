@@ -1,7 +1,6 @@
 ---
 title: 'Timesheets: Pinned timesheet goes to blank page'
 description: When a user clicks a pin in Workfront that is intended to go to their timesheet, the pin instead goes to a blank page. A workaround is available.
-hidefromtoc: yes
 feature: Timesheets
 exl-id: 684ccdfa-f419-451e-836a-11831fbc1816
 ---

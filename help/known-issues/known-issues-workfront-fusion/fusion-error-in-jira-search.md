@@ -1,7 +1,6 @@
 ---
 title: 'Workfront Fusion: Jira Search module returns an error'
 description: The search module used by the legacy Jira connector may result in an error. A workaround is available
-hidefromtoc: yes
 feature: Workfront Fusion
 exl-id: 9502ffb3-f287-47b2-9b35-1a906345e924
 ---

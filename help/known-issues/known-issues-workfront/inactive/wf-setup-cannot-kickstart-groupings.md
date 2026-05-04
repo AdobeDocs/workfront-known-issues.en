@@ -1,7 +1,6 @@
 ---
 title: 'Setup: Cannot use [!UICONTROL Kick-Starts] to set up groupings'
 description: When a user attempts to [!UICONTROL Kick-Start] a grouping, the import is unsuccessful, and the user sees an error message.
-hidefromtoc: yes
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
 ---

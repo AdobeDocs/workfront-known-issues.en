@@ -1,7 +1,6 @@
 ---
 title: 'Workfront: Branding is Not Available'
 description: Branding is not available to organizations that have been migrated to the Adobe Admin Console, Adobe Unified Shell, or Adobe IMS (Identity Management System). 
-hidefromtoc: yes
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
 ---

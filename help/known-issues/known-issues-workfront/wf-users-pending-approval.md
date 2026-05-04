@@ -1,7 +1,6 @@
 ---
 title: 'Users: Pending approval badge displays on new users'
 description: New users in Workfront may display in the user list with a Pending approval badge. The badge persists for more than a few minutes, and is still present when the page is refreshed.
-hidefromtoc: yes
 feature: People Teams and Groups
 exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
 ---

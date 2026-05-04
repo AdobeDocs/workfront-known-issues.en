@@ -1,7 +1,6 @@
 ---
 title: 'Proofs: Cannot close proof viewer'
 description: When a user is viewing a proof in the proofing viewer and attempts to close the proof by clicking the X in the upper-right corner, the proof does not close.
-hidefromtoc: yes
 feature: Digital Content and Documents
 exl-id: 18c71312-a0fe-4bb0-a27b-5faa77680c4b
 ---

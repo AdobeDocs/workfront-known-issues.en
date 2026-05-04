@@ -1,7 +1,6 @@
 ---
 title: 'Workfront Fusion: Cannot add or delete users from Workfront Fusion'
 description: When a user attempts to add or delete a user in Workfront Fusion, they are unable to do so.
-hidefromtoc: yes
 feature: Workfront Fusion
 exl-id: bd5eb99e-c9a5-470d-b58d-51097bbd9ea4
 ---

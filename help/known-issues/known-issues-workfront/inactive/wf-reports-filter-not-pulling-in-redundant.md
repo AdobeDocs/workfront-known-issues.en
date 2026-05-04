@@ -1,7 +1,6 @@
 ---
 title: 'Reports: Report filter does not return expected results'
 description: A filter in a report may not return all of the expected results. A workaround is available.
-hidefromtoc: yes
 feature: Reports and Dashboards
 exl-id: d9ca1eac-1478-4ee0-a713-24743c1487c5
 ---

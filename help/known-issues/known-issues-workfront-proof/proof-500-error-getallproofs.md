@@ -1,7 +1,6 @@
 ---
 title: 'Workfront Proof: 500 error when accessing Workfront Proof through API or Workfront Fusion'
 description: 'When a user accesses the Proof API getAllProofs action, the Workfront Proof server returns the  message: 500 Internal Server Error'
-hidefromtoc: yes
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Users: Cannot edit a user's Federation ID"
 description: When an admin attempts to update a user's Federation ID, the field for this information is not available, and the admin cannot updated it.
-hidefromtoc: yes
 feature: People Teams and Groups
 exl-id: cfb26af4-92ae-4f1c-a233-a626ce2b107e
 ---

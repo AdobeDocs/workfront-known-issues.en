@@ -1,7 +1,6 @@
 ---
 title: 'Users: Issues with changes to Proof Profile'
 description: Issues have been reported in regards to making changes to a user's Proof Profile.
-hidefromtoc: yes
 feature: People Teams and Groups, Digital Content and Documents
 exl-id: 074068c7-cd11-4bcf-8f85-2ec3cd3333b1
 ---

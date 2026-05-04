@@ -1,7 +1,6 @@
 ---
 title: 'API: Cannot sort by dynamic fields'
 description: 'The Workfront API does not allow sorting by dynamic fields. '
-hidefromtoc: yes
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API
 ---

@@ -1,7 +1,6 @@
 ---
 title: 'Tasks: Database error when adding or deleting a task (previously Bizcontext error)'
 description: 'When a user attempts to add or delete a task, the task is not added or deleted, and the following error is displayed: "Database error: Your request could not be completed due to a temporary system issue. Please try again". This error message was previously a Bizcontext error.'
-hidefromtoc: yes
 feature: Tasks
 exl-id: 581a73c4-2743-473b-9c42-84591e5800a1
 ---

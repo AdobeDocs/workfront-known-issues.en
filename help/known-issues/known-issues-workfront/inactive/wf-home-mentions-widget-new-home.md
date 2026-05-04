@@ -1,7 +1,6 @@
 ---
 title: 'Home: Mentions widget in new Home is not limited to messages where user is tagged.'
 description: When a user views the Mentions widget in the new Home experience, they see comments that they are not tagged or mentioned in.
-hidefromtoc: yes
 feature: Get Started with Workfront
 exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
 ---

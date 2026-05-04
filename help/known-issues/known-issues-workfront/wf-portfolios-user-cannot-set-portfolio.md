@@ -1,7 +1,6 @@
 ---
 title: 'Portfolios: User cannot set portfolio'
 description: Users cannot change portfolios on a project if they do not have access to the portfolio.
-hidefromtoc: yes
 feature: Work Management
 exl-id: 38ad277a-2087-486c-8715-93e275488697
 ---
