@@ -1,7 +1,6 @@
 ---
 title: 'Notifications: Thumbnails not visible in email notifications'
 description: When a user views an email notification regarding a document approval, the document thumbnail is not visible in the email.
-hidefromtoc: yes
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 9b733328-e05f-4a28-b8eb-da83d68ac68c
 ---

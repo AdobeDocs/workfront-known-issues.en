@@ -1,7 +1,6 @@
 ---
 title: 'Boards: Cards moved to a column return to original column after refresh'
 description: When a user moves a card to a different column and then refreshes or returns to the board, the card has returned to its original column.
-hidefromtoc: yes
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
 ---

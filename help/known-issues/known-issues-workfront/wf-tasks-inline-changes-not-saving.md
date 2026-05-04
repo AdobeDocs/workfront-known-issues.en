@@ -1,7 +1,6 @@
 ---
 title: Inline edits to a task do not save
 description: When a user makes changes to the Edits section of a task in the legacy task dialog and saves, the changes are not saved.
-hidefromtoc: yes
 feature: Tasks
 exl-id: ebc1fec3-a0d8-4623-8e84-7e3878f9b716
 ---

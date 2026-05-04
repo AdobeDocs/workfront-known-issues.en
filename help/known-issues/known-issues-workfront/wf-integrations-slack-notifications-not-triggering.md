@@ -1,7 +1,6 @@
 ---
 title: 'Integrations: Slack notifications from Workfront are not triggering'
 description: 'When an event occurs in Workfront that should trigger a Slack notification, the notification is not sent. '
-hidefromtoc: yes
 feature: Workfront Integrations and Apps
 exl-id: b8afdfb3-fad1-48fa-aacd-8e9ce829e994
 ---

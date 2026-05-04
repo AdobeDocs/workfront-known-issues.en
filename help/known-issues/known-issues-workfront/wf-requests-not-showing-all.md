@@ -1,7 +1,6 @@
 ---
 title: 'Requests: All view does not show all requests'
 description: When a user is viewing the request list in the new requesting experience, and the view is set to show all requests, only some of the requests are displayed.
-hidefromtoc: yes
 feature: Requests
 exl-id: 38251fcd-4f6f-4e11-af09-cf21b287cd52
 ---

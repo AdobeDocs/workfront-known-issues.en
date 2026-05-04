@@ -1,7 +1,6 @@
 ---
 title: 'Proofs: Cannot generate a proof from a PowerPoint file'
 description: When a user attempts to generate a proof from a PowerPoint, the proof is not generated and the user sees an error message. A workaround is available.
-hidefromtoc: yes
 feature: Digital Content and Documents
 exl-id: 13e9c820-e245-4e22-90fe-cc2c9def73dc
 ---

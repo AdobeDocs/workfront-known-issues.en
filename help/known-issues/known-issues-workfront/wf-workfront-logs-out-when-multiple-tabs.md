@@ -1,7 +1,6 @@
 ---
 title: 'Workfront: Multiple browser tabs cause Workfront to log out'
 description: When a user has multiple browser tabs open, Workfront may automatically log out.
-hidefromtoc: yes
 feature: Get Started with Workfront
 exl-id: e76b7127-a283-461b-af10-30640fe9e711
 ---

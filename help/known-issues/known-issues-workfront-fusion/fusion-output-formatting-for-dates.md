@@ -1,7 +1,6 @@
 ---
 title: 'Workfront Fusion: Output formatting for dates'
 description: When Dates are output as Strings, the date may be output as a UTC or an ISO string. This depends on the logic within a mapping panel.
-hidefromtoc: yes
 feature: Workfront Fusion
 exl-id: e01a2260-f230-4f72-a8c6-3dae56b22ff5
 ---

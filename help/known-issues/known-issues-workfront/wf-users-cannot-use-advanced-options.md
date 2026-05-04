@@ -1,7 +1,6 @@
 ---
 title: 'Users: Cannot use advanced options when creating users'
 description: When a Workfront administrator is creating a user and attempts to use the advanced option, they cannot use the options, and they see an error message
-hidefromtoc: yes
 feature: People Teams and Groups
 exl-id: 5862c4a3-e614-480d-bc30-4521def14164
 ---

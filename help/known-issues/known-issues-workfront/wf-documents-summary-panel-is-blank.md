@@ -1,7 +1,6 @@
 ---
 title: 'Documents: Summary panel is blank'
 description: When a user is viewing a Documents list and clicks on a document, the Summary panel opens, but remains blank. The user is unable to close the Summary panel.
-hidefromtoc: yes
 feature: Digital Content and Documents
 exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
 ---
