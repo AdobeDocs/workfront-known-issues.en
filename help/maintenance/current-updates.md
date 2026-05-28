@@ -6,9 +6,18 @@ feature: Get Started with Workfront
 ---
 # [!DNL Workfront] Maintenance Updates
 
+>[!NOTE]
+>
+>Updates to this page are temporarily paused as we put a new process in place for managing its content. 
+
+
+
+<!--
 >[!NOTE] 
 >
 >For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/).
+
+-->
 
 This page describes the issues fixed in the weekly Workfront updates.
 
