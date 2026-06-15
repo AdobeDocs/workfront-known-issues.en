@@ -111,7 +111,6 @@ role: User
         + {hide-from-toc} [Priorities: Groupings prevent sorting and inline editing](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
         + {hide-from-toc} [Reports: Unable to scroll to see entire chart report](known-issues-workfront/wf-reports-unable-to-scroll.md)
         + {hide-from-toc} [Groups: Deleted group status reappears](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-        + {hide-from-toc} [Documents: Proof comments not displayed on document updates](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
         + {hide-from-toc} [Home: "No access" displays as project name](known-issues-workfront/wf-home-no-access-project-name.md)
         + {hide-from-toc} [Home: Home crashes with "Out of memory" error](known-issues-workfront/wf-home-crashes-with-error.md)
         + {hide-from-toc} [Workfront: Multiple browser tabs cause Workfront to log out](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
