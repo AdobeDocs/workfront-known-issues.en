@@ -4,6 +4,7 @@ description: Reported known issues for new [!DNL Adobe Workfront] Experience
 keywords: new file, add file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
+recommendations: noDisplay, noCatalog
 ---
 # Known Issues in [!DNL Adobe Workfront]
 

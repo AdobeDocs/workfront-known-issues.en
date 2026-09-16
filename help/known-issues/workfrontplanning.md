@@ -4,6 +4,7 @@ description: Reported known issues for [!DNL Adobe Workfront Planning]
 keywords: new file, add file
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
+recommendations: noDisplay, noCatalog
 ---
 # Known Issues in [!DNL Adobe Workfront Planning]
 
