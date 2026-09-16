@@ -3,6 +3,7 @@ title: Workfront Maintenance Updates
 description: Maintenance Updates for [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
+recommendations: noDisplay, noCatalog
 ---
 # [!DNL Workfront] Maintenance Updates
 

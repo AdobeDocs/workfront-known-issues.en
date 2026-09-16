@@ -4,6 +4,7 @@ description: Reported known issues for [!DNL Adobe Workfront Proof]
 keywords: new file, add file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
+recommendations: noDisplay, noCatalog
 ---
 # Known Issues in [!DNL Adobe Workfront Proof]
 
