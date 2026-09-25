@@ -3,6 +3,12 @@ title: 'Workfront: Objects out of sync between Workfront and Snowflake'
 description: 'Objects within Workfront may become out of sync with Snowflake. This means the count of objects may be different between Workfront and Snowflake, and that queries to Snowflake may not return the same objects as a search or report in Workfront. '
 feature: People Teams and Groups
 exl-id: c22a857a-69a1-46bf-b077-a171deb19a24
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
 ---
 # Workfront: Objects out of sync between Workfront and Snowflake
 

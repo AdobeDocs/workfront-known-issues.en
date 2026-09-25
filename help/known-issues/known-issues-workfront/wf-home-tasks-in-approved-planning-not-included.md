@@ -3,6 +3,15 @@ title: 'Home: Tasks in projects with Approved or Planning status are not include
 description: Tasks from projects that have the status Approved or Planning are not displayed in Home. A workaround is available.
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Home: Tasks in projects with Approved or Planning status are not included in My Tasks or Home Work List
 

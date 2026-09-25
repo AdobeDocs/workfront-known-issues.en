@@ -3,6 +3,15 @@ title: 'Setup: Cannot use [!UICONTROL Kick-Starts] to set up groupings'
 description: When a user attempts to [!UICONTROL Kick-Start] a grouping, the import is unsuccessful, and the user sees an error message.
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Setup: Cannot use [!UICONTROL Kick-Starts] to set up groupings
 

@@ -1,8 +1,17 @@
 ---
-title: 'Issues when deleting group status'
+title: Issues when deleting group status
 description: After deleting a group's status, despite the group no longer displaying the status and the removal time appearing in the group's Updates, it eventually reappears without being modified by a user.
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Groups: Issues when deleting group status
 

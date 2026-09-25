@@ -3,6 +3,18 @@ title: 'Proofs: Closing proof redirects to documents list'
 description: When a user is viewing a proof and clicks the X icon to close it, the user is redirected to the documents list instead of the document details.
 feature: Digital Content and Documents
 exl-id: 53c2c273-0677-4b31-8e19-6688505a085e
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Proofs: Closing proof redirects to documents list
 

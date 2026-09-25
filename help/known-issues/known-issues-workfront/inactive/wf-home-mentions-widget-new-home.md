@@ -3,6 +3,15 @@ title: 'Home: Mentions widget in new Home is not limited to messages where user 
 description: When a user views the Mentions widget in the new Home experience, they see comments that they are not tagged or mentioned in.
 feature: Get Started with Workfront
 exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!UICONTROL Home]: "[!UICONTROL Mentions]" widget in new [!UICONTROL Home] is not limited to messages where user is tagged
 

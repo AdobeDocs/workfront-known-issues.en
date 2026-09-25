@@ -1,8 +1,17 @@
 ---
 title: 'Workfront: Branding is Not Available'
-description: Branding is not available to organizations that have been migrated to the Adobe Admin Console, Adobe Unified Shell, or Adobe IMS (Identity Management System). 
+description: Branding is not available to organizations that have been migrated to the Adobe Admin Console, Adobe Unified Shell, or Adobe IMS (Identity Management System).
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL Workfront]: Branding is not available
 
