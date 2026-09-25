@@ -4,6 +4,15 @@ description: Maintenance Updates for [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
 recommendations: noDisplay, noCatalog
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL Workfront] Maintenance Updates
 

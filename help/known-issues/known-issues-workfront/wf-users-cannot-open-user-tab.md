@@ -3,6 +3,15 @@ title: 'Users: Error when opening Users page'
 description: When a user attempts to open the Users page from the Main Menu, the page does not open, and the user sees an error message.
 feature: People Teams and Groups
 exl-id: 6efb4f4c-f096-49c3-ae89-62d5ee3f9aaa
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Users: Error when opening Users page
 
